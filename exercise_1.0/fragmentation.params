@@ -1,0 +1,6 @@
+FRG-StructuresFile=structures_from_COD.cif
+FRG-CuttingRulesFile=cutting_rules
+FRG-RetainSMARTS=[Ru]
+FRG-RejectSMARTS=[#6]~[Ru]~[#6]
+FRG-IsomorphicSampleSize=20
+FRG-ClusterizeAndCollect=centroids

@@ -1,8 +1,8 @@
-# Exercise 1.0: Fragments, Vertices, and Graphs
+# Tutorial 1.0: Molecular Fragments
 The fundamental concept in DENOPTIM's world is that chemical objects, such as molecules and materials, are made of building blocks that can be attached to form a **Graph**-like structure. Building blocks are, therefore, called **Vertices** or **Nodes** of the graph that defines a chemical object. The most intuitive type of building block or vertex is a **molecular fragment**. Molecular fragments can contain one or more atoms, bonds, and, as well as any other vertex, are decorated with **attachment points**. The latter collect the information defining how a fragment can be used to build molecules by attaching fragments to each other.
 
 ---
-## Molecular Fragments
+## Visualize Molecular Fragments
 
 1. Open [DENOPTIM's GUI](../gui.md) and choose `File` -> `Open` then navigate to open the file `exercise_1.0/fragments-1.sdf` from the unzipped downloaded dataset. The same file can be opened directly in the command line by issuing the following command from within the folder created when unzipping the downloaded dataset:
 	```
@@ -55,17 +55,79 @@ The fundamental concept in DENOPTIM's world is that chemical objects, such as mo
 	**Figure 5**: Selection of an atom to be converted into an attachment point by clicking on the button identified by the red arrow.
 
 ---
-## High-Throughput Fragmentation
-Fragmentation of many structures is more efficiently performed by running DENOPTIM's fragmenter from the command line. Moreover, the fragmenter offers additional possibilities:
+## Running the Fragmenter
+Fragmentation of many structures is more efficiently performed by running DENOPTIM's Fragmenter from the command line. Moreover, the Fragmenter offers additional possibilities:
 * apply filtering criteria to the structures to be fragmented,
 * remove duplicate fragments,
 * apply filtering criteria on generated fragments,
 * identify the most representative conformations of a molecular fragment.
 
+This tutorial will take structures from the [Crystallography Open Database](http://www.crystallography.net/cod/result.php) and chop them to generate and organise fragment automatically. In general, the source of the geometries can be any crystallography database, or any database of computed structures.
+In this specific example, out goal is to collect fragments of chelated Ru-alkilydene complexes, which might be used to design Ru catalyst for [olefin metathesis](https://en.wikipedia.org/wiki/Olefin_metathesis).
+
+1. Collect the structures from which to generate fragments. For this exercise the structures are already collected in file `exercise_1.0/structures_from_COD.cif` from the [downloaded dataset](header-dataset).
+
+	The structures used here can be obtained from the [Crystallography Open Database](http://www.crystallography.net/cod/index.php):  [4064102](http://www.crystallography.net/cod/4064102.html), [4064965](http://www.crystallography.net/cod/4064965.html), [4064964](http://www.crystallography.net/cod/4064964.html), [4064967](http://www.crystallography.net/cod/4064967.html), [4068123](http://www.crystallography.net/cod/4068123.html), [4068964](http://www.crystallography.net/cod/4068964.html), [4068965](http://www.crystallography.net/cod/4068965.html), [4068966](http://www.crystallography.net/cod/4068966.html), [4075179](http://www.crystallography.net/cod/4075179.html), [4075180](http://www.crystallography.net/cod/4075180.html), [4110988](http://www.crystallography.net/cod/4110988.html), [1504708](http://www.crystallography.net/cod/1504708.html), [1504709](http://www.crystallography.net/cod/1504709.html), and [4064690](http://www.crystallography.net/cod/4064690.html).
+
+2. The settings of the Framenter are collected in an input file prepared according to the [user manual](https://htmlpreview.github.io/?https://github.com/denoptim-project/DENOPTIM/blob/master/doc/user_manual.html#Toc2222_1). An example of such file is available as `exercise_1.0/fragmentation.params`. The content is the following:
+	```text
+	FRG-StructuresFile=structures_from_COD.cif
+	FRG-CuttingRulesFile=cutting_rules
+	FRG-RetainSMARTS=[Ru]
+	FRG-RejectSMARTS=[#6]~[Ru]~[#6]
+	FRG-IsomorphicSampleSize=20
+	FRG-ClusterizeAndCollect=centroids
+	```
+	In this specific case, we ask the Fragmenter to chop the structures found in file `structures_from_COD.cif` using the cutting rules available in file `cutting_rules`. In addition, we ask to keep only fragments that contains at least one ruthenium atom (line 3 in the example above) while not containing any chain of atoms matching the carbon-(any bond)-ruthenium-(any bond)-carbon patterns (line 4 in the example above). These constrains reflect the desire to collect only Ru-containing fragments that do not contain partially fragmented systems, which would contain more than one organometallic bond to Ru.
+	Line 5 and 6 control the identification of the most representative fragments. Namely, fragments are to be collected in samples of isomorphic fragments (i.e., fragments with the same graph structure of atoms and attachment points, but not necessarily the same geometry. Effectively, isomorphic fragments have the same constitution of atoms and attachment points, but potentially different stereochemistry) counting up to 20 fragments (line 5). For each such sample of isomorphic fragments, the Fragmenter will then run a clustering analysis based on the RMSD of atomic positions upon frozen-geometry superposition to discriminate isomorphic fragments with different geometry and will return the centroid of each such cluster as the most representative fragment of the cluster (line 6).
+
+3. Run the fragmentation from within the `exercise_1.0` folder using this command:
+	```
+	denoptim -r FRG fragmentation.params
+	```
+
+4. A new folder will be created with name <code>FRG<i>YYYYMMDDHHMMSS</i></code> where <code><i>YYYYMMDDHHMMSS</i></code> is the time stamp. Log files tracking the workings of the process, and files collecting intermediate data are contained in this folder. In particular, the final collection of the most representative fragments, i.e., the centroid of each cluster of isomorphic fragments, is saved in file `FRGYYYYMMDDHHMMSS/Fragments.sdf`. It is convenient to open such file in the graphical user interface to inspect the results (**NB:** replace </i>YYYYMMDDHHMMSS</i> with the appropriate values):
+	```
+	denoptim FRGYYYYMMDDHHMMS/Fragments.sdf
+	```
+
+	Note that the fragment corresponding to the chelating *ortho*-alkoxybenzylidene (Figure 6) is the centroid of a cluster collecting a handful of isomorphic and geometrically similar fragments. This information can be found in the `ConformerExtractorTask-\*_IsomorphicFamily_\*.log` files. The centroid is calculated averaging all atomic positions, thus the noise due to small distortions in the geometries is attenuated.
+
+	![figures/fragment_view_alkoxybenzylidene.png](figures/fragment_view_alkoxybenzylidene.png)
+
+	**Figure 6**: Fragment obtained as the cluster centroid for *ortho*-alkoxybenzylidene-chelated ruthenium centers. The atom in magenta is a dummy atom added by DENOPTIM to facilitate the manipulation of linearities around the metal center.
+
+	Moreover, note that the isomorphic but geometrically diverse fragments in Figure 7 are collected separately as they belong to two different geometry clusters of the same sample of isomorphic fragments.
+
+	![figures/fragment_view_cit-trans.png](figures/fragment_view_cit-trans.png)
+
+	**Figure 7**: isomorphic but geometrycally different fragments, i.e., these fragments have the same constitution but different configuration at the Ru center: *trans* for the fragment on the left, *cis* for that on the right. The atom in magenta is a dummy atom added by DENOPTIM to facilitate the manipulation of linearities around the metal center.
 
 
 
-# Exercise 1.1: Building Transition Metal Complexes from Fragments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Exercise 1.2: Building Transition Metal Complexes from Fragments
 
 In this exercise we familiarise with the use of molecular fragments, attachment points, and connection rules. The goal is to build a small space of building blocks, also known as a "fragment space", from scratch.
 
@@ -88,7 +150,7 @@ In this exercise we familiarise with the use of molecular fragments, attachment 
 	- `CN`
 	- `c1(C)ccccc1N`
 	- `C1CCCCC1N`
-7. Save this small library of fragments to an SDF file, call it `my_library_of_fragments.sdf` under the `exercise_1.1` folder.
+7. Save this small library of fragments to an SDF file, call it `my_library_of_fragments.sdf` under the `exercise_1.2` folder.
 8. We now create the compatibility rules for assembling Pt complexes by combining molecular building blocks. In DENOPTIM, click `File`->`New`->`New Compatibility Matrix`
 9. `Import APClasses` by loading first the `Pt-CO_fragment.sdf` file and then the ´my_library_of_fragments.sdf´. In both cases, choose ´Scaffolds and Fragments´ when asked about the type of building block.
 10. Then `Add Compatibility Rule` between `Llig:0` and all the APClasses that represent the capability to coordinate a metal as a L-ligand, namely `MPy:1`, `MPhosphine:1`, and `MImidazolylidene:1`. Hold the `command`/`CTRL` key to select multiple entries. Note that the two lists refers to different role of the attachment point: *growing graph*, and *incoming fragment*.
@@ -96,7 +158,7 @@ In this exercise we familiarise with the use of molecular fragments, attachment 
 12. Add the compatibility rule between `ImidazolylideneSubN:0` and `ImidazolylideneSubN:1`
 13. We now define the rules to saturate open valences. Import the APClasses from `H_and_Me.sdf`, move to the `Capping Rules` tab, and `Add Capping Rule` to `ImidazolylideneSubN:0` with `hyd:1`
 14. Last, we define what attachment points cannot stay unused, but have no capping group. Move to the `Forbidden Ends` tab and `Add Forbidden End Rule` to `Llig:0`  and `Xlig:0`.
-15. Save the compatibility matrix as `my_compatibility_matrix.par` under the `exercise_1.1` folder.
+15. Save the compatibility matrix as `my_compatibility_matrix.par` under the `exercise_1.2` folder.
 
 > **NOTE** Right-click on the molecular viewer to get the vast functionality offered by [Jmol](http://jmol.sourceforge.net/), including, for instance, see the `Select` -> `Invert Selection`. In particular, in the right-click menu you can chose `Console` to open Jmol's command line interface and use the `select` command. Here are some common examples of use:
 > - `select _N`: selects all nitrogen atoms.
@@ -128,7 +190,7 @@ Here we will briefly use the fragment space to generate all the Pt complexes tha
 - Reflect over strategies to design fragment spaces for exploring properties of a central transition metal (e.g., the effective electron density on the metal) vs exploring inter-molecular interaction properties (e.g., interaction of the transition metal complex with the surrounding environment, like with solvent and surfaces).
 
 ## Go Beyond Classical Chemistry
-DENOPTIM can handle any arrangement of atoms and pseudo-atoms. Have  look in the `exercise_1.1/examples_with_Du` for examples where dummy atoms are used to represent multi-hapto metal-ligand bonding.
+DENOPTIM can handle any arrangement of atoms and pseudo-atoms. Have  look in the `exercise_1.2/examples_with_Du` for examples where dummy atoms are used to represent multi-hapto metal-ligand bonding.
 
 Although you can open these file via the GUI, we use this opportunity to use the command line interface for opening files with DENOPTIM. Try:
 ```
