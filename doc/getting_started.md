@@ -158,9 +158,9 @@ Once activated, try the following command:
 denoptim -v
 ```
 
-You should see an output like this and not see errors (exact version numbers are not too important):
+You should see an output like this and not see errors (exact version numbers are not too important, here):
 ```
-V3.1.0
+V3.2.0
 ```
 
 
@@ -174,3 +174,4 @@ conda deactivate
 (header-dataset)=
 ## Step 4: Download Datasets
 Download all the data [from this link](https://github.com/denoptim-project/workshop-May2022/archive/refs/tags/v1.2.0.zip).
+Remember to unzip/extract the zip archive before moving ahead.
