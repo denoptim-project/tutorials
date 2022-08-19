@@ -1,0 +1,31 @@
+# Genetic Algorithm - parameters
+GA-PrecisionLevel=5
+GA-Verbosity=0
+GA-PopulationSize=20
+GA-NumChildren=5
+GA-NumGenerations=50
+GA-NumConvGen=10
+GA-LevelGrowthProbScheme=EXP_DIFF
+GA-LevelGrowthMultiplier=1.0
+GA-CrowdProbScheme=UNRESTRICTED
+GA-XOverSelectionMode=TS
+GA-CrossoverWeight=1.0
+GA-MutationWeight=1.0
+GA-ConstructionWeight=1.0
+GA-ReplacementStrategy=ELITIST
+GA-NumParallelTasks=4
+GA-Parallelization=Synchronous
+# Building Blocks Space - parameters
+FS-ScaffoldLibFile=lib_scaffolds_my_template.sdf
+FS-FragmentLibFile=lib_fragments.sdf
+FS-CappingFragmentLibFile=lib_capping-groups.sdf
+FS-CompMatrixFile=compatibility_matrix.par
+FS-MaxMW=3000
+FS-EnforceSymmetry
+RC-CloseRings
+RC-EvaluationClosabilityMode=Ring_size
+
+# Fitness Provider - parameters
+FP-Interpreter=python
+FP-Source=fitness_provider_fromDB.py
+FP-CheckUidBeforeFitness=yes

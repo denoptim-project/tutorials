@@ -1,0 +1,49 @@
+# Parameters controlling the genetic algorithm
+GA-InitPoplnFile=initPopulation.sdf
+GA-populationSize=20
+GA-numChildren=5
+GA-numParallelTasks=4
+GA-numGenerations=100
+GA-numConvGen=10
+GA-replacementStrategy=elitist
+GA-XOverSelectionMode=TS
+GA-crossoverWeight=0
+GA-mutationWeight=0
+GA-ConstructionWeight=1
+GA-symmetryProbability=0.0
+GA-LevelGrowthProbScheme=sigma
+GA-LevelGrowthSigmaSteepness=3.0
+GA-LevelGrowthSigmaMiddle=2.5
+GA-PrecisionLevel=5
+
+# Definition of the Fragment Space 
+FS-scaffoldLibFile=lib_scaffolds.sdf
+FS-fragmentLibFile=lib_fragments.sdf
+FS-cappingFragmentLibFile=lib_capping-groups.sdf
+FS-compMatrixFile=compatibility_matrix.par
+FS-ConstrainSymmetry=LBisAminoPhosphineN:0 1.0
+FS-ConstrainSymmetry=LTrisAminoPhosphineN:0 1.0
+FS-ConstrainSymmetry=LMonoAminoPhosphineSubR:0 1.0
+FS-ConstrainSymmetry=LCycloBisAminoPhosphineSubN:0 1.0
+FS-ConstrainSymmetry=LCycloBisAminoPhospholeSubN:0 1.0
+FS-ConstrainSymmetry=AminoPhosphineSubN:0 1.0
+FS-ConstrainSymmetry=L6HPyrimidinylideneSubN:0 1.0
+FS-ConstrainSymmetry=LPyrrolidinylideneSubCAlpha:0 1.0
+FS-ConstrainSymmetry=LIsoindolylideneSubCS:0 1.0
+FS-ConstrainSymmetry=LImidazolidinylideneSubNL:0 1.0
+FS-ConstrainSymmetry=LImidazolidinylideneSubCS:0 1.0
+FS-ConstrainSymmetry=LImidazolidinylideneSubCL:0 1.0
+FS-ConstrainSymmetry=LImidazolylideneSubNL:0 1.0
+FS-ConstrainSymmetry=LImidazolylideneSubCS:0 1.0
+FS-ConstrainSymmetry=LPhosphineSubMSym:0 1.0
+FS-ConstrainSymmetry=LPhosphiteSubO:0 1.0
+FS-ConstrainSymmetry=LPhosphoniteSubO:0 1.0
+FS-ConstrainSymmetry=LPhosphiniteSubR:0 1.0
+FS-ConstrainSymmetry=LPhospholeSubAlpha:0 1.0
+FS-ConstrainSymmetry=LPhospholeSubBeta:0 1.0
+FS-MaxMW=3000
+
+# Fitness provider
+FP-Interpreter=python
+FP-Source=fitness_provider_fromDB.py
+FP-CheckUidBeforeFitness=yes

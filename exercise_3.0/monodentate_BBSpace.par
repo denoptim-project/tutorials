@@ -1,0 +1,8 @@
+FS-ScaffoldLibFile=lib_scaffolds.sdf
+FS-FragmentLibFile=lib_fragments.sdf
+FS-CappingFragmentLibFile=lib_capping-groups.sdf
+FS-CompMatrixFile=compatibility_matrix.par
+FS-MaxMW=3000
+FS-EnforceSymmetry
+RC-CloseRings
+RC-EvaluationClosabilityMode=Ring_size
