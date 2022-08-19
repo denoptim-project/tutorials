@@ -1,30 +1,36 @@
-# Installation
-The goal of the present instructions is to prepare your machine for the hand-on exercises of the workshop. To this end, we will:
-* ensure you have **conda** on your system, or install it,
-* create an environment for running **DENOPTIM**,
-* download data sets needed for the exercises.
+# Getting Started
+To get started with the DENOPTIM tutorials follow this procedure:
+* get just a little bit of knowledge of the command line ([Step 1](header-cli))),
+* install **conda** on your system ([Step 2](header-conda)),
+* create an environment for running **DENOPTIM** ([Step 3](header-dnp_env) - this is where you install DENOPTIM),
+* download data sets needed for the exercises ([Step 4](header-dataset)).
 
-Since **conda** is extremely popular in data sciences, chances are you already have it installed and know how to use it. In this case, you can jump directly to the section Create DENOPTIM Environment, below.
-
-The instructions are inspired by and derived from work by [Software Carpentry](http://software-carpentry.org) and [CodeRefinery](https://coderefinery.org/) which is licensed under the terms of the [Creative Commons Attribution license 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
-
-## Command line
-On **macOS/Linux** you can use the default Terminal and skip this section.
-
-On **Windows** you can [Git for Windows installer](https://gitforwindows.org/) following the steps in the
+---
+(header-cli)=
+## Step 1: Get a Command line
+Some very simple commands are used in these tutorials. Here is a good introduction to [learn the basics](https://swcarpentry.github.io/shell-novice/) (Chapters 1-3 are well more than enough).
+For the tutorial, you can use any command line interface of your choice:
+* On **macOS/Linux** you can use the default Terminal and skip this section.
+* On **Windows** you can use [Git for Windows installer](https://gitforwindows.org/) following the steps in the
   [Carpentries video tutorial](https://www.youtube-nocookie.com/embed/339AEqk9c-8?modestbranding=1&playsinline=1&iv_load_policy=3&rel=0).
 
+---
+(header-conda)=
+## Step 2: Install Conda
+Since **conda** is extremely popular in data sciences, chances are you already have it installed and know how to use it. In this case, you can jump directly to the [section Create DENOPTIM Environment](header-dnp_env), below.
 
-## Install Conda
+The instructions are inspired by and derived from work by [Software Carpentry](http://software-carpentry.org) and [CodeRefinery](https://coderefinery.org/) which is licensed under the terms of the [Creative Commons Attribution license 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Miniconda (and Anaconda, too) comes with a complete Python distribution that lets
 you create isolated **environments** that don't affect anything else.
 **conda** is the tool that manages these environments.
 
 ### Do I Have Conda?
-On **macOS/Linux**, open a Terminal and run the following command. On **Windows**, open the Anaconda prompt from the Windows search bar (if Anaconda Prompt is not found, then install Miniconda as shown below): 
+On **macOS/Linux**, open a Terminal and run the following command. On **Windows**, open the Anaconda prompt from the Windows search bar (if Anaconda Prompt is not found, then install Miniconda as shown below):
 
-```conda list```
+```
+conda list
+```
 
 If you have conda installed, a list of packages will be printed and you can skip the installation and go to the upgrade section.
 
@@ -52,7 +58,7 @@ If you have conda installed, a list of packages will be printed and you can skip
     - [Linux](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/linux.html#updating-anaconda-or-miniconda)
 
 
-### Setting path to Conda from your terminal shell 
+### Setting path to Conda from your terminal shell
 
 This step is usually not needed, but if after the installation you still get an error message like `conda command not found` whey you type `conda --version` in your shell terminal.
 
@@ -114,8 +120,9 @@ If you wish to remove Conda again after the workshop, here is how:
 - [macOS](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/macos.html#uninstalling-anaconda-or-miniconda)
 - [Linux](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/linux.html#uninstalling-anaconda-or-miniconda)
 
-
-## Create DENOPTIM Environment
+---
+(header-dnp_env)=
+## Step 3: Create DENOPTIM Environment
 
 We now ask **conda** to create a dedicated environment for the workshop. The environment required **DENOPTIM** do **conda** will install is and make it available within such environment.
 1. Open a new terminal (macOS/Linux) or a new GitBash (Windows) after having completed the installation of **conda**.
@@ -163,6 +170,7 @@ Deactivating will remove the `denoptim` command, so it is an operation meant for
 conda deactivate
 ```
 
-# Download Datasets
-Download all the data needed to run the exercises from [here](https://github.com/denoptim-project/workshop-May2022/archive/refs/tags/v1.2.0.zip).
-
+---
+(header-dataset)=
+## Step 4: Download Datasets
+Download all the data [from this link](https://github.com/denoptim-project/workshop-May2022/archive/refs/tags/v1.2.0.zip).

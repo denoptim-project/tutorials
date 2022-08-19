@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'DENOPTIM Workshop 2022'
+project = 'DENOPTIM Tutorials'
 copyright = '2022, Marco Foscato'
 author = 'Marco Foscato'
 

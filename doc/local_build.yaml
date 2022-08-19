@@ -1,0 +1,8 @@
+name: devel_dnp_tutorials
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - sphinx
+  - sphinx_rtd_theme
+  - myst-parser
