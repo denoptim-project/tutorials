@@ -1,3 +1,4 @@
+(header-tutorial-fragments)=
 # Tutorial 1.0: Molecular Fragments
 The fundamental concept in DENOPTIM's world is that chemical objects, such as molecules and materials, are made of building blocks that can be attached to form a **Graph**-like structure. Building blocks are, therefore, called **Vertices** or **Nodes** of the graph that defines a chemical object. The most intuitive type of building block or vertex is a **molecular fragment**. Molecular fragments can contain one or more atoms, bonds, and, as well as any other vertex, are decorated with **attachment points**. The latter collect the information defining how a fragment can be used to build molecules by attaching fragments to each other.
 
