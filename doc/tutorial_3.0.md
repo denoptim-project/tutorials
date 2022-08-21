@@ -1,9 +1,9 @@
-# Exercise 3.0: Evolutionary Design of &kappa;<sup>3</sup>-Chelator for Pt(CO)
+# Tutorial 3.0: Evolutionary Design of &kappa;<sup>3</sup>-Chelator for Pt(CO)
 
 ## Introduction
 Multidentate ligands play a critical role in transition-metal chemistry. Therefore, this exercise is dedicated to the design of rings that involve a metal center and a tuneable organic ligand.
 
-Like in the [previous exercise](exercise_2.0.md) we set as chemical goal the elongation of the CO bond on Pt(II) complexes. This time, however, we explore  tridentate ligands that adhere to the previous [X, L, X] pattern, namely, so that the L site is *trans* to the carbonyl ligand and the two X sites are both *cis* to CO and *trans* to each other.
+Like in the [previous exercise](tutorial_2.0.md) we set as chemical goal the elongation of the CO bond on Pt(II) complexes. This time, however, we explore  tridentate ligands that adhere to the previous [X, L, X] pattern, namely, so that the L site is *trans* to the carbonyl ligand and the two X sites are both *cis* to CO and *trans* to each other.
 
 To define such constrain, while allowing DENOPTIM to change the components forming the ring, we make use of a special type of vertex called **Template**. Templates are vertices that can embed graphs and can define constraints on such embedded graphs. Also, while the embedded graph may be editable, the Template appears as a single vertex, when seen from the outside.
 
@@ -28,15 +28,15 @@ To create the Template vertex for our tridentate skeleton, we build the graph th
 
   **Figure 2**: Structure of the graph to be embedded in the template vertex.
 
-1. Start DENOPTIM from within the `exercise_3.0` folder. This is done from the Terminal (macOS/Linux) or the Anaconda prompt (Windows):
+1. Start DENOPTIM from within the `tutorial_3.0` folder. This is done from the Terminal (macOS/Linux) or the Anaconda prompt (Windows):
   ```
-  cd your_path_to_exercise_3.0
+  cd your_path_to_tutorial_3.0
   denoptim
   ```
 
 2. Choose the shortcut to `Make Graphs` or `File`->`New`->`New Graphs` to open the graph editor.
 
-3. Since we are going to build a graph that is meant for a specific space of building blocks, we load such space to make the building blocks available. Click on the `Load BBSpace` button on the right-hand part of the editor. Choose `Use parameters from an existing file` and browse to load file `monodentate_BBSpace.par`, which is contained in the `exercise_3.0` folder. Once the parameters imported from the file are displayed, click on `Create BB Space`.
+3. Since we are going to build a graph that is meant for a specific space of building blocks, we load such space to make the building blocks available. Click on the `Load BBSpace` button on the right-hand part of the editor. Choose `Use parameters from an existing file` and browse to load file `monodentate_BBSpace.par`, which is contained in the `tutorial_3.0` folder. Once the parameters imported from the file are displayed, click on `Create BB Space`.
 
 4. Start the construction of a new graph by clicking on `Add` button on the top-right. Chose to `Build` a graph starting from a building block of type `Scaffold`. There is only one such vertex, and is the Pt-CO fragment we have already used in the previous exercise. Select that vertex to use it as the seed of our graph.
 
@@ -80,7 +80,7 @@ To create the Template vertex for our tridentate skeleton, we build the graph th
 
 14. The graph is now complete. Drag-click to select all vertexes, right-click and choose `Show APClasses`. Verify the result by comparison with Figure 2. Click on `Save changes` and look at eh content on the molecular representation in the bottom-left part of the screen. The system contains only the atoms from the Pt-CO fragment and the dummy atoms coming from the RCVs.
 
-15. So far, the graph is special only in the fact that it contains empty vertexes. More importantly, it is not yet embedded in a template. To enclose the graph in a template, click on `Save Library of Templates` and choose *Contract:*`FIXED_STRUCT` and *Type*: `SCAFFOLD`. Save as `lib_scaffolds_my_template.sdf` under the `exercise_3.0` folder.
+15. So far, the graph is special only in the fact that it contains empty vertexes. More importantly, it is not yet embedded in a template. To enclose the graph in a template, click on `Save Library of Templates` and choose *Contract:*`FIXED_STRUCT` and *Type*: `SCAFFOLD`. Save as `lib_scaffolds_my_template.sdf` under the `tutorial_3.0` folder.
 
 ### Evolutionary Design with Templates
 We are now going to use the template vertex we have just created to design our symmetric chelates for Pt-CO complexes.

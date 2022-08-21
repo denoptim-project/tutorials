@@ -1,4 +1,4 @@
-# Exercise 2.0: Evolutionary Design of *trans*-Pt(X)(X')(L)(CO)
+# Tutorial 2.0: Evolutionary Design of *trans*-Pt(X)(X')(L)(CO)
 
 ## Introduction
 In this exercise we play with the genetic algorithm while designing Pt compounds. To allow a chemical interpretation of the results, we define a chemical design goal: identify a set of ligands [X, X', L], where each X is a covalent ligand and L is a neutral donor (dative) ligand, that weaken the C&equiv;O bond of the carbonyl ligand in the square planar complex *trans*-Pt(X)(X')(L)(CO).

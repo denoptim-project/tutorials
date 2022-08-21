@@ -10,9 +10,9 @@ DENOPTIM Tutorials
 
    getting_started.md
    gui.md
-   exercise_1.0.md
-   exercise_1.1.md
-   exercise_1.2.md
-   exercise_2.md
-   exercise_3.md
+   tutorial_1.0.md
+   tutorial_1.1.md
+   tutorial_1.2.md
+   tutorial_2.0.md
+   tutorial_3.0.md
 
