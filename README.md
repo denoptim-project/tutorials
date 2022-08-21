@@ -1,11 +1,11 @@
 # Tutorials with DENOPTIM
 
 This repository collects data sets for hands-on exercises to get started with DENOPTIM.
-To just do the tutorials go to [TODO:ADD_LINK]().
+To just do the tutorials go to [https://denoptim-project.github.io/tutorials](https://denoptim-project.github.io/tutorials).
 
 
 ## Local Builds
-Local builds are useful to develop new pages. If you are just interested in doing the tutorials, please ignore this page and go to [TODO:ADD_LINK]().
+Local builds are useful to develop new pages. If you are just interested in doing the tutorials, please ignore this page and go to [https://denoptim-project.github.io/tutorials](https://denoptim-project.github.io/tutorials).
 
 ### Environment
 The compiled version of the tutorials is build with sphinx. To run sphinx you need also to load an environment with all the dependencies. You can use Conda to create such environment with this command:
