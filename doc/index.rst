@@ -9,6 +9,7 @@ DENOPTIM Tutorials
    :caption: Contents:
 
    getting_started.md
+   gui.md
    exercise_1.0.md
    exercise_1.1.md
    exercise_1.2.md

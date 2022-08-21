@@ -4,7 +4,7 @@ The fundamental concept in DENOPTIM's world is that chemical objects, such as mo
 ---
 ## Visualize a DENOPTIM Graph
 
-1. Open [DENOPTIM's GUI](../gui.md) and choose `File` -> `Open` then navigate to open the file `exercise_1.1/_____` from the unzipped [downloaded dataset](header-dataset). In alternative, open the file via
+1. Open [DENOPTIM's GUI](header-gui) and choose `File` -> `Open` then navigate to open the file `exercise_1.1/_____` from the unzipped [downloaded dataset](header-dataset). In alternative, open the file via
 	```
 	denoptim exercise_1.1/____
 	```
@@ -13,5 +13,3 @@ The fundamental concept in DENOPTIM's world is that chemical objects, such as mo
 	![figures/__](figures/__)
 
 	**Figure 1**: The graph representation of any chemical object in DENOPTIM. The viewer allow to inspect the content of each vertex in the graph.
-
-	

@@ -4,7 +4,7 @@ The fundamental concept in DENOPTIM's world is that chemical objects, such as mo
 ---
 ## Visualize Molecular Fragments
 
-1. Open [DENOPTIM's GUI](../gui.md) and choose `File` -> `Open` then navigate to open the file `exercise_1.0/fragments-1.sdf` from the unzipped [downloaded dataset](header-dataset). The same file can be opened directly in the command line by issuing the following command from within the folder created when unzipping the downloaded dataset:
+1. Open [DENOPTIM's GUI](header-gui) and choose `File` -> `Open` then navigate to open the file `exercise_1.0/fragments-1.sdf` from the unzipped [downloaded dataset](header-dataset). The same file can be opened directly in the command line by issuing the following command from within the folder created when unzipping the downloaded dataset:
 	```
 	denoptim exercise_1.0/fragments-1.sdf
 	```
