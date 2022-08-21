@@ -13,3 +13,7 @@ The fundamental concept in DENOPTIM's world is that chemical objects, such as mo
 	![figures/__](figures/__)
 
 	**Figure 1**: The graph representation of any chemical object in DENOPTIM. The viewer allow to inspect the content of each vertex in the graph.
+
+
+<div style="background-color: #ffdddd; border-left: 6px solid #ffdddd; margin-bottom: 15px; padding: 4px 12px;"> <b>Work In Progress!</b> This page is not yet finished...
+</div>
