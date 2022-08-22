@@ -129,25 +129,25 @@ We now ask **conda** to create a dedicated environment for the workshop. The env
 2. If you have not done so during the installation of Miniconda (see above), activate `conda` in Miniconda first using `conda activate` or `source ~/miniconda3/bin/activate`. If neither works, please go back to the installation section. You probably need to restart your shell terminal. Then try `conda activate` or `source ~/miniconda3/bin/activate` again.
 3. Run the following command:
 ```
-conda env create -f  https://raw.githubusercontent.com/denoptim-project/workshop-May2022/main/environment.yml
+conda env create -f  https://raw.githubusercontent.com/denoptim-project/tutorials/main/environment.yml
 ```
-4. Make sure that you see "dnp_workshop" in the output when you ask for a list of all available environments:
+4. Make sure that you see "dnp_work" in the output when you ask for a list of all available environments:
 ```
 conda env list
 ```
 
-### Activating the `dnp_workshop` environment
+### Activating the `dnp_work` environment
 
 In the workshop, we will ask you to activate this environment. This operation must be done every time you have a new session on the terminal. For example, when you open a new terminal.
 
 Then run the following:
 ```
-conda activate dnp_workshop
+conda activate dnp_work
 ```
 
-If this does not work, the `dnp_workshop` part should be replaced with the whole path, for example:
+If this does not work, the `dnp_work` part should be replaced with the whole path, for example:
 ```
-source activate ~/Miniconda3/envs/dnp_workshop
+source activate ~/Miniconda3/envs/dnp_work
 ```
 
 
@@ -164,11 +164,14 @@ V3.2.0
 ```
 
 
-### Deactivating the `dnp_workshop` environment
+### Deactivating the `dnp_work` environment
 Deactivating will remove the `denoptim` command, so it is an operation meant for when you are done working with the software. After deactivating, you can always re-activate the environment again.
 ```
 conda deactivate
 ```
+
+<div style="background-color: #ffffcc; border-left: 6px solid #ffeb3b; margin-bottom: 15px; padding: 4px 12px;"><b>Warning!</b> we assume that any command line interface used in this tutorial has the <code>dnp_work</code> environment active.</div>
+
 
 ---
 (header-dataset)=
