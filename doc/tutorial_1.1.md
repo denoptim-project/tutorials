@@ -2,6 +2,7 @@
 DENOPTIM uses graphs to represent items such as chemical objects. Graphs collections of vertices that represent the building blocks of the graph, and edges that represent the relation between the building blocks. The [previous tutorial](header-tutorial-fragments) has already presented the most intuitive type of building block for molecular design, i.e., the molecular fragments. Here, we'll see how these building blocks can be combined complete chemical objects.
 
 ---
+(header-look-at-graphs)=
 ## Visualize a DENOPTIM Graph
 
 Open [DENOPTIM's GUI](header-gui) and choose `File` -> `Open` then navigate to open the file `exercise_1.1/graph_for_Pt_complex.sdf` from the unzipped [downloaded dataset](header-dataset). In alternative, open the file with this command from the root folder of the downloaded dataset.
