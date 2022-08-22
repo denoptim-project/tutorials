@@ -23,6 +23,7 @@ The colour of the vertices in the DENOPTIM graph viewer encode information on th
 * light and brilliant green for any selected vertex. Vertices can be selected by clicking on them (thus triggering the generation of a molecular representation of the vertex content) or by drawing a selection rectangle with the mouse (thus selecting more than one vertex).
 * orange (not shown in Figure 1) for vertices used to form cyclic graphs (Ring-Closing Vertices, described [later](RCVs)).
 
+(header-build-graph)=
 ## Build a DENOPTIM Graph
 To build a graph that represents a chemical object like the one seen above, we need to give DENOPTIM two types of information:
 * what building blocks can be used, and
