@@ -38,10 +38,10 @@ In practice, to build graphs by hand in the GUI:
 	**Figure 2**: Graph viewer panel. The red arrow indicates the button to click to import a space of building blocks.
 
 3. In the resulting window, define the four components highlighted in Figure 3. Use the `Browse` button on the right-hand part of each component's line to navigate the file system and select the following files from the unzipped [downloaded dataset](header-dataset):
-	* `exercise_1.1/lib_scaffolds.sdf` as library of vertices with Scaffold role (1),
-	* `exercise_1.1/lib_fragments.sdf` as library of vertices with no specific role (2),
-	* `exercise_1.1/lib_capping-groups.sdf` as the library of vertices with role of Capping Group (3),
-	* `exercise_1.1/compatibility_matrix.par` as the file with the compatibility matrix (4). This files contains the rules that control how building blocks are put together.
+	* `exercise_1.1/lib_scaffolds.sdf` as library of vertices with Scaffold role,
+	* `exercise_1.1/lib_fragments.sdf` as library of vertices with no specific role,
+	* `exercise_1.1/lib_capping-groups.sdf` as the library of vertices with role of Capping Group,
+	* `exercise_1.1/compatibility_matrix.par` as the file with the compatibility matrix. This files contains the rules that control how building blocks are put together.
 	The rest of the parameters can be ignored in this tutorial.
 
 	![figures/graph_paramsBBSpace.png](figures/graph_paramsBBSpace.png)
@@ -79,5 +79,7 @@ In practice, to build graphs by hand in the GUI:
 10. Select another attachment point in the growing graph, and click on `Add Vertex from BB Space` to append more vertices according to your preference.
 
 11. At any point you can click on `Save Changes` to trigger the conversion of the graph into a molecular representation that is displayed in the lower part of the left-hand side of the graph viewer panel.
+
+12.
 
 <div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> This tutorial shown how to build a graph manually. The process is similar to what occurs during automated construction of graphs with the difference that any decision taken by the used in this manual procedure is taken by the computed according to a probabilities that can be controlled by input parameters.</div>
