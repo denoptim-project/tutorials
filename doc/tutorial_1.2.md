@@ -14,12 +14,12 @@ This tutorial is about creating a small space of building blocks from scratch.
 3. Using the button under *Import a structure from `File`*, load the structures from `tutorial_1.2/Pt_complexes-1.sdf` and `tutorial_1.2/Pt_complexes-1.sdf`.
 
 4. To generate building blocks, click on `Chop Structure` for each of the two Pt complexes. When asked, chose to keep only selected fragments (see Figure 1). Namely, keep only one fragment for each of these:
-- Iodine (X-ligand) with one attachment point,
+- Iodine atom (X-ligand) with one attachment point,
 - NO<sub>2</sub> (X-ligand) with one attachment point,
 - Pyridine (L-ligand) with one attachment point,
-- the Phosphorous atom (L-ligand) with four attachment points,
-- the phenyl with one attachment point (i.e., substituent on P),
-- the five-atom ring of imidazolylidene (a N-heterocyclic carbene, or NHC, fragment) with one attachment points (see figure 1).
+- Phosphorous atom (L-ligand) with four attachment points,
+- Phenyl group with one attachment point (i.e., substituent on P),
+- Five-atom ring of imidazolylidene (a N-heterocyclic carbene, or NHC, fragment) with one attachment points (see Figure 1).
 
 	![figures/fragSpace_select_vertices.png](figures/fragSpace_select_vertices.png)
 

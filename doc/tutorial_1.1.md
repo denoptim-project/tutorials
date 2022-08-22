@@ -1,13 +1,13 @@
 # Tutorial 1.1: Graph Representation
-DENOPTIM uses graphs to represent items such as chemical objects. Graphs collections of vertices that represent the building blocks of the graph, and edges that represent the relation between the building blocks. The [previous tutorial](header-tutorial-fragments) has already presented the most intuitive type of building block for molecular design, i.e., the molecular fragments. Here, we'll see how these building blocks can be combined complete chemical objects.
+DENOPTIM uses graphs to represent items such as chemical objects. Graphs are collections of vertices and edges. Vertices represent each one of the building blocks of the graph. Edges represent the relation between the building blocks. The [previous tutorial](header-tutorial-fragments) has already presented the most intuitive type of building block for molecular design, i.e., the molecular fragments. Here, we'll see how these building blocks can be combined to define complete chemical objects.
 
 ---
 (header-look-at-graphs)=
 ## Visualize a DENOPTIM Graph
 
-Open [DENOPTIM's GUI](header-gui) and choose `File` -> `Open` then navigate to open the file `exercise_1.1/graph_for_Pt_complex.sdf` from the unzipped [downloaded dataset](header-dataset). In alternative, open the file with this command from the root folder of the downloaded dataset.
+Open [DENOPTIM's GUI](header-gui) and choose `File` -> `Open` then navigate to open the file `tutorial_1.1/graph_for_Pt_complex.sdf` from the unzipped [downloaded dataset](header-dataset). In alternative, open the file with this command from the root folder of the downloaded dataset.
 ```
-denoptim exercise_1.1/graph_for_Pt_complex.sdf
+denoptim tutorial_1.1/graph_for_Pt_complex.sdf
 ```
 The graphical interface will open a window and display the graph representation contained in the file. The DENOPTIM graph representations do not have any dimensional structure (no 2D or 3D coordinates), though they can still represent 3D molecular models (see Figure 1, and note the different dimensionality between the right-hand, which depicts DENOPTIM's graph, and bottom-left panel, which depicts the corresponding molecular model). The vertices in the right-hand panel can be moved with the mouse or by right-click -> `Refine node location`.
 
@@ -21,7 +21,7 @@ The colour of the vertices in the DENOPTIM graph viewer encode information on th
 * blue vertices have no special role. These are standard building blocks.
 * red vertices have **Scaffold** role. Scaffolds have been declared to contain the single most critical component of the chemical entity (e.g., the metal center in a transition metal complex) and are, therefore, used as starting point when constructing new entities of a certain kind (e.g., Pt complexes).
 * green vertices are **Capping group**. These are vertices that by contract saturate open valences and open coordination sites. Capping groups are most often hydrogen atoms, but can be anything and in the loaded graph they are Ph groups.
-* light and brilliant green for any selected vertex. Vertices can be selected by clicking on them (thus triggering the generation of a molecular representation of the vertex content) or by drawing a selection rectangle with the mouse (thus selecting more than one vertex).
+* bright green is used to identify any selected vertex. Vertices can be selected by clicking on them (thus triggering the generation of a molecular representation of the vertex content) or by drawing a selection rectangle with the mouse (thus selecting more than one vertex).
 * orange (not shown in Figure 1) for vertices used to form cyclic graphs (Ring-Closing Vertices, described [later](RCVs)).
 
 (header-build-graph)=
@@ -40,17 +40,17 @@ In practice, to build graphs by hand in the GUI:
 	**Figure 2**: Graph viewer panel. The red arrow indicates the button to click to import a space of building blocks.
 
 3. In the resulting window, define the four components highlighted in Figure 3. Use the `Browse` button on the right-hand part of each component's line to navigate the file system and select the following files from the unzipped [downloaded dataset](header-dataset):
-	* `exercise_1.1/lib_scaffolds.sdf` as library of vertices with Scaffold role,
-	* `exercise_1.1/lib_fragments.sdf` as library of vertices with no specific role,
-	* `exercise_1.1/lib_capping-groups.sdf` as the library of vertices with role of Capping Group,
-	* `exercise_1.1/compatibility_matrix.par` as the file with the compatibility matrix. This files contains the rules that control how building blocks are put together.
+	* `tutorial_1.1/lib_scaffolds.sdf` as library of vertices with Scaffold role,
+	* `tutorial_1.1/lib_fragments.sdf` as library of vertices with no specific role,
+	* `tutorial_1.1/lib_capping-groups.sdf` as the library of vertices with role of Capping Group,
+	* `tutorial_1.1/compatibility_matrix.par` as the file with the compatibility matrix. This files contains the rules that control how building blocks are put together.
 	The rest of the parameters can be ignored in this tutorial.
 
 	![figures/graph_paramsBBSpace.png](figures/graph_paramsBBSpace.png)
 
 	**Figure 3**: Compiled form defining the space of building blocks (i.e., the fragment space) used in this tutorial.
 
-4. Click on `Create BBSpace` (see red arrow in Figure 3) to terminate the definition of the space of building blocks and load it into the memory for further use.
+4. Click on `Create BBSpace` (see red arrow in Figure 3) to terminate the definition of the space of building blocks and load it into the memory for further use. Note that the `Load BBSpace` button becomes `Change BBSpace` indicating that a BBSpace is already loaded.
 
 5. Start the actual creation of a new graph item by clicking on the `Add` button (see red allow in Figure 4), and specify the desire to `Build` a graph (in the first step), and the to build it from `Scaffold` (in the second step).
 
@@ -80,8 +80,11 @@ In practice, to build graphs by hand in the GUI:
 
 10. Select another attachment point in the growing graph, and click on `Add Vertex from BB Space` to append more vertices according to your preference.
 
-11. At any point you can click on `Save Changes` to trigger the conversion of the graph into a molecular representation that is displayed in the lower part of the left-hand side of the graph viewer panel.
+11. At any point you can click on `Save Changes` to trigger the conversion of the graph into a molecular representation that is displayed in the lower part of the left-hand side of the graph viewer panel. Note that such panel may have been reduced to minimal size to liberate space. In this case use move the panel divider with the mouse to adjust the size to your preference (See Figure 7).
 
-12.
+![figures/graph_panel_divider.png](figures/graph_panel_divider.png)
+
+**Figure 7**: Panel dividers (here highlighted by the red rectangles) and the their small, triangular buttons (pointed to by the arrows) can be used to resize the subpanels according to needs.
+
 
 <div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> This tutorial shown how to build a graph manually. The process is similar to what occurs during automated construction of graphs with the difference that any decision taken by the used in this manual procedure is taken by the computed according to a probabilities that can be controlled by input parameters.</div>

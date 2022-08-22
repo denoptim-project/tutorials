@@ -32,13 +32,12 @@ denoptim input_parameters
 
 3. Go back to the input parameters by clicking on `Active Tabs` -> `Prepare GA experiment` and start the evolutionary design by clicking on `Run now...` and follow the dialog: Once the experiment is submitted, you will be notified on where the output is being written.
 
-	<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> s seen in the previous tutorial, the bar in the top-right part of DENOPTIM's window turns grey to indicate the experiment is running. When it turns blue again, the experiment has been completed.</div>
+	<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> as seen in the previous tutorial, the bar in the top-right part of DENOPTIM's window turns grey to indicate the experiment is running. When it turns blue again, the experiment has been completed.</div>
 
 4. When the experiment has been completed, open the output from `File`->`Open Recent...` and select the appropriate path. This opens a GARun Inspector tab where you find:
 
- 	- The evolution plot (top-right panel): each point is a a candidate, click on it to display the structure and properties of the candidate. By default, the plot show two blue lines: the *minimum* and the *maximum* value of the fitness in the population. The button `Show/Hide Population Stats` allows to add also the mean and median.
-
-  - The monitor plot (bottom-right panel): collects numerical indicators of the algorithm behaviour, such as the number of attempts to create candidates, which is the series shown by default. The button `Show/Hide Population Stats` allows to add/remove series to the plot.
+	- The evolution plot (top-right panel): each point is a a candidate, click on it to display the structure and properties of the candidate. By default, the plot show two blue lines: the *minimum* and the *maximum* value of the fitness in the population. The button `Show/Hide Population Stats` allows to add also the mean and median.
+	- The monitor plot (bottom-right panel): collects numerical indicators of the algorithm behaviour, such as the number of attempts to create candidates, which is the series shown by default. The button `Show/Hide Population Stats` allows to add/remove series to the plot.
 
 	<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> Plots can be saved by right-clicking on them and choosing <code>Save As...</code>. Similarly, you can save pictures of molecular models by right-clicking on them and choosing <code>File</code>-&gt;<code>Save</code>-&gt;<code>Save As PNG</code>.</div>
 

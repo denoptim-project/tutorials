@@ -45,9 +45,9 @@ If you are impatient, you can skip all the creation of the template and [jump di
 
 <div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> Remember what learned in the [tutorial about graphs](header-look-at-graphs). DENOPTIM's graph representation have no dimensionality. Therefore, the relative placement of vertexes and attachment points is completely irrelevant. You can drag any component of the graph to help visualisation. Yet, such changes affect only on the graphical depiction and have no effect on the graph representation itself. Moreover you can right-click and `Refine node locations` to improve the bi-dimensional placements of nodes.</div>
 
-5. Visualise the content of the only vertex in the graph by clicking on it. Then, click on the yellow dot to select the attachment point corresponding to the coordination site *trans* to CO.
+5. In the graph view, click on the yellow point that represent the attachment point corresponding to the coordination site *trans* to CO. This selects the attachment point on which we want to append a vertex.
 
-6. Click on the button `Add Empty Vertex` to add a placeholder for the L-type site of the ligand. This opens a dialog that allows creation of a new vertex by defining the list of attachment points. In this case, add three attachment points via the `Add AP` button: one with APClass `scaff:1` and two with APClass `bridge:1`.
+6. Click on the button `Add Empty Vertex` to add a placeholder for the L-type site of the ligand. This opens a dialog that allows creation of a new vertex by defining the list of attachment points. In this case, add three attachment points via the `Add AP` button: one with APClass `scaff:1` (this APClass is not present in the list, so it will have to be created on the fly) and two with APClass `bridge:1`.
 
 <div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> En <b>Empty Vertex</b> is yet another type of vertex that contains no chemical object, but can have attachment points. Empty vertexes are typically used as placeholders or masks defining that pattern of attachment points are expected by any non-empty vertex occupying the place held by the empty vertex.</div>
 
@@ -57,7 +57,7 @@ If you are impatient, you can skip all the creation of the template and [jump di
 
   **Figure 3**: Empty Vertex created to represent the L-type site on the tridentate ligand template.
 
-8. In the list of attachment points, click on the row with APClass `scaff:1` to specify which attachment point should be the one used to append this empty vertex onto the attachment point that was selected on the graph. Clicking on `Confirm selected AP` triggers the addition of the vertex to the graph and the formation of the corresponding edge.
+8. In the list of attachment points, click on the row with APClass `scaff:1` to specify that this attachment point should be the one used to append the empty vertex onto the attachment point that was initially selected on the graph. Clicking on `Confirm selected AP` triggers the addition of the vertex to the graph and the formation of the corresponding edge.
 
 9. The procedure for appending a single empty vertex can now be repeated on the other two APs on the Pt-CO vertex, those with `Xlig:0` APClass. Since these two parts of the graph are equivalent in Figure 2, you can select both APs and append a copy of the created empty vertex on each of them. Do this twice:
   - first, to add an empty vertex with APs `Xlig:1` and `bridge:1` (Select the AP `Xlig:1` as AP to bind the empty verted onto the growing graph),

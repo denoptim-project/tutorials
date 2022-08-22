@@ -33,3 +33,8 @@ on Linux:
 ```
 xdg-open _build/index.html
 ```
+
+## Contributing
+Feel free to suggest changes and improvements. Fork this repo and make a pull request once you have created your suggested changes on your fork.
+
+<b>Warning!</b> These tutorials use a dataset that might need to be updated upon introduction of changes. Any change that requires a change in the dataset will have to involve making a release of this repository to create a .zip/.tar.gz archive that can be linked in the [instructions about downloading the dataset](doc/getting_started.md).
