@@ -2,7 +2,7 @@
 
 This tutorial is about creating a small space of building blocks from scratch.
 
-<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b>This tutorial is best performed while having access to the Internet. DENOPTIM will call for an online service that converts SMILES to 3D-structures. When off-line, DENOPTIM will offer the user with the choice to use an off-line functionality from [CDK](https://cdk.github.io/), which is OK but slower and less accurate.</div>
+<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b>This tutorial is best performed while having access to the Internet. DENOPTIM will call for an online service that converts SMILES to 3D-structures. When off-line, DENOPTIM will offer the user with the choice to use an off-line functionality from <a href="https://cdk.github.io/">CDK</a>, which is OK but slower and less accurate.</div>
 
 
 ## Create a Space of Building Blocks (Fragment Space)
@@ -34,15 +34,18 @@ This tutorial is about creating a small space of building blocks from scratch.
 	- `C1CCCCC1N`
 	For each of these, select the hydrogen atoms bonded to N (see Note below for useful atom selection tricks) and delete them by clicking on the `Remove atoms`. Then select the N atom and click `Atom to AP` to replace the N atom with an attachment point of class `LImidazolylideneSubNS:1`.
 
-	<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b>Right-click on the molecular viewer to get the vast functionality offered by [Jmol](http://jmol.sourceforge.net/), including, for instance, see the `Select` -> `Invert Selection`. In particular, in the right-click menu you can chose `Console` to open Jmol's command line interface and use the `select` command. Here are some common examples of use:
-	* `select _N`: selects all nitrogen atoms.
-	* `select atomno >= 10 and atomno <= 43`: selects atoms from number 10 to 43 in the list of atom. Note the use of a the logical operator `and`.
-	* `select search("<SMARTS>")` where `<SMARTS>` is a [SMARTS substructure search query](https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html). For example,
-		* `select search("[#7]-[#6]")`: selects all nitrogen and carbon atoms of any kind that are connected by a single bond.
-		* `select search("[r5]")`: selects all atoms that are part of a five-member ring.
-	 	* `select selected OR connected(selected)`: propagates selection to all atoms connected to currently selected atoms.
-	 	* `select none`: clears the list of selected atoms.
-	Refer to [Jmol's documentation](https://chemapps.stolaf.edu/jmol/docs/) for further details on the functionality provided by Jmol.
+	<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b>Right-click on the molecular viewer to get the vast functionality offered by <a href="http://jmol.sourceforge.net/">Jmol</a>, including, for instance, see the <code>Select</code> -&gt; <code>Invert Selection</code>. In particular, in the right-click menu you can chose <code>Console</code> to open Jmol's command line interface and use the <code>select</code> command. Here are some common examples of use:
+	<ul>
+	<li><code>select _N</code>: selects all nitrogen atoms.</li>
+	<li><code>select atomno >= 10 and atomno <= 43</code>: selects atoms from number 10 to 43 in the list of atom. Note the use of a the logical operator <code>and</code>.</li>
+	<li><code>select search("&lt;SMARTS&gt;")</code> where <code>&lt;SMARTS&gt;</code> is a <a href="https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html">SMARTS pattern</a>. For example,
+	<ul>
+		<li><code>select search("[#7]-[#6]")</code>: selects all nitrogen and carbon atoms of any kind that are connected by a single bond.</li>
+		<li><code>select search("[r5]")</code>: selects all atoms that are part of a five-member ring.</li>
+	 	<li><code>select selected OR connected(selected)</code>: propagates selection to all atoms connected to currently selected atoms.</li>
+	 	<li><code>select none</code>: clears the list of selected atoms.</li>
+	</ul></ul>
+	Refer to <a href="https://chemapps.stolaf.edu/jmol/docs/">Jmol's documentation</a> for further details on the functionality provided by Jmol.
 	</div>
 
 7. With the `Save Library of Building Blocks` button, save the resulting library of 9 building blocks to an SDF file, call it `my_library_of_fragments.sdf` under the `tutorial_1.2` folder.
@@ -53,7 +56,7 @@ This tutorial is about creating a small space of building blocks from scratch.
 
 10. Then `Add Compatibility Rule` between `Llig:0` and all the APClasses that represent the capability to coordinate a metal as a dative L-ligand, namely `MPyridine:1`, `MPhosphine:1`, and `MImidazolylidene:1`. Hold the `command`/`CTRL` key to select multiple entries.
 
-	<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> the two lists in the window for defining a new APClass compatibility rule refers to different roles of the attachment point: *growing graph* on the left, and *incoming fragment* on the right-hand side. Therefore, adding *"compatibility between class `A:0` and `B:0`"* (i.e., `A:0` selected in the left list, and `B:0` in the right one) is not equivalent to adding  *"compatibility between `B:0` and `A:0`*" (i.e., `B:0` selected in the left list, and `A:0` in the right one).
+	<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> the two lists in the window for defining a new APClass compatibility rule refers to different roles of the attachment point: <i>growing graph</i> on the left, and <i>incoming fragment</i> on the right-hand side. Therefore, adding "compatibility between class <code>A:0</code> and <code>B:0</code>" (i.e., <code>A:0</code> selected in the left list, and <code>B:0</code> in the right one) is not equivalent to adding  "compatibility between <code>B:0</code> and <code>A:0</code>" (i.e., <code>B:0</code> selected in the left list, and <code>A:0</code> in the right one).
 
 11. Add the compatibility rule between `Xlig:0` and all available APClasses that represent the capability to bind the metal as a covalent X-ligand, namely `MI:1`, `MNitro:1`.
 
