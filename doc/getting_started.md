@@ -73,7 +73,7 @@ This step is usually not needed, but if after the installation you still get an 
      ~/Miniconda3/etc/profile.d).
   4. Run the following command (type the following and enter):
      ```shell
-     $ echo ". '${PWD}'/conda.sh" >> ~/.bashrc
+     echo ". '${PWD}'/conda.sh" >> ~/.bashrc
      ```
   5. Close Git Bash and reopen it.
   6. Verify that now Git Bash can "see" conda by running `conda --version`
@@ -103,12 +103,12 @@ This step is usually not needed, but if after the installation you still get an 
   2. Run this command which will append to your `.bashrc` file (adapt the path if Miniconda has been installed
      to a different place):
   ```shell
-  $ echo 'source $HOME/miniconda3/bin/activate' >> ~/.bashrc
+  echo 'source $HOME/miniconda3/bin/activate' >> ~/.bashrc
   ```
   If you prefer not to edit your `.bashrc`, you can also run this command after opening your terminal (each time you open one)
   and it will bring all `conda` commands "into view":
   ```shell
-  $ source $HOME/miniconda3/bin/activate
+  source $HOME/miniconda3/bin/activate
   ```
 
 
