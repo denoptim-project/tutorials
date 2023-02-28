@@ -4,5 +4,5 @@ channels:
   - denoptim-project
 dependencies:
   - python
-  - denoptim
+  - denoptim=3.2.6
   - py4j
