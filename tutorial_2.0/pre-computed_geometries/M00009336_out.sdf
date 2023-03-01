@@ -137,7 +137,7 @@ AAKHRLBSWOHLOL-OHAYOAOPNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -158,12 +158,10 @@ AAKHRLBSWOHLOL-OHAYOAOPNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          273720,
+          273721
+        ]
       ],
       "mol": {
         "atoms": [
@@ -178,7 +176,7 @@ AAKHRLBSWOHLOL-OHAYOAOPNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -404,12 +402,10 @@ AAKHRLBSWOHLOL-OHAYOAOPNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          273724,
+          273725
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1210,12 +1206,10 @@ AAKHRLBSWOHLOL-OHAYOAOPNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        209552,
-        208438
-      ]
-    }
+    [
+      209552,
+      208438
+    ]
   ]
 }
 

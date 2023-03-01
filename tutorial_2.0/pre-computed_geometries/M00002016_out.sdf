@@ -174,7 +174,7 @@ HONKDNKGOSQTBP-ZLVYFNMDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -195,12 +195,10 @@ HONKDNKGOSQTBP-ZLVYFNMDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          66032,
+          66033
+        ]
       ],
       "mol": {
         "atoms": [
@@ -215,7 +213,7 @@ HONKDNKGOSQTBP-ZLVYFNMDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -471,12 +469,10 @@ HONKDNKGOSQTBP-ZLVYFNMDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          66036,
+          66037
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1495,12 +1491,10 @@ HONKDNKGOSQTBP-ZLVYFNMDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        49480,
-        49307
-      ]
-    }
+    [
+      49480,
+      49307
+    ]
   ]
 }
 

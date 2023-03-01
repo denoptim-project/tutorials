@@ -125,7 +125,7 @@ LXJACYFENSGRMR-RCCRGNQXNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -146,12 +146,10 @@ LXJACYFENSGRMR-RCCRGNQXNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          457401,
+          457402
+        ]
       ],
       "mol": {
         "atoms": [
@@ -166,7 +164,7 @@ LXJACYFENSGRMR-RCCRGNQXNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -361,12 +359,10 @@ LXJACYFENSGRMR-RCCRGNQXNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          457407,
+          457408
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1077,12 +1073,10 @@ LXJACYFENSGRMR-RCCRGNQXNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        351101,
-        350645
-      ]
-    }
+    [
+      351101,
+      350645
+    ]
   ]
 }
 

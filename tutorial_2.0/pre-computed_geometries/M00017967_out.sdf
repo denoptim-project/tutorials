@@ -148,7 +148,7 @@ DMHIOGBHMZGRPK-CSDIYISSNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -169,12 +169,10 @@ DMHIOGBHMZGRPK-CSDIYISSNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          519467,
+          519468
+        ]
       ],
       "mol": {
         "atoms": [
@@ -189,7 +187,7 @@ DMHIOGBHMZGRPK-CSDIYISSNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -415,12 +413,10 @@ DMHIOGBHMZGRPK-CSDIYISSNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          519472,
+          519473
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1359,12 +1355,10 @@ DMHIOGBHMZGRPK-CSDIYISSNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        210270,
-        210381
-      ]
-    }
+    [
+      210270,
+      210381
+    ]
   ]
 }
 

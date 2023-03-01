@@ -153,7 +153,7 @@ UQXDYMQSRFSAGU-SVNCIRTDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -174,12 +174,10 @@ UQXDYMQSRFSAGU-SVNCIRTDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          564062,
+          564063
+        ]
       ],
       "mol": {
         "atoms": [
@@ -194,7 +192,7 @@ UQXDYMQSRFSAGU-SVNCIRTDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -389,13 +387,11 @@ UQXDYMQSRFSAGU-SVNCIRTDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          564066,
+          564067,
+          564068
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1485,20 +1481,16 @@ UQXDYMQSRFSAGU-SVNCIRTDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        296541,
-        296540,
-        296539
-      ]
-    },
-    {
-      "symIds": [
-        466554,
-        466459,
-        466553
-      ]
-    }
+    [
+      296541,
+      296540,
+      296539
+    ],
+    [
+      466554,
+      466459,
+      466553
+    ]
   ]
 }
 

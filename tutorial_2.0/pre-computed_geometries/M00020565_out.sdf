@@ -178,7 +178,7 @@ ZLVBZKCVZDHGSC-DTPGFLIRNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -199,12 +199,10 @@ ZLVBZKCVZDHGSC-DTPGFLIRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          600721,
+          600722
+        ]
       ],
       "mol": {
         "atoms": [
@@ -219,7 +217,7 @@ ZLVBZKCVZDHGSC-DTPGFLIRNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -475,12 +473,10 @@ ZLVBZKCVZDHGSC-DTPGFLIRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          600725,
+          600726
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1639,18 +1635,14 @@ ZLVBZKCVZDHGSC-DTPGFLIRNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        32947,
-        33097
-      ]
-    },
-    {
-      "symIds": [
-        526638,
-        526582
-      ]
-    }
+    [
+      32947,
+      33097
+    ],
+    [
+      526638,
+      526582
+    ]
   ]
 }
 

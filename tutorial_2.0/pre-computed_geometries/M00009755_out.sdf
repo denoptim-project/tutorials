@@ -204,7 +204,7 @@ TZLFKNILGYDHRQ-SZEAYDEFNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -225,12 +225,10 @@ TZLFKNILGYDHRQ-SZEAYDEFNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          286164,
+          286165
+        ]
       ],
       "mol": {
         "atoms": [
@@ -245,7 +243,7 @@ TZLFKNILGYDHRQ-SZEAYDEFNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -501,18 +499,14 @@ TZLFKNILGYDHRQ-SZEAYDEFNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          286170,
+          286173
+        ],
+        [
+          286171,
+          286172
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1900,18 +1894,14 @@ TZLFKNILGYDHRQ-SZEAYDEFNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        219049,
-        216860
-      ]
-    },
-    {
-      "symIds": [
-        219048,
-        216869
-      ]
-    }
+    [
+      219049,
+      216860
+    ],
+    [
+      219048,
+      216869
+    ]
   ]
 }
 

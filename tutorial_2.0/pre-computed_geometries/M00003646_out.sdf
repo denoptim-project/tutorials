@@ -139,7 +139,7 @@ PTEWYSNTYTYORE-JYWOYIHZNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -160,12 +160,10 @@ PTEWYSNTYTYORE-JYWOYIHZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          111818,
+          111819
+        ]
       ],
       "mol": {
         "atoms": [
@@ -180,7 +178,7 @@ PTEWYSNTYTYORE-JYWOYIHZNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -466,12 +464,10 @@ PTEWYSNTYTYORE-JYWOYIHZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          111826,
+          111827
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1327,12 +1323,10 @@ PTEWYSNTYTYORE-JYWOYIHZNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        84837,
-        84839
-      ]
-    }
+    [
+      84837,
+      84839
+    ]
   ]
 }
 

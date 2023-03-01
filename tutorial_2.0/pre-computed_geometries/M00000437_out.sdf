@@ -128,7 +128,7 @@ GBSCTYOJUDILTD-VRNRGKSENA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -149,12 +149,10 @@ GBSCTYOJUDILTD-VRNRGKSENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          21908,
+          21909
+        ]
       ],
       "mol": {
         "atoms": [
@@ -169,7 +167,7 @@ GBSCTYOJUDILTD-VRNRGKSENA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -440,18 +438,14 @@ GBSCTYOJUDILTD-VRNRGKSENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          21913,
+          21916
+        ],
+        [
+          21914,
+          21915
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1164,18 +1158,14 @@ GBSCTYOJUDILTD-VRNRGKSENA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        15705,
-        15182
-      ]
-    },
-    {
-      "symIds": [
-        15706,
-        15192
-      ]
-    }
+    [
+      15705,
+      15182
+    ],
+    [
+      15706,
+      15192
+    ]
   ]
 }
 

@@ -142,7 +142,7 @@ LHJMAKPNIVAXRS-YCROHHOMNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -163,12 +163,10 @@ LHJMAKPNIVAXRS-YCROHHOMNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          341907,
+          341908
+        ]
       ],
       "mol": {
         "atoms": [
@@ -183,7 +181,7 @@ LHJMAKPNIVAXRS-YCROHHOMNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -454,18 +452,14 @@ LHJMAKPNIVAXRS-YCROHHOMNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          341912,
+          341915
+        ],
+        [
+          341913,
+          341914
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1285,18 +1279,14 @@ LHJMAKPNIVAXRS-YCROHHOMNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        262293,
-        261910
-      ]
-    },
-    {
-      "symIds": [
-        262292,
-        261919
-      ]
-    }
+    [
+      262293,
+      261910
+    ],
+    [
+      262292,
+      261919
+    ]
   ]
 }
 

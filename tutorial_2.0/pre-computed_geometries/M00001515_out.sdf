@@ -176,7 +176,7 @@ AFLAHUVUNDJUHW-CJLHHTMUNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -197,12 +197,10 @@ AFLAHUVUNDJUHW-CJLHHTMUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          52681,
+          52682
+        ]
       ],
       "mol": {
         "atoms": [
@@ -217,7 +215,7 @@ AFLAHUVUNDJUHW-CJLHHTMUNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -488,18 +486,14 @@ AFLAHUVUNDJUHW-CJLHHTMUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          52685,
+          52687
+        ],
+        [
+          52688,
+          52689
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1575,18 +1569,14 @@ AFLAHUVUNDJUHW-CJLHHTMUNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        39166,
-        38340
-      ]
-    },
-    {
-      "symIds": [
-        39165,
-        38349
-      ]
-    }
+    [
+      39166,
+      38340
+    ],
+    [
+      39165,
+      38349
+    ]
   ]
 }
 

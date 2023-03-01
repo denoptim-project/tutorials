@@ -107,7 +107,7 @@ FXZOZWOYGCIRHT-PZTGIRAMNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -128,12 +128,10 @@ FXZOZWOYGCIRHT-PZTGIRAMNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          582626,
+          582627
+        ]
       ],
       "mol": {
         "atoms": [
@@ -148,7 +146,7 @@ FXZOZWOYGCIRHT-PZTGIRAMNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -343,12 +341,10 @@ FXZOZWOYGCIRHT-PZTGIRAMNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          582631,
+          582632
+        ]
       ],
       "mol": {
         "atoms": [
@@ -482,12 +478,10 @@ FXZOZWOYGCIRHT-PZTGIRAMNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          582636,
+          582637
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1044,18 +1038,14 @@ FXZOZWOYGCIRHT-PZTGIRAMNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        343541,
-        344287
-      ]
-    },
-    {
-      "symIds": [
-        498588,
-        498594
-      ]
-    }
+    [
+      343541,
+      344287
+    ],
+    [
+      498588,
+      498594
+    ]
   ]
 }
 

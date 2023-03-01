@@ -145,7 +145,7 @@ SVYNTKLFGIUBRY-SMERJOQHNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -166,12 +166,10 @@ SVYNTKLFGIUBRY-SMERJOQHNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          624677,
+          624678
+        ]
       ],
       "mol": {
         "atoms": [
@@ -186,7 +184,7 @@ SVYNTKLFGIUBRY-SMERJOQHNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -442,12 +440,10 @@ SVYNTKLFGIUBRY-SMERJOQHNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          624681,
+          624682
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1360,18 +1356,14 @@ SVYNTKLFGIUBRY-SMERJOQHNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        84135,
-        83988
-      ]
-    },
-    {
-      "symIds": [
-        565796,
-        565771
-      ]
-    }
+    [
+      84135,
+      83988
+    ],
+    [
+      565796,
+      565771
+    ]
   ]
 }
 

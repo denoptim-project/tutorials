@@ -143,7 +143,7 @@ BOPFADWWOIATSA-SSCSJLGINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -164,12 +164,10 @@ BOPFADWWOIATSA-SSCSJLGINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          562115,
+          562116
+        ]
       ],
       "mol": {
         "atoms": [
@@ -184,7 +182,7 @@ BOPFADWWOIATSA-SSCSJLGINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -379,12 +377,10 @@ BOPFADWWOIATSA-SSCSJLGINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          562120,
+          562121
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1287,12 +1283,10 @@ BOPFADWWOIATSA-SSCSJLGINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        296399,
-        296322
-      ]
-    }
+    [
+      296399,
+      296322
+    ]
   ]
 }
 

@@ -122,7 +122,7 @@ DFZSGMLCWTZBHD-KBVSYARENA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -143,12 +143,10 @@ DFZSGMLCWTZBHD-KBVSYARENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          21362,
+          21363
+        ]
       ],
       "mol": {
         "atoms": [
@@ -163,7 +161,7 @@ DFZSGMLCWTZBHD-KBVSYARENA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -434,18 +432,14 @@ DFZSGMLCWTZBHD-KBVSYARENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          21367,
+          21370
+        ],
+        [
+          21368,
+          21369
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1116,18 +1110,14 @@ DFZSGMLCWTZBHD-KBVSYARENA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        15272,
-        15178
-      ]
-    },
-    {
-      "symIds": [
-        15273,
-        15189
-      ]
-    }
+    [
+      15272,
+      15178
+    ],
+    [
+      15273,
+      15189
+    ]
   ]
 }
 

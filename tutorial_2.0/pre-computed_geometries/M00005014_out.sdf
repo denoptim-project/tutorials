@@ -210,7 +210,7 @@ ANICAGIMAUXCSR-RZYVUHAJNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -231,12 +231,10 @@ ANICAGIMAUXCSR-RZYVUHAJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          151105,
+          151106
+        ]
       ],
       "mol": {
         "atoms": [
@@ -251,7 +249,7 @@ ANICAGIMAUXCSR-RZYVUHAJNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -522,18 +520,14 @@ ANICAGIMAUXCSR-RZYVUHAJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          151109,
+          151111
+        ],
+        [
+          151112,
+          151113
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1862,18 +1856,14 @@ ANICAGIMAUXCSR-RZYVUHAJNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        115049,
-        114048
-      ]
-    },
-    {
-      "symIds": [
-        114057,
-        115048
-      ]
-    }
+    [
+      115049,
+      114048
+    ],
+    [
+      114057,
+      115048
+    ]
   ]
 }
 

@@ -144,7 +144,7 @@ UJMMEFUDAKIVMV-WMVAQENRNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -165,12 +165,10 @@ UJMMEFUDAKIVMV-WMVAQENRNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          284756,
+          284757
+        ]
       ],
       "mol": {
         "atoms": [
@@ -185,7 +183,7 @@ UJMMEFUDAKIVMV-WMVAQENRNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -441,18 +439,14 @@ UJMMEFUDAKIVMV-WMVAQENRNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          284762,
+          284765
+        ],
+        [
+          284763,
+          284764
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1391,18 +1385,14 @@ UJMMEFUDAKIVMV-WMVAQENRNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        217948,
-        216859
-      ]
-    },
-    {
-      "symIds": [
-        216867,
-        217947
-      ]
-    }
+    [
+      217948,
+      216859
+    ],
+    [
+      216867,
+      217947
+    ]
   ]
 }
 

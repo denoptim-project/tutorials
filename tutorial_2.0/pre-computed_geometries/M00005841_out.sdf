@@ -145,7 +145,7 @@ ITMHIRJIFXESHD-PZLKETBZNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -166,12 +166,10 @@ ITMHIRJIFXESHD-PZLKETBZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          173578,
+          173579
+        ]
       ],
       "mol": {
         "atoms": [
@@ -186,7 +184,7 @@ ITMHIRJIFXESHD-PZLKETBZNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -472,18 +470,14 @@ ITMHIRJIFXESHD-PZLKETBZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          173584,
+          173587
+        ],
+        [
+          173585,
+          173586
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1368,18 +1362,14 @@ ITMHIRJIFXESHD-PZLKETBZNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        128791,
-        132416
-      ]
-    },
-    {
-      "symIds": [
-        132417,
-        128800
-      ]
-    }
+    [
+      128791,
+      132416
+    ],
+    [
+      132417,
+      128800
+    ]
   ]
 }
 

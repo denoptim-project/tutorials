@@ -142,7 +142,7 @@ NOHGBSFORVFJST-MCVZFLITNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -163,12 +163,10 @@ NOHGBSFORVFJST-MCVZFLITNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          38993,
+          38994
+        ]
       ],
       "mol": {
         "atoms": [
@@ -183,7 +181,7 @@ NOHGBSFORVFJST-MCVZFLITNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -469,18 +467,14 @@ NOHGBSFORVFJST-MCVZFLITNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          38999,
+          39002
+        ],
+        [
+          39000,
+          39001
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1343,18 +1337,14 @@ NOHGBSFORVFJST-MCVZFLITNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        28650,
-        26691
-      ]
-    },
-    {
-      "symIds": [
-        28649,
-        26698
-      ]
-    }
+    [
+      28650,
+      26691
+    ],
+    [
+      28649,
+      26698
+    ]
   ]
 }
 

@@ -164,7 +164,7 @@ BDPKFIGEBYYEEA-HYRBXLQZNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -185,12 +185,10 @@ BDPKFIGEBYYEEA-HYRBXLQZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          121264,
+          121265
+        ]
       ],
       "mol": {
         "atoms": [
@@ -205,7 +203,7 @@ BDPKFIGEBYYEEA-HYRBXLQZNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -506,20 +504,16 @@ BDPKFIGEBYYEEA-HYRBXLQZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          121268,
+          121269
+        ],
+        [
+          121271,
+          121272,
+          121273,
+          121274
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1605,20 +1599,16 @@ BDPKFIGEBYYEEA-HYRBXLQZNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        91969,
-        92095
-      ]
-    },
-    {
-      "symIds": [
-        92096,
-        92097,
-        92098,
-        91981
-      ]
-    }
+    [
+      91969,
+      92095
+    ],
+    [
+      92096,
+      92097,
+      92098,
+      91981
+    ]
   ]
 }
 

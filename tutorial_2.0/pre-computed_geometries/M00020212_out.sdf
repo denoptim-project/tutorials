@@ -145,7 +145,7 @@ KVEFQUUGDAPHKE-XLRIMUEJNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -166,12 +166,10 @@ KVEFQUUGDAPHKE-XLRIMUEJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          589483,
+          589484
+        ]
       ],
       "mol": {
         "atoms": [
@@ -186,7 +184,7 @@ KVEFQUUGDAPHKE-XLRIMUEJNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -442,12 +440,10 @@ KVEFQUUGDAPHKE-XLRIMUEJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          589488,
+          589489
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1304,12 +1300,10 @@ KVEFQUUGDAPHKE-XLRIMUEJNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        357059,
-        356956
-      ]
-    }
+    [
+      357059,
+      356956
+    ]
   ]
 }
 

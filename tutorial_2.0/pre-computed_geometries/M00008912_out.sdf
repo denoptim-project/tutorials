@@ -218,7 +218,7 @@ NIHSMOFGWKPJDO-IBRFPWDONA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -239,12 +239,10 @@ NIHSMOFGWKPJDO-IBRFPWDONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          262444,
+          262445
+        ]
       ],
       "mol": {
         "atoms": [
@@ -259,7 +257,7 @@ NIHSMOFGWKPJDO-IBRFPWDONA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -500,18 +498,14 @@ NIHSMOFGWKPJDO-IBRFPWDONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          262448,
+          262450
+        ],
+        [
+          262451,
+          262452
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1961,18 +1955,14 @@ NIHSMOFGWKPJDO-IBRFPWDONA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        199522,
-        200821
-      ]
-    },
-    {
-      "symIds": [
-        200822,
-        199529
-      ]
-    }
+    [
+      199522,
+      200821
+    ],
+    [
+      200822,
+      199529
+    ]
   ]
 }
 

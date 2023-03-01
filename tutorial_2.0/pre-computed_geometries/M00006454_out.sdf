@@ -172,7 +172,7 @@ CNESZBPVHIBSDE-GQSWGQBRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -193,12 +193,10 @@ CNESZBPVHIBSDE-GQSWGQBRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          192228,
+          192229
+        ]
       ],
       "mol": {
         "atoms": [
@@ -213,7 +211,7 @@ CNESZBPVHIBSDE-GQSWGQBRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -454,18 +452,14 @@ CNESZBPVHIBSDE-GQSWGQBRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          192232,
+          192234
+        ],
+        [
+          192235,
+          192236
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1555,18 +1549,14 @@ CNESZBPVHIBSDE-GQSWGQBRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        146826,
-        145740
-      ]
-    },
-    {
-      "symIds": [
-        146827,
-        145745
-      ]
-    }
+    [
+      146826,
+      145740
+    ],
+    [
+      146827,
+      145745
+    ]
   ]
 }
 

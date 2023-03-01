@@ -123,7 +123,7 @@ XZIUUCUMNODOAM-MZKMGVLDNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -144,12 +144,10 @@ XZIUUCUMNODOAM-MZKMGVLDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          161712,
+          161713
+        ]
       ],
       "mol": {
         "atoms": [
@@ -164,7 +162,7 @@ XZIUUCUMNODOAM-MZKMGVLDNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -420,12 +418,10 @@ XZIUUCUMNODOAM-MZKMGVLDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          161718,
+          161719
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1060,12 +1056,10 @@ XZIUUCUMNODOAM-MZKMGVLDNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        123052,
-        123243
-      ]
-    }
+    [
+      123052,
+      123243
+    ]
   ]
 }
 

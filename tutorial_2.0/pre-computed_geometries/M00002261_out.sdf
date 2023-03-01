@@ -207,7 +207,7 @@ JRIGVBBASFIKAN-UZPWMIGINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -228,12 +228,10 @@ JRIGVBBASFIKAN-UZPWMIGINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          72882,
+          72883
+        ]
       ],
       "mol": {
         "atoms": [
@@ -248,7 +246,7 @@ JRIGVBBASFIKAN-UZPWMIGINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -534,18 +532,14 @@ JRIGVBBASFIKAN-UZPWMIGINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          72888,
+          72891
+        ],
+        [
+          72889,
+          72890
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1895,18 +1889,14 @@ JRIGVBBASFIKAN-UZPWMIGINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        51460,
-        54800
-      ]
-    },
-    {
-      "symIds": [
-        51466,
-        54801
-      ]
-    }
+    [
+      51460,
+      54800
+    ],
+    [
+      51466,
+      54801
+    ]
   ]
 }
 

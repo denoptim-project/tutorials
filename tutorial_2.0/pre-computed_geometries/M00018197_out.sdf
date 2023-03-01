@@ -152,7 +152,7 @@ APTWXMBAUOGISB-JALKYRRNNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -173,12 +173,10 @@ APTWXMBAUOGISB-JALKYRRNNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          527232,
+          527233
+        ]
       ],
       "mol": {
         "atoms": [
@@ -193,7 +191,7 @@ APTWXMBAUOGISB-JALKYRRNNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -419,12 +417,10 @@ APTWXMBAUOGISB-JALKYRRNNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          527236,
+          527237
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1435,18 +1431,14 @@ APTWXMBAUOGISB-JALKYRRNNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        234832,
-        235652
-      ]
-    },
-    {
-      "symIds": [
-        416832,
-        416853
-      ]
-    }
+    [
+      234832,
+      235652
+    ],
+    [
+      416832,
+      416853
+    ]
   ]
 }
 

@@ -159,7 +159,7 @@ UCZOEQWDYGPRMS-KUWJZKJINA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -180,12 +180,10 @@ UCZOEQWDYGPRMS-KUWJZKJINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          100545,
+          100546
+        ]
       ],
       "mol": {
         "atoms": [
@@ -200,7 +198,7 @@ UCZOEQWDYGPRMS-KUWJZKJINA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -456,12 +454,10 @@ UCZOEQWDYGPRMS-KUWJZKJINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          100549,
+          100550
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1368,12 +1364,10 @@ UCZOEQWDYGPRMS-KUWJZKJINA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        75848,
-        76076
-      ]
-    }
+    [
+      75848,
+      76076
+    ]
   ]
 }
 

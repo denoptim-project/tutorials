@@ -148,7 +148,7 @@ AEHLNMYEABBPTR-IIENGXNONA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -169,12 +169,10 @@ AEHLNMYEABBPTR-IIENGXNONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          521618,
+          521619
+        ]
       ],
       "mol": {
         "atoms": [
@@ -189,7 +187,7 @@ AEHLNMYEABBPTR-IIENGXNONA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -445,12 +443,10 @@ AEHLNMYEABBPTR-IIENGXNONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          521622,
+          521623
+        ]
       ],
       "mol": {
         "atoms": [
@@ -645,12 +641,10 @@ AEHLNMYEABBPTR-IIENGXNONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          521628,
+          521629
+        ]
       ],
       "mol": {
         "atoms": [
@@ -733,12 +727,10 @@ AEHLNMYEABBPTR-IIENGXNONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          521631,
+          521632
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1514,20 +1506,16 @@ AEHLNMYEABBPTR-IIENGXNONA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        17680,
-        16997
-      ]
-    },
-    {
-      "symIds": [
-        405921,
-        405927,
-        405928,
-        405929
-      ]
-    }
+    [
+      17680,
+      16997
+    ],
+    [
+      405921,
+      405927,
+      405928,
+      405929
+    ]
   ]
 }
 

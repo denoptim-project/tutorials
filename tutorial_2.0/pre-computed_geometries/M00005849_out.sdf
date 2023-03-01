@@ -199,7 +199,7 @@ FMGOMNNFPPGBBH-FERHGMORNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -220,12 +220,10 @@ FMGOMNNFPPGBBH-FERHGMORNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          173834,
+          173835
+        ]
       ],
       "mol": {
         "atoms": [
@@ -240,7 +238,7 @@ FMGOMNNFPPGBBH-FERHGMORNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -526,18 +524,14 @@ FMGOMNNFPPGBBH-FERHGMORNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          173840,
+          173843
+        ],
+        [
+          173841,
+          173842
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1826,18 +1820,14 @@ FMGOMNNFPPGBBH-FERHGMORNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        132616,
-        128792
-      ]
-    },
-    {
-      "symIds": [
-        132617,
-        128802
-      ]
-    }
+    [
+      132616,
+      128792
+    ],
+    [
+      132617,
+      128802
+    ]
   ]
 }
 

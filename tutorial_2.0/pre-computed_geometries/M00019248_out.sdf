@@ -141,7 +141,7 @@ AESMIFNCHIRNDR-UPEZWMNSNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -162,12 +162,10 @@ AESMIFNCHIRNDR-UPEZWMNSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          560665,
+          560666
+        ]
       ],
       "mol": {
         "atoms": [
@@ -182,7 +180,7 @@ AESMIFNCHIRNDR-UPEZWMNSNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -438,12 +436,10 @@ AESMIFNCHIRNDR-UPEZWMNSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          560670,
+          560671
+        ]
       ],
       "mol": {
         "atoms": [
@@ -638,12 +634,10 @@ AESMIFNCHIRNDR-UPEZWMNSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          560675,
+          560676
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1334,18 +1328,14 @@ AESMIFNCHIRNDR-UPEZWMNSNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        24202,
-        23416
-      ]
-    },
-    {
-      "symIds": [
-        464031,
-        464037
-      ]
-    }
+    [
+      24202,
+      23416
+    ],
+    [
+      464031,
+      464037
+    ]
   ]
 }
 

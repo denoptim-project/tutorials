@@ -180,7 +180,7 @@ UTRLMYXFJBDODI-SCPKOMFYNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -201,12 +201,10 @@ UTRLMYXFJBDODI-SCPKOMFYNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          624579,
+          624580
+        ]
       ],
       "mol": {
         "atoms": [
@@ -221,7 +219,7 @@ UTRLMYXFJBDODI-SCPKOMFYNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -477,12 +475,10 @@ UTRLMYXFJBDODI-SCPKOMFYNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          624583,
+          624584
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1657,18 +1653,14 @@ UTRLMYXFJBDODI-SCPKOMFYNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        83988,
-        84114
-      ]
-    },
-    {
-      "symIds": [
-        565719,
-        565654
-      ]
-    }
+    [
+      83988,
+      84114
+    ],
+    [
+      565719,
+      565654
+    ]
   ]
 }
 

@@ -143,7 +143,7 @@ SANYGURLFHNPOX-JRJFIINWNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -164,12 +164,10 @@ SANYGURLFHNPOX-JRJFIINWNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          532039,
+          532040
+        ]
       ],
       "mol": {
         "atoms": [
@@ -184,7 +182,7 @@ SANYGURLFHNPOX-JRJFIINWNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -440,12 +438,10 @@ SANYGURLFHNPOX-JRJFIINWNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          532043,
+          532044
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1345,18 +1341,14 @@ SANYGURLFHNPOX-JRJFIINWNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        18807,
-        19580
-      ]
-    },
-    {
-      "symIds": [
-        422086,
-        422082
-      ]
-    }
+    [
+      18807,
+      19580
+    ],
+    [
+      422086,
+      422082
+    ]
   ]
 }
 

@@ -207,7 +207,7 @@ SMIDEBCSEHONHP-BYEHRLMENA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -228,12 +228,10 @@ SMIDEBCSEHONHP-BYEHRLMENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          288628,
+          288629
+        ]
       ],
       "mol": {
         "atoms": [
@@ -248,7 +246,7 @@ SMIDEBCSEHONHP-BYEHRLMENA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -504,18 +502,14 @@ SMIDEBCSEHONHP-BYEHRLMENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          288634,
+          288637
+        ],
+        [
+          288635,
+          288636
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1925,18 +1919,14 @@ SMIDEBCSEHONHP-BYEHRLMENA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        216861,
-        220974
-      ]
-    },
-    {
-      "symIds": [
-        216868,
-        220973
-      ]
-    }
+    [
+      216861,
+      220974
+    ],
+    [
+      216868,
+      220973
+    ]
   ]
 }
 

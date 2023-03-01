@@ -125,7 +125,7 @@ DDYOBNYNONYHLK-MGWPPEEKNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -146,12 +146,10 @@ DDYOBNYNONYHLK-MGWPPEEKNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          633077,
+          633078
+        ]
       ],
       "mol": {
         "atoms": [
@@ -166,7 +164,7 @@ DDYOBNYNONYHLK-MGWPPEEKNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -422,12 +420,10 @@ DDYOBNYNONYHLK-MGWPPEEKNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          633082,
+          633083
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1149,12 +1145,10 @@ DDYOBNYNONYHLK-MGWPPEEKNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        100251,
-        100267
-      ]
-    }
+    [
+      100251,
+      100267
+    ]
   ]
 }
 

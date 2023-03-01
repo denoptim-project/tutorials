@@ -200,7 +200,7 @@ JGSNDGCLNAQQAK-JFUCAKEDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -221,12 +221,10 @@ JGSNDGCLNAQQAK-JFUCAKEDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          151357,
+          151358
+        ]
       ],
       "mol": {
         "atoms": [
@@ -241,7 +239,7 @@ JGSNDGCLNAQQAK-JFUCAKEDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -512,18 +510,14 @@ JGSNDGCLNAQQAK-JFUCAKEDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          151361,
+          151363
+        ],
+        [
+          151364,
+          151365
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1776,18 +1770,14 @@ JGSNDGCLNAQQAK-JFUCAKEDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        115247,
-        114049
-      ]
-    },
-    {
-      "symIds": [
-        114059,
-        115246
-      ]
-    }
+    [
+      115247,
+      114049
+    ],
+    [
+      114059,
+      115246
+    ]
   ]
 }
 

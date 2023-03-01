@@ -153,7 +153,7 @@ OVLTXROIYBDUBH-BUNUUSCUNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -174,12 +174,10 @@ OVLTXROIYBDUBH-BUNUUSCUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          207393,
+          207394
+        ]
       ],
       "mol": {
         "atoms": [
@@ -194,7 +192,7 @@ OVLTXROIYBDUBH-BUNUUSCUNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -420,12 +418,10 @@ OVLTXROIYBDUBH-BUNUUSCUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          207399,
+          207400
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1331,12 +1327,10 @@ OVLTXROIYBDUBH-BUNUUSCUNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        158515,
-        158009
-      ]
-    }
+    [
+      158515,
+      158009
+    ]
   ]
 }
 

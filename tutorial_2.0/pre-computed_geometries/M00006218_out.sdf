@@ -174,7 +174,7 @@ LTTCAGZEBAIULT-PXIRUNHSNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -195,12 +195,10 @@ LTTCAGZEBAIULT-PXIRUNHSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          185153,
+          185154
+        ]
       ],
       "mol": {
         "atoms": [
@@ -215,7 +213,7 @@ LTTCAGZEBAIULT-PXIRUNHSNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -501,18 +499,14 @@ LTTCAGZEBAIULT-PXIRUNHSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          185159,
+          185162
+        ],
+        [
+          185160,
+          185161
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1615,18 +1609,14 @@ LTTCAGZEBAIULT-PXIRUNHSNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        139745,
-        141281
-      ]
-    },
-    {
-      "symIds": [
-        139750,
-        141282
-      ]
-    }
+    [
+      139745,
+      141281
+    ],
+    [
+      139750,
+      141282
+    ]
   ]
 }
 

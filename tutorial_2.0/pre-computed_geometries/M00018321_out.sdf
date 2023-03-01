@@ -188,7 +188,7 @@ LFQRLRDGFQPBAT-RJNKATDONA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -209,12 +209,10 @@ LFQRLRDGFQPBAT-RJNKATDONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          531315,
+          531316
+        ]
       ],
       "mol": {
         "atoms": [
@@ -229,7 +227,7 @@ LFQRLRDGFQPBAT-RJNKATDONA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -485,12 +483,10 @@ LFQRLRDGFQPBAT-RJNKATDONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          531319,
+          531320
+        ]
       ],
       "mol": {
         "atoms": [
@@ -624,12 +620,10 @@ LFQRLRDGFQPBAT-RJNKATDONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          531325,
+          531326
+        ]
       ],
       "mol": {
         "atoms": [
@@ -921,12 +915,10 @@ LFQRLRDGFQPBAT-RJNKATDONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          531329,
+          531330
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1851,20 +1843,16 @@ LFQRLRDGFQPBAT-RJNKATDONA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        18806,
-        19508
-      ]
-    },
-    {
-      "symIds": [
-        421143,
-        421251,
-        421252,
-        421250
-      ]
-    }
+    [
+      18806,
+      19508
+    ],
+    [
+      421143,
+      421251,
+      421252,
+      421250
+    ]
   ]
 }
 

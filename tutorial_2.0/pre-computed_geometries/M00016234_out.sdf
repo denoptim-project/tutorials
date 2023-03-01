@@ -134,7 +134,7 @@ KIGZJFRYOSRAMR-WXOWERALNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -155,12 +155,10 @@ KIGZJFRYOSRAMR-WXOWERALNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          468908,
+          468909
+        ]
       ],
       "mol": {
         "atoms": [
@@ -175,7 +173,7 @@ KIGZJFRYOSRAMR-WXOWERALNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -446,18 +444,14 @@ KIGZJFRYOSRAMR-WXOWERALNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          468912,
+          468913
+        ],
+        [
+          468915,
+          468916
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1219,18 +1213,14 @@ KIGZJFRYOSRAMR-WXOWERALNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        360037,
-        360002
-      ]
-    },
-    {
-      "symIds": [
-        360015,
-        360036
-      ]
-    }
+    [
+      360037,
+      360002
+    ],
+    [
+      360015,
+      360036
+    ]
   ]
 }
 

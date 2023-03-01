@@ -185,7 +185,7 @@ BHLYMAYIEKEEQY-PZUOWSNVNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -206,12 +206,10 @@ BHLYMAYIEKEEQY-PZUOWSNVNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          552950,
+          552951
+        ]
       ],
       "mol": {
         "atoms": [
@@ -226,7 +224,7 @@ BHLYMAYIEKEEQY-PZUOWSNVNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -421,12 +419,10 @@ BHLYMAYIEKEEQY-PZUOWSNVNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          552954,
+          552955
+        ]
       ],
       "mol": {
         "atoms": [
@@ -621,12 +617,10 @@ BHLYMAYIEKEEQY-PZUOWSNVNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          552960,
+          552961
+        ]
       ],
       "mol": {
         "atoms": [
@@ -709,12 +703,10 @@ BHLYMAYIEKEEQY-PZUOWSNVNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          552963,
+          552964
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1826,20 +1818,16 @@ BHLYMAYIEKEEQY-PZUOWSNVNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        291364,
-        290687
-      ]
-    },
-    {
-      "symIds": [
-        456828,
-        456830,
-        456710,
-        456829
-      ]
-    }
+    [
+      291364,
+      290687
+    ],
+    [
+      456828,
+      456830,
+      456710,
+      456829
+    ]
   ]
 }
 

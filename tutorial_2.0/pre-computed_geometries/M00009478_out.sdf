@@ -105,7 +105,7 @@ OONYIURULSNKEF-DLEFFLNSNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -126,12 +126,10 @@ OONYIURULSNKEF-DLEFFLNSNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          277420,
+          277421
+        ]
       ],
       "mol": {
         "atoms": [
@@ -146,7 +144,7 @@ OONYIURULSNKEF-DLEFFLNSNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -372,12 +370,10 @@ OONYIURULSNKEF-DLEFFLNSNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          277426,
+          277427
+        ]
       ],
       "mol": {
         "atoms": [
@@ -937,12 +933,10 @@ OONYIURULSNKEF-DLEFFLNSNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        211853,
-        212376
-      ]
-    }
+    [
+      211853,
+      212376
+    ]
   ]
 }
 

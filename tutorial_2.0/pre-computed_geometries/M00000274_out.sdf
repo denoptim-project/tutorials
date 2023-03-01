@@ -177,7 +177,7 @@ IVGUENWUJNOSSX-BSPCBUBVNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -198,12 +198,10 @@ IVGUENWUJNOSSX-BSPCBUBVNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          17136,
+          17137
+        ]
       ],
       "mol": {
         "atoms": [
@@ -218,7 +216,7 @@ IVGUENWUJNOSSX-BSPCBUBVNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -474,12 +472,10 @@ IVGUENWUJNOSSX-BSPCBUBVNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          17141,
+          17142
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1518,12 +1514,10 @@ IVGUENWUJNOSSX-BSPCBUBVNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        11854,
-        11463
-      ]
-    }
+    [
+      11854,
+      11463
+    ]
   ]
 }
 

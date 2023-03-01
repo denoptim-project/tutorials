@@ -183,7 +183,7 @@ VLAAFFADPIFSIU-UIKZBHLDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -204,12 +204,10 @@ VLAAFFADPIFSIU-UIKZBHLDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          73522,
+          73523
+        ]
       ],
       "mol": {
         "atoms": [
@@ -224,7 +222,7 @@ VLAAFFADPIFSIU-UIKZBHLDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -510,18 +508,14 @@ VLAAFFADPIFSIU-UIKZBHLDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          73528,
+          73531
+        ],
+        [
+          73529,
+          73530
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1691,18 +1685,14 @@ VLAAFFADPIFSIU-UIKZBHLDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        55300,
-        51457
-      ]
-    },
-    {
-      "symIds": [
-        55301,
-        51468
-      ]
-    }
+    [
+      55300,
+      51457
+    ],
+    [
+      55301,
+      51468
+    ]
   ]
 }
 

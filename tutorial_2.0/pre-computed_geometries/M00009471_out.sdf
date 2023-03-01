@@ -159,7 +159,7 @@ LSARSBZMGVDYCU-SKCYHNSPNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -180,12 +180,10 @@ LSARSBZMGVDYCU-SKCYHNSPNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          277252,
+          277253
+        ]
       ],
       "mol": {
         "atoms": [
@@ -200,7 +198,7 @@ LSARSBZMGVDYCU-SKCYHNSPNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -426,12 +424,10 @@ LSARSBZMGVDYCU-SKCYHNSPNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          277258,
+          277259
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1397,12 +1393,10 @@ LSARSBZMGVDYCU-SKCYHNSPNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        212250,
-        211852
-      ]
-    }
+    [
+      212250,
+      211852
+    ]
   ]
 }
 

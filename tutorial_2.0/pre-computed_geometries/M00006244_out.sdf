@@ -216,7 +216,7 @@ NLWIUYOBZZFTHI-ZBPARMIWNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -237,12 +237,10 @@ NLWIUYOBZZFTHI-ZBPARMIWNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          185985,
+          185986
+        ]
       ],
       "mol": {
         "atoms": [
@@ -257,7 +255,7 @@ NLWIUYOBZZFTHI-ZBPARMIWNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -543,18 +541,14 @@ NLWIUYOBZZFTHI-ZBPARMIWNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          185991,
+          185994
+        ],
+        [
+          185992,
+          185993
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1972,18 +1966,14 @@ NLWIUYOBZZFTHI-ZBPARMIWNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        139743,
-        141931
-      ]
-    },
-    {
-      "symIds": [
-        139752,
-        141932
-      ]
-    }
+    [
+      139743,
+      141931
+    ],
+    [
+      139752,
+      141932
+    ]
   ]
 }
 

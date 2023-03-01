@@ -140,7 +140,7 @@ KVAKRGAKVBQQNU-XITIRBODNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -161,12 +161,10 @@ KVAKRGAKVBQQNU-XITIRBODNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          21320,
+          21321
+        ]
       ],
       "mol": {
         "atoms": [
@@ -181,7 +179,7 @@ KVAKRGAKVBQQNU-XITIRBODNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -452,18 +450,14 @@ KVAKRGAKVBQQNU-XITIRBODNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          21325,
+          21328
+        ],
+        [
+          21326,
+          21327
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1268,18 +1262,14 @@ KVAKRGAKVBQQNU-XITIRBODNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        15177,
-        15243
-      ]
-    },
-    {
-      "symIds": [
-        15244,
-        15191
-      ]
-    }
+    [
+      15177,
+      15243
+    ],
+    [
+      15244,
+      15191
+    ]
   ]
 }
 

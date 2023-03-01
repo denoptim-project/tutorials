@@ -132,7 +132,7 @@ CZDZNHMKGCSHCT-KYLPIIEINA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -153,12 +153,10 @@ CZDZNHMKGCSHCT-KYLPIIEINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          105017,
+          105018
+        ]
       ],
       "mol": {
         "atoms": [
@@ -173,7 +171,7 @@ CZDZNHMKGCSHCT-KYLPIIEINA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -459,18 +457,14 @@ CZDZNHMKGCSHCT-KYLPIIEINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          105023,
+          105026
+        ],
+        [
+          105024,
+          105025
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1257,18 +1251,14 @@ CZDZNHMKGCSHCT-KYLPIIEINA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        77864,
-        79541
-      ]
-    },
-    {
-      "symIds": [
-        79542,
-        77868
-      ]
-    }
+    [
+      77864,
+      79541
+    ],
+    [
+      79542,
+      77868
+    ]
   ]
 }
 

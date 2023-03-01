@@ -117,7 +117,7 @@ PFQBXFYWEJYTIG-CEJINSIRNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -138,12 +138,10 @@ PFQBXFYWEJYTIG-CEJINSIRNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          133343,
+          133344
+        ]
       ],
       "mol": {
         "atoms": [
@@ -158,7 +156,7 @@ PFQBXFYWEJYTIG-CEJINSIRNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -414,12 +412,10 @@ PFQBXFYWEJYTIG-CEJINSIRNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          133349,
+          133350
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1024,12 +1020,10 @@ PFQBXFYWEJYTIG-CEJINSIRNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        101365,
-        101172
-      ]
-    }
+    [
+      101365,
+      101172
+    ]
   ]
 }
 

@@ -93,7 +93,7 @@ QRYCGFMIOTZKJS-CZTYJGKDNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -114,12 +114,10 @@ QRYCGFMIOTZKJS-CZTYJGKDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          29511,
+          29512
+        ]
       ],
       "mol": {
         "atoms": [
@@ -134,7 +132,7 @@ QRYCGFMIOTZKJS-CZTYJGKDNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -390,13 +388,11 @@ QRYCGFMIOTZKJS-CZTYJGKDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          29515,
+          29516,
+          29517
+        ]
       ],
       "mol": {
         "atoms": [
@@ -807,13 +803,11 @@ QRYCGFMIOTZKJS-CZTYJGKDNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        21369,
-        21384,
-        21385
-      ]
-    }
+    [
+      21369,
+      21384,
+      21385
+    ]
   ]
 }
 

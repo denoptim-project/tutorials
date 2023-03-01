@@ -139,7 +139,7 @@ XNZAAKYCXOUVFK-LRGSROHRNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -160,12 +160,10 @@ XNZAAKYCXOUVFK-LRGSROHRNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          255441,
+          255442
+        ]
       ],
       "mol": {
         "atoms": [
@@ -180,7 +178,7 @@ XNZAAKYCXOUVFK-LRGSROHRNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -436,12 +434,10 @@ XNZAAKYCXOUVFK-LRGSROHRNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          255449,
+          255450
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1342,12 +1338,10 @@ XNZAAKYCXOUVFK-LRGSROHRNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        195474,
-        194620
-      ]
-    }
+    [
+      195474,
+      194620
+    ]
   ]
 }
 

@@ -172,7 +172,7 @@ WJZLUIJIAGGUBU-CBLYZBKZNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -193,12 +193,10 @@ WJZLUIJIAGGUBU-CBLYZBKZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          569512,
+          569513
+        ]
       ],
       "mol": {
         "atoms": [
@@ -213,7 +211,7 @@ WJZLUIJIAGGUBU-CBLYZBKZNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -408,12 +406,10 @@ WJZLUIJIAGGUBU-CBLYZBKZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          569516,
+          569517
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1588,18 +1584,14 @@ WJZLUIJIAGGUBU-CBLYZBKZNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        304825,
-        304954
-      ]
-    },
-    {
-      "symIds": [
-        473472,
-        473537
-      ]
-    }
+    [
+      304825,
+      304954
+    ],
+    [
+      473472,
+      473537
+    ]
   ]
 }
 

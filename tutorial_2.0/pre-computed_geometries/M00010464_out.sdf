@@ -140,7 +140,7 @@ JNWGBAXYCKRWLF-DOEKJREFNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -161,12 +161,10 @@ JNWGBAXYCKRWLF-DOEKJREFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          306607,
+          306608
+        ]
       ],
       "mol": {
         "atoms": [
@@ -181,7 +179,7 @@ JNWGBAXYCKRWLF-DOEKJREFNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -407,12 +405,10 @@ JNWGBAXYCKRWLF-DOEKJREFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          306611,
+          306612
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1219,12 +1215,10 @@ JNWGBAXYCKRWLF-DOEKJREFNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        234914,
-        234826
-      ]
-    }
+    [
+      234914,
+      234826
+    ]
   ]
 }
 

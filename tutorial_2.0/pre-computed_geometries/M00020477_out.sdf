@@ -161,7 +161,7 @@ QITSMBKNVNXWCR-DIJBPIMUNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -182,12 +182,10 @@ QITSMBKNVNXWCR-DIJBPIMUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          598028,
+          598029
+        ]
       ],
       "mol": {
         "atoms": [
@@ -202,7 +200,7 @@ QITSMBKNVNXWCR-DIJBPIMUNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -458,12 +456,10 @@ QITSMBKNVNXWCR-DIJBPIMUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          598033,
+          598034
+        ]
       ],
       "mol": {
         "atoms": [
@@ -934,12 +930,10 @@ QITSMBKNVNXWCR-DIJBPIMUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          598039,
+          598040
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1518,18 +1512,14 @@ QITSMBKNVNXWCR-DIJBPIMUNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        380761,
-        379931
-      ]
-    },
-    {
-      "symIds": [
-        523821,
-        523815
-      ]
-    }
+    [
+      380761,
+      379931
+    ],
+    [
+      523821,
+      523815
+    ]
   ]
 }
 

@@ -182,7 +182,7 @@ CNZWDTVQTUMDQV-KTJKSDOJNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -203,12 +203,10 @@ CNZWDTVQTUMDQV-KTJKSDOJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          154287,
+          154288
+        ]
       ],
       "mol": {
         "atoms": [
@@ -223,7 +221,7 @@ CNZWDTVQTUMDQV-KTJKSDOJNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -524,20 +522,16 @@ CNZWDTVQTUMDQV-KTJKSDOJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          154291,
+          154292
+        ],
+        [
+          154294,
+          154295,
+          154296,
+          154297
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1740,20 +1734,16 @@ CNZWDTVQTUMDQV-KTJKSDOJNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        116964,
-        117591
-      ]
-    },
-    {
-      "symIds": [
-        117593,
-        117592,
-        116969,
-        117594
-      ]
-    }
+    [
+      116964,
+      117591
+    ],
+    [
+      117593,
+      117592,
+      116969,
+      117594
+    ]
   ]
 }
 

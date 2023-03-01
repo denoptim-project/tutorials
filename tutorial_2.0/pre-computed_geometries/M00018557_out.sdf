@@ -157,7 +157,7 @@ YIXDSUUPAVOYBU-DJSATUNGNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -178,12 +178,10 @@ YIXDSUUPAVOYBU-DJSATUNGNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          538481,
+          538482
+        ]
       ],
       "mol": {
         "atoms": [
@@ -198,7 +196,7 @@ YIXDSUUPAVOYBU-DJSATUNGNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -454,12 +452,10 @@ YIXDSUUPAVOYBU-DJSATUNGNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          538488,
+          538489
+        ]
       ],
       "mol": {
         "atoms": [
@@ -847,12 +843,10 @@ YIXDSUUPAVOYBU-DJSATUNGNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          538494,
+          538495
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1469,18 +1463,14 @@ YIXDSUUPAVOYBU-DJSATUNGNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        19720,
-        20521
-      ]
-    },
-    {
-      "symIds": [
-        430759,
-        430773
-      ]
-    }
+    [
+      19720,
+      20521
+    ],
+    [
+      430759,
+      430773
+    ]
   ]
 }
 

@@ -116,7 +116,7 @@ YPSHYPNHRPKLFE-BCPLIZQYNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -137,12 +137,10 @@ YPSHYPNHRPKLFE-BCPLIZQYNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          127393,
+          127394
+        ]
       ],
       "mol": {
         "atoms": [
@@ -157,7 +155,7 @@ YPSHYPNHRPKLFE-BCPLIZQYNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -413,12 +411,10 @@ YPSHYPNHRPKLFE-BCPLIZQYNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          127398,
+          127399
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1017,12 +1013,10 @@ YPSHYPNHRPKLFE-BCPLIZQYNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        96832,
-        96543
-      ]
-    }
+    [
+      96832,
+      96543
+    ]
   ]
 }
 

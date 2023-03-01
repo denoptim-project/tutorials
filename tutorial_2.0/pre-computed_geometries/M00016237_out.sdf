@@ -146,7 +146,7 @@ ROHLQPAFSWQAOB-ZUITUDPZNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -167,12 +167,10 @@ ROHLQPAFSWQAOB-ZUITUDPZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          468990,
+          468991
+        ]
       ],
       "mol": {
         "atoms": [
@@ -187,7 +185,7 @@ ROHLQPAFSWQAOB-ZUITUDPZNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -458,18 +456,14 @@ ROHLQPAFSWQAOB-ZUITUDPZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          468994,
+          468995
+        ],
+        [
+          468997,
+          468998
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1321,18 +1315,14 @@ ROHLQPAFSWQAOB-ZUITUDPZNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        360102,
-        360003
-      ]
-    },
-    {
-      "symIds": [
-        360015,
-        360101
-      ]
-    }
+    [
+      360102,
+      360003
+    ],
+    [
+      360015,
+      360101
+    ]
   ]
 }
 

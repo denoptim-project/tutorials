@@ -261,7 +261,7 @@ SBPLOZLSEHOFKD-VMPVOOMUNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -282,12 +282,10 @@ SBPLOZLSEHOFKD-VMPVOOMUNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          187329,
+          187330
+        ]
       ],
       "mol": {
         "atoms": [
@@ -302,7 +300,7 @@ SBPLOZLSEHOFKD-VMPVOOMUNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -588,18 +586,14 @@ SBPLOZLSEHOFKD-VMPVOOMUNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          187335,
+          187338
+        ],
+        [
+          187336,
+          187337
+        ]
       ],
       "mol": {
         "atoms": [
@@ -2353,18 +2347,14 @@ SBPLOZLSEHOFKD-VMPVOOMUNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        139744,
-        142982
-      ]
-    },
-    {
-      "symIds": [
-        142983,
-        139752
-      ]
-    }
+    [
+      139744,
+      142982
+    ],
+    [
+      142983,
+      139752
+    ]
   ]
 }
 

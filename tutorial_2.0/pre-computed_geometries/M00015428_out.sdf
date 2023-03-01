@@ -113,7 +113,7 @@ FAHLRFHXBALGBQ-IWCKLYLENA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -134,12 +134,10 @@ FAHLRFHXBALGBQ-IWCKLYLENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          446731,
+          446732
+        ]
       ],
       "mol": {
         "atoms": [
@@ -154,7 +152,7 @@ FAHLRFHXBALGBQ-IWCKLYLENA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -349,12 +347,10 @@ FAHLRFHXBALGBQ-IWCKLYLENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          446735,
+          446736
+        ]
       ],
       "mol": {
         "atoms": [
@@ -974,12 +970,10 @@ FAHLRFHXBALGBQ-IWCKLYLENA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        342637,
-        343039
-      ]
-    }
+    [
+      342637,
+      343039
+    ]
   ]
 }
 

@@ -133,7 +133,7 @@ ZCUHPMZFOBTUKP-XRPOIRKTNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -154,12 +154,10 @@ ZCUHPMZFOBTUKP-XRPOIRKTNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          90071,
+          90072
+        ]
       ],
       "mol": {
         "atoms": [
@@ -174,7 +172,7 @@ ZCUHPMZFOBTUKP-XRPOIRKTNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -430,12 +428,10 @@ ZCUHPMZFOBTUKP-XRPOIRKTNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          90075,
+          90076
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1147,12 +1143,10 @@ ZCUHPMZFOBTUKP-XRPOIRKTNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        68063,
-        68151
-      ]
-    }
+    [
+      68063,
+      68151
+    ]
   ]
 }
 

@@ -105,7 +105,7 @@ OXDIKAONISBELP-PUQSBMJTNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -126,12 +126,10 @@ OXDIKAONISBELP-PUQSBMJTNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          559045,
+          559046
+        ]
       ],
       "mol": {
         "atoms": [
@@ -146,7 +144,7 @@ OXDIKAONISBELP-PUQSBMJTNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -402,12 +400,10 @@ OXDIKAONISBELP-PUQSBMJTNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          559050,
+          559051
+        ]
       ],
       "mol": {
         "atoms": [
@@ -966,12 +962,10 @@ OXDIKAONISBELP-PUQSBMJTNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        294004,
-        293140
-      ]
-    }
+    [
+      294004,
+      293140
+    ]
   ]
 }
 

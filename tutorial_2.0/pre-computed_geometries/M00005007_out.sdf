@@ -198,7 +198,7 @@ BKQWUDRRRDRBSU-HBXVXYQLNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -219,12 +219,10 @@ BKQWUDRRRDRBSU-HBXVXYQLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          150909,
+          150910
+        ]
       ],
       "mol": {
         "atoms": [
@@ -239,7 +237,7 @@ BKQWUDRRRDRBSU-HBXVXYQLNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -510,18 +508,14 @@ BKQWUDRRRDRBSU-HBXVXYQLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          150913,
+          150915
+        ],
+        [
+          150916,
+          150917
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1760,18 +1754,14 @@ BKQWUDRRRDRBSU-HBXVXYQLNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        114894,
-        114047
-      ]
-    },
-    {
-      "symIds": [
-        114057,
-        114893
-      ]
-    }
+    [
+      114894,
+      114047
+    ],
+    [
+      114057,
+      114893
+    ]
   ]
 }
 

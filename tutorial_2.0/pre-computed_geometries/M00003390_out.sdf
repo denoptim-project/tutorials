@@ -168,7 +168,7 @@ PGGXBFSJVWDMGA-WHHTWIPZNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -189,12 +189,10 @@ PGGXBFSJVWDMGA-WHHTWIPZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          103929,
+          103930
+        ]
       ],
       "mol": {
         "atoms": [
@@ -209,7 +207,7 @@ PGGXBFSJVWDMGA-WHHTWIPZNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -495,18 +493,14 @@ PGGXBFSJVWDMGA-WHHTWIPZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          103935,
+          103938
+        ],
+        [
+          103936,
+          103937
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1562,18 +1556,14 @@ PGGXBFSJVWDMGA-WHHTWIPZNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        77864,
-        78691
-      ]
-    },
-    {
-      "symIds": [
-        77870,
-        78692
-      ]
-    }
+    [
+      77864,
+      78691
+    ],
+    [
+      77870,
+      78692
+    ]
   ]
 }
 

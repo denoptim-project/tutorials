@@ -200,7 +200,7 @@ RWTUZKLOQKPLHW-RPNUNWILNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -221,12 +221,10 @@ RWTUZKLOQKPLHW-RPNUNWILNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          531072,
+          531073
+        ]
       ],
       "mol": {
         "atoms": [
@@ -241,7 +239,7 @@ RWTUZKLOQKPLHW-RPNUNWILNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -497,12 +495,10 @@ RWTUZKLOQKPLHW-RPNUNWILNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          531076,
+          531077
+        ]
       ],
       "mol": {
         "atoms": [
@@ -636,12 +632,10 @@ RWTUZKLOQKPLHW-RPNUNWILNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          531082,
+          531083
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1023,12 +1017,10 @@ RWTUZKLOQKPLHW-RPNUNWILNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          531086,
+          531087
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1953,20 +1945,16 @@ RWTUZKLOQKPLHW-RPNUNWILNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        18806,
-        19491
-      ]
-    },
-    {
-      "symIds": [
-        420993,
-        420991,
-        420992,
-        420884
-      ]
-    }
+    [
+      18806,
+      19491
+    ],
+    [
+      420993,
+      420991,
+      420992,
+      420884
+    ]
   ]
 }
 

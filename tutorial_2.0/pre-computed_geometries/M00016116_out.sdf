@@ -123,7 +123,7 @@ XAUBDQQWMAGIOY-JKIBJELTNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -144,12 +144,10 @@ XAUBDQQWMAGIOY-JKIBJELTNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          465665,
+          465666
+        ]
       ],
       "mol": {
         "atoms": [
@@ -164,7 +162,7 @@ XAUBDQQWMAGIOY-JKIBJELTNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -389,14 +387,12 @@ XAUBDQQWMAGIOY-JKIBJELTNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3,
-            4,
-            5
-          ]
-        }
+        [
+          465671,
+          465672,
+          465673,
+          465674
+        ]
       ],
       "mol": {
         "atoms": [

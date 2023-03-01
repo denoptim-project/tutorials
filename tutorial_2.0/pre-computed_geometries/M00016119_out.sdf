@@ -142,7 +142,7 @@ HYSPSJMEDNEYAU-RCETZXQSNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -163,12 +163,10 @@ HYSPSJMEDNEYAU-RCETZXQSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          466057,
+          466058
+        ]
       ],
       "mol": {
         "atoms": [
@@ -183,7 +181,7 @@ HYSPSJMEDNEYAU-RCETZXQSNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -378,13 +376,11 @@ HYSPSJMEDNEYAU-RCETZXQSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          466061,
+          466062,
+          466063
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1221,13 +1217,11 @@ HYSPSJMEDNEYAU-RCETZXQSNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        357835,
-        357829,
-        357834
-      ]
-    }
+    [
+      357835,
+      357829,
+      357834
+    ]
   ]
 }
 

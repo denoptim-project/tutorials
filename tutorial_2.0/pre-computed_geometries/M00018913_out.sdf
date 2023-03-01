@@ -154,7 +154,7 @@ LIOVFMWNKDKHQP-GLHCELLYNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -175,12 +175,10 @@ LIOVFMWNKDKHQP-GLHCELLYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          549442,
+          549443
+        ]
       ],
       "mol": {
         "atoms": [
@@ -195,7 +193,7 @@ LIOVFMWNKDKHQP-GLHCELLYNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -390,12 +388,10 @@ LIOVFMWNKDKHQP-GLHCELLYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          549446,
+          549447
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1435,18 +1431,14 @@ LIOVFMWNKDKHQP-GLHCELLYNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        278673,
-        278508
-      ]
-    },
-    {
-      "symIds": [
-        449213,
-        449170
-      ]
-    }
+    [
+      278673,
+      278508
+    ],
+    [
+      449213,
+      449170
+    ]
   ]
 }
 

@@ -135,7 +135,7 @@ BRPJOOJOPOPAOO-RKQHCDSXNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -156,12 +156,10 @@ BRPJOOJOPOPAOO-RKQHCDSXNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          110195,
+          110196
+        ]
       ],
       "mol": {
         "atoms": [
@@ -176,7 +174,7 @@ BRPJOOJOPOPAOO-RKQHCDSXNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }

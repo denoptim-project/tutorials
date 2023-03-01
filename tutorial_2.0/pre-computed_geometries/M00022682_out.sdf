@@ -117,7 +117,7 @@ SVPPGAMCNMSPHA-LOIWXIAINA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -138,12 +138,10 @@ SVPPGAMCNMSPHA-LOIWXIAINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          665613,
+          665614
+        ]
       ],
       "mol": {
         "atoms": [
@@ -158,7 +156,7 @@ SVPPGAMCNMSPHA-LOIWXIAINA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -414,12 +412,10 @@ SVPPGAMCNMSPHA-LOIWXIAINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          665617,
+          665618
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1123,18 +1119,14 @@ SVPPGAMCNMSPHA-LOIWXIAINA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        193428,
-        193441
-      ]
-    },
-    {
-      "symIds": [
-        637441,
-        637423
-      ]
-    }
+    [
+      193428,
+      193441
+    ],
+    [
+      637441,
+      637423
+    ]
   ]
 }
 

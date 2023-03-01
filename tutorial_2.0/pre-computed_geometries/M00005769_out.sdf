@@ -154,7 +154,7 @@ MWSZMUVAAGCUBE-DJQKYUEINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -175,12 +175,10 @@ MWSZMUVAAGCUBE-DJQKYUEINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          171306,
+          171307
+        ]
       ],
       "mol": {
         "atoms": [
@@ -195,7 +193,7 @@ MWSZMUVAAGCUBE-DJQKYUEINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -481,18 +479,14 @@ MWSZMUVAAGCUBE-DJQKYUEINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          171312,
+          171315
+        ],
+        [
+          171313,
+          171314
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1445,18 +1439,14 @@ MWSZMUVAAGCUBE-DJQKYUEINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        130640,
-        128791
-      ]
-    },
-    {
-      "symIds": [
-        130641,
-        128801
-      ]
-    }
+    [
+      130640,
+      128791
+    ],
+    [
+      130641,
+      128801
+    ]
   ]
 }
 

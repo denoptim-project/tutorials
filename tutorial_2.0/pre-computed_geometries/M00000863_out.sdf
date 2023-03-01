@@ -180,7 +180,7 @@ IPDMWVWXXFNABR-OMGSGAFFNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -201,12 +201,10 @@ IPDMWVWXXFNABR-OMGSGAFFNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          33037,
+          33038
+        ]
       ],
       "mol": {
         "atoms": [
@@ -221,7 +219,7 @@ IPDMWVWXXFNABR-OMGSGAFFNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -477,12 +475,10 @@ IPDMWVWXXFNABR-OMGSGAFFNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          33042,
+          33043
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1544,12 +1540,10 @@ IPDMWVWXXFNABR-OMGSGAFFNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        23417,
-        24079
-      ]
-    }
+    [
+      23417,
+      24079
+    ]
   ]
 }
 

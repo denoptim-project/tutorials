@@ -145,7 +145,7 @@ MYWFTRNDSQQHCS-GVMONPRINA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -166,12 +166,10 @@ MYWFTRNDSQQHCS-GVMONPRINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          627893,
+          627894
+        ]
       ],
       "mol": {
         "atoms": [
@@ -186,7 +184,7 @@ MYWFTRNDSQQHCS-GVMONPRINA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -442,12 +440,10 @@ MYWFTRNDSQQHCS-GVMONPRINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          627897,
+          627898
+        ]
       ],
       "mol": {
         "atoms": [
@@ -754,12 +750,10 @@ MYWFTRNDSQQHCS-GVMONPRINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          627904,
+          627905
+        ]
       ],
       "mol": {
         "atoms": [
@@ -842,12 +836,10 @@ MYWFTRNDSQQHCS-GVMONPRINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          627907,
+          627908
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1504,20 +1496,16 @@ MYWFTRNDSQQHCS-GVMONPRINA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        96287,
-        95627
-      ]
-    },
-    {
-      "symIds": [
-        572368,
-        572367,
-        572366,
-        572332
-      ]
-    }
+    [
+      96287,
+      95627
+    ],
+    [
+      572368,
+      572367,
+      572366,
+      572332
+    ]
   ]
 }
 

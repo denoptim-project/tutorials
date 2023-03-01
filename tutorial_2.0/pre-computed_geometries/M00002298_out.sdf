@@ -225,7 +225,7 @@ GGRCBRAHINGEEZ-VXFHFYLZNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -246,12 +246,10 @@ GGRCBRAHINGEEZ-VXFHFYLZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          74066,
+          74067
+        ]
       ],
       "mol": {
         "atoms": [
@@ -266,7 +264,7 @@ GGRCBRAHINGEEZ-VXFHFYLZNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -552,18 +550,14 @@ GGRCBRAHINGEEZ-VXFHFYLZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          74072,
+          74075
+        ],
+        [
+          74073,
+          74074
+        ]
       ],
       "mol": {
         "atoms": [
@@ -2047,18 +2041,14 @@ GGRCBRAHINGEEZ-VXFHFYLZNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        55725,
-        51460
-      ]
-    },
-    {
-      "symIds": [
-        55726,
-        51467
-      ]
-    }
+    [
+      55725,
+      51460
+    ],
+    [
+      55726,
+      51467
+    ]
   ]
 }
 

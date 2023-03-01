@@ -122,7 +122,7 @@ MIDHWOWEUDKTIQ-GFJIFYAENA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -143,12 +143,10 @@ MIDHWOWEUDKTIQ-GFJIFYAENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          545401,
+          545402
+        ]
       ],
       "mol": {
         "atoms": [
@@ -163,7 +161,7 @@ MIDHWOWEUDKTIQ-GFJIFYAENA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -358,12 +356,10 @@ MIDHWOWEUDKTIQ-GFJIFYAENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          545406,
+          545407
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1108,12 +1104,10 @@ MIDHWOWEUDKTIQ-GFJIFYAENA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        269249,
-        269223
-      ]
-    }
+    [
+      269249,
+      269223
+    ]
   ]
 }
 

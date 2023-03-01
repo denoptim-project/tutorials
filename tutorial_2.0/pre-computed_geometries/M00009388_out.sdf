@@ -147,7 +147,7 @@ OMBOPTRYBOXNRX-LZPVHSPWNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -168,12 +168,10 @@ OMBOPTRYBOXNRX-LZPVHSPWNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          275268,
+          275269
+        ]
       ],
       "mol": {
         "atoms": [
@@ -188,7 +186,7 @@ OMBOPTRYBOXNRX-LZPVHSPWNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -414,12 +412,10 @@ OMBOPTRYBOXNRX-LZPVHSPWNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          275272,
+          275273
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1296,12 +1292,10 @@ OMBOPTRYBOXNRX-LZPVHSPWNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        210507,
-        210733
-      ]
-    }
+    [
+      210507,
+      210733
+    ]
   ]
 }
 

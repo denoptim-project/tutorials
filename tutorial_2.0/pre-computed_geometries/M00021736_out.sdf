@@ -191,7 +191,7 @@ PCKMTXAIHXGABU-JSEVITEGNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -212,12 +212,10 @@ PCKMTXAIHXGABU-JSEVITEGNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          636203,
+          636204
+        ]
       ],
       "mol": {
         "atoms": [
@@ -232,7 +230,7 @@ PCKMTXAIHXGABU-JSEVITEGNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -488,13 +486,11 @@ PCKMTXAIHXGABU-JSEVITEGNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          636207,
+          636208,
+          636209
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1806,20 +1802,16 @@ PCKMTXAIHXGABU-JSEVITEGNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        108131,
-        108137,
-        108138
-      ]
-    },
-    {
-      "symIds": [
-        582533,
-        582532,
-        582364
-      ]
-    }
+    [
+      108131,
+      108137,
+      108138
+    ],
+    [
+      582533,
+      582532,
+      582364
+    ]
   ]
 }
 

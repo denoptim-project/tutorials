@@ -102,7 +102,7 @@ HUXXWWGFELCVJI-MXHAUEOMNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -123,12 +123,10 @@ HUXXWWGFELCVJI-MXHAUEOMNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          266443,
+          266444
+        ]
       ],
       "mol": {
         "atoms": [
@@ -143,7 +141,7 @@ HUXXWWGFELCVJI-MXHAUEOMNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -369,12 +367,10 @@ HUXXWWGFELCVJI-MXHAUEOMNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          266449,
+          266450
+        ]
       ],
       "mol": {
         "atoms": [
@@ -912,12 +908,10 @@ HUXXWWGFELCVJI-MXHAUEOMNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        203695,
-        204060
-      ]
-    }
+    [
+      203695,
+      204060
+    ]
   ]
 }
 

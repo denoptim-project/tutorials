@@ -135,7 +135,7 @@ FNMWBUPANVHRSW-CDDCIHFPNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -156,12 +156,10 @@ FNMWBUPANVHRSW-CDDCIHFPNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          596986,
+          596987
+        ]
       ],
       "mol": {
         "atoms": [
@@ -176,7 +174,7 @@ FNMWBUPANVHRSW-CDDCIHFPNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -432,12 +430,10 @@ FNMWBUPANVHRSW-CDDCIHFPNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          596991,
+          596992
+        ]
       ],
       "mol": {
         "atoms": [
@@ -602,12 +598,10 @@ FNMWBUPANVHRSW-CDDCIHFPNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          596996,
+          596997
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1298,18 +1292,14 @@ FNMWBUPANVHRSW-CDDCIHFPNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        380653,
-        379925
-      ]
-    },
-    {
-      "symIds": [
-        523050,
-        522973
-      ]
-    }
+    [
+      380653,
+      379925
+    ],
+    [
+      523050,
+      522973
+    ]
   ]
 }
 

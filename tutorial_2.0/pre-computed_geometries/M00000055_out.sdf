@@ -152,7 +152,7 @@ ZDEGFUJKWYPOEE-RJVUVXTRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -173,12 +173,10 @@ ZDEGFUJKWYPOEE-RJVUVXTRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          10508,
+          10509
+        ]
       ],
       "mol": {
         "atoms": [
@@ -193,7 +191,7 @@ ZDEGFUJKWYPOEE-RJVUVXTRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -449,13 +447,11 @@ ZDEGFUJKWYPOEE-RJVUVXTRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          10512,
+          10513,
+          10514
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1323,13 +1319,11 @@ ZDEGFUJKWYPOEE-RJVUVXTRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        6834,
-        6840,
-        6839
-      ]
-    }
+    [
+      6834,
+      6840,
+      6839
+    ]
   ]
 }
 

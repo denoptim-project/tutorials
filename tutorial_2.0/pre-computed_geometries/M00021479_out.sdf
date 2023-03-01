@@ -130,7 +130,7 @@ HTYDNOSBQZXHOC-KYRPTPEDNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -151,12 +151,10 @@ HTYDNOSBQZXHOC-KYRPTPEDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          628582,
+          628583
+        ]
       ],
       "mol": {
         "atoms": [
@@ -171,7 +169,7 @@ HTYDNOSBQZXHOC-KYRPTPEDNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -427,12 +425,10 @@ HTYDNOSBQZXHOC-KYRPTPEDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          628586,
+          628587
+        ]
       ],
       "mol": {
         "atoms": [
@@ -806,12 +802,10 @@ HTYDNOSBQZXHOC-KYRPTPEDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          628593,
+          628594
+        ]
       ],
       "mol": {
         "atoms": [
@@ -894,12 +888,10 @@ HTYDNOSBQZXHOC-KYRPTPEDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          628596,
+          628597
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1376,20 +1368,16 @@ HTYDNOSBQZXHOC-KYRPTPEDNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        96341,
-        95627
-      ]
-    },
-    {
-      "symIds": [
-        572906,
-        572905,
-        572904,
-        572898
-      ]
-    }
+    [
+      96341,
+      95627
+    ],
+    [
+      572906,
+      572905,
+      572904,
+      572898
+    ]
   ]
 }
 

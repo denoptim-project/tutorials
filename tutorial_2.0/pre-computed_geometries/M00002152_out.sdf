@@ -180,7 +180,7 @@ YGKVLYVKAVFGPC-SBFIKTIANA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -201,12 +201,10 @@ YGKVLYVKAVFGPC-SBFIKTIANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          69426,
+          69427
+        ]
       ],
       "mol": {
         "atoms": [
@@ -221,7 +219,7 @@ YGKVLYVKAVFGPC-SBFIKTIANA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -507,18 +505,14 @@ YGKVLYVKAVFGPC-SBFIKTIANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          69432,
+          69435
+        ],
+        [
+          69433,
+          69434
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1666,18 +1660,14 @@ YGKVLYVKAVFGPC-SBFIKTIANA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        51460,
-        52099
-      ]
-    },
-    {
-      "symIds": [
-        52100,
-        51466
-      ]
-    }
+    [
+      51460,
+      52099
+    ],
+    [
+      52100,
+      51466
+    ]
   ]
 }
 

@@ -126,7 +126,7 @@ YERZBEGYQNRALR-WPYGQUSWNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -147,12 +147,10 @@ YERZBEGYQNRALR-WPYGQUSWNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          110559,
+          110560
+        ]
       ],
       "mol": {
         "atoms": [
@@ -167,7 +165,7 @@ YERZBEGYQNRALR-WPYGQUSWNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -453,14 +451,12 @@ YERZBEGYQNRALR-WPYGQUSWNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3,
-            4,
-            5
-          ]
-        }
+        [
+          110565,
+          110566,
+          110567,
+          110568
+        ]
       ],
       "mol": {
         "atoms": [

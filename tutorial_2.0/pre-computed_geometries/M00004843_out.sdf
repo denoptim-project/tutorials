@@ -168,7 +168,7 @@ LSVDVDYCSZIDGZ-NEEPMMGONA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -189,12 +189,10 @@ LSVDVDYCSZIDGZ-NEEPMMGONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          146110,
+          146111
+        ]
       ],
       "mol": {
         "atoms": [
@@ -209,7 +207,7 @@ LSVDVDYCSZIDGZ-NEEPMMGONA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -495,12 +493,10 @@ LSVDVDYCSZIDGZ-NEEPMMGONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          146118,
+          146119
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1557,12 +1553,10 @@ LSVDVDYCSZIDGZ-NEEPMMGONA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        109161,
-        111219
-      ]
-    }
+    [
+      109161,
+      111219
+    ]
   ]
 }
 

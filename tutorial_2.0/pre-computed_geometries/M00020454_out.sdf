@@ -141,7 +141,7 @@ NBJGZAXWFBCTJH-JUAOJHIANA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -162,12 +162,10 @@ NBJGZAXWFBCTJH-JUAOJHIANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          597280,
+          597281
+        ]
       ],
       "mol": {
         "atoms": [
@@ -182,7 +180,7 @@ NBJGZAXWFBCTJH-JUAOJHIANA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -438,12 +436,10 @@ NBJGZAXWFBCTJH-JUAOJHIANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          597285,
+          597286
+        ]
       ],
       "mol": {
         "atoms": [
@@ -608,12 +604,10 @@ NBJGZAXWFBCTJH-JUAOJHIANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          597290,
+          597291
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1350,18 +1344,14 @@ NBJGZAXWFBCTJH-JUAOJHIANA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        380696,
-        379927
-      ]
-    },
-    {
-      "symIds": [
-        523243,
-        523269
-      ]
-    }
+    [
+      380696,
+      379927
+    ],
+    [
+      523243,
+      523269
+    ]
   ]
 }
 

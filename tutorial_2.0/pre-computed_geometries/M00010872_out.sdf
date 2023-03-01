@@ -112,7 +112,7 @@ AJKGEEFCYYVTCC-IRPAPGIUNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -133,12 +133,10 @@ AJKGEEFCYYVTCC-IRPAPGIUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          317545,
+          317546
+        ]
       ],
       "mol": {
         "atoms": [
@@ -153,7 +151,7 @@ AJKGEEFCYYVTCC-IRPAPGIUNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -379,12 +377,10 @@ AJKGEEFCYYVTCC-IRPAPGIUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          317551,
+          317552
+        ]
       ],
       "mol": {
         "atoms": [
@@ -983,12 +979,10 @@ AJKGEEFCYYVTCC-IRPAPGIUNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        243285,
-        243262
-      ]
-    }
+    [
+      243285,
+      243262
+    ]
   ]
 }
 

@@ -195,7 +195,7 @@ KZGHDJCXRGDRTA-VOIDSRDENA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -216,12 +216,10 @@ KZGHDJCXRGDRTA-VOIDSRDENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          107593,
+          107594
+        ]
       ],
       "mol": {
         "atoms": [
@@ -236,7 +234,7 @@ KZGHDJCXRGDRTA-VOIDSRDENA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -522,18 +520,14 @@ KZGHDJCXRGDRTA-VOIDSRDENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          107599,
+          107602
+        ],
+        [
+          107600,
+          107601
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1793,18 +1787,14 @@ KZGHDJCXRGDRTA-VOIDSRDENA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        77859,
-        81551
-      ]
-    },
-    {
-      "symIds": [
-        81552,
-        77870
-      ]
-    }
+    [
+      77859,
+      81551
+    ],
+    [
+      81552,
+      77870
+    ]
   ]
 }
 

@@ -146,7 +146,7 @@ DURSTSUXVXOXKT-DAWPNRLRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -167,12 +167,10 @@ DURSTSUXVXOXKT-DAWPNRLRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          526110,
+          526111
+        ]
       ],
       "mol": {
         "atoms": [
@@ -187,7 +185,7 @@ DURSTSUXVXOXKT-DAWPNRLRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -413,12 +411,10 @@ DURSTSUXVXOXKT-DAWPNRLRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          526116,
+          526117
+        ]
       ],
       "mol": {
         "atoms": [
@@ -761,12 +757,10 @@ DURSTSUXVXOXKT-DAWPNRLRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          526123,
+          526124
+        ]
       ],
       "mol": {
         "atoms": [
@@ -849,12 +843,10 @@ DURSTSUXVXOXKT-DAWPNRLRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          526126,
+          526127
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1511,20 +1503,16 @@ DURSTSUXVXOXKT-DAWPNRLRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        234831,
-        235544
-      ]
-    },
-    {
-      "symIds": [
-        415986,
-        415987,
-        415959,
-        415988
-      ]
-    }
+    [
+      234831,
+      235544
+    ],
+    [
+      415986,
+      415987,
+      415959,
+      415988
+    ]
   ]
 }
 

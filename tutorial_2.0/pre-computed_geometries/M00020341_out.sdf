@@ -135,7 +135,7 @@ DQBPVRUOJAVOCN-AFYPSTRNNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -156,12 +156,10 @@ DQBPVRUOJAVOCN-AFYPSTRNNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          593306,
+          593307
+        ]
       ],
       "mol": {
         "atoms": [
@@ -176,7 +174,7 @@ DQBPVRUOJAVOCN-AFYPSTRNNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -432,12 +430,10 @@ DQBPVRUOJAVOCN-AFYPSTRNNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          593310,
+          593311
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1276,18 +1272,14 @@ DQBPVRUOJAVOCN-AFYPSTRNNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        366820,
-        366907
-      ]
-    },
-    {
-      "symIds": [
-        515014,
-        515039
-      ]
-    }
+    [
+      366820,
+      366907
+    ],
+    [
+      515014,
+      515039
+    ]
   ]
 }
 

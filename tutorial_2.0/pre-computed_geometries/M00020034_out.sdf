@@ -146,7 +146,7 @@ HRPVTLLCORMGMP-HRYYAWDMNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -167,12 +167,10 @@ HRPVTLLCORMGMP-HRYYAWDMNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          584593,
+          584594
+        ]
       ],
       "mol": {
         "atoms": [
@@ -187,7 +185,7 @@ HRPVTLLCORMGMP-HRYYAWDMNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -382,12 +380,10 @@ HRPVTLLCORMGMP-HRYYAWDMNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          584598,
+          584599
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1311,12 +1307,10 @@ HRPVTLLCORMGMP-HRYYAWDMNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        343545,
-        344503
-      ]
-    }
+    [
+      343545,
+      344503
+    ]
   ]
 }
 

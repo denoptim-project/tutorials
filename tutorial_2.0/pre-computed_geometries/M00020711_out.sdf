@@ -126,7 +126,7 @@ YTZVGEHWATYGKO-CJBANQATNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -147,12 +147,10 @@ YTZVGEHWATYGKO-CJBANQATNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          604843,
+          604844
+        ]
       ],
       "mol": {
         "atoms": [
@@ -167,7 +165,7 @@ YTZVGEHWATYGKO-CJBANQATNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -423,12 +421,10 @@ YTZVGEHWATYGKO-CJBANQATNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          604847,
+          604848
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1214,18 +1210,14 @@ YTZVGEHWATYGKO-CJBANQATNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        393914,
-        393803
-      ]
-    },
-    {
-      "symIds": [
-        533735,
-        533760
-      ]
-    }
+    [
+      393914,
+      393803
+    ],
+    [
+      533735,
+      533760
+    ]
   ]
 }
 

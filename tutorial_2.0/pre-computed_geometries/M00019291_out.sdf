@@ -176,7 +176,7 @@ HNHZMMNYSKQDAG-HMEXYONPNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -197,12 +197,10 @@ HNHZMMNYSKQDAG-HMEXYONPNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          561889,
+          561890
+        ]
       ],
       "mol": {
         "atoms": [
@@ -217,7 +215,7 @@ HNHZMMNYSKQDAG-HMEXYONPNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -412,12 +410,10 @@ HNHZMMNYSKQDAG-HMEXYONPNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          561894,
+          561895
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1566,12 +1562,10 @@ HNHZMMNYSKQDAG-HMEXYONPNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        296381,
-        296321
-      ]
-    }
+    [
+      296381,
+      296321
+    ]
   ]
 }
 

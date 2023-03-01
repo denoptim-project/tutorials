@@ -127,7 +127,7 @@ AWAMIRSDSZMPPR-OVQUAQFZNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -148,12 +148,10 @@ AWAMIRSDSZMPPR-OVQUAQFZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          605135,
+          605136
+        ]
       ],
       "mol": {
         "atoms": [
@@ -168,7 +166,7 @@ AWAMIRSDSZMPPR-OVQUAQFZNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -424,12 +422,10 @@ AWAMIRSDSZMPPR-OVQUAQFZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          605139,
+          605140
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1222,18 +1218,14 @@ AWAMIRSDSZMPPR-OVQUAQFZNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        393803,
-        393950
-      ]
-    },
-    {
-      "symIds": [
-        533977,
-        533972
-      ]
-    }
+    [
+      393803,
+      393950
+    ],
+    [
+      533977,
+      533972
+    ]
   ]
 }
 

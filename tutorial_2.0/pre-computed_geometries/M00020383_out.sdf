@@ -127,7 +127,7 @@ NBQSKARYQGDJKU-RKTKYRQZNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -148,12 +148,10 @@ NBQSKARYQGDJKU-RKTKYRQZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          594723,
+          594724
+        ]
       ],
       "mol": {
         "atoms": [
@@ -168,7 +166,7 @@ NBQSKARYQGDJKU-RKTKYRQZNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -424,12 +422,10 @@ NBQSKARYQGDJKU-RKTKYRQZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          594727,
+          594728
+        ]
       ],
       "mol": {
         "atoms": [
@@ -594,12 +590,10 @@ NBQSKARYQGDJKU-RKTKYRQZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          594733,
+          594734
+        ]
       ],
       "mol": {
         "atoms": [
@@ -682,12 +676,10 @@ NBQSKARYQGDJKU-RKTKYRQZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          594736,
+          594737
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1351,20 +1343,16 @@ NBQSKARYQGDJKU-RKTKYRQZNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        379700,
-        379016
-      ]
-    },
-    {
-      "symIds": [
-        521009,
-        521008,
-        521010,
-        521002
-      ]
-    }
+    [
+      379700,
+      379016
+    ],
+    [
+      521009,
+      521008,
+      521010,
+      521002
+    ]
   ]
 }
 

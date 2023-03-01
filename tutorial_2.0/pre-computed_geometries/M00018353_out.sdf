@@ -170,7 +170,7 @@ ZOMWKAXVUWWPOI-DVDLXPAONA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -191,12 +191,10 @@ ZOMWKAXVUWWPOI-DVDLXPAONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          532477,
+          532478
+        ]
       ],
       "mol": {
         "atoms": [
@@ -211,7 +209,7 @@ ZOMWKAXVUWWPOI-DVDLXPAONA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -467,12 +465,10 @@ ZOMWKAXVUWWPOI-DVDLXPAONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          532481,
+          532482
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1573,18 +1569,14 @@ ZOMWKAXVUWWPOI-DVDLXPAONA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        18807,
-        19634
-      ]
-    },
-    {
-      "symIds": [
-        422585,
-        422620
-      ]
-    }
+    [
+      18807,
+      19634
+    ],
+    [
+      422585,
+      422620
+    ]
   ]
 }
 

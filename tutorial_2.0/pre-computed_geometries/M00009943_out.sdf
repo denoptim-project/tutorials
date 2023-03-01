@@ -144,7 +144,7 @@ ARKKJOSCFSKUKD-FGKASDDMNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -165,12 +165,10 @@ ARKKJOSCFSKUKD-FGKASDDMNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          291786,
+          291787
+        ]
       ],
       "mol": {
         "atoms": [
@@ -185,7 +183,7 @@ ARKKJOSCFSKUKD-FGKASDDMNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -396,12 +394,10 @@ ARKKJOSCFSKUKD-FGKASDDMNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          291790,
+          291791
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1197,12 +1193,10 @@ ARKKJOSCFSKUKD-FGKASDDMNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        223418,
-        223313
-      ]
-    }
+    [
+      223418,
+      223313
+    ]
   ]
 }
 

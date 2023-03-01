@@ -129,7 +129,7 @@ ZDIUFTWGYXGUOA-CYZRXAADNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -150,12 +150,10 @@ ZDIUFTWGYXGUOA-CYZRXAADNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          591406,
+          591407
+        ]
       ],
       "mol": {
         "atoms": [
@@ -170,7 +168,7 @@ ZDIUFTWGYXGUOA-CYZRXAADNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -365,12 +363,10 @@ ZDIUFTWGYXGUOA-CYZRXAADNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          591410,
+          591411
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1222,18 +1218,14 @@ ZDIUFTWGYXGUOA-CYZRXAADNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        357769,
-        357622
-      ]
-    },
-    {
-      "symIds": [
-        510003,
-        510028
-      ]
-    }
+    [
+      357769,
+      357622
+    ],
+    [
+      510003,
+      510028
+    ]
   ]
 }
 

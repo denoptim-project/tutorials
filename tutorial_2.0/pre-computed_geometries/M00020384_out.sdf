@@ -151,7 +151,7 @@ OAXWERNJLUIPMQ-ZOVQJSRENA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -172,12 +172,10 @@ OAXWERNJLUIPMQ-ZOVQJSRENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          594763,
+          594764
+        ]
       ],
       "mol": {
         "atoms": [
@@ -192,7 +190,7 @@ OAXWERNJLUIPMQ-ZOVQJSRENA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -448,12 +446,10 @@ OAXWERNJLUIPMQ-ZOVQJSRENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          594767,
+          594768
+        ]
       ],
       "mol": {
         "atoms": [
@@ -618,12 +614,10 @@ OAXWERNJLUIPMQ-ZOVQJSRENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          594773,
+          594774
+        ]
       ],
       "mol": {
         "atoms": [
@@ -706,12 +700,10 @@ OAXWERNJLUIPMQ-ZOVQJSRENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          594776,
+          594777
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1555,20 +1547,16 @@ OAXWERNJLUIPMQ-ZOVQJSRENA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        379700,
-        379016
-      ]
-    },
-    {
-      "symIds": [
-        521039,
-        521040,
-        521038,
-        521003
-      ]
-    }
+    [
+      379700,
+      379016
+    ],
+    [
+      521039,
+      521040,
+      521038,
+      521003
+    ]
   ]
 }
 

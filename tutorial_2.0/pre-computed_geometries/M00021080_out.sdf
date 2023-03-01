@@ -172,7 +172,7 @@ CFQAVDMGRWKYRO-OPWNVBRONA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -193,12 +193,10 @@ CFQAVDMGRWKYRO-OPWNVBRONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          616622,
+          616623
+        ]
       ],
       "mol": {
         "atoms": [
@@ -213,7 +211,7 @@ CFQAVDMGRWKYRO-OPWNVBRONA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -469,12 +467,10 @@ CFQAVDMGRWKYRO-OPWNVBRONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          616626,
+          616627
+        ]
       ],
       "mol": {
         "atoms": [
@@ -669,12 +665,10 @@ CFQAVDMGRWKYRO-OPWNVBRONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          616632,
+          616633
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1056,12 +1050,10 @@ CFQAVDMGRWKYRO-OPWNVBRONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          616636,
+          616637
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1718,20 +1710,16 @@ CFQAVDMGRWKYRO-OPWNVBRONA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        69704,
-        68972
-      ]
-    },
-    {
-      "symIds": [
-        554988,
-        554986,
-        554987,
-        554952
-      ]
-    }
+    [
+      69704,
+      68972
+    ],
+    [
+      554988,
+      554986,
+      554987,
+      554952
+    ]
   ]
 }
 

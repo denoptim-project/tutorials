@@ -113,7 +113,7 @@ AZLKJNNPQKTPRI-NIERBHIINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -134,12 +134,10 @@ AZLKJNNPQKTPRI-NIERBHIINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          63152,
+          63153
+        ]
       ],
       "mol": {
         "atoms": [
@@ -154,7 +152,7 @@ AZLKJNNPQKTPRI-NIERBHIINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -410,12 +408,10 @@ AZLKJNNPQKTPRI-NIERBHIINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          63156,
+          63157
+        ]
       ],
       "mol": {
         "atoms": [
@@ -977,12 +973,10 @@ AZLKJNNPQKTPRI-NIERBHIINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        47239,
-        47297
-      ]
-    }
+    [
+      47239,
+      47297
+    ]
   ]
 }
 

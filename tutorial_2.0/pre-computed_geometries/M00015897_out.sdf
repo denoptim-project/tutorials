@@ -140,7 +140,7 @@ JDNCOCCLOUPSNU-QWLBTTHRNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -161,12 +161,10 @@ JDNCOCCLOUPSNU-QWLBTTHRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          459049,
+          459050
+        ]
       ],
       "mol": {
         "atoms": [
@@ -181,7 +179,7 @@ JDNCOCCLOUPSNU-QWLBTTHRNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -406,18 +404,14 @@ JDNCOCCLOUPSNU-QWLBTTHRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          459055,
+          459058
+        ],
+        [
+          459056,
+          459057
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1325,18 +1319,14 @@ JDNCOCCLOUPSNU-QWLBTTHRNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        351314,
-        352394
-      ]
-    },
-    {
-      "symIds": [
-        351322,
-        352395
-      ]
-    }
+    [
+      351314,
+      352394
+    ],
+    [
+      351322,
+      352395
+    ]
   ]
 }
 

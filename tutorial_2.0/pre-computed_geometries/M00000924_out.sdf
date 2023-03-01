@@ -202,7 +202,7 @@ ICVJTDMLHOFKKM-ZIZYGFAGNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -223,12 +223,10 @@ ICVJTDMLHOFKKM-ZIZYGFAGNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          35241,
+          35242
+        ]
       ],
       "mol": {
         "atoms": [
@@ -243,7 +241,7 @@ ICVJTDMLHOFKKM-ZIZYGFAGNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -499,12 +497,10 @@ ICVJTDMLHOFKKM-ZIZYGFAGNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          35247,
+          35248
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1731,12 +1727,10 @@ ICVJTDMLHOFKKM-ZIZYGFAGNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        25349,
-        25730
-      ]
-    }
+    [
+      25349,
+      25730
+    ]
   ]
 }
 

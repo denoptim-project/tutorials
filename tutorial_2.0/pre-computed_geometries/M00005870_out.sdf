@@ -121,7 +121,7 @@ GXVHOTOLAZJAKN-VPNBCOCUNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -142,12 +142,10 @@ GXVHOTOLAZJAKN-VPNBCOCUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          174506,
+          174507
+        ]
       ],
       "mol": {
         "atoms": [
@@ -162,7 +160,7 @@ GXVHOTOLAZJAKN-VPNBCOCUNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -448,18 +446,14 @@ GXVHOTOLAZJAKN-VPNBCOCUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          174512,
+          174515
+        ],
+        [
+          174513,
+          174514
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1162,18 +1156,14 @@ GXVHOTOLAZJAKN-VPNBCOCUNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        133141,
-        128796
-      ]
-    },
-    {
-      "symIds": [
-        133142,
-        128799
-      ]
-    }
+    [
+      133141,
+      128796
+    ],
+    [
+      133142,
+      128799
+    ]
   ]
 }
 

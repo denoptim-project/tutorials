@@ -105,7 +105,7 @@ OBBLBGMGLUZOAU-UPVUQCIKNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -126,12 +126,10 @@ OBBLBGMGLUZOAU-UPVUQCIKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          215139,
+          215140
+        ]
       ],
       "mol": {
         "atoms": [
@@ -146,7 +144,7 @@ OBBLBGMGLUZOAU-UPVUQCIKNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -402,14 +400,12 @@ OBBLBGMGLUZOAU-UPVUQCIKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3,
-            4,
-            5
-          ]
-        }
+        [
+          215145,
+          215146,
+          215147,
+          215148
+        ]
       ],
       "mol": {
         "atoms": [

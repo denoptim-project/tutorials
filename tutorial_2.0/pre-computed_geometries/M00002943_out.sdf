@@ -138,7 +138,7 @@ DAINSMXNATXFRY-LTVWCLGONA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -159,12 +159,10 @@ DAINSMXNATXFRY-LTVWCLGONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          92643,
+          92644
+        ]
       ],
       "mol": {
         "atoms": [
@@ -179,7 +177,7 @@ DAINSMXNATXFRY-LTVWCLGONA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -435,12 +433,10 @@ DAINSMXNATXFRY-LTVWCLGONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          92648,
+          92649
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1189,12 +1185,10 @@ DAINSMXNATXFRY-LTVWCLGONA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        70051,
-        69882
-      ]
-    }
+    [
+      70051,
+      69882
+    ]
   ]
 }
 

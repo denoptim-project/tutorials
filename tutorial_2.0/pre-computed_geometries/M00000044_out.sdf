@@ -199,7 +199,7 @@ UGESAELBYRKRIX-NBNFVMQTNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -220,12 +220,10 @@ UGESAELBYRKRIX-NBNFVMQTNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          10228,
+          10229
+        ]
       ],
       "mol": {
         "atoms": [
@@ -240,7 +238,7 @@ UGESAELBYRKRIX-NBNFVMQTNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -496,12 +494,10 @@ UGESAELBYRKRIX-NBNFVMQTNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          10232,
+          10233
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1707,12 +1703,10 @@ UGESAELBYRKRIX-NBNFVMQTNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        5948,
-        6619
-      ]
-    }
+    [
+      5948,
+      6619
+    ]
   ]
 }
 

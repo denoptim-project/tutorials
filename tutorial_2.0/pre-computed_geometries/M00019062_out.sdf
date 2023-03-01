@@ -103,7 +103,7 @@ NROOCBITULOWSY-MSVDZCAMNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -124,12 +124,10 @@ NROOCBITULOWSY-MSVDZCAMNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          554941,
+          554942
+        ]
       ],
       "mol": {
         "atoms": [
@@ -144,7 +142,7 @@ NROOCBITULOWSY-MSVDZCAMNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -339,12 +337,10 @@ NROOCBITULOWSY-MSVDZCAMNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          554946,
+          554947
+        ]
       ],
       "mol": {
         "atoms": [
@@ -539,12 +535,10 @@ NROOCBITULOWSY-MSVDZCAMNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          554951,
+          554952
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1011,18 +1005,14 @@ NROOCBITULOWSY-MSVDZCAMNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        291596,
-        292324
-      ]
-    },
-    {
-      "symIds": [
-        458669,
-        458675
-      ]
-    }
+    [
+      291596,
+      292324
+    ],
+    [
+      458669,
+      458675
+    ]
   ]
 }
 

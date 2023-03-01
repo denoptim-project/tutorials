@@ -131,7 +131,7 @@ QNBQEYPEAUUBIC-RCBIRHTCNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -152,12 +152,10 @@ QNBQEYPEAUUBIC-RCBIRHTCNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          96325,
+          96326
+        ]
       ],
       "mol": {
         "atoms": [
@@ -172,7 +170,7 @@ QNBQEYPEAUUBIC-RCBIRHTCNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -428,12 +426,10 @@ QNBQEYPEAUUBIC-RCBIRHTCNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          96329,
+          96330
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1129,12 +1125,10 @@ QNBQEYPEAUUBIC-RCBIRHTCNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        72869,
-        71951
-      ]
-    }
+    [
+      72869,
+      71951
+    ]
   ]
 }
 

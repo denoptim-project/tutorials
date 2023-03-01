@@ -173,7 +173,7 @@ HRLFAEIWIFBRIA-JGPFCCNHNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -194,12 +194,10 @@ HRLFAEIWIFBRIA-JGPFCCNHNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          180559,
+          180560
+        ]
       ],
       "mol": {
         "atoms": [
@@ -214,7 +212,7 @@ HRLFAEIWIFBRIA-JGPFCCNHNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -470,12 +468,10 @@ HRLFAEIWIFBRIA-JGPFCCNHNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          180567,
+          180568
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1615,12 +1611,10 @@ HRLFAEIWIFBRIA-JGPFCCNHNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        137759,
-        135416
-      ]
-    }
+    [
+      137759,
+      135416
+    ]
   ]
 }
 

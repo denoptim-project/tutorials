@@ -176,7 +176,7 @@ GFMUKGBNCKEIPP-IVSIZLJONA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -197,12 +197,10 @@ GFMUKGBNCKEIPP-IVSIZLJONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          262024,
+          262025
+        ]
       ],
       "mol": {
         "atoms": [
@@ -217,7 +215,7 @@ GFMUKGBNCKEIPP-IVSIZLJONA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -458,18 +456,14 @@ GFMUKGBNCKEIPP-IVSIZLJONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          262028,
+          262030
+        ],
+        [
+          262031,
+          262032
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1605,18 +1599,14 @@ GFMUKGBNCKEIPP-IVSIZLJONA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        199520,
-        200491
-      ]
-    },
-    {
-      "symIds": [
-        199528,
-        200492
-      ]
-    }
+    [
+      199520,
+      200491
+    ],
+    [
+      199528,
+      200492
+    ]
   ]
 }
 

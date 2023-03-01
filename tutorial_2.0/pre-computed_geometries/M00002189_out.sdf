@@ -216,7 +216,7 @@ BYEGUMMALSKORY-DZCUEYHRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -237,12 +237,10 @@ BYEGUMMALSKORY-DZCUEYHRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          70610,
+          70611
+        ]
       ],
       "mol": {
         "atoms": [
@@ -257,7 +255,7 @@ BYEGUMMALSKORY-DZCUEYHRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -543,18 +541,14 @@ BYEGUMMALSKORY-DZCUEYHRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          70616,
+          70619
+        ],
+        [
+          70617,
+          70618
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1971,18 +1965,14 @@ BYEGUMMALSKORY-DZCUEYHRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        51460,
-        53024
-      ]
-    },
-    {
-      "symIds": [
-        53025,
-        51467
-      ]
-    }
+    [
+      51460,
+      53024
+    ],
+    [
+      53025,
+      51467
+    ]
   ]
 }
 

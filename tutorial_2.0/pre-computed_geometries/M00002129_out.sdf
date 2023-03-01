@@ -180,7 +180,7 @@ IUSFKMRAOBYGHE-RIGKFOOKNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -201,12 +201,10 @@ IUSFKMRAOBYGHE-RIGKFOOKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          68690,
+          68691
+        ]
       ],
       "mol": {
         "atoms": [
@@ -221,7 +219,7 @@ IUSFKMRAOBYGHE-RIGKFOOKNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -507,18 +505,14 @@ IUSFKMRAOBYGHE-RIGKFOOKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          68696,
+          68699
+        ],
+        [
+          68697,
+          68698
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1666,18 +1660,14 @@ IUSFKMRAOBYGHE-RIGKFOOKNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        51524,
-        51456
-      ]
-    },
-    {
-      "symIds": [
-        51467,
-        51525
-      ]
-    }
+    [
+      51524,
+      51456
+    ],
+    [
+      51467,
+      51525
+    ]
   ]
 }
 

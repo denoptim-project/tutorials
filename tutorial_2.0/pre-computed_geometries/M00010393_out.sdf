@@ -145,7 +145,7 @@ MEETWEDYAYPBAP-HDCLZMJSNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -166,12 +166,10 @@ MEETWEDYAYPBAP-HDCLZMJSNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          304911,
+          304912
+        ]
       ],
       "mol": {
         "atoms": [
@@ -186,7 +184,7 @@ MEETWEDYAYPBAP-HDCLZMJSNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -412,12 +410,10 @@ MEETWEDYAYPBAP-HDCLZMJSNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          304917,
+          304918
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1262,12 +1258,10 @@ MEETWEDYAYPBAP-HDCLZMJSNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        233609,
-        233026
-      ]
-    }
+    [
+      233609,
+      233026
+    ]
   ]
 }
 

@@ -126,7 +126,7 @@ BZARFARRUSIQAG-FUGUUZOXNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -147,12 +147,10 @@ BZARFARRUSIQAG-FUGUUZOXNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          103865,
+          103866
+        ]
       ],
       "mol": {
         "atoms": [
@@ -167,7 +165,7 @@ BZARFARRUSIQAG-FUGUUZOXNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -453,18 +451,14 @@ BZARFARRUSIQAG-FUGUUZOXNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          103871,
+          103874
+        ],
+        [
+          103872,
+          103873
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1206,18 +1200,14 @@ BZARFARRUSIQAG-FUGUUZOXNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        77864,
-        78641
-      ]
-    },
-    {
-      "symIds": [
-        77868,
-        78642
-      ]
-    }
+    [
+      77864,
+      78641
+    ],
+    [
+      77868,
+      78642
+    ]
   ]
 }
 

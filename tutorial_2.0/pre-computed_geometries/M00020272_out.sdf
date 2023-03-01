@@ -164,7 +164,7 @@ YKKNQBLYQDJPAG-VUHVBLNDNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -185,12 +185,10 @@ YKKNQBLYQDJPAG-VUHVBLNDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          591308,
+          591309
+        ]
       ],
       "mol": {
         "atoms": [
@@ -205,7 +203,7 @@ YKKNQBLYQDJPAG-VUHVBLNDNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -400,12 +398,10 @@ YKKNQBLYQDJPAG-VUHVBLNDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          591312,
+          591313
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1519,18 +1515,14 @@ YKKNQBLYQDJPAG-VUHVBLNDNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        357622,
-        357751
-      ]
-    },
-    {
-      "symIds": [
-        509951,
-        509886
-      ]
-    }
+    [
+      357622,
+      357751
+    ],
+    [
+      509951,
+      509886
+    ]
   ]
 }
 

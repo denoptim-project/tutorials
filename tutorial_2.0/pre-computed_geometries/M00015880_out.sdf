@@ -164,7 +164,7 @@ LLAUSYOPAYSFAY-CFKLZCPFNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -185,12 +185,10 @@ LLAUSYOPAYSFAY-CFKLZCPFNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          458521,
+          458522
+        ]
       ],
       "mol": {
         "atoms": [
@@ -205,7 +203,7 @@ LLAUSYOPAYSFAY-CFKLZCPFNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -430,18 +428,14 @@ LLAUSYOPAYSFAY-CFKLZCPFNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          458527,
+          458530
+        ],
+        [
+          458528,
+          458529
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1528,18 +1522,14 @@ LLAUSYOPAYSFAY-CFKLZCPFNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        351317,
-        351978
-      ]
-    },
-    {
-      "symIds": [
-        351979,
-        351323
-      ]
-    }
+    [
+      351317,
+      351978
+    ],
+    [
+      351979,
+      351323
+    ]
   ]
 }
 

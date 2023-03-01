@@ -165,7 +165,7 @@ QGQVRJVVSFVDLK-WAKFAFRRNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -186,12 +186,10 @@ QGQVRJVVSFVDLK-WAKFAFRRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          560876,
+          560877
+        ]
       ],
       "mol": {
         "atoms": [
@@ -206,7 +204,7 @@ QGQVRJVVSFVDLK-WAKFAFRRNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -462,12 +460,10 @@ QGQVRJVVSFVDLK-WAKFAFRRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          560881,
+          560882
+        ]
       ],
       "mol": {
         "atoms": [
@@ -662,12 +658,10 @@ QGQVRJVVSFVDLK-WAKFAFRRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          560886,
+          560887
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1538,18 +1532,14 @@ QGQVRJVVSFVDLK-WAKFAFRRNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        23417,
-        24224
-      ]
-    },
-    {
-      "symIds": [
-        464330,
-        464313
-      ]
-    }
+    [
+      23417,
+      24224
+    ],
+    [
+      464330,
+      464313
+    ]
   ]
 }
 

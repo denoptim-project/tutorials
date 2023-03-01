@@ -178,7 +178,7 @@ MSEREQBCGOLRSI-XLGGYCBSNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -199,12 +199,10 @@ MSEREQBCGOLRSI-XLGGYCBSNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          308619,
+          308620
+        ]
       ],
       "mol": {
         "atoms": [
@@ -219,7 +217,7 @@ MSEREQBCGOLRSI-XLGGYCBSNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -445,12 +443,10 @@ MSEREQBCGOLRSI-XLGGYCBSNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          308624,
+          308625
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1541,12 +1537,10 @@ MSEREQBCGOLRSI-XLGGYCBSNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        236377,
-        235742
-      ]
-    }
+    [
+      236377,
+      235742
+    ]
   ]
 }
 

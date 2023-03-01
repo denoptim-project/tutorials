@@ -198,7 +198,7 @@ QGRROUOPEZAIDE-FKRXHHSDNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -219,12 +219,10 @@ QGRROUOPEZAIDE-FKRXHHSDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          135303,
+          135304
+        ]
       ],
       "mol": {
         "atoms": [
@@ -239,7 +237,7 @@ QGRROUOPEZAIDE-FKRXHHSDNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -525,18 +523,14 @@ QGRROUOPEZAIDE-FKRXHHSDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          135309,
+          135312
+        ],
+        [
+          135310,
+          135311
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1834,18 +1828,14 @@ QGRROUOPEZAIDE-FKRXHHSDNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        102878,
-        102499
-      ]
-    },
-    {
-      "symIds": [
-        102508,
-        102879
-      ]
-    }
+    [
+      102878,
+      102499
+    ],
+    [
+      102508,
+      102879
+    ]
   ]
 }
 

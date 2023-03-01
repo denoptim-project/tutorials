@@ -130,7 +130,7 @@ UNGZSCMRVRUFCL-GCYRIHCANA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -151,12 +151,10 @@ UNGZSCMRVRUFCL-GCYRIHCANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          319577,
+          319578
+        ]
       ],
       "mol": {
         "atoms": [
@@ -171,7 +169,7 @@ UNGZSCMRVRUFCL-GCYRIHCANA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -427,18 +425,14 @@ UNGZSCMRVRUFCL-GCYRIHCANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          319583,
+          319586
+        ],
+        [
+          319584,
+          319585
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1256,18 +1250,14 @@ UNGZSCMRVRUFCL-GCYRIHCANA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        243929,
-        244862
-      ]
-    },
-    {
-      "symIds": [
-        244861,
-        243938
-      ]
-    }
+    [
+      243929,
+      244862
+    ],
+    [
+      244861,
+      243938
+    ]
   ]
 }
 

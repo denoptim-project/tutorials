@@ -150,7 +150,7 @@ HIAPBTRMPHPCIU-RGHMCYIDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -171,12 +171,10 @@ HIAPBTRMPHPCIU-RGHMCYIDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          196335,
+          196336
+        ]
       ],
       "mol": {
         "atoms": [
@@ -191,7 +189,7 @@ HIAPBTRMPHPCIU-RGHMCYIDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -417,12 +415,10 @@ HIAPBTRMPHPCIU-RGHMCYIDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          196341,
+          196342
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1306,12 +1302,10 @@ HIAPBTRMPHPCIU-RGHMCYIDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        150144,
-        149813
-      ]
-    }
+    [
+      150144,
+      149813
+    ]
   ]
 }
 

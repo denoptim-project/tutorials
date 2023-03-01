@@ -151,7 +151,7 @@ QHKSWUVNPLJWDS-QBEVALOINA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -172,12 +172,10 @@ QHKSWUVNPLJWDS-QBEVALOINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          31109,
+          31110
+        ]
       ],
       "mol": {
         "atoms": [
@@ -192,7 +190,7 @@ QHKSWUVNPLJWDS-QBEVALOINA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -448,12 +446,10 @@ QHKSWUVNPLJWDS-QBEVALOINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          31113,
+          31114
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1297,12 +1293,10 @@ QHKSWUVNPLJWDS-QBEVALOINA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        22616,
-        21572
-      ]
-    }
+    [
+      22616,
+      21572
+    ]
   ]
 }
 

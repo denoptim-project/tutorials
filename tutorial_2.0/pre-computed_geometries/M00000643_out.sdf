@@ -168,7 +168,7 @@ LSRFAHYSOZJQIZ-LIOXCEPXNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -189,12 +189,10 @@ LSRFAHYSOZJQIZ-LIOXCEPXNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          27743,
+          27744
+        ]
       ],
       "mol": {
         "atoms": [
@@ -209,7 +207,7 @@ LSRFAHYSOZJQIZ-LIOXCEPXNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -465,12 +463,10 @@ LSRFAHYSOZJQIZ-LIOXCEPXNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          27748,
+          27749
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1442,12 +1438,10 @@ LSRFAHYSOZJQIZ-LIOXCEPXNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        19718,
-        20058
-      ]
-    }
+    [
+      19718,
+      20058
+    ]
   ]
 }
 

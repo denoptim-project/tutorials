@@ -136,7 +136,7 @@ PKSOPMPRBUCRKE-FNDHFKMRNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -157,12 +157,10 @@ PKSOPMPRBUCRKE-FNDHFKMRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          587767,
+          587768
+        ]
       ],
       "mol": {
         "atoms": [
@@ -177,7 +175,7 @@ PKSOPMPRBUCRKE-FNDHFKMRNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -372,13 +370,11 @@ PKSOPMPRBUCRKE-FNDHFKMRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          587771,
+          587772,
+          587773
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1338,20 +1334,16 @@ PKSOPMPRBUCRKE-FNDHFKMRNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        349283,
-        349284,
-        349282
-      ]
-    },
-    {
-      "symIds": [
-        504171,
-        504052,
-        504170
-      ]
-    }
+    [
+      349283,
+      349284,
+      349282
+    ],
+    [
+      504171,
+      504052,
+      504170
+    ]
   ]
 }
 

@@ -122,7 +122,7 @@ HDOBKUZTSKCHIH-HZDDSCIUNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -143,12 +143,10 @@ HDOBKUZTSKCHIH-HZDDSCIUNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          21502,
+          21503
+        ]
       ],
       "mol": {
         "atoms": [
@@ -163,7 +161,7 @@ HDOBKUZTSKCHIH-HZDDSCIUNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -434,18 +432,14 @@ HDOBKUZTSKCHIH-HZDDSCIUNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          21507,
+          21510
+        ],
+        [
+          21508,
+          21509
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1114,18 +1108,14 @@ HDOBKUZTSKCHIH-HZDDSCIUNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        15385,
-        15179
-      ]
-    },
-    {
-      "symIds": [
-        15190,
-        15387
-      ]
-    }
+    [
+      15385,
+      15179
+    ],
+    [
+      15190,
+      15387
+    ]
   ]
 }
 

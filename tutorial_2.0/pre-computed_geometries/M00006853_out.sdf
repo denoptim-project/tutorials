@@ -167,7 +167,7 @@ AUHCACQDXURMEW-JZDHGARENA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -188,12 +188,10 @@ AUHCACQDXURMEW-JZDHGARENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          202907,
+          202908
+        ]
       ],
       "mol": {
         "atoms": [
@@ -208,7 +206,7 @@ AUHCACQDXURMEW-JZDHGARENA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -434,12 +432,10 @@ AUHCACQDXURMEW-JZDHGARENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          202911,
+          202912
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1450,12 +1446,10 @@ AUHCACQDXURMEW-JZDHGARENA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        155098,
-        154473
-      ]
-    }
+    [
+      155098,
+      154473
+    ]
   ]
 }
 

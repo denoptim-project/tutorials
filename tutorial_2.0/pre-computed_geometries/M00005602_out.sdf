@@ -163,7 +163,7 @@ FFTYXUSLTRRICX-PNTYRLRUNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -184,12 +184,10 @@ FFTYXUSLTRRICX-PNTYRLRUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          166706,
+          166707
+        ]
       ],
       "mol": {
         "atoms": [
@@ -204,7 +202,7 @@ FFTYXUSLTRRICX-PNTYRLRUNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -460,12 +458,10 @@ FFTYXUSLTRRICX-PNTYRLRUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          166712,
+          166713
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1400,12 +1396,10 @@ FFTYXUSLTRRICX-PNTYRLRUNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        127073,
-        126790
-      ]
-    }
+    [
+      127073,
+      126790
+    ]
   ]
 }
 

@@ -129,7 +129,7 @@ LTLGPJNDNIFIIO-SQKOEBLZNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -150,12 +150,10 @@ LTLGPJNDNIFIIO-SQKOEBLZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          163950,
+          163951
+        ]
       ],
       "mol": {
         "atoms": [
@@ -170,7 +168,7 @@ LTLGPJNDNIFIIO-SQKOEBLZNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -426,12 +424,10 @@ LTLGPJNDNIFIIO-SQKOEBLZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          163954,
+          163955
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1111,12 +1107,10 @@ LTLGPJNDNIFIIO-SQKOEBLZNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        124972,
-        124036
-      ]
-    }
+    [
+      124972,
+      124036
+    ]
   ]
 }
 

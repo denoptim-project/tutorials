@@ -225,7 +225,7 @@ HOZXAFZKOPPLMZ-DJJADRFGNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -246,12 +246,10 @@ HOZXAFZKOPPLMZ-DJJADRFGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          211689,
+          211690
+        ]
       ],
       "mol": {
         "atoms": [
@@ -266,7 +264,7 @@ HOZXAFZKOPPLMZ-DJJADRFGNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -522,18 +520,14 @@ HOZXAFZKOPPLMZ-DJJADRFGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          211695,
+          211698
+        ],
+        [
+          211696,
+          211697
+        ]
       ],
       "mol": {
         "atoms": [
@@ -2063,18 +2057,14 @@ HOZXAFZKOPPLMZ-DJJADRFGNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        161882,
-        158684
-      ]
-    },
-    {
-      "symIds": [
-        158691,
-        161881
-      ]
-    }
+    [
+      161882,
+      158684
+    ],
+    [
+      158691,
+      161881
+    ]
   ]
 }
 

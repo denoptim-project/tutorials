@@ -154,7 +154,7 @@ DRSZCHHWVKVSIE-PEYAJPAKNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -175,12 +175,10 @@ DRSZCHHWVKVSIE-PEYAJPAKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          194938,
+          194939
+        ]
       ],
       "mol": {
         "atoms": [
@@ -195,7 +193,7 @@ DRSZCHHWVKVSIE-PEYAJPAKNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -436,18 +434,14 @@ DRSZCHHWVKVSIE-PEYAJPAKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          194943,
+          194946
+        ],
+        [
+          194944,
+          194945
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1403,18 +1397,14 @@ DRSZCHHWVKVSIE-PEYAJPAKNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        149045,
-        148890
-      ]
-    },
-    {
-      "symIds": [
-        149046,
-        148903
-      ]
-    }
+    [
+      149045,
+      148890
+    ],
+    [
+      149046,
+      148903
+    ]
   ]
 }
 

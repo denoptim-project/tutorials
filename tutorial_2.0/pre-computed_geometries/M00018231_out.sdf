@@ -163,7 +163,7 @@ NZSDTGCAOPQMAX-WIEWLSPQNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -184,12 +184,10 @@ NZSDTGCAOPQMAX-WIEWLSPQNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          528338,
+          528339
+        ]
       ],
       "mol": {
         "atoms": [
@@ -204,7 +202,7 @@ NZSDTGCAOPQMAX-WIEWLSPQNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -430,12 +428,10 @@ NZSDTGCAOPQMAX-WIEWLSPQNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          528343,
+          528344
+        ]
       ],
       "mol": {
         "atoms": [
@@ -868,12 +864,10 @@ NZSDTGCAOPQMAX-WIEWLSPQNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          528349,
+          528350
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1535,18 +1529,14 @@ NZSDTGCAOPQMAX-WIEWLSPQNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        236522,
-        235742
-      ]
-    },
-    {
-      "symIds": [
-        417984,
-        417967
-      ]
-    }
+    [
+      236522,
+      235742
+    ],
+    [
+      417984,
+      417967
+    ]
   ]
 }
 

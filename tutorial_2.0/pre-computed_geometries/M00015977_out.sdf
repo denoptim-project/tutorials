@@ -185,7 +185,7 @@ MEXXXCXYWFPWIX-XSHBAKRYNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -206,12 +206,10 @@ MEXXXCXYWFPWIX-XSHBAKRYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          461577,
+          461578
+        ]
       ],
       "mol": {
         "atoms": [
@@ -226,7 +224,7 @@ MEXXXCXYWFPWIX-XSHBAKRYNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -451,18 +449,14 @@ MEXXXCXYWFPWIX-XSHBAKRYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          461597,
+          461600
+        ],
+        [
+          461598,
+          461599
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1707,18 +1701,14 @@ MEXXXCXYWFPWIX-XSHBAKRYNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        351315,
-        354370
-      ]
-    },
-    {
-      "symIds": [
-        354371,
-        351323
-      ]
-    }
+    [
+      351315,
+      354370
+    ],
+    [
+      354371,
+      351323
+    ]
   ]
 }
 

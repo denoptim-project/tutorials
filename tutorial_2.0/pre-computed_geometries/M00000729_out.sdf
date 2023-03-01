@@ -111,7 +111,7 @@ OYLMVBVWERXTMP-XZYLJTOFNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -132,12 +132,10 @@ OYLMVBVWERXTMP-XZYLJTOFNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          29837,
+          29838
+        ]
       ],
       "mol": {
         "atoms": [
@@ -152,7 +150,7 @@ OYLMVBVWERXTMP-XZYLJTOFNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -408,12 +406,10 @@ OYLMVBVWERXTMP-XZYLJTOFNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          29841,
+          29842
+        ]
       ],
       "mol": {
         "atoms": [
@@ -959,12 +955,10 @@ OYLMVBVWERXTMP-XZYLJTOFNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        21661,
-        21567
-      ]
-    }
+    [
+      21661,
+      21567
+    ]
   ]
 }
 

@@ -174,7 +174,7 @@ SRISENZDQMFSDY-BERXKSLZNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -195,12 +195,10 @@ SRISENZDQMFSDY-BERXKSLZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          138183,
+          138184
+        ]
       ],
       "mol": {
         "atoms": [
@@ -215,7 +213,7 @@ SRISENZDQMFSDY-BERXKSLZNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -501,18 +499,14 @@ SRISENZDQMFSDY-BERXKSLZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          138189,
+          138192
+        ],
+        [
+          138190,
+          138191
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1628,18 +1622,14 @@ SRISENZDQMFSDY-BERXKSLZNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        105129,
-        102502
-      ]
-    },
-    {
-      "symIds": [
-        105130,
-        102508
-      ]
-    }
+    [
+      105129,
+      102502
+    ],
+    [
+      105130,
+      102508
+    ]
   ]
 }
 

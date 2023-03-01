@@ -180,7 +180,7 @@ CKRICVCTLADPBS-FXMICUPONA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -201,12 +201,10 @@ CKRICVCTLADPBS-FXMICUPONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          636900,
+          636901
+        ]
       ],
       "mol": {
         "atoms": [
@@ -221,7 +219,7 @@ CKRICVCTLADPBS-FXMICUPONA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -477,12 +475,10 @@ CKRICVCTLADPBS-FXMICUPONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          636904,
+          636905
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1672,18 +1668,14 @@ CKRICVCTLADPBS-FXMICUPONA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        108652,
-        108727
-      ]
-    },
-    {
-      "symIds": [
-        583263,
-        583198
-      ]
-    }
+    [
+      108652,
+      108727
+    ],
+    [
+      583263,
+      583198
+    ]
   ]
 }
 

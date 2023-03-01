@@ -142,7 +142,7 @@ WXQHGLUWOCJOOF-ZINKSJPXNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -163,12 +163,10 @@ WXQHGLUWOCJOOF-ZINKSJPXNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          36705,
+          36706
+        ]
       ],
       "mol": {
         "atoms": [
@@ -183,7 +181,7 @@ WXQHGLUWOCJOOF-ZINKSJPXNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -469,18 +467,14 @@ WXQHGLUWOCJOOF-ZINKSJPXNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          36711,
+          36714
+        ],
+        [
+          36712,
+          36713
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1343,18 +1337,14 @@ WXQHGLUWOCJOOF-ZINKSJPXNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        26865,
-        26691
-      ]
-    },
-    {
-      "symIds": [
-        26864,
-        26699
-      ]
-    }
+    [
+      26865,
+      26691
+    ],
+    [
+      26864,
+      26699
+    ]
   ]
 }
 

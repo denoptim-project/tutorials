@@ -157,7 +157,7 @@ SDRABQUGNYEUHY-KJOKPOMANA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -178,12 +178,10 @@ SDRABQUGNYEUHY-KJOKPOMANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          596011,
+          596012
+        ]
       ],
       "mol": {
         "atoms": [
@@ -198,7 +196,7 @@ SDRABQUGNYEUHY-KJOKPOMANA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -454,12 +452,10 @@ SDRABQUGNYEUHY-KJOKPOMANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          596015,
+          596016
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1479,18 +1475,14 @@ SDRABQUGNYEUHY-KJOKPOMANA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        379017,
-        379783
-      ]
-    },
-    {
-      "symIds": [
-        522002,
-        521950
-      ]
-    }
+    [
+      379017,
+      379783
+    ],
+    [
+      522002,
+      521950
+    ]
   ]
 }
 

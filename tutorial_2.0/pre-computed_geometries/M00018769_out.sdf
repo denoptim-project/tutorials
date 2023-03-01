@@ -113,7 +113,7 @@ DULGLSUHWKQALY-BRKFMYGHNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -134,12 +134,10 @@ DULGLSUHWKQALY-BRKFMYGHNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          545317,
+          545318
+        ]
       ],
       "mol": {
         "atoms": [
@@ -154,7 +152,7 @@ DULGLSUHWKQALY-BRKFMYGHNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -349,12 +347,10 @@ DULGLSUHWKQALY-BRKFMYGHNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          545322,
+          545323
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1032,12 +1028,10 @@ DULGLSUHWKQALY-BRKFMYGHNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        269249,
-        269223
-      ]
-    }
+    [
+      269249,
+      269223
+    ]
   ]
 }
 

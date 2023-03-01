@@ -146,7 +146,7 @@ SPMBGEBZFPGEAX-CGOUWUMZNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -167,12 +167,10 @@ SPMBGEBZFPGEAX-CGOUWUMZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          85620,
+          85621
+        ]
       ],
       "mol": {
         "atoms": [
@@ -187,7 +185,7 @@ SPMBGEBZFPGEAX-CGOUWUMZNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -458,18 +456,14 @@ SPMBGEBZFPGEAX-CGOUWUMZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          85624,
+          85626
+        ],
+        [
+          85627,
+          85628
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1319,18 +1313,14 @@ SPMBGEBZFPGEAX-CGOUWUMZNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        63097,
-        64577
-      ]
-    },
-    {
-      "symIds": [
-        63104,
-        64578
-      ]
-    }
+    [
+      63097,
+      64577
+    ],
+    [
+      63104,
+      64578
+    ]
   ]
 }
 

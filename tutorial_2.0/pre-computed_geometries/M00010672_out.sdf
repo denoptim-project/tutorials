@@ -102,7 +102,7 @@ PHCDBGJLMAMUMW-RIDUTININA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -123,12 +123,10 @@ PHCDBGJLMAMUMW-RIDUTININA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          312323,
+          312324
+        ]
       ],
       "mol": {
         "atoms": [
@@ -143,7 +141,7 @@ PHCDBGJLMAMUMW-RIDUTININA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -369,12 +367,10 @@ PHCDBGJLMAMUMW-RIDUTININA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          312327,
+          312328
+        ]
       ],
       "mol": {
         "atoms": [
@@ -897,12 +893,10 @@ PHCDBGJLMAMUMW-RIDUTININA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        239164,
-        239276
-      ]
-    }
+    [
+      239164,
+      239276
+    ]
   ]
 }
 

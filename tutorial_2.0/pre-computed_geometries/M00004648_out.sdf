@@ -189,7 +189,7 @@ PKPYQRIFGRJHAD-GRRAVEOWNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -210,12 +210,10 @@ PKPYQRIFGRJHAD-GRRAVEOWNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          140263,
+          140264
+        ]
       ],
       "mol": {
         "atoms": [
@@ -230,7 +228,7 @@ PKPYQRIFGRJHAD-GRRAVEOWNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -516,18 +514,14 @@ PKPYQRIFGRJHAD-GRRAVEOWNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          140269,
+          140272
+        ],
+        [
+          140270,
+          140271
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1757,18 +1751,14 @@ PKPYQRIFGRJHAD-GRRAVEOWNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        102501,
-        106755
-      ]
-    },
-    {
-      "symIds": [
-        102507,
-        106756
-      ]
-    }
+    [
+      102501,
+      106755
+    ],
+    [
+      102507,
+      106756
+    ]
   ]
 }
 

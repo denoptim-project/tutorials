@@ -141,7 +141,7 @@ KOFDXCMVFSANAO-AFUUUMKONA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -162,12 +162,10 @@ KOFDXCMVFSANAO-AFUUUMKONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          592852,
+          592853
+        ]
       ],
       "mol": {
         "atoms": [
@@ -182,7 +180,7 @@ KOFDXCMVFSANAO-AFUUUMKONA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -438,12 +436,10 @@ KOFDXCMVFSANAO-AFUUUMKONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          592856,
+          592857
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1326,18 +1322,14 @@ KOFDXCMVFSANAO-AFUUUMKONA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        366857,
-        366820
-      ]
-    },
-    {
-      "symIds": [
-        514649,
-        514694
-      ]
-    }
+    [
+      366857,
+      366820
+    ],
+    [
+      514649,
+      514694
+    ]
   ]
 }
 

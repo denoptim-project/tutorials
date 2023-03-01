@@ -174,7 +174,7 @@ BUCIPTOKHQDSQW-ULBOONOJNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -195,12 +195,10 @@ BUCIPTOKHQDSQW-ULBOONOJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          535596,
+          535597
+        ]
       ],
       "mol": {
         "atoms": [
@@ -215,7 +213,7 @@ BUCIPTOKHQDSQW-ULBOONOJNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -441,13 +439,11 @@ BUCIPTOKHQDSQW-ULBOONOJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          535600,
+          535601,
+          535602
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1677,20 +1673,16 @@ BUCIPTOKHQDSQW-ULBOONOJNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        241222,
-        241223,
-        241224
-      ]
-    },
-    {
-      "symIds": [
-        424886,
-        424816,
-        424887
-      ]
-    }
+    [
+      241222,
+      241223,
+      241224
+    ],
+    [
+      424886,
+      424816,
+      424887
+    ]
   ]
 }
 

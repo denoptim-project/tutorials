@@ -129,7 +129,7 @@ PERSNBJYNDLJNB-XHZYFGODNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -150,12 +150,10 @@ PERSNBJYNDLJNB-XHZYFGODNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          126293,
+          126294
+        ]
       ],
       "mol": {
         "atoms": [
@@ -170,7 +168,7 @@ PERSNBJYNDLJNB-XHZYFGODNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -426,12 +424,10 @@ PERSNBJYNDLJNB-XHZYFGODNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          126297,
+          126298
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1127,12 +1123,10 @@ PERSNBJYNDLJNB-XHZYFGODNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        95625,
-        96052
-      ]
-    }
+    [
+      95625,
+      96052
+    ]
   ]
 }
 

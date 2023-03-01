@@ -198,7 +198,7 @@ OTWVFCWFBITUED-FNNKCZMONA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -219,12 +219,10 @@ OTWVFCWFBITUED-FNNKCZMONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          210185,
+          210186
+        ]
       ],
       "mol": {
         "atoms": [
@@ -239,7 +237,7 @@ OTWVFCWFBITUED-FNNKCZMONA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -495,18 +493,14 @@ OTWVFCWFBITUED-FNNKCZMONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          210191,
+          210194
+        ],
+        [
+          210192,
+          210193
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1834,18 +1828,14 @@ OTWVFCWFBITUED-FNNKCZMONA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        158682,
-        160706
-      ]
-    },
-    {
-      "symIds": [
-        158692,
-        160705
-      ]
-    }
+    [
+      158682,
+      160706
+    ],
+    [
+      158692,
+      160705
+    ]
   ]
 }
 

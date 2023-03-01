@@ -132,7 +132,7 @@ SHUCPMLXYFHTLP-JFCZDGTENA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -153,12 +153,10 @@ SHUCPMLXYFHTLP-JFCZDGTENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          69746,
+          69747
+        ]
       ],
       "mol": {
         "atoms": [
@@ -173,7 +171,7 @@ SHUCPMLXYFHTLP-JFCZDGTENA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -459,18 +457,14 @@ SHUCPMLXYFHTLP-JFCZDGTENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          69752,
+          69755
+        ],
+        [
+          69753,
+          69754
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1259,18 +1253,14 @@ SHUCPMLXYFHTLP-JFCZDGTENA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        52349,
-        51456
-      ]
-    },
-    {
-      "symIds": [
-        52350,
-        51464
-      ]
-    }
+    [
+      52349,
+      51456
+    ],
+    [
+      52350,
+      51464
+    ]
   ]
 }
 

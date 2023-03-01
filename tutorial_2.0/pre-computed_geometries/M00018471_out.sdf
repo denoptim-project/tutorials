@@ -138,7 +138,7 @@ YTRJSYVOLRBLRO-XOIYETRZNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -159,12 +159,10 @@ YTRJSYVOLRBLRO-XOIYETRZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          535668,
+          535669
+        ]
       ],
       "mol": {
         "atoms": [
@@ -179,7 +177,7 @@ YTRJSYVOLRBLRO-XOIYETRZNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -405,13 +403,11 @@ YTRJSYVOLRBLRO-XOIYETRZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          535672,
+          535673,
+          535674
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1371,20 +1367,16 @@ YTRJSYVOLRBLRO-XOIYETRZNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        241222,
-        241223,
-        241224
-      ]
-    },
-    {
-      "symIds": [
-        424936,
-        424818,
-        424937
-      ]
-    }
+    [
+      241222,
+      241223,
+      241224
+    ],
+    [
+      424936,
+      424818,
+      424937
+    ]
   ]
 }
 

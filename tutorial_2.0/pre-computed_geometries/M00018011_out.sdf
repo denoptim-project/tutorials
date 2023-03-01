@@ -113,7 +113,7 @@ RHTLPRSHCTVEEC-IDYNLDFDNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -134,12 +134,10 @@ RHTLPRSHCTVEEC-IDYNLDFDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          520555,
+          520556
+        ]
       ],
       "mol": {
         "atoms": [
@@ -154,7 +152,7 @@ RHTLPRSHCTVEEC-IDYNLDFDNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -380,13 +378,11 @@ RHTLPRSHCTVEEC-IDYNLDFDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          520559,
+          520560,
+          520561
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1176,20 +1172,16 @@ RHTLPRSHCTVEEC-IDYNLDFDNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        210487,
-        210486,
-        210485
-      ]
-    },
-    {
-      "symIds": [
-        402001,
-        402027,
-        402028
-      ]
-    }
+    [
+      210487,
+      210486,
+      210485
+    ],
+    [
+      402001,
+      402027,
+      402028
+    ]
   ]
 }
 

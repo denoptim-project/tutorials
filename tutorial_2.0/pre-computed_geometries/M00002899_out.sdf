@@ -145,7 +145,7 @@ KBOADGRVSQNFLY-RHCSEHRSNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -166,12 +166,10 @@ KBOADGRVSQNFLY-RHCSEHRSNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          91183,
+          91184
+        ]
       ],
       "mol": {
         "atoms": [
@@ -186,7 +184,7 @@ KBOADGRVSQNFLY-RHCSEHRSNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -442,12 +440,10 @@ KBOADGRVSQNFLY-RHCSEHRSNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          91187,
+          91188
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1248,12 +1244,10 @@ KBOADGRVSQNFLY-RHCSEHRSNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        68967,
-        69001
-      ]
-    }
+    [
+      68967,
+      69001
+    ]
   ]
 }
 

@@ -120,7 +120,7 @@ LRVXSCJJEAKXQH-IASPFGTDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -141,12 +141,10 @@ LRVXSCJJEAKXQH-IASPFGTDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          199731,
+          199732
+        ]
       ],
       "mol": {
         "atoms": [
@@ -161,7 +159,7 @@ LRVXSCJJEAKXQH-IASPFGTDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -387,12 +385,10 @@ LRVXSCJJEAKXQH-IASPFGTDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          199736,
+          199737
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1051,12 +1047,10 @@ LRVXSCJJEAKXQH-IASPFGTDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        152526,
-        152678
-      ]
-    }
+    [
+      152526,
+      152678
+    ]
   ]
 }
 

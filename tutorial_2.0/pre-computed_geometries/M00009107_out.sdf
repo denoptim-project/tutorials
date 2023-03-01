@@ -136,7 +136,7 @@ XRSVQKGJYFMOBW-DIHSYLKANA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -157,12 +157,10 @@ XRSVQKGJYFMOBW-DIHSYLKANA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          267819,
+          267820
+        ]
       ],
       "mol": {
         "atoms": [
@@ -177,7 +175,7 @@ XRSVQKGJYFMOBW-DIHSYLKANA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -403,12 +401,10 @@ XRSVQKGJYFMOBW-DIHSYLKANA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          267823,
+          267824
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1202,12 +1198,10 @@ XRSVQKGJYFMOBW-DIHSYLKANA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        204592,
-        205109
-      ]
-    }
+    [
+      204592,
+      205109
+    ]
   ]
 }
 

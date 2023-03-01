@@ -172,7 +172,7 @@ RDWYZVAPSBDLBL-UAUXGUOONA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -193,12 +193,10 @@ RDWYZVAPSBDLBL-UAUXGUOONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          125085,
+          125086
+        ]
       ],
       "mol": {
         "atoms": [
@@ -213,7 +211,7 @@ RDWYZVAPSBDLBL-UAUXGUOONA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -469,12 +467,10 @@ RDWYZVAPSBDLBL-UAUXGUOONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          125089,
+          125090
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1493,12 +1489,10 @@ RDWYZVAPSBDLBL-UAUXGUOONA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        95130,
-        94734
-      ]
-    }
+    [
+      95130,
+      94734
+    ]
   ]
 }
 

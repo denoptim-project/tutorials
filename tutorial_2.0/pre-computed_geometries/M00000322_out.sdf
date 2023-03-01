@@ -180,7 +180,7 @@ HATHUCZNDNTUTI-OJIXUNPUNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -201,12 +201,10 @@ HATHUCZNDNTUTI-OJIXUNPUNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          18424,
+          18425
+        ]
       ],
       "mol": {
         "atoms": [
@@ -221,7 +219,7 @@ HATHUCZNDNTUTI-OJIXUNPUNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -492,18 +490,14 @@ HATHUCZNDNTUTI-OJIXUNPUNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          18428,
+          18430
+        ],
+        [
+          18431,
+          18432
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1608,18 +1602,14 @@ HATHUCZNDNTUTI-OJIXUNPUNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        12877,
-        12022
-      ]
-    },
-    {
-      "symIds": [
-        12033,
-        12876
-      ]
-    }
+    [
+      12877,
+      12022
+    ],
+    [
+      12033,
+      12876
+    ]
   ]
 }
 

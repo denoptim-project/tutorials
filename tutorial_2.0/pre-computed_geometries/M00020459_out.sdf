@@ -159,7 +159,7 @@ XYLZXCIRTWOMEQ-XXTHCFPINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -180,12 +180,10 @@ XYLZXCIRTWOMEQ-XXTHCFPINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          597443,
+          597444
+        ]
       ],
       "mol": {
         "atoms": [
@@ -200,7 +198,7 @@ XYLZXCIRTWOMEQ-XXTHCFPINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -456,12 +454,10 @@ XYLZXCIRTWOMEQ-XXTHCFPINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          597448,
+          597449
+        ]
       ],
       "mol": {
         "atoms": [
@@ -626,12 +622,10 @@ XYLZXCIRTWOMEQ-XXTHCFPINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          597453,
+          597454
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1502,18 +1496,14 @@ XYLZXCIRTWOMEQ-XXTHCFPINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        380707,
-        379928
-      ]
-    },
-    {
-      "symIds": [
-        523383,
-        523389
-      ]
-    }
+    [
+      380707,
+      379928
+    ],
+    [
+      523383,
+      523389
+    ]
   ]
 }
 

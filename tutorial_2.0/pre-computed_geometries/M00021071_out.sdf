@@ -208,7 +208,7 @@ ZVYMSGUVURFKKI-BJCUQHOENA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -229,12 +229,10 @@ ZVYMSGUVURFKKI-BJCUQHOENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          616255,
+          616256
+        ]
       ],
       "mol": {
         "atoms": [
@@ -249,7 +247,7 @@ ZVYMSGUVURFKKI-BJCUQHOENA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -505,12 +503,10 @@ ZVYMSGUVURFKKI-BJCUQHOENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          616260,
+          616261
+        ]
       ],
       "mol": {
         "atoms": [
@@ -705,12 +701,10 @@ ZVYMSGUVURFKKI-BJCUQHOENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          616266,
+          616267
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1092,12 +1086,10 @@ ZVYMSGUVURFKKI-BJCUQHOENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          616270,
+          616271
+        ]
       ],
       "mol": {
         "atoms": [
@@ -2022,20 +2014,16 @@ ZVYMSGUVURFKKI-BJCUQHOENA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        69668,
-        68972
-      ]
-    },
-    {
-      "symIds": [
-        554693,
-        554694,
-        554692,
-        554577
-      ]
-    }
+    [
+      69668,
+      68972
+    ],
+    [
+      554693,
+      554694,
+      554692,
+      554577
+    ]
   ]
 }
 

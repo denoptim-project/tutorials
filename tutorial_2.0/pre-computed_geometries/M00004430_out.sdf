@@ -162,7 +162,7 @@ XTNPAHXMJYTXJM-WBHXXMLDNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -183,12 +183,10 @@ XTNPAHXMJYTXJM-WBHXXMLDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          133715,
+          133716
+        ]
       ],
       "mol": {
         "atoms": [
@@ -203,7 +201,7 @@ XTNPAHXMJYTXJM-WBHXXMLDNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -459,12 +457,10 @@ XTNPAHXMJYTXJM-WBHXXMLDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          133721,
+          133722
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1408,12 +1404,10 @@ XTNPAHXMJYTXJM-WBHXXMLDNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        101642,
-        101169
-      ]
-    }
+    [
+      101642,
+      101169
+    ]
   ]
 }
 

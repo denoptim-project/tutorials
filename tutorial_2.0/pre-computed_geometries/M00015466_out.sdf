@@ -96,7 +96,7 @@ DAFSXYVDLPKLDT-IGRUPOAMNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -117,12 +117,10 @@ DAFSXYVDLPKLDT-IGRUPOAMNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          448047,
+          448048
+        ]
       ],
       "mol": {
         "atoms": [
@@ -137,7 +135,7 @@ DAFSXYVDLPKLDT-IGRUPOAMNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -332,12 +330,10 @@ DAFSXYVDLPKLDT-IGRUPOAMNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          448052,
+          448053
+        ]
       ],
       "mol": {
         "atoms": [
@@ -830,12 +826,10 @@ DAFSXYVDLPKLDT-IGRUPOAMNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        343540,
-        343981
-      ]
-    }
+    [
+      343540,
+      343981
+    ]
   ]
 }
 

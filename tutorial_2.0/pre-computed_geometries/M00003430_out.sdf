@@ -150,7 +150,7 @@ FVMBAMFRBTZQPP-VKZAFTEVNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -171,12 +171,10 @@ FVMBAMFRBTZQPP-VKZAFTEVNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          105209,
+          105210
+        ]
       ],
       "mol": {
         "atoms": [
@@ -191,7 +189,7 @@ FVMBAMFRBTZQPP-VKZAFTEVNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -477,18 +475,14 @@ FVMBAMFRBTZQPP-VKZAFTEVNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          105215,
+          105218
+        ],
+        [
+          105216,
+          105217
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1412,18 +1406,14 @@ FVMBAMFRBTZQPP-VKZAFTEVNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        77859,
-        79691
-      ]
-    },
-    {
-      "symIds": [
-        77868,
-        79692
-      ]
-    }
+    [
+      77859,
+      79691
+    ],
+    [
+      77868,
+      79692
+    ]
   ]
 }
 

@@ -182,7 +182,7 @@ AYSVPSFYCYPZNQ-DABBSAHUNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -203,12 +203,10 @@ AYSVPSFYCYPZNQ-DABBSAHUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          554468,
+          554469
+        ]
       ],
       "mol": {
         "atoms": [
@@ -223,7 +221,7 @@ AYSVPSFYCYPZNQ-DABBSAHUNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -418,12 +416,10 @@ AYSVPSFYCYPZNQ-DABBSAHUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          554472,
+          554473
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1675,18 +1671,14 @@ AYSVPSFYCYPZNQ-DABBSAHUNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        290688,
-        291509
-      ]
-    },
-    {
-      "symIds": [
-        458003,
-        457959
-      ]
-    }
+    [
+      290688,
+      291509
+    ],
+    [
+      458003,
+      457959
+    ]
   ]
 }
 

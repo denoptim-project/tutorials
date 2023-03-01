@@ -192,7 +192,7 @@ YKNGVYQSNBCMOW-BYMLRWOJNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -213,12 +213,10 @@ YKNGVYQSNBCMOW-BYMLRWOJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          66464,
+          66465
+        ]
       ],
       "mol": {
         "atoms": [
@@ -233,7 +231,7 @@ YKNGVYQSNBCMOW-BYMLRWOJNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -489,12 +487,10 @@ YKNGVYQSNBCMOW-BYMLRWOJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          66468,
+          66469
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1647,12 +1643,10 @@ YKNGVYQSNBCMOW-BYMLRWOJNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        49310,
-        49804
-      ]
-    }
+    [
+      49310,
+      49804
+    ]
   ]
 }
 

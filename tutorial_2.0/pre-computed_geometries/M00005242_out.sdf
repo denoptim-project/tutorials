@@ -146,7 +146,7 @@ HQNCUAGBPXUMQF-DDUSHZNLNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -167,12 +167,10 @@ HQNCUAGBPXUMQF-DDUSHZNLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          157332,
+          157333
+        ]
       ],
       "mol": {
         "atoms": [
@@ -187,7 +185,7 @@ HQNCUAGBPXUMQF-DDUSHZNLNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -443,12 +441,10 @@ HQNCUAGBPXUMQF-DDUSHZNLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          157336,
+          157337
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1257,12 +1253,10 @@ HQNCUAGBPXUMQF-DDUSHZNLNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        119990,
-        119688
-      ]
-    }
+    [
+      119990,
+      119688
+    ]
   ]
 }
 

@@ -178,7 +178,7 @@ DZNMSMKIGKRFCZ-DKKDRNIRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -199,12 +199,10 @@ DZNMSMKIGKRFCZ-DKKDRNIRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          49416,
+          49417
+        ]
       ],
       "mol": {
         "atoms": [
@@ -219,7 +217,7 @@ DZNMSMKIGKRFCZ-DKKDRNIRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -505,12 +503,10 @@ DZNMSMKIGKRFCZ-DKKDRNIRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          49424,
+          49425
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1643,12 +1639,10 @@ DZNMSMKIGKRFCZ-DKKDRNIRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        33441,
-        36648
-      ]
-    }
+    [
+      33441,
+      36648
+    ]
   ]
 }
 

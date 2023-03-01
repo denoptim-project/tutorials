@@ -164,7 +164,7 @@ OEGNOSVXYABOOK-IJAAIRHYNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -185,12 +185,10 @@ OEGNOSVXYABOOK-IJAAIRHYNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          270055,
+          270056
+        ]
       ],
       "mol": {
         "atoms": [
@@ -205,7 +203,7 @@ OEGNOSVXYABOOK-IJAAIRHYNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -431,12 +429,10 @@ OEGNOSVXYABOOK-IJAAIRHYNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          270060,
+          270061
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1439,12 +1435,10 @@ OEGNOSVXYABOOK-IJAAIRHYNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        206409,
-        206757
-      ]
-    }
+    [
+      206409,
+      206757
+    ]
   ]
 }
 

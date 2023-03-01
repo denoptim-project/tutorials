@@ -176,7 +176,7 @@ KCLQFNRSZZVOKQ-GWXPLEBDNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -197,12 +197,10 @@ KCLQFNRSZZVOKQ-GWXPLEBDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          448311,
+          448312
+        ]
       ],
       "mol": {
         "atoms": [
@@ -217,7 +215,7 @@ KCLQFNRSZZVOKQ-GWXPLEBDNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -412,12 +410,10 @@ KCLQFNRSZZVOKQ-GWXPLEBDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          448316,
+          448317
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1508,12 +1504,10 @@ KCLQFNRSZZVOKQ-GWXPLEBDNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        343543,
-        344179
-      ]
-    }
+    [
+      343543,
+      344179
+    ]
   ]
 }
 

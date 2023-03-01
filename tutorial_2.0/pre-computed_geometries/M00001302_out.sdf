@@ -151,7 +151,7 @@ PIZNGTIOFMMURH-YZKTYOJJNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -172,12 +172,10 @@ PIZNGTIOFMMURH-YZKTYOJJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          46280,
+          46281
+        ]
       ],
       "mol": {
         "atoms": [
@@ -192,7 +190,7 @@ PIZNGTIOFMMURH-YZKTYOJJNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -478,12 +476,10 @@ PIZNGTIOFMMURH-YZKTYOJJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          46288,
+          46289
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1414,12 +1410,10 @@ PIZNGTIOFMMURH-YZKTYOJJNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        33441,
-        34295
-      ]
-    }
+    [
+      33441,
+      34295
+    ]
   ]
 }
 

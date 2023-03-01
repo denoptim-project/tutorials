@@ -186,7 +186,7 @@ QUDHHZLMZISHRK-BSSMGFRDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -207,12 +207,10 @@ QUDHHZLMZISHRK-BSSMGFRDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          70578,
+          70579
+        ]
       ],
       "mol": {
         "atoms": [
@@ -227,7 +225,7 @@ QUDHHZLMZISHRK-BSSMGFRDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -513,18 +511,14 @@ QUDHHZLMZISHRK-BSSMGFRDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          70584,
+          70587
+        ],
+        [
+          70585,
+          70586
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1717,18 +1711,14 @@ QUDHHZLMZISHRK-BSSMGFRDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        51460,
-        52999
-      ]
-    },
-    {
-      "symIds": [
-        53000,
-        51466
-      ]
-    }
+    [
+      51460,
+      52999
+    ],
+    [
+      53000,
+      51466
+    ]
   ]
 }
 

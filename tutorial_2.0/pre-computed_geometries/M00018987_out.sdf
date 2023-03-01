@@ -136,7 +136,7 @@ MQPRGBIFEZCOET-HENIOMIBNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -157,12 +157,10 @@ MQPRGBIFEZCOET-HENIOMIBNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          552149,
+          552150
+        ]
       ],
       "mol": {
         "atoms": [
@@ -177,7 +175,7 @@ MQPRGBIFEZCOET-HENIOMIBNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -433,12 +431,10 @@ MQPRGBIFEZCOET-HENIOMIBNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          552153,
+          552154
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1286,18 +1282,14 @@ MQPRGBIFEZCOET-HENIOMIBNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        286147,
-        287001
-      ]
-    },
-    {
-      "symIds": [
-        454447,
-        454508
-      ]
-    }
+    [
+      286147,
+      287001
+    ],
+    [
+      454447,
+      454508
+    ]
   ]
 }
 

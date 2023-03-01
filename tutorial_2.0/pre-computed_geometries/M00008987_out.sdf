@@ -134,7 +134,7 @@ RXUZXAMEQLZWJK-GJUVBBEMNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -155,12 +155,10 @@ RXUZXAMEQLZWJK-GJUVBBEMNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          264756,
+          264757
+        ]
       ],
       "mol": {
         "atoms": [
@@ -175,7 +173,7 @@ RXUZXAMEQLZWJK-GJUVBBEMNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -446,20 +444,16 @@ RXUZXAMEQLZWJK-GJUVBBEMNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          264760,
+          264761
+        ],
+        [
+          264763,
+          264764,
+          264765,
+          264766
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1363,20 +1357,16 @@ RXUZXAMEQLZWJK-GJUVBBEMNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        202717,
-        201869
-      ]
-    },
-    {
-      "symIds": [
-        201873,
-        202716,
-        202714,
-        202715
-      ]
-    }
+    [
+      202717,
+      201869
+    ],
+    [
+      201873,
+      202716,
+      202714,
+      202715
+    ]
   ]
 }
 

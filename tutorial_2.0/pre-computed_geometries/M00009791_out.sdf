@@ -219,7 +219,7 @@ TUOZEBXTECEKQM-XQLOMAGONA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -240,12 +240,10 @@ TUOZEBXTECEKQM-XQLOMAGONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          287316,
+          287317
+        ]
       ],
       "mol": {
         "atoms": [
@@ -260,7 +258,7 @@ TUOZEBXTECEKQM-XQLOMAGONA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -516,18 +514,14 @@ TUOZEBXTECEKQM-XQLOMAGONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          287322,
+          287325
+        ],
+        [
+          287323,
+          287324
+        ]
       ],
       "mol": {
         "atoms": [
@@ -2027,18 +2021,14 @@ TUOZEBXTECEKQM-XQLOMAGONA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        216860,
-        219949
-      ]
-    },
-    {
-      "symIds": [
-        216869,
-        219948
-      ]
-    }
+    [
+      216860,
+      219949
+    ],
+    [
+      216869,
+      219948
+    ]
   ]
 }
 

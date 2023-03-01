@@ -31,13 +31,17 @@ The fundamental concept in DENOPTIM's world is that chemical objects, such as mo
 
 	**Figure 2**: The *Node View* representation of a vertex.
 
+	![figures/fragment_view_2d.png](figures/fragment_view_2d.png)
+
+	**Figure 3**: The *2D Molecular Structure* representation of a vertex.
+
 ---
 ## Make Fragments in the GUI
 1. We will now make new molecular fragments that we could use as building blocks. To exploit the existing chemical knowledge we will make such molecular fragments by *fragmenting* (that is, chopping up) a known compound. Click on `File` -> `New` -> `New Molecular Fragments` to open a new vertex inspector tab. Then click on the dedicated button to *Import a structure from* `File` (see red arrow in the figure below) and select file `tutorial_1.0/aspirin.sdf`.
 
 	![figures/fragment_view_importFromFile.png](figures/fragment_view_importFromFile.png)
 
-	**Figure 3**: Buttons used to import a structure from file (red arrow) and launch the fragmentation (green arrow).
+	**Figure 4**: Buttons used to import a structure from file (red arrow) and launch the fragmentation (green arrow).
 
 2. Once the molecule is displayed, you can click on `Chop Structure` (see green arrow in the figure above) to start the automated generation of fragments. This will open a new window that offers the possibility to control the **cutting rule**, i.e., the rules defining how the structure should be cut (see below). Click on `Start fragmentation` to accept the defaults.
 
@@ -45,7 +49,7 @@ The fundamental concept in DENOPTIM's world is that chemical objects, such as mo
 
 	![figures/aspirin_cuts.png](figures/aspirin_cuts.png)
 
-	**Figure 4**: Bonds identified by the default cutting rules and cut Buttons used to import a structure from file (red arrow) and launch the fragmentation (green arrow).
+	**Figure 5**: Bonds identified by the default cutting rules and cut Buttons used to import a structure from file (red arrow) and launch the fragmentation (green arrow).
 
 	The set of fragments and the APClass on the attachment points of the generated fragments are the result of the **cutting rules**. A single cutting rule is a substructure pattern that defines which bonds are broken by a specific cutting rule and what is the APClass of the resulting attachment points. Further details are available in the [dedicated documentation](https://htmlpreview.github.io/?https://github.com/denoptim-project/DENOPTIM/blob/master/doc/user_manual.html#Toc2222_2) and publication ([*J. Chem. Inf. Model.* **2014**, 54, 7, 1919–1931](https://doi.org/10.1021/ci5003153)). In brief, each cutting rule is expressed as a [SMARTS](https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html) resulting by the combination of the components dedicated to the bond it self and the atoms connected by such bond. The cutting rule can be inspected in the dialog shown when clicking on the `Chop Structure` button.
 
@@ -53,7 +57,7 @@ The fundamental concept in DENOPTIM's world is that chemical objects, such as mo
 
 	![figures/fragment_view_addAP.png](figures/fragment_view_addAP.png)
 
-	**Figure 5**: Selection of an atom to be converted into an attachment point by clicking on the button identified by the red arrow.
+	**Figure 6**: Selection of an atom to be converted into an attachment point by clicking on the button identified by the red arrow.
 
 ---
 ## Run Fragmenter Jobs from Command Line
@@ -92,14 +96,14 @@ In this specific example, out goal is to collect three-dimensional fragments of 
 	denoptim FRGYYYYMMDDHHMMS/Fragments.sdf
 	```
 
-	Note that the fragment corresponding to the chelating *ortho*-alkoxybenzylidene (Figure 6) is the centroid of a cluster collecting a handful of isomorphic and geometrically similar fragments. This information can be found in the `ConformerExtractorTask-\*_IsomorphicFamily_\*.log` files. The centroid is calculated averaging all atomic positions, thus the noise due to small distortions in the geometries is attenuated.
+	Note that the fragment corresponding to the chelating *ortho*-alkoxybenzylidene (Figure 7) is the centroid of a cluster collecting a handful of isomorphic and geometrically similar fragments. This information can be found in the `ConformerExtractorTask-\*_IsomorphicFamily_\*.log` files. The centroid is calculated averaging all atomic positions, thus the noise due to small distortions in the geometries is attenuated.
 
 	![figures/fragment_view_alkoxybenzylidene.png](figures/fragment_view_alkoxybenzylidene.png)
 
-	**Figure 6**: Fragment obtained as the cluster centroid for *ortho*-alkoxybenzylidene-chelated ruthenium centers. The atom in magenta is a dummy atom added by DENOPTIM to facilitate the manipulation of linearities around the metal center.
+	**Figure 7**: Fragment obtained as the cluster centroid for *ortho*-alkoxybenzylidene-chelated ruthenium centers. The atom in magenta is a dummy atom added by DENOPTIM to facilitate the manipulation of linearities around the metal center.
 
-	Moreover, note that the isomorphic but geometrically diverse fragments in Figure 7 are collected separately as they belong to two different geometry clusters of the same sample of isomorphic fragments.
+	Moreover, note that the isomorphic but geometrically diverse fragments in Figure 8 are collected separately as they belong to two different geometry clusters of the same sample of isomorphic fragments.
 
 	![figures/fragment_view_cit-trans.png](figures/fragment_view_cit-trans.png)
 
-	**Figure 7**: isomorphic but geometrycally different fragments, i.e., these fragments have the same constitution but different configuration at the Ru center: *trans* for the fragment on the left, *cis* for that on the right. The atom in magenta is a dummy atom added by DENOPTIM to facilitate the manipulation of linearities around the metal center.
+	**Figure 8**: isomorphic but geometrycally different fragments, i.e., these fragments have the same constitution but different configuration at the Ru center: *trans* for the fragment on the left, *cis* for that on the right. The atom in magenta is a dummy atom added by DENOPTIM to facilitate the manipulation of linearities around the metal center.

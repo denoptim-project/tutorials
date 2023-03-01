@@ -126,7 +126,7 @@ ANHRBHOQLPOARL-XZAIWENSNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -147,12 +147,10 @@ ANHRBHOQLPOARL-XZAIWENSNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          127031,
+          127032
+        ]
       ],
       "mol": {
         "atoms": [
@@ -167,7 +165,7 @@ ANHRBHOQLPOARL-XZAIWENSNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -423,12 +421,10 @@ ANHRBHOQLPOARL-XZAIWENSNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          127036,
+          127037
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1102,12 +1098,10 @@ ANHRBHOQLPOARL-XZAIWENSNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        96544,
-        96562
-      ]
-    }
+    [
+      96544,
+      96562
+    ]
   ]
 }
 

@@ -136,7 +136,7 @@ HTYAIXNWFKLHGW-VVIOGUDANA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -157,12 +157,10 @@ HTYAIXNWFKLHGW-VVIOGUDANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          27333,
+          27334
+        ]
       ],
       "mol": {
         "atoms": [
@@ -177,7 +175,7 @@ HTYAIXNWFKLHGW-VVIOGUDANA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -433,12 +431,10 @@ HTYAIXNWFKLHGW-VVIOGUDANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          27339,
+          27340
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1171,12 +1167,10 @@ HTYAIXNWFKLHGW-VVIOGUDANA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        19717,
-        19747
-      ]
-    }
+    [
+      19717,
+      19747
+    ]
   ]
 }
 

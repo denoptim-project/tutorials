@@ -172,7 +172,7 @@ YRUUWWYQAOAVSM-NECOHINXNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -193,12 +193,10 @@ YRUUWWYQAOAVSM-NECOHINXNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          617467,
+          617468
+        ]
       ],
       "mol": {
         "atoms": [
@@ -213,7 +211,7 @@ YRUUWWYQAOAVSM-NECOHINXNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -469,12 +467,10 @@ YRUUWWYQAOAVSM-NECOHINXNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          617471,
+          617472
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1592,18 +1588,14 @@ YRUUWWYQAOAVSM-NECOHINXNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        68973,
-        69794
-      ]
-    },
-    {
-      "symIds": [
-        555629,
-        555633
-      ]
-    }
+    [
+      68973,
+      69794
+    ],
+    [
+      555629,
+      555633
+    ]
   ]
 }
 

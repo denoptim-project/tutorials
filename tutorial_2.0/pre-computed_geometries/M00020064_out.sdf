@@ -117,7 +117,7 @@ OILKZVAINJMZBU-ITAZOHSNNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -138,12 +138,10 @@ OILKZVAINJMZBU-ITAZOHSNNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          585443,
+          585444
+        ]
       ],
       "mol": {
         "atoms": [
@@ -158,7 +156,7 @@ OILKZVAINJMZBU-ITAZOHSNNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -353,12 +351,10 @@ OILKZVAINJMZBU-ITAZOHSNNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          585448,
+          585449
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1065,12 +1061,10 @@ OILKZVAINJMZBU-ITAZOHSNNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        349063,
-        349113
-      ]
-    }
+    [
+      349063,
+      349113
+    ]
   ]
 }
 

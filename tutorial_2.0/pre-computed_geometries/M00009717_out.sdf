@@ -168,7 +168,7 @@ KSDSFKSORMOXLO-SOWRTOOENA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -189,12 +189,10 @@ KSDSFKSORMOXLO-SOWRTOOENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          284980,
+          284981
+        ]
       ],
       "mol": {
         "atoms": [
@@ -209,7 +207,7 @@ KSDSFKSORMOXLO-SOWRTOOENA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -465,18 +463,14 @@ KSDSFKSORMOXLO-SOWRTOOENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          284986,
+          284989
+        ],
+        [
+          284987,
+          284988
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1595,18 +1589,14 @@ KSDSFKSORMOXLO-SOWRTOOENA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        218123,
-        216860
-      ]
-    },
-    {
-      "symIds": [
-        218122,
-        216868
-      ]
-    }
+    [
+      218123,
+      216860
+    ],
+    [
+      218122,
+      216868
+    ]
   ]
 }
 

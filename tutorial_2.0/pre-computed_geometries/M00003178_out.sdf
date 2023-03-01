@@ -161,7 +161,7 @@ KEVABICWMJVAQY-MAAPORLVNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -182,12 +182,10 @@ KEVABICWMJVAQY-MAAPORLVNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          98593,
+          98594
+        ]
       ],
       "mol": {
         "atoms": [
@@ -202,7 +200,7 @@ KEVABICWMJVAQY-MAAPORLVNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -458,12 +456,10 @@ KEVABICWMJVAQY-MAAPORLVNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          98597,
+          98598
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1384,12 +1380,10 @@ KEVABICWMJVAQY-MAAPORLVNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        74022,
-        74598
-      ]
-    }
+    [
+      74022,
+      74598
+    ]
   ]
 }
 

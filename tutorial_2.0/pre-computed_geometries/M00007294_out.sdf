@@ -111,7 +111,7 @@ LDKJZEIYCNYJOW-IUIRTQIHNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -132,12 +132,10 @@ LDKJZEIYCNYJOW-IUIRTQIHNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          215159,
+          215160
+        ]
       ],
       "mol": {
         "atoms": [
@@ -152,7 +150,7 @@ LDKJZEIYCNYJOW-IUIRTQIHNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -408,14 +406,12 @@ LDKJZEIYCNYJOW-IUIRTQIHNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3,
-            4,
-            5
-          ]
-        }
+        [
+          215165,
+          215166,
+          215167,
+          215168
+        ]
       ],
       "mol": {
         "atoms": [

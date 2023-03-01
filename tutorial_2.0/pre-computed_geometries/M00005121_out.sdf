@@ -156,7 +156,7 @@ VRBCEDMSYPXAMO-XDNCJXMLNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -177,12 +177,10 @@ VRBCEDMSYPXAMO-XDNCJXMLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          154071,
+          154072
+        ]
       ],
       "mol": {
         "atoms": [
@@ -197,7 +195,7 @@ VRBCEDMSYPXAMO-XDNCJXMLNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -498,20 +496,16 @@ VRBCEDMSYPXAMO-XDNCJXMLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          154075,
+          154076
+        ],
+        [
+          154078,
+          154079,
+          154080,
+          154081
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1520,20 +1514,16 @@ VRBCEDMSYPXAMO-XDNCJXMLNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        116962,
-        117411
-      ]
-    },
-    {
-      "symIds": [
-        117413,
-        117414,
-        117412,
-        116969
-      ]
-    }
+    [
+      116962,
+      117411
+    ],
+    [
+      117413,
+      117414,
+      117412,
+      116969
+    ]
   ]
 }
 

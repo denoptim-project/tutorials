@@ -197,7 +197,7 @@ FJFKTVFWOSUCOZ-MZUCECTANA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -218,12 +218,10 @@ FJFKTVFWOSUCOZ-MZUCECTANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          558695,
+          558696
+        ]
       ],
       "mol": {
         "atoms": [
@@ -238,7 +236,7 @@ FJFKTVFWOSUCOZ-MZUCECTANA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -494,12 +492,10 @@ FJFKTVFWOSUCOZ-MZUCECTANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          558700,
+          558701
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1306,12 +1302,10 @@ FJFKTVFWOSUCOZ-MZUCECTANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          558707,
+          558708
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1808,18 +1802,14 @@ FJFKTVFWOSUCOZ-MZUCECTANA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        293146,
-        293968
-      ]
-    },
-    {
-      "symIds": [
-        461838,
-        461924
-      ]
-    }
+    [
+      293146,
+      293968
+    ],
+    [
+      461838,
+      461924
+    ]
   ]
 }
 

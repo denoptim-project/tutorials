@@ -120,7 +120,7 @@ BRHFEUCVMLVWMP-QWVNDCECNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -141,12 +141,10 @@ BRHFEUCVMLVWMP-QWVNDCECNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          443102,
+          443103
+        ]
       ],
       "mol": {
         "atoms": [
@@ -161,7 +159,7 @@ BRHFEUCVMLVWMP-QWVNDCECNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -371,18 +369,14 @@ BRHFEUCVMLVWMP-QWVNDCECNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          443107,
+          443110
+        ],
+        [
+          443108,
+          443109
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1095,18 +1089,14 @@ BRHFEUCVMLVWMP-QWVNDCECNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        339702,
-        340229
-      ]
-    },
-    {
-      "symIds": [
-        339712,
-        340228
-      ]
-    }
+    [
+      339702,
+      340229
+    ],
+    [
+      339712,
+      340228
+    ]
   ]
 }
 

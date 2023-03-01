@@ -172,7 +172,7 @@ PINZAJGKHFAXSR-BHMNOQSUNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -193,12 +193,10 @@ PINZAJGKHFAXSR-BHMNOQSUNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          217735,
+          217736
+        ]
       ],
       "mol": {
         "atoms": [
@@ -213,7 +211,7 @@ PINZAJGKHFAXSR-BHMNOQSUNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -499,12 +497,10 @@ PINZAJGKHFAXSR-BHMNOQSUNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          217743,
+          217744
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1592,12 +1588,10 @@ PINZAJGKHFAXSR-BHMNOQSUNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        166512,
-        165029
-      ]
-    }
+    [
+      166512,
+      165029
+    ]
   ]
 }
 

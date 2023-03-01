@@ -130,7 +130,7 @@ METIXCYCWZUGOA-WUYGOERUNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -151,12 +151,10 @@ METIXCYCWZUGOA-WUYGOERUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          55959,
+          55960
+        ]
       ],
       "mol": {
         "atoms": [
@@ -171,7 +169,7 @@ METIXCYCWZUGOA-WUYGOERUNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -442,18 +440,14 @@ METIXCYCWZUGOA-WUYGOERUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          55964,
+          55967
+        ],
+        [
+          55965,
+          55966
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1183,18 +1177,14 @@ METIXCYCWZUGOA-WUYGOERUNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        41833,
-        41622
-      ]
-    },
-    {
-      "symIds": [
-        41832,
-        41633
-      ]
-    }
+    [
+      41833,
+      41622
+    ],
+    [
+      41832,
+      41633
+    ]
   ]
 }
 

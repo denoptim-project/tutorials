@@ -136,7 +136,7 @@ XIANFURIHUJGAQ-HWIITAMLNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -157,12 +157,10 @@ XIANFURIHUJGAQ-HWIITAMLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          529769,
+          529770
+        ]
       ],
       "mol": {
         "atoms": [
@@ -177,7 +175,7 @@ XIANFURIHUJGAQ-HWIITAMLNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -403,12 +401,10 @@ XIANFURIHUJGAQ-HWIITAMLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          529774,
+          529775
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1242,12 +1238,10 @@ XIANFURIHUJGAQ-HWIITAMLNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        236684,
-        235743
-      ]
-    }
+    [
+      236684,
+      235743
+    ]
   ]
 }
 

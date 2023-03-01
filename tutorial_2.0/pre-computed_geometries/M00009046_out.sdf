@@ -168,7 +168,7 @@ JMOPTOBVTRSVFI-OKYYACAQNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -189,12 +189,10 @@ JMOPTOBVTRSVFI-OKYYACAQNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          266371,
+          266372
+        ]
       ],
       "mol": {
         "atoms": [
@@ -209,7 +207,7 @@ JMOPTOBVTRSVFI-OKYYACAQNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -435,12 +433,10 @@ JMOPTOBVTRSVFI-OKYYACAQNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          266377,
+          266378
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1474,12 +1470,10 @@ JMOPTOBVTRSVFI-OKYYACAQNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        203692,
-        204006
-      ]
-    }
+    [
+      203692,
+      204006
+    ]
   ]
 }
 

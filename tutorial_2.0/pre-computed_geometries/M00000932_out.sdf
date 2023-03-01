@@ -124,7 +124,7 @@ UZXMGSASFPBONR-MECSFHETNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -145,12 +145,10 @@ UZXMGSASFPBONR-MECSFHETNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          35433,
+          35434
+        ]
       ],
       "mol": {
         "atoms": [
@@ -165,7 +163,7 @@ UZXMGSASFPBONR-MECSFHETNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -421,12 +419,10 @@ UZXMGSASFPBONR-MECSFHETNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          35439,
+          35440
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1067,12 +1063,10 @@ UZXMGSASFPBONR-MECSFHETNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        25351,
-        25874
-      ]
-    }
+    [
+      25351,
+      25874
+    ]
   ]
 }
 

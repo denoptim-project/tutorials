@@ -162,7 +162,7 @@ XWCIIASMKBSFGX-QENRGJTDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -183,12 +183,10 @@ XWCIIASMKBSFGX-QENRGJTDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          206473,
+          206474
+        ]
       ],
       "mol": {
         "atoms": [
@@ -203,7 +201,7 @@ XWCIIASMKBSFGX-QENRGJTDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -429,12 +427,10 @@ XWCIIASMKBSFGX-QENRGJTDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          206479,
+          206480
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1408,12 +1404,10 @@ XWCIIASMKBSFGX-QENRGJTDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        157811,
-        157339
-      ]
-    }
+    [
+      157811,
+      157339
+    ]
   ]
 }
 

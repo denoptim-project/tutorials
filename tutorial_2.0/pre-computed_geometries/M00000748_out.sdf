@@ -144,7 +144,7 @@ XBKBJCQRRKOELC-ZNENPIRLNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -165,12 +165,10 @@ XBKBJCQRRKOELC-ZNENPIRLNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          30293,
+          30294
+        ]
       ],
       "mol": {
         "atoms": [
@@ -185,7 +183,7 @@ XBKBJCQRRKOELC-ZNENPIRLNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -441,12 +439,10 @@ XBKBJCQRRKOELC-ZNENPIRLNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          30297,
+          30298
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1239,12 +1235,10 @@ XBKBJCQRRKOELC-ZNENPIRLNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        21569,
-        22003
-      ]
-    }
+    [
+      21569,
+      22003
+    ]
   ]
 }
 

@@ -142,7 +142,7 @@ FUTGLHJFIVTJSP-GNADKWJENA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -163,12 +163,10 @@ FUTGLHJFIVTJSP-GNADKWJENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          451317,
+          451318
+        ]
       ],
       "mol": {
         "atoms": [
@@ -183,7 +181,7 @@ FUTGLHJFIVTJSP-GNADKWJENA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -378,12 +376,10 @@ FUTGLHJFIVTJSP-GNADKWJENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          451321,
+          451322
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1220,12 +1216,10 @@ FUTGLHJFIVTJSP-GNADKWJENA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        345405,
-        346466
-      ]
-    }
+    [
+      345405,
+      346466
+    ]
   ]
 }
 

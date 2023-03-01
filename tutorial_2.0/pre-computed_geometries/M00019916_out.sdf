@@ -192,7 +192,7 @@ ZBQZAMASIGICPZ-QVOMEUATNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -213,12 +213,10 @@ ZBQZAMASIGICPZ-QVOMEUATNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          580699,
+          580700
+        ]
       ],
       "mol": {
         "atoms": [
@@ -233,7 +231,7 @@ ZBQZAMASIGICPZ-QVOMEUATNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -428,12 +426,10 @@ ZBQZAMASIGICPZ-QVOMEUATNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          580703,
+          580704
+        ]
       ],
       "mol": {
         "atoms": [
@@ -567,12 +563,10 @@ ZBQZAMASIGICPZ-QVOMEUATNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          580709,
+          580710
+        ]
       ],
       "mol": {
         "atoms": [
@@ -954,12 +948,10 @@ ZBQZAMASIGICPZ-QVOMEUATNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          580713,
+          580714
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1884,20 +1876,16 @@ ZBQZAMASIGICPZ-QVOMEUATNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        343327,
-        342639
-      ]
-    },
-    {
-      "symIds": [
-        496794,
-        496793,
-        496674,
-        496792
-      ]
-    }
+    [
+      343327,
+      342639
+    ],
+    [
+      496794,
+      496793,
+      496674,
+      496792
+    ]
   ]
 }
 

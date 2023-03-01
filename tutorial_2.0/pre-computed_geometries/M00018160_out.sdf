@@ -134,7 +134,7 @@ DXXZBMFTUGAPKV-RFNSMRSJNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -155,12 +155,10 @@ DXXZBMFTUGAPKV-RFNSMRSJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          525829,
+          525830
+        ]
       ],
       "mol": {
         "atoms": [
@@ -175,7 +173,7 @@ DXXZBMFTUGAPKV-RFNSMRSJNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -401,12 +399,10 @@ DXXZBMFTUGAPKV-RFNSMRSJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          525833,
+          525834
+        ]
       ],
       "mol": {
         "atoms": [
@@ -839,12 +835,10 @@ DXXZBMFTUGAPKV-RFNSMRSJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          525840,
+          525841
+        ]
       ],
       "mol": {
         "atoms": [
@@ -927,12 +921,10 @@ DXXZBMFTUGAPKV-RFNSMRSJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          525843,
+          525844
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1409,20 +1401,16 @@ DXXZBMFTUGAPKV-RFNSMRSJNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        235526,
-        234831
-      ]
-    },
-    {
-      "symIds": [
-        415776,
-        415768,
-        415774,
-        415775
-      ]
-    }
+    [
+      235526,
+      234831
+    ],
+    [
+      415776,
+      415768,
+      415774,
+      415775
+    ]
   ]
 }
 

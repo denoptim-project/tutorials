@@ -108,7 +108,7 @@ MYIHVARLKAYCCX-JLGLQYHTNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -129,12 +129,10 @@ MYIHVARLKAYCCX-JLGLQYHTNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          221513,
+          221514
+        ]
       ],
       "mol": {
         "atoms": [
@@ -149,7 +147,7 @@ MYIHVARLKAYCCX-JLGLQYHTNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }

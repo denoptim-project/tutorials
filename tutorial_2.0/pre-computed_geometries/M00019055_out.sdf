@@ -158,7 +158,7 @@ PIUWCINAHKHPCE-WBEUETMRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -179,12 +179,10 @@ PIUWCINAHKHPCE-WBEUETMRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          554696,
+          554697
+        ]
       ],
       "mol": {
         "atoms": [
@@ -199,7 +197,7 @@ PIUWCINAHKHPCE-WBEUETMRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -394,12 +392,10 @@ PIUWCINAHKHPCE-WBEUETMRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          554700,
+          554701
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1471,18 +1467,14 @@ PIUWCINAHKHPCE-WBEUETMRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        290688,
-        291545
-      ]
-    },
-    {
-      "symIds": [
-        458152,
-        458176
-      ]
-    }
+    [
+      290688,
+      291545
+    ],
+    [
+      458152,
+      458176
+    ]
   ]
 }
 

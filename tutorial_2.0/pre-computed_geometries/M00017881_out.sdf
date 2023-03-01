@@ -120,7 +120,7 @@ KITHYKZQWOSCTI-BDRWXVMZNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -141,12 +141,10 @@ KITHYKZQWOSCTI-BDRWXVMZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          517061,
+          517062
+        ]
       ],
       "mol": {
         "atoms": [
@@ -161,7 +159,7 @@ KITHYKZQWOSCTI-BDRWXVMZNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -387,12 +385,10 @@ KITHYKZQWOSCTI-BDRWXVMZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          517066,
+          517067
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1123,12 +1119,10 @@ KITHYKZQWOSCTI-BDRWXVMZNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        206407,
-        207297
-      ]
-    }
+    [
+      206407,
+      207297
+    ]
   ]
 }
 

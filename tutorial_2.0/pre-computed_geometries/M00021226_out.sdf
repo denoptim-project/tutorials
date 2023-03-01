@@ -154,7 +154,7 @@ NQTXGVFYKBXGGX-SRIGREBKNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -175,12 +175,10 @@ NQTXGVFYKBXGGX-SRIGREBKNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          621168,
+          621169
+        ]
       ],
       "mol": {
         "atoms": [
@@ -195,7 +193,7 @@ NQTXGVFYKBXGGX-SRIGREBKNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -451,12 +449,10 @@ NQTXGVFYKBXGGX-SRIGREBKNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          621173,
+          621174
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1381,12 +1377,10 @@ NQTXGVFYKBXGGX-SRIGREBKNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        73823,
-        73780
-      ]
-    }
+    [
+      73823,
+      73780
+    ]
   ]
 }
 

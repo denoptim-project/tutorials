@@ -108,7 +108,7 @@ FEEZLECHKRUCGM-HXJBGYBLNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -129,12 +129,10 @@ FEEZLECHKRUCGM-HXJBGYBLNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          89103,
+          89104
+        ]
       ],
       "mol": {
         "atoms": [
@@ -149,7 +147,7 @@ FEEZLECHKRUCGM-HXJBGYBLNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -405,12 +403,10 @@ FEEZLECHKRUCGM-HXJBGYBLNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          89109,
+          89110
+        ]
       ],
       "mol": {
         "atoms": [
@@ -933,12 +929,10 @@ FEEZLECHKRUCGM-HXJBGYBLNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        67169,
-        67409
-      ]
-    }
+    [
+      67169,
+      67409
+    ]
   ]
 }
 

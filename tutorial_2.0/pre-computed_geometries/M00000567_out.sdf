@@ -140,7 +140,7 @@ KRURCYSSIGXGOC-HPPPTJKINA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -161,12 +161,10 @@ KRURCYSSIGXGOC-HPPPTJKINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          25507,
+          25508
+        ]
       ],
       "mol": {
         "atoms": [
@@ -181,7 +179,7 @@ KRURCYSSIGXGOC-HPPPTJKINA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -437,12 +435,10 @@ KRURCYSSIGXGOC-HPPPTJKINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          25511,
+          25512
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1205,12 +1201,10 @@ KRURCYSSIGXGOC-HPPPTJKINA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        17894,
-        18410
-      ]
-    }
+    [
+      17894,
+      18410
+    ]
   ]
 }
 

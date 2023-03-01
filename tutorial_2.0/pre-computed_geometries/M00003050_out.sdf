@@ -116,7 +116,7 @@ HMFIONDSQWFPKX-AFKVYLMLNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -137,12 +137,10 @@ HMFIONDSQWFPKX-AFKVYLMLNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          95245,
+          95246
+        ]
       ],
       "mol": {
         "atoms": [
@@ -157,7 +155,7 @@ HMFIONDSQWFPKX-AFKVYLMLNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -413,12 +411,10 @@ HMFIONDSQWFPKX-AFKVYLMLNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          95249,
+          95250
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1002,12 +998,10 @@ HMFIONDSQWFPKX-AFKVYLMLNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        72058,
-        71946
-      ]
-    }
+    [
+      72058,
+      71946
+    ]
   ]
 }
 

@@ -167,7 +167,7 @@ JJCSUQZXAYCKRU-IAERCOEENA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -188,12 +188,10 @@ JJCSUQZXAYCKRU-IAERCOEENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          532217,
+          532218
+        ]
       ],
       "mol": {
         "atoms": [
@@ -208,7 +206,7 @@ JJCSUQZXAYCKRU-IAERCOEENA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -464,12 +462,10 @@ JJCSUQZXAYCKRU-IAERCOEENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          532221,
+          532222
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1548,18 +1544,14 @@ JJCSUQZXAYCKRU-IAERCOEENA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        18807,
-        19598
-      ]
-    },
-    {
-      "symIds": [
-        422251,
-        422286
-      ]
-    }
+    [
+      18807,
+      19598
+    ],
+    [
+      422251,
+      422286
+    ]
   ]
 }
 

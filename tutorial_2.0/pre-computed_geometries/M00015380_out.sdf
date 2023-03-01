@@ -168,7 +168,7 @@ WPVOAYDSZWPAOV-ZZWPRIRKNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -189,12 +189,10 @@ WPVOAYDSZWPAOV-ZZWPRIRKNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          445571,
+          445572
+        ]
       ],
       "mol": {
         "atoms": [
@@ -209,7 +207,7 @@ WPVOAYDSZWPAOV-ZZWPRIRKNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -404,12 +402,10 @@ WPVOAYDSZWPAOV-ZZWPRIRKNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          445575,
+          445576
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1442,12 +1438,10 @@ WPVOAYDSZWPAOV-ZZWPRIRKNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        342153,
-        341725
-      ]
-    }
+    [
+      342153,
+      341725
+    ]
   ]
 }
 

@@ -174,7 +174,7 @@ HPBKFPCOIZKCBO-DZGYHILUNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -195,12 +195,10 @@ HPBKFPCOIZKCBO-DZGYHILUNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          501092,
+          501093
+        ]
       ],
       "mol": {
         "atoms": [
@@ -215,7 +213,7 @@ HPBKFPCOIZKCBO-DZGYHILUNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -471,12 +469,10 @@ HPBKFPCOIZKCBO-DZGYHILUNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          501098,
+          501099
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1495,12 +1491,10 @@ HPBKFPCOIZKCBO-DZGYHILUNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        384989,
-        384773
-      ]
-    }
+    [
+      384989,
+      384773
+    ]
   ]
 }
 

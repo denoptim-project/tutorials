@@ -130,7 +130,7 @@ DNALPEFISZHPRY-YHSRVEDNNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -151,12 +151,10 @@ DNALPEFISZHPRY-YHSRVEDNNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          569448,
+          569449
+        ]
       ],
       "mol": {
         "atoms": [
@@ -171,7 +169,7 @@ DNALPEFISZHPRY-YHSRVEDNNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -366,12 +364,10 @@ DNALPEFISZHPRY-YHSRVEDNNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          569452,
+          569453
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1232,18 +1228,14 @@ DNALPEFISZHPRY-YHSRVEDNNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        304825,
-        304954
-      ]
-    },
-    {
-      "symIds": [
-        473470,
-        473495
-      ]
-    }
+    [
+      304825,
+      304954
+    ],
+    [
+      473470,
+      473495
+    ]
   ]
 }
 

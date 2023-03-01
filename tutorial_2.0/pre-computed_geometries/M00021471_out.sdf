@@ -187,7 +187,7 @@ MCYALARHGPKIPN-XPDOGNJNNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -208,12 +208,10 @@ MCYALARHGPKIPN-XPDOGNJNNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          628256,
+          628257
+        ]
       ],
       "mol": {
         "atoms": [
@@ -228,7 +226,7 @@ MCYALARHGPKIPN-XPDOGNJNNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -484,12 +482,10 @@ MCYALARHGPKIPN-XPDOGNJNNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          628260,
+          628261
+        ]
       ],
       "mol": {
         "atoms": [
@@ -841,12 +837,10 @@ MCYALARHGPKIPN-XPDOGNJNNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          628267,
+          628268
+        ]
       ],
       "mol": {
         "atoms": [
@@ -929,12 +923,10 @@ MCYALARHGPKIPN-XPDOGNJNNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          628270,
+          628271
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1859,20 +1851,16 @@ MCYALARHGPKIPN-XPDOGNJNNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        96305,
-        95627
-      ]
-    },
-    {
-      "symIds": [
-        572644,
-        572643,
-        572524,
-        572642
-      ]
-    }
+    [
+      96305,
+      95627
+    ],
+    [
+      572644,
+      572643,
+      572524,
+      572642
+    ]
   ]
 }
 

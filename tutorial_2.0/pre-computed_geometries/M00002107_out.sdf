@@ -183,7 +183,7 @@ USABSJNGWFMSIM-DVIXKXMBNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -204,12 +204,10 @@ USABSJNGWFMSIM-DVIXKXMBNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          68220,
+          68221
+        ]
       ],
       "mol": {
         "atoms": [
@@ -224,7 +222,7 @@ USABSJNGWFMSIM-DVIXKXMBNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -480,12 +478,10 @@ USABSJNGWFMSIM-DVIXKXMBNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          68226,
+          68227
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1571,12 +1567,10 @@ USABSJNGWFMSIM-DVIXKXMBNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        51148,
-        50658
-      ]
-    }
+    [
+      51148,
+      50658
+    ]
   ]
 }
 

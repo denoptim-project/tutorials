@@ -132,7 +132,7 @@ YDOJNORFJPTHOS-SKYBQYLRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -153,12 +153,10 @@ YDOJNORFJPTHOS-SKYBQYLRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          151763,
+          151764
+        ]
       ],
       "mol": {
         "atoms": [
@@ -173,7 +171,7 @@ YDOJNORFJPTHOS-SKYBQYLRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -444,18 +442,14 @@ YDOJNORFJPTHOS-SKYBQYLRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          151767,
+          151769
+        ],
+        [
+          151770,
+          151771
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1198,18 +1192,14 @@ YDOJNORFJPTHOS-SKYBQYLRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        115563,
-        114051
-      ]
-    },
-    {
-      "symIds": [
-        114059,
-        115562
-      ]
-    }
+    [
+      115563,
+      114051
+    ],
+    [
+      114059,
+      115562
+    ]
   ]
 }
 

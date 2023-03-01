@@ -121,7 +121,7 @@ UXGROSHAQIWEBI-NABPBACGNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -142,12 +142,10 @@ UXGROSHAQIWEBI-NABPBACGNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          91079,
+          91080
+        ]
       ],
       "mol": {
         "atoms": [
@@ -162,7 +160,7 @@ UXGROSHAQIWEBI-NABPBACGNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -418,12 +416,10 @@ UXGROSHAQIWEBI-NABPBACGNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          91083,
+          91084
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1043,12 +1039,10 @@ UXGROSHAQIWEBI-NABPBACGNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        68069,
-        68907
-      ]
-    }
+    [
+      68069,
+      68907
+    ]
   ]
 }
 

@@ -165,7 +165,7 @@ HCMXCMJCCVWIHV-HIHUMTMXNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -186,12 +186,10 @@ HCMXCMJCCVWIHV-HIHUMTMXNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          592884,
+          592885
+        ]
       ],
       "mol": {
         "atoms": [
@@ -206,7 +204,7 @@ HCMXCMJCCVWIHV-HIHUMTMXNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -462,12 +460,10 @@ HCMXCMJCCVWIHV-HIHUMTMXNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          592888,
+          592889
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1530,18 +1526,14 @@ HCMXCMJCCVWIHV-HIHUMTMXNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        366857,
-        366820
-      ]
-    },
-    {
-      "symIds": [
-        514650,
-        514715
-      ]
-    }
+    [
+      366857,
+      366820
+    ],
+    [
+      514650,
+      514715
+    ]
   ]
 }
 

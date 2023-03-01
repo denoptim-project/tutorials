@@ -158,7 +158,7 @@ JUPFLTGWGSXMAE-DTDZTEMONA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -179,12 +179,10 @@ JUPFLTGWGSXMAE-DTDZTEMONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          76990,
+          76991
+        ]
       ],
       "mol": {
         "atoms": [
@@ -199,7 +197,7 @@ JUPFLTGWGSXMAE-DTDZTEMONA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -440,12 +438,10 @@ JUPFLTGWGSXMAE-DTDZTEMONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          76994,
+          76995
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1302,12 +1298,10 @@ JUPFLTGWGSXMAE-DTDZTEMONA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        57989,
-        57890
-      ]
-    }
+    [
+      57989,
+      57890
+    ]
   ]
 }
 

@@ -206,7 +206,7 @@ LYSMCWVUSUKSBI-QFCVNQCDNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -227,12 +227,10 @@ LYSMCWVUSUKSBI-QFCVNQCDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          431281,
+          431282
+        ]
       ],
       "mol": {
         "atoms": [
@@ -247,7 +245,7 @@ LYSMCWVUSUKSBI-QFCVNQCDNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -518,18 +516,14 @@ LYSMCWVUSUKSBI-QFCVNQCDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          431285,
+          431287
+        ],
+        [
+          431288,
+          431289
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1829,18 +1823,14 @@ LYSMCWVUSUKSBI-QFCVNQCDNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        331025,
-        329668
-      ]
-    },
-    {
-      "symIds": [
-        329677,
-        331024
-      ]
-    }
+    [
+      331025,
+      329668
+    ],
+    [
+      329677,
+      331024
+    ]
   ]
 }
 

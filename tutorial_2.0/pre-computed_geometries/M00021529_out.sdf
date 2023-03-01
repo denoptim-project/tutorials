@@ -159,7 +159,7 @@ ZQDOQBDLPJNAJH-FARGQMJDNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -180,12 +180,10 @@ ZQDOQBDLPJNAJH-FARGQMJDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          630327,
+          630328
+        ]
       ],
       "mol": {
         "atoms": [
@@ -200,7 +198,7 @@ ZQDOQBDLPJNAJH-FARGQMJDNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -456,12 +454,10 @@ ZQDOQBDLPJNAJH-FARGQMJDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          630332,
+          630333
+        ]
       ],
       "mol": {
         "atoms": [
@@ -723,12 +719,10 @@ ZQDOQBDLPJNAJH-FARGQMJDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          630338,
+          630339
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1502,18 +1496,14 @@ ZQDOQBDLPJNAJH-FARGQMJDNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        97264,
-        96543
-      ]
-    },
-    {
-      "symIds": [
-        574502,
-        574445
-      ]
-    }
+    [
+      97264,
+      96543
+    ],
+    [
+      574502,
+      574445
+    ]
   ]
 }
 

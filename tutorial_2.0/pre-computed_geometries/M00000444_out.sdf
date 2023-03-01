@@ -196,7 +196,7 @@ WBAZRTMNCQHIDA-ALUJCZLSNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -217,12 +217,10 @@ WBAZRTMNCQHIDA-ALUJCZLSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          22090,
+          22091
+        ]
       ],
       "mol": {
         "atoms": [
@@ -237,7 +235,7 @@ WBAZRTMNCQHIDA-ALUJCZLSNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -508,18 +506,14 @@ WBAZRTMNCQHIDA-ALUJCZLSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          22095,
+          22098
+        ],
+        [
+          22096,
+          22097
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1742,18 +1736,14 @@ WBAZRTMNCQHIDA-ALUJCZLSNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        15184,
-        15851
-      ]
-    },
-    {
-      "symIds": [
-        15852,
-        15191
-      ]
-    }
+    [
+      15184,
+      15851
+    ],
+    [
+      15852,
+      15191
+    ]
   ]
 }
 

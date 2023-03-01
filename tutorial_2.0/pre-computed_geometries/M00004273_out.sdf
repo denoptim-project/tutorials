@@ -123,7 +123,7 @@ RUENQYDQOGCTIY-LIGRDWMGNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -144,12 +144,10 @@ RUENQYDQOGCTIY-LIGRDWMGNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          129631,
+          129632
+        ]
       ],
       "mol": {
         "atoms": [
@@ -164,7 +162,7 @@ RUENQYDQOGCTIY-LIGRDWMGNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -420,12 +418,10 @@ RUENQYDQOGCTIY-LIGRDWMGNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          129635,
+          129636
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1076,12 +1072,10 @@ RUENQYDQOGCTIY-LIGRDWMGNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        98395,
-        98543
-      ]
-    }
+    [
+      98395,
+      98543
+    ]
   ]
 }
 

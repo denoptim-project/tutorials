@@ -144,7 +144,7 @@ YSKTZLIJCLOTRS-UBDCOBEKNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -165,12 +165,10 @@ YSKTZLIJCLOTRS-UBDCOBEKNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          185377,
+          185378
+        ]
       ],
       "mol": {
         "atoms": [
@@ -185,7 +183,7 @@ YSKTZLIJCLOTRS-UBDCOBEKNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -471,18 +469,14 @@ YSKTZLIJCLOTRS-UBDCOBEKNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          185383,
+          185386
+        ],
+        [
+          185384,
+          185385
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1359,18 +1353,14 @@ YSKTZLIJCLOTRS-UBDCOBEKNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        139746,
-        141456
-      ]
-    },
-    {
-      "symIds": [
-        141457,
-        139751
-      ]
-    }
+    [
+      139746,
+      141456
+    ],
+    [
+      141457,
+      139751
+    ]
   ]
 }
 

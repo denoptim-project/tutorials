@@ -156,7 +156,7 @@ IMOUHGUOAOLKAZ-CPHAXVKZNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -177,12 +177,10 @@ IMOUHGUOAOLKAZ-CPHAXVKZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          283700,
+          283701
+        ]
       ],
       "mol": {
         "atoms": [
@@ -197,7 +195,7 @@ IMOUHGUOAOLKAZ-CPHAXVKZNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -453,18 +451,14 @@ IMOUHGUOAOLKAZ-CPHAXVKZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          283706,
+          283709
+        ],
+        [
+          283707,
+          283708
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1492,18 +1486,14 @@ IMOUHGUOAOLKAZ-CPHAXVKZNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        217123,
-        216859
-      ]
-    },
-    {
-      "symIds": [
-        217122,
-        216870
-      ]
-    }
+    [
+      217123,
+      216859
+    ],
+    [
+      217122,
+      216870
+    ]
   ]
 }
 

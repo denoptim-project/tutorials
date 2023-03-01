@@ -135,7 +135,7 @@ ZXGRSOIDYZSLJY-XELWLXCINA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -156,12 +156,10 @@ ZXGRSOIDYZSLJY-XELWLXCINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          123857,
+          123858
+        ]
       ],
       "mol": {
         "atoms": [
@@ -176,7 +174,7 @@ ZXGRSOIDYZSLJY-XELWLXCINA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -432,12 +430,10 @@ ZXGRSOIDYZSLJY-XELWLXCINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          123863,
+          123864
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1179,12 +1175,10 @@ ZXGRSOIDYZSLJY-XELWLXCINA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        94189,
-        93800
-      ]
-    }
+    [
+      94189,
+      93800
+    ]
   ]
 }
 

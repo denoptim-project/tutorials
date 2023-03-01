@@ -206,7 +206,7 @@ OKZPGDCHTISNEH-GOXXRSIFNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -227,12 +227,10 @@ OKZPGDCHTISNEH-GOXXRSIFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          192536,
+          192537
+        ]
       ],
       "mol": {
         "atoms": [
@@ -247,7 +245,7 @@ OKZPGDCHTISNEH-GOXXRSIFNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -488,18 +486,14 @@ OKZPGDCHTISNEH-GOXXRSIFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          192540,
+          192542
+        ],
+        [
+          192543,
+          192544
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1845,18 +1839,14 @@ OKZPGDCHTISNEH-GOXXRSIFNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        147068,
-        145741
-      ]
-    },
-    {
-      "symIds": [
-        147069,
-        145749
-      ]
-    }
+    [
+      147068,
+      145741
+    ],
+    [
+      147069,
+      145749
+    ]
   ]
 }
 

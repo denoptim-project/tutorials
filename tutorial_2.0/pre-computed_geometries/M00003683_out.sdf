@@ -145,7 +145,7 @@ IEKNHXXOFVNILO-ZBKMSHEVNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -166,12 +166,10 @@ IEKNHXXOFVNILO-ZBKMSHEVNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          112955,
+          112956
+        ]
       ],
       "mol": {
         "atoms": [
@@ -186,7 +184,7 @@ IEKNHXXOFVNILO-ZBKMSHEVNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -472,12 +470,10 @@ IEKNHXXOFVNILO-ZBKMSHEVNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          112963,
+          112964
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1378,12 +1374,10 @@ IEKNHXXOFVNILO-ZBKMSHEVNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        84837,
-        85692
-      ]
-    }
+    [
+      84837,
+      85692
+    ]
   ]
 }
 

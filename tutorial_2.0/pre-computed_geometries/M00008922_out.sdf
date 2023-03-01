@@ -86,7 +86,7 @@ DYPXLCVQANYJKX-NFSPMHFRNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -107,12 +107,10 @@ DYPXLCVQANYJKX-NFSPMHFRNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          262724,
+          262725
+        ]
       ],
       "mol": {
         "atoms": [
@@ -127,7 +125,7 @@ DYPXLCVQANYJKX-NFSPMHFRNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -368,18 +366,14 @@ DYPXLCVQANYJKX-NFSPMHFRNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          262728,
+          262730
+        ],
+        [
+          262731,
+          262732
+        ]
       ],
       "mol": {
         "atoms": [
@@ -837,18 +831,14 @@ DYPXLCVQANYJKX-NFSPMHFRNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        199523,
-        201041
-      ]
-    },
-    {
-      "symIds": [
-        199532,
-        201042
-      ]
-    }
+    [
+      199523,
+      201041
+    ],
+    [
+      199532,
+      201042
+    ]
   ]
 }
 

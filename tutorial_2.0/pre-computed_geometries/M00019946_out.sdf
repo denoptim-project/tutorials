@@ -159,7 +159,7 @@ IGFRIWOWROGUPC-CQFHUDNINA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -180,12 +180,10 @@ IGFRIWOWROGUPC-CQFHUDNINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          581843,
+          581844
+        ]
       ],
       "mol": {
         "atoms": [
@@ -200,7 +198,7 @@ IGFRIWOWROGUPC-CQFHUDNINA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -395,12 +393,10 @@ IGFRIWOWROGUPC-CQFHUDNINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          581848,
+          581849
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1479,18 +1475,14 @@ IGFRIWOWROGUPC-CQFHUDNINA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        342640,
-        343435
-      ]
-    },
-    {
-      "symIds": [
-        497639,
-        497680
-      ]
-    }
+    [
+      342640,
+      343435
+    ],
+    [
+      497639,
+      497680
+    ]
   ]
 }
 

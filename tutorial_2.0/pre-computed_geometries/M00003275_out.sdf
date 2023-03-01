@@ -192,7 +192,7 @@ CUFUTBAHNGCSLC-GDBQULMCNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -213,12 +213,10 @@ CUFUTBAHNGCSLC-GDBQULMCNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          100905,
+          100906
+        ]
       ],
       "mol": {
         "atoms": [
@@ -233,7 +231,7 @@ CUFUTBAHNGCSLC-GDBQULMCNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -489,12 +487,10 @@ CUFUTBAHNGCSLC-GDBQULMCNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          100909,
+          100910
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1647,12 +1643,10 @@ CUFUTBAHNGCSLC-GDBQULMCNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        76347,
-        75850
-      ]
-    }
+    [
+      76347,
+      75850
+    ]
   ]
 }
 

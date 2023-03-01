@@ -148,7 +148,7 @@ YUJIIBVHFAOGQX-QHMGOPRINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -169,12 +169,10 @@ YUJIIBVHFAOGQX-QHMGOPRINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          172330,
+          172331
+        ]
       ],
       "mol": {
         "atoms": [
@@ -189,7 +187,7 @@ YUJIIBVHFAOGQX-QHMGOPRINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -475,18 +473,14 @@ YUJIIBVHFAOGQX-QHMGOPRINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          172336,
+          172339
+        ],
+        [
+          172337,
+          172338
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1391,18 +1385,14 @@ YUJIIBVHFAOGQX-QHMGOPRINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        128796,
-        131441
-      ]
-    },
-    {
-      "symIds": [
-        131442,
-        128803
-      ]
-    }
+    [
+      128796,
+      131441
+    ],
+    [
+      131442,
+      128803
+    ]
   ]
 }
 

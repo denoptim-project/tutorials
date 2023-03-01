@@ -138,7 +138,7 @@ OTTUYNBWALVBEQ-HWILAPJMNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -159,12 +159,10 @@ OTTUYNBWALVBEQ-HWILAPJMNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          183233,
+          183234
+        ]
       ],
       "mol": {
         "atoms": [
@@ -179,7 +177,7 @@ OTTUYNBWALVBEQ-HWILAPJMNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -465,18 +463,14 @@ OTTUYNBWALVBEQ-HWILAPJMNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          183239,
+          183242
+        ],
+        [
+          183240,
+          183241
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1310,18 +1304,14 @@ OTTUYNBWALVBEQ-HWILAPJMNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        139741,
-        139780
-      ]
-    },
-    {
-      "symIds": [
-        139750,
-        139781
-      ]
-    }
+    [
+      139741,
+      139780
+    ],
+    [
+      139750,
+      139781
+    ]
   ]
 }
 

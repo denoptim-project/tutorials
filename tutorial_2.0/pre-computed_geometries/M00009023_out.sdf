@@ -190,7 +190,7 @@ OZTASCAFLHSNMH-QVCUPGGRNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -211,12 +211,10 @@ OZTASCAFLHSNMH-QVCUPGGRNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          265782,
+          265783
+        ]
       ],
       "mol": {
         "atoms": [
@@ -231,7 +229,7 @@ OZTASCAFLHSNMH-QVCUPGGRNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -472,18 +470,14 @@ OZTASCAFLHSNMH-QVCUPGGRNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          265787,
+          265790
+        ],
+        [
+          265788,
+          265789
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1723,18 +1717,14 @@ OZTASCAFLHSNMH-QVCUPGGRNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        202778,
-        203542
-      ]
-    },
-    {
-      "symIds": [
-        203543,
-        202784
-      ]
-    }
+    [
+      202778,
+      203542
+    ],
+    [
+      203543,
+      202784
+    ]
   ]
 }
 

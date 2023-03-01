@@ -167,7 +167,7 @@ TZXOCDBARUKPGL-PSBDJPABNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -188,12 +188,10 @@ TZXOCDBARUKPGL-PSBDJPABNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          14737,
+          14738
+        ]
       ],
       "mol": {
         "atoms": [
@@ -208,7 +206,7 @@ TZXOCDBARUKPGL-PSBDJPABNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -494,12 +492,10 @@ TZXOCDBARUKPGL-PSBDJPABNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          14745,
+          14746
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1549,12 +1545,10 @@ TZXOCDBARUKPGL-PSBDJPABNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        10035,
-        7129
-      ]
-    }
+    [
+      10035,
+      7129
+    ]
   ]
 }
 

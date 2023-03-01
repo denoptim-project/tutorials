@@ -163,7 +163,7 @@ AQKFVHCYWXHLOE-QHMBUURONA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -184,12 +184,10 @@ AQKFVHCYWXHLOE-QHMBUURONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          601772,
+          601773
+        ]
       ],
       "mol": {
         "atoms": [
@@ -204,7 +202,7 @@ AQKFVHCYWXHLOE-QHMBUURONA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -460,12 +458,10 @@ AQKFVHCYWXHLOE-QHMBUURONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          601777,
+          601778
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1472,12 +1468,10 @@ AQKFVHCYWXHLOE-QHMBUURONA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        384581,
-        384521
-      ]
-    }
+    [
+      384581,
+      384521
+    ]
   ]
 }
 

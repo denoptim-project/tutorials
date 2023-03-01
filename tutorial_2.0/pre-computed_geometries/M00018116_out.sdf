@@ -108,7 +108,7 @@ ULDPKPHCZOMTFF-RPKBKTBKNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -129,12 +129,10 @@ ULDPKPHCZOMTFF-RPKBKTBKNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          524299,
+          524300
+        ]
       ],
       "mol": {
         "atoms": [
@@ -149,7 +147,7 @@ ULDPKPHCZOMTFF-RPKBKTBKNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -375,12 +373,10 @@ ULDPKPHCZOMTFF-RPKBKTBKNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          524303,
+          524304
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1076,18 +1072,14 @@ ULDPKPHCZOMTFF-RPKBKTBKNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        223105,
-        222994
-      ]
-    },
-    {
-      "symIds": [
-        409741,
-        409736
-      ]
-    }
+    [
+      223105,
+      222994
+    ],
+    [
+      409741,
+      409736
+    ]
   ]
 }
 

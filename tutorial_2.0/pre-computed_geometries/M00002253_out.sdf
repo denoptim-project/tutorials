@@ -207,7 +207,7 @@ UGCWZMJELYNBMN-NFEPAVCINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -228,12 +228,10 @@ UGCWZMJELYNBMN-NFEPAVCINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          72626,
+          72627
+        ]
       ],
       "mol": {
         "atoms": [
@@ -248,7 +246,7 @@ UGCWZMJELYNBMN-NFEPAVCINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -534,18 +532,14 @@ UGCWZMJELYNBMN-NFEPAVCINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          72632,
+          72635
+        ],
+        [
+          72633,
+          72634
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1895,18 +1889,14 @@ UGCWZMJELYNBMN-NFEPAVCINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        51459,
-        54600
-      ]
-    },
-    {
-      "symIds": [
-        54601,
-        51464
-      ]
-    }
+    [
+      51459,
+      54600
+    ],
+    [
+      54601,
+      51464
+    ]
   ]
 }
 

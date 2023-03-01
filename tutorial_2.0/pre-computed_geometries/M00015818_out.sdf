@@ -110,7 +110,7 @@ RRVATXTXQLPEPS-SMVRWAPPNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -131,12 +131,10 @@ RRVATXTXQLPEPS-SMVRWAPPNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          456825,
+          456826
+        ]
       ],
       "mol": {
         "atoms": [
@@ -151,7 +149,7 @@ RRVATXTXQLPEPS-SMVRWAPPNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -346,12 +344,10 @@ RRVATXTXQLPEPS-SMVRWAPPNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          456831,
+          456832
+        ]
       ],
       "mol": {
         "atoms": [
@@ -950,12 +946,10 @@ RRVATXTXQLPEPS-SMVRWAPPNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        350668,
-        350645
-      ]
-    }
+    [
+      350668,
+      350645
+    ]
   ]
 }
 

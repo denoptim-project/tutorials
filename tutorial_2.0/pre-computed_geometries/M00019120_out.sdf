@@ -136,7 +136,7 @@ WZKDTVWIQDZCBO-GKPSCROVNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -157,12 +157,10 @@ WZKDTVWIQDZCBO-GKPSCROVNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          556745,
+          556746
+        ]
       ],
       "mol": {
         "atoms": [
@@ -177,7 +175,7 @@ WZKDTVWIQDZCBO-GKPSCROVNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -372,12 +370,10 @@ WZKDTVWIQDZCBO-GKPSCROVNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          556750,
+          556751
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1228,12 +1224,10 @@ WZKDTVWIQDZCBO-GKPSCROVNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        292504,
-        291598
-      ]
-    }
+    [
+      292504,
+      291598
+    ]
   ]
 }
 

@@ -175,7 +175,7 @@ SWRWPKLFKCAPBN-JRFHFEAZNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -196,12 +196,10 @@ SWRWPKLFKCAPBN-JRFHFEAZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          36257,
+          36258
+        ]
       ],
       "mol": {
         "atoms": [
@@ -216,7 +214,7 @@ SWRWPKLFKCAPBN-JRFHFEAZNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -472,12 +470,10 @@ SWRWPKLFKCAPBN-JRFHFEAZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          36263,
+          36264
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1502,12 +1498,10 @@ SWRWPKLFKCAPBN-JRFHFEAZNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        26507,
-        26017
-      ]
-    }
+    [
+      26507,
+      26017
+    ]
   ]
 }
 

@@ -143,7 +143,7 @@ PMTJUGJEHRVMTF-MTXHPZFCNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -164,12 +164,10 @@ PMTJUGJEHRVMTF-MTXHPZFCNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          530486,
+          530487
+        ]
       ],
       "mol": {
         "atoms": [
@@ -184,7 +182,7 @@ PMTJUGJEHRVMTF-MTXHPZFCNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -440,12 +438,10 @@ PMTJUGJEHRVMTF-MTXHPZFCNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          530490,
+          530491
+        ]
       ],
       "mol": {
         "atoms": [
@@ -579,12 +575,10 @@ PMTJUGJEHRVMTF-MTXHPZFCNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          530496,
+          530497
+        ]
       ],
       "mol": {
         "atoms": [
@@ -809,12 +803,10 @@ PMTJUGJEHRVMTF-MTXHPZFCNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          530500,
+          530501
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1471,20 +1463,16 @@ PMTJUGJEHRVMTF-MTXHPZFCNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        18806,
-        19454
-      ]
-    },
-    {
-      "symIds": [
-        420407,
-        420405,
-        420371,
-        420406
-      ]
-    }
+    [
+      18806,
+      19454
+    ],
+    [
+      420407,
+      420405,
+      420371,
+      420406
+    ]
   ]
 }
 

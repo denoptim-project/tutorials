@@ -157,7 +157,7 @@ OCWQPMBJZNHECH-UTXICORDNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -178,12 +178,10 @@ OCWQPMBJZNHECH-UTXICORDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          115579,
+          115580
+        ]
       ],
       "mol": {
         "atoms": [
@@ -198,7 +196,7 @@ OCWQPMBJZNHECH-UTXICORDNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -484,12 +482,10 @@ OCWQPMBJZNHECH-UTXICORDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          115587,
+          115588
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1480,12 +1476,10 @@ OCWQPMBJZNHECH-UTXICORDNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        87661,
-        84837
-      ]
-    }
+    [
+      87661,
+      84837
+    ]
   ]
 }
 

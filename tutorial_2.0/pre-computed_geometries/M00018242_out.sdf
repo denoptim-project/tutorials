@@ -139,7 +139,7 @@ KTXADILURHWLOK-KUKOLWNMNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -160,12 +160,10 @@ KTXADILURHWLOK-KUKOLWNMNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          528696,
+          528697
+        ]
       ],
       "mol": {
         "atoms": [
@@ -180,7 +178,7 @@ KTXADILURHWLOK-KUKOLWNMNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -406,12 +404,10 @@ KTXADILURHWLOK-KUKOLWNMNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          528701,
+          528702
+        ]
       ],
       "mol": {
         "atoms": [
@@ -799,12 +795,10 @@ KTXADILURHWLOK-KUKOLWNMNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          528707,
+          528708
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1331,18 +1325,14 @@ KTXADILURHWLOK-KUKOLWNMNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        236558,
-        235744
-      ]
-    },
-    {
-      "symIds": [
-        418239,
-        418245
-      ]
-    }
+    [
+      236558,
+      235744
+    ],
+    [
+      418239,
+      418245
+    ]
   ]
 }
 

@@ -130,7 +130,7 @@ QHIJNMUUBQKLOR-IAHLPDIKNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -151,12 +151,10 @@ QHIJNMUUBQKLOR-IAHLPDIKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          529541,
+          529542
+        ]
       ],
       "mol": {
         "atoms": [
@@ -171,7 +169,7 @@ QHIJNMUUBQKLOR-IAHLPDIKNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -397,12 +395,10 @@ QHIJNMUUBQKLOR-IAHLPDIKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          529546,
+          529547
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1192,12 +1188,10 @@ QHIJNMUUBQKLOR-IAHLPDIKNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        236648,
-        235741
-      ]
-    }
+    [
+      236648,
+      235741
+    ]
   ]
 }
 

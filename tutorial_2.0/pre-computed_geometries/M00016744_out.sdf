@@ -200,7 +200,7 @@ ZOQZNBISMOFDPB-JHLACIPANA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -221,12 +221,10 @@ ZOQZNBISMOFDPB-JHLACIPANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          484669,
+          484670
+        ]
       ],
       "mol": {
         "atoms": [
@@ -241,7 +239,7 @@ ZOQZNBISMOFDPB-JHLACIPANA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -542,20 +540,16 @@ ZOQZNBISMOFDPB-JHLACIPANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          484673,
+          484674
+        ],
+        [
+          484676,
+          484677,
+          484678,
+          484679
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1895,20 +1889,16 @@ ZOQZNBISMOFDPB-JHLACIPANA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        371647,
-        372222
-      ]
-    },
-    {
-      "symIds": [
-        372224,
-        372225,
-        372223,
-        371654
-      ]
-    }
+    [
+      371647,
+      372222
+    ],
+    [
+      372224,
+      372225,
+      372223,
+      371654
+    ]
   ]
 }
 

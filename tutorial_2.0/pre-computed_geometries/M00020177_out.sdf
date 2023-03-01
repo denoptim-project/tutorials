@@ -139,7 +139,7 @@ NTVCPISZMPCUGE-VJBOEDTENA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -160,12 +160,10 @@ NTVCPISZMPCUGE-VJBOEDTENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          588523,
+          588524
+        ]
       ],
       "mol": {
         "atoms": [
@@ -180,7 +178,7 @@ NTVCPISZMPCUGE-VJBOEDTENA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -436,12 +434,10 @@ NTVCPISZMPCUGE-VJBOEDTENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          588528,
+          588529
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1254,12 +1250,10 @@ NTVCPISZMPCUGE-VJBOEDTENA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        356991,
-        356952
-      ]
-    }
+    [
+      356991,
+      356952
+    ]
   ]
 }
 

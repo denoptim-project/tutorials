@@ -165,7 +165,7 @@ MKHNEOHQFGOAND-JQDCAYSDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -186,12 +186,10 @@ MKHNEOHQFGOAND-JQDCAYSDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          203699,
+          203700
+        ]
       ],
       "mol": {
         "atoms": [
@@ -206,7 +204,7 @@ MKHNEOHQFGOAND-JQDCAYSDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -432,12 +430,10 @@ MKHNEOHQFGOAND-JQDCAYSDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          203703,
+          203704
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1432,12 +1428,10 @@ MKHNEOHQFGOAND-JQDCAYSDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        155692,
-        154476
-      ]
-    }
+    [
+      155692,
+      154476
+    ]
   ]
 }
 

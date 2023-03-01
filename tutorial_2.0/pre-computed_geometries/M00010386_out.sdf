@@ -157,7 +157,7 @@ NXDAPVQOJMKXTM-SDIQSWLRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -178,12 +178,10 @@ NXDAPVQOJMKXTM-SDIQSWLRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          304743,
+          304744
+        ]
       ],
       "mol": {
         "atoms": [
@@ -198,7 +196,7 @@ NXDAPVQOJMKXTM-SDIQSWLRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -424,12 +422,10 @@ NXDAPVQOJMKXTM-SDIQSWLRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          304749,
+          304750
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1364,12 +1360,10 @@ NXDAPVQOJMKXTM-SDIQSWLRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        233026,
-        233483
-      ]
-    }
+    [
+      233026,
+      233483
+    ]
   ]
 }
 

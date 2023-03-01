@@ -173,7 +173,7 @@ HPIYKSNIQKTEOY-VMQAVICRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -194,12 +194,10 @@ HPIYKSNIQKTEOY-VMQAVICRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          525503,
+          525504
+        ]
       ],
       "mol": {
         "atoms": [
@@ -214,7 +212,7 @@ HPIYKSNIQKTEOY-VMQAVICRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -440,12 +438,10 @@ HPIYKSNIQKTEOY-VMQAVICRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          525507,
+          525508
+        ]
       ],
       "mol": {
         "atoms": [
@@ -721,12 +717,10 @@ HPIYKSNIQKTEOY-VMQAVICRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          525514,
+          525515
+        ]
       ],
       "mol": {
         "atoms": [
@@ -809,12 +803,10 @@ HPIYKSNIQKTEOY-VMQAVICRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          525517,
+          525518
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1739,20 +1731,16 @@ HPIYKSNIQKTEOY-VMQAVICRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        235490,
-        234831
-      ]
-    },
-    {
-      "symIds": [
-        415512,
-        415514,
-        415394,
-        415513
-      ]
-    }
+    [
+      235490,
+      234831
+    ],
+    [
+      415512,
+      415514,
+      415394,
+      415513
+    ]
   ]
 }
 

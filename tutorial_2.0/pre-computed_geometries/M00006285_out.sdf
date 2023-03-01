@@ -219,7 +219,7 @@ CAYOPOFSMKNGLD-BEUIMVHENA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -240,12 +240,10 @@ CAYOPOFSMKNGLD-BEUIMVHENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          187265,
+          187266
+        ]
       ],
       "mol": {
         "atoms": [
@@ -260,7 +258,7 @@ CAYOPOFSMKNGLD-BEUIMVHENA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -546,18 +544,14 @@ CAYOPOFSMKNGLD-BEUIMVHENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          187271,
+          187274
+        ],
+        [
+          187272,
+          187273
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1997,18 +1991,14 @@ CAYOPOFSMKNGLD-BEUIMVHENA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        139744,
-        142932
-      ]
-    },
-    {
-      "symIds": [
-        139750,
-        142933
-      ]
-    }
+    [
+      139744,
+      142932
+    ],
+    [
+      139750,
+      142933
+    ]
   ]
 }
 

@@ -128,7 +128,7 @@ PLUSUWZLMFLEKN-KQSHDSAYNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -149,12 +149,10 @@ PLUSUWZLMFLEKN-KQSHDSAYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          456481,
+          456482
+        ]
       ],
       "mol": {
         "atoms": [
@@ -169,7 +167,7 @@ PLUSUWZLMFLEKN-KQSHDSAYNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -364,12 +362,10 @@ PLUSUWZLMFLEKN-KQSHDSAYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          456487,
+          456488
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1100,12 +1096,10 @@ PLUSUWZLMFLEKN-KQSHDSAYNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        349981,
-        350396
-      ]
-    }
+    [
+      349981,
+      350396
+    ]
   ]
 }
 

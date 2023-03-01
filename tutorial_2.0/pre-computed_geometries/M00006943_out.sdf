@@ -159,7 +159,7 @@ MENLIOWYZUZIFV-FDFHAVMANA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -180,12 +180,10 @@ MENLIOWYZUZIFV-FDFHAVMANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          205289,
+          205290
+        ]
       ],
       "mol": {
         "atoms": [
@@ -200,7 +198,7 @@ MENLIOWYZUZIFV-FDFHAVMANA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -426,12 +424,10 @@ MENLIOWYZUZIFV-FDFHAVMANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          205293,
+          205294
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1383,12 +1379,10 @@ MENLIOWYZUZIFV-FDFHAVMANA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        156670,
-        156909
-      ]
-    }
+    [
+      156670,
+      156909
+    ]
   ]
 }
 

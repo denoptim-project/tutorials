@@ -186,7 +186,7 @@ YKRNFNBJRMZQAG-AVRAQULINA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -207,12 +207,10 @@ YKRNFNBJRMZQAG-AVRAQULINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          136871,
+          136872
+        ]
       ],
       "mol": {
         "atoms": [
@@ -227,7 +225,7 @@ YKRNFNBJRMZQAG-AVRAQULINA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -513,18 +511,14 @@ YKRNFNBJRMZQAG-AVRAQULINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          136877,
+          136880
+        ],
+        [
+          136878,
+          136879
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1731,18 +1725,14 @@ YKRNFNBJRMZQAG-AVRAQULINA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        102501,
-        104104
-      ]
-    },
-    {
-      "symIds": [
-        104105,
-        102509
-      ]
-    }
+    [
+      102501,
+      104104
+    ],
+    [
+      104105,
+      102509
+    ]
   ]
 }
 

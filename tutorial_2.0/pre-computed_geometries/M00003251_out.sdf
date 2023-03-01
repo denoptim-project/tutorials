@@ -150,7 +150,7 @@ QBCUIDWITYRPCD-RZPLWMHHNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -171,12 +171,10 @@ QBCUIDWITYRPCD-RZPLWMHHNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          100353,
+          100354
+        ]
       ],
       "mol": {
         "atoms": [
@@ -191,7 +189,7 @@ QBCUIDWITYRPCD-RZPLWMHHNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -447,12 +445,10 @@ QBCUIDWITYRPCD-RZPLWMHHNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          100357,
+          100358
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1291,12 +1287,10 @@ QBCUIDWITYRPCD-RZPLWMHHNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        75929,
-        75846
-      ]
-    }
+    [
+      75929,
+      75846
+    ]
   ]
 }
 

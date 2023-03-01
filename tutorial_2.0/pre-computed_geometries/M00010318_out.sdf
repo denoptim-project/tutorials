@@ -132,7 +132,7 @@ XXKJDULNEUDVAX-SDRLAQEMNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -153,12 +153,10 @@ XXKJDULNEUDVAX-SDRLAQEMNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          302918,
+          302919
+        ]
       ],
       "mol": {
         "atoms": [
@@ -173,7 +171,7 @@ XXKJDULNEUDVAX-SDRLAQEMNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -444,20 +442,16 @@ XXKJDULNEUDVAX-SDRLAQEMNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          302922,
+          302923
+        ],
+        [
+          302925,
+          302926,
+          302927,
+          302928
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1330,20 +1324,16 @@ XXKJDULNEUDVAX-SDRLAQEMNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        231198,
-        232036
-      ]
-    },
-    {
-      "symIds": [
-        232039,
-        232038,
-        232037,
-        231202
-      ]
-    }
+    [
+      231198,
+      232036
+    ],
+    [
+      232039,
+      232038,
+      232037,
+      231202
+    ]
   ]
 }
 

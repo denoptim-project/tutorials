@@ -118,7 +118,7 @@ DEOUNPDDVAXXLS-BTNUAKCXNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -139,12 +139,10 @@ DEOUNPDDVAXXLS-BTNUAKCXNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          441382,
+          441383
+        ]
       ],
       "mol": {
         "atoms": [
@@ -159,7 +157,7 @@ DEOUNPDDVAXXLS-BTNUAKCXNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -399,20 +397,16 @@ DEOUNPDDVAXXLS-BTNUAKCXNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          441386,
+          441387
+        ],
+        [
+          441389,
+          441390,
+          441391,
+          441392
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1197,20 +1191,16 @@ DEOUNPDDVAXXLS-BTNUAKCXNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        338807,
-        338784
-      ]
-    },
-    {
-      "symIds": [
-        338808,
-        338810,
-        338796,
-        338809
-      ]
-    }
+    [
+      338807,
+      338784
+    ],
+    [
+      338808,
+      338810,
+      338796,
+      338809
+    ]
   ]
 }
 

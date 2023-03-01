@@ -155,7 +155,7 @@ SEDSKGOWUJXSEL-SVYMLSACNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -176,12 +176,10 @@ SEDSKGOWUJXSEL-SVYMLSACNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          144878,
+          144879
+        ]
       ],
       "mol": {
         "atoms": [
@@ -196,7 +194,7 @@ SEDSKGOWUJXSEL-SVYMLSACNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -482,12 +480,10 @@ SEDSKGOWUJXSEL-SVYMLSACNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          144886,
+          144887
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1447,12 +1443,10 @@ SEDSKGOWUJXSEL-SVYMLSACNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        109161,
-        110297
-      ]
-    }
+    [
+      109161,
+      110297
+    ]
   ]
 }
 

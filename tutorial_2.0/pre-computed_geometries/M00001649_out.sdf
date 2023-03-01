@@ -162,7 +162,7 @@ VDKOMIJHQZHULY-MZWDRPTDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -183,12 +183,10 @@ VDKOMIJHQZHULY-MZWDRPTDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          56519,
+          56520
+        ]
       ],
       "mol": {
         "atoms": [
@@ -203,7 +201,7 @@ VDKOMIJHQZHULY-MZWDRPTDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -474,18 +472,14 @@ VDKOMIJHQZHULY-MZWDRPTDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          56524,
+          56527
+        ],
+        [
+          56525,
+          56526
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1453,18 +1447,14 @@ VDKOMIJHQZHULY-MZWDRPTDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        41627,
-        42274
-      ]
-    },
-    {
-      "symIds": [
-        42273,
-        41633
-      ]
-    }
+    [
+      41627,
+      42274
+    ],
+    [
+      42273,
+      41633
+    ]
   ]
 }
 

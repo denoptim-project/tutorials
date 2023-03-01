@@ -163,7 +163,7 @@ LGKCZHFQVKEGSZ-FVMAMGEENA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -184,12 +184,10 @@ LGKCZHFQVKEGSZ-FVMAMGEENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          267891,
+          267892
+        ]
       ],
       "mol": {
         "atoms": [
@@ -204,7 +202,7 @@ LGKCZHFQVKEGSZ-FVMAMGEENA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -430,12 +428,10 @@ LGKCZHFQVKEGSZ-FVMAMGEENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          267895,
+          267896
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1431,12 +1427,10 @@ LGKCZHFQVKEGSZ-FVMAMGEENA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        205163,
-        204592
-      ]
-    }
+    [
+      205163,
+      204592
+    ]
   ]
 }
 

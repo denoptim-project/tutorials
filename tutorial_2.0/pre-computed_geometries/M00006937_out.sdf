@@ -147,7 +147,7 @@ LOYJIGBJAUQFGK-HFTBKRIWNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -168,12 +168,10 @@ LOYJIGBJAUQFGK-HFTBKRIWNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          205145,
+          205146
+        ]
       ],
       "mol": {
         "atoms": [
@@ -188,7 +186,7 @@ LOYJIGBJAUQFGK-HFTBKRIWNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -414,12 +412,10 @@ LOYJIGBJAUQFGK-HFTBKRIWNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          205149,
+          205150
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1281,12 +1277,10 @@ LOYJIGBJAUQFGK-HFTBKRIWNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        156669,
-        156801
-      ]
-    }
+    [
+      156669,
+      156801
+    ]
   ]
 }
 

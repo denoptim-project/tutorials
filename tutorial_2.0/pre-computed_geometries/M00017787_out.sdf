@@ -136,7 +136,7 @@ VWVSDCFLCWXXTM-GBCCUPQENA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -157,12 +157,10 @@ VWVSDCFLCWXXTM-GBCCUPQENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          513949,
+          513950
+        ]
       ],
       "mol": {
         "atoms": [
@@ -177,7 +175,7 @@ VWVSDCFLCWXXTM-GBCCUPQENA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -403,12 +401,10 @@ VWVSDCFLCWXXTM-GBCCUPQENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          513953,
+          513954
+        ]
       ],
       "mol": {
         "atoms": [
@@ -573,12 +569,10 @@ VWVSDCFLCWXXTM-GBCCUPQENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          513959,
+          513960
+        ]
       ],
       "mol": {
         "atoms": [
@@ -661,12 +655,10 @@ VWVSDCFLCWXXTM-GBCCUPQENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          513962,
+          513963
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1442,20 +1434,16 @@ VWVSDCFLCWXXTM-GBCCUPQENA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        206229,
-        205498
-      ]
-    },
-    {
-      "symIds": [
-        395788,
-        395787,
-        395789,
-        395781
-      ]
-    }
+    [
+      206229,
+      205498
+    ],
+    [
+      395788,
+      395787,
+      395789,
+      395781
+    ]
   ]
 }
 

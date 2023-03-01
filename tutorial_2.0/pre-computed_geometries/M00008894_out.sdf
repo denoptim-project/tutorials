@@ -128,7 +128,7 @@ YOVCYFGMOAOIFF-YTLUYMAUNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -149,12 +149,10 @@ YOVCYFGMOAOIFF-YTLUYMAUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          261926,
+          261927
+        ]
       ],
       "mol": {
         "atoms": [
@@ -169,7 +167,7 @@ YOVCYFGMOAOIFF-YTLUYMAUNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -410,18 +408,14 @@ YOVCYFGMOAOIFF-YTLUYMAUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          261930,
+          261932
+        ],
+        [
+          261933,
+          261934
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1195,18 +1189,14 @@ YOVCYFGMOAOIFF-YTLUYMAUNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        199519,
-        200417
-      ]
-    },
-    {
-      "symIds": [
-        200418,
-        199532
-      ]
-    }
+    [
+      199519,
+      200417
+    ],
+    [
+      200418,
+      199532
+    ]
   ]
 }
 

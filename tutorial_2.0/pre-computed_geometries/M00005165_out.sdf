@@ -154,7 +154,7 @@ DYVIMBLVLVROSL-GPNBORFFNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -175,12 +175,10 @@ DYVIMBLVLVROSL-GPNBORFFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          155443,
+          155444
+        ]
       ],
       "mol": {
         "atoms": [
@@ -195,7 +193,7 @@ DYVIMBLVLVROSL-GPNBORFFNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -466,18 +464,14 @@ DYVIMBLVLVROSL-GPNBORFFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          155448,
+          155451
+        ],
+        [
+          155449,
+          155450
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1384,18 +1378,14 @@ DYVIMBLVLVROSL-GPNBORFFNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        118529,
-        117874
-      ]
-    },
-    {
-      "symIds": [
-        117880,
-        118530
-      ]
-    }
+    [
+      118529,
+      117874
+    ],
+    [
+      117880,
+      118530
+    ]
   ]
 }
 

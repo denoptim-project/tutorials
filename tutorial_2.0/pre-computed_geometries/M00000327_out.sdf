@@ -180,7 +180,7 @@ ZCSYVROWBMTMAQ-TUXOGOENNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -201,12 +201,10 @@ ZCSYVROWBMTMAQ-TUXOGOENNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          18568,
+          18569
+        ]
       ],
       "mol": {
         "atoms": [
@@ -221,7 +219,7 @@ ZCSYVROWBMTMAQ-TUXOGOENNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -492,18 +490,14 @@ ZCSYVROWBMTMAQ-TUXOGOENNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          18572,
+          18574
+        ],
+        [
+          18575,
+          18576
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1608,18 +1602,14 @@ ZCSYVROWBMTMAQ-TUXOGOENNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        12988,
-        12023
-      ]
-    },
-    {
-      "symIds": [
-        12031,
-        12987
-      ]
-    }
+    [
+      12988,
+      12023
+    ],
+    [
+      12031,
+      12987
+    ]
   ]
 }
 

@@ -154,7 +154,7 @@ GALFODJQEYIQAS-PALUGNKSNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -175,12 +175,10 @@ GALFODJQEYIQAS-PALUGNKSNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          169194,
+          169195
+        ]
       ],
       "mol": {
         "atoms": [
@@ -195,7 +193,7 @@ GALFODJQEYIQAS-PALUGNKSNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -481,18 +479,14 @@ GALFODJQEYIQAS-PALUGNKSNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          169200,
+          169203
+        ],
+        [
+          169201,
+          169202
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1445,18 +1439,14 @@ GALFODJQEYIQAS-PALUGNKSNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        128990,
-        128792
-      ]
-    },
-    {
-      "symIds": [
-        128991,
-        128801
-      ]
-    }
+    [
+      128990,
+      128792
+    ],
+    [
+      128991,
+      128801
+    ]
   ]
 }
 

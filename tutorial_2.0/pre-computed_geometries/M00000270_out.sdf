@@ -140,7 +140,7 @@ NTJCCTXXEXHIRW-OJCHSSSDNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -161,12 +161,10 @@ NTJCCTXXEXHIRW-OJCHSSSDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          17043,
+          17044
+        ]
       ],
       "mol": {
         "atoms": [
@@ -181,7 +179,7 @@ NTJCCTXXEXHIRW-OJCHSSSDNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -437,12 +435,10 @@ NTJCCTXXEXHIRW-OJCHSSSDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          17048,
+          17049
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1205,12 +1201,10 @@ NTJCCTXXEXHIRW-OJCHSSSDNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        11785,
-        11462
-      ]
-    }
+    [
+      11785,
+      11462
+    ]
   ]
 }
 

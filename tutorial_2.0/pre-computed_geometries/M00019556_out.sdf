@@ -142,7 +142,7 @@ LHJLIOCAMBXAHP-VJDOHORRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -163,12 +163,10 @@ LHJLIOCAMBXAHP-VJDOHORRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          569318,
+          569319
+        ]
       ],
       "mol": {
         "atoms": [
@@ -183,7 +181,7 @@ LHJLIOCAMBXAHP-VJDOHORRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -378,12 +376,10 @@ LHJLIOCAMBXAHP-VJDOHORRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          569322,
+          569323
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1333,18 +1329,14 @@ LHJLIOCAMBXAHP-VJDOHORRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        304825,
-        304936
-      ]
-    },
-    {
-      "symIds": [
-        473352,
-        473397
-      ]
-    }
+    [
+      304825,
+      304936
+    ],
+    [
+      473352,
+      473397
+    ]
   ]
 }
 

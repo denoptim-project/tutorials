@@ -184,7 +184,7 @@ NEGPBWAAACZCES-LRAZUPJSNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -205,12 +205,10 @@ NEGPBWAAACZCES-LRAZUPJSNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          321593,
+          321594
+        ]
       ],
       "mol": {
         "atoms": [
@@ -225,7 +223,7 @@ NEGPBWAAACZCES-LRAZUPJSNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -481,18 +479,14 @@ NEGPBWAAACZCES-LRAZUPJSNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          321599,
+          321602
+        ],
+        [
+          321600,
+          321601
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1713,18 +1707,14 @@ NEGPBWAAACZCES-LRAZUPJSNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        243933,
-        246437
-      ]
-    },
-    {
-      "symIds": [
-        246436,
-        243941
-      ]
-    }
+    [
+      243933,
+      246437
+    ],
+    [
+      246436,
+      243941
+    ]
   ]
 }
 

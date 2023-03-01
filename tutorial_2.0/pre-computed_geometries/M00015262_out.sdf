@@ -102,7 +102,7 @@ YKDFPGTZBAJJOL-YJERBJEINA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -123,12 +123,10 @@ YKDFPGTZBAJJOL-YJERBJEINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          442598,
+          442599
+        ]
       ],
       "mol": {
         "atoms": [
@@ -143,7 +141,7 @@ YKDFPGTZBAJJOL-YJERBJEINA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -353,18 +351,14 @@ YKDFPGTZBAJJOL-YJERBJEINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          442603,
+          442606
+        ],
+        [
+          442604,
+          442605
+        ]
       ],
       "mol": {
         "atoms": [
@@ -943,18 +937,14 @@ YKDFPGTZBAJJOL-YJERBJEINA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        339833,
-        339698
-      ]
-    },
-    {
-      "symIds": [
-        339710,
-        339832
-      ]
-    }
+    [
+      339833,
+      339698
+    ],
+    [
+      339710,
+      339832
+    ]
   ]
 }
 

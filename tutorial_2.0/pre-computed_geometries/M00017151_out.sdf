@@ -130,7 +130,7 @@ QSALSPGMYWLZAT-YOOCCBOENA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -151,12 +151,10 @@ QSALSPGMYWLZAT-YOOCCBOENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          496321,
+          496322
+        ]
       ],
       "mol": {
         "atoms": [
@@ -171,7 +169,7 @@ QSALSPGMYWLZAT-YOOCCBOENA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -442,18 +440,14 @@ QSALSPGMYWLZAT-YOOCCBOENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          496326,
+          496329
+        ],
+        [
+          496327,
+          496328
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1183,18 +1177,14 @@ QSALSPGMYWLZAT-YOOCCBOENA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        381083,
-        381291
-      ]
-    },
-    {
-      "symIds": [
-        381094,
-        381292
-      ]
-    }
+    [
+      381083,
+      381291
+    ],
+    [
+      381094,
+      381292
+    ]
   ]
 }
 

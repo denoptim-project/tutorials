@@ -134,7 +134,7 @@ YETZBRXSAISCBP-AKQUVIPINA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -155,12 +155,10 @@ YETZBRXSAISCBP-AKQUVIPINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          461001,
+          461002
+        ]
       ],
       "mol": {
         "atoms": [
@@ -175,7 +173,7 @@ YETZBRXSAISCBP-AKQUVIPINA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -400,18 +398,14 @@ YETZBRXSAISCBP-AKQUVIPINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          461007,
+          461010
+        ],
+        [
+          461008,
+          461009
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1272,18 +1266,14 @@ YETZBRXSAISCBP-AKQUVIPINA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        351318,
-        353920
-      ]
-    },
-    {
-      "symIds": [
-        353921,
-        351323
-      ]
-    }
+    [
+      351318,
+      353920
+    ],
+    [
+      353921,
+      351323
+    ]
   ]
 }
 

@@ -134,7 +134,7 @@ RJHIJPRFFFEBRD-BVAOUDKONA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -155,12 +155,10 @@ RJHIJPRFFFEBRD-BVAOUDKONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          149480,
+          149481
+        ]
       ],
       "mol": {
         "atoms": [
@@ -175,7 +173,7 @@ RJHIJPRFFFEBRD-BVAOUDKONA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -431,12 +429,10 @@ RJHIJPRFFFEBRD-BVAOUDKONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          149485,
+          149486
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1154,12 +1150,10 @@ RJHIJPRFFFEBRD-BVAOUDKONA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        113494,
-        113766
-      ]
-    }
+    [
+      113494,
+      113766
+    ]
   ]
 }
 

@@ -211,7 +211,7 @@ OASLRLBVVDTLQK-IJLKTRAENA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -232,12 +232,10 @@ OASLRLBVVDTLQK-IJLKTRAENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          40225,
+          40226
+        ]
       ],
       "mol": {
         "atoms": [
@@ -252,7 +250,7 @@ OASLRLBVVDTLQK-IJLKTRAENA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -538,18 +536,14 @@ OASLRLBVVDTLQK-IJLKTRAENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          40231,
+          40234
+        ],
+        [
+          40232,
+          40233
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1928,18 +1922,14 @@ OASLRLBVVDTLQK-IJLKTRAENA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        26691,
-        29616
-      ]
-    },
-    {
-      "symIds": [
-        26701,
-        29615
-      ]
-    }
+    [
+      26691,
+      29616
+    ],
+    [
+      26701,
+      29615
+    ]
   ]
 }
 

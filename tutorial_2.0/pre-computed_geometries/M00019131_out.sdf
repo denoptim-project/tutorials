@@ -157,7 +157,7 @@ JEUSPMJWKMHYGD-REGVCAMHNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -178,12 +178,10 @@ JEUSPMJWKMHYGD-REGVCAMHNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          557059,
+          557060
+        ]
       ],
       "mol": {
         "atoms": [
@@ -198,7 +196,7 @@ JEUSPMJWKMHYGD-REGVCAMHNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -393,12 +391,10 @@ JEUSPMJWKMHYGD-REGVCAMHNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          557064,
+          557065
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1406,12 +1402,10 @@ JEUSPMJWKMHYGD-REGVCAMHNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        292558,
-        291601
-      ]
-    }
+    [
+      292558,
+      291601
+    ]
   ]
 }
 

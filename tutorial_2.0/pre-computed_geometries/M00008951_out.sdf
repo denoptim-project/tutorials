@@ -110,7 +110,7 @@ DDCYZKRBAPTLAP-PQLYGOOLNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -131,12 +131,10 @@ DDCYZKRBAPTLAP-PQLYGOOLNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          263546,
+          263547
+        ]
       ],
       "mol": {
         "atoms": [
@@ -151,7 +149,7 @@ DDCYZKRBAPTLAP-PQLYGOOLNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -392,18 +390,14 @@ DDCYZKRBAPTLAP-PQLYGOOLNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          263550,
+          263551
+        ],
+        [
+          263553,
+          263554
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1043,18 +1037,14 @@ DDCYZKRBAPTLAP-PQLYGOOLNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        201078,
-        201701
-      ]
-    },
-    {
-      "symIds": [
-        201082,
-        201700
-      ]
-    }
+    [
+      201078,
+      201701
+    ],
+    [
+      201082,
+      201700
+    ]
   ]
 }
 

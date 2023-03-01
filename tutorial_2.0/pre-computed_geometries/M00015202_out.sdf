@@ -130,7 +130,7 @@ OUPMAFFFAMCPSF-PQOBFDSYNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -151,12 +151,10 @@ OUPMAFFFAMCPSF-PQOBFDSYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          440682,
+          440683
+        ]
       ],
       "mol": {
         "atoms": [
@@ -171,7 +169,7 @@ OUPMAFFFAMCPSF-PQOBFDSYNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -381,18 +379,14 @@ OUPMAFFFAMCPSF-PQOBFDSYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          440686,
+          440687
+        ],
+        [
+          440689,
+          440690
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1183,18 +1177,14 @@ OUPMAFFFAMCPSF-PQOBFDSYNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        338105,
-        338251
-      ]
-    },
-    {
-      "symIds": [
-        338115,
-        338250
-      ]
-    }
+    [
+      338105,
+      338251
+    ],
+    [
+      338115,
+      338250
+    ]
   ]
 }
 

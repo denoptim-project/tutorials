@@ -165,7 +165,7 @@ CXPUYHHDODNTKR-NVPLFKTLNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -186,12 +186,10 @@ CXPUYHHDODNTKR-NVPLFKTLNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          560470,
+          560471
+        ]
       ],
       "mol": {
         "atoms": [
@@ -206,7 +204,7 @@ CXPUYHHDODNTKR-NVPLFKTLNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -462,12 +460,10 @@ CXPUYHHDODNTKR-NVPLFKTLNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          560475,
+          560476
+        ]
       ],
       "mol": {
         "atoms": [
@@ -662,12 +658,10 @@ CXPUYHHDODNTKR-NVPLFKTLNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          560480,
+          560481
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1538,18 +1532,14 @@ CXPUYHHDODNTKR-NVPLFKTLNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        23415,
-        24186
-      ]
-    },
-    {
-      "symIds": [
-        463826,
-        463820
-      ]
-    }
+    [
+      23415,
+      24186
+    ],
+    [
+      463826,
+      463820
+    ]
   ]
 }
 

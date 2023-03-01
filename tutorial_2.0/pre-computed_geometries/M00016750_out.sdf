@@ -212,7 +212,7 @@ IZNCUKXXEUITAW-QWBVRKPYNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -233,12 +233,10 @@ IZNCUKXXEUITAW-QWBVRKPYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          484885,
+          484886
+        ]
       ],
       "mol": {
         "atoms": [
@@ -253,7 +251,7 @@ IZNCUKXXEUITAW-QWBVRKPYNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -554,20 +552,16 @@ IZNCUKXXEUITAW-QWBVRKPYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          484889,
+          484890
+        ],
+        [
+          484892,
+          484893,
+          484894,
+          484895
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1997,20 +1991,16 @@ IZNCUKXXEUITAW-QWBVRKPYNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        371649,
-        372402
-      ]
-    },
-    {
-      "symIds": [
-        372404,
-        371654,
-        372405,
-        372403
-      ]
-    }
+    [
+      371649,
+      372402
+    ],
+    [
+      372404,
+      371654,
+      372405,
+      372403
+    ]
   ]
 }
 

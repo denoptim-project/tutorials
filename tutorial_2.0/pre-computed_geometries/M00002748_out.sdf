@@ -200,7 +200,7 @@ TYAHYMGYFPFSKN-KYPHAXOONA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -221,12 +221,10 @@ TYAHYMGYFPFSKN-KYPHAXOONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          87242,
+          87243
+        ]
       ],
       "mol": {
         "atoms": [
@@ -241,7 +239,7 @@ TYAHYMGYFPFSKN-KYPHAXOONA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -542,20 +540,16 @@ TYAHYMGYFPFSKN-KYPHAXOONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          87246,
+          87247
+        ],
+        [
+          87249,
+          87250,
+          87251,
+          87252
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1895,20 +1889,16 @@ TYAHYMGYFPFSKN-KYPHAXOONA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        65911,
-        65337
-      ]
-    },
-    {
-      "symIds": [
-        65344,
-        65909,
-        65910,
-        65908
-      ]
-    }
+    [
+      65911,
+      65337
+    ],
+    [
+      65344,
+      65909,
+      65910,
+      65908
+    ]
   ]
 }
 

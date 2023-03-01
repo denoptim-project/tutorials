@@ -129,7 +129,7 @@ ZHOQGKFNGDOHTF-HIMPSHDCNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -150,12 +150,10 @@ ZHOQGKFNGDOHTF-HIMPSHDCNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          446227,
+          446228
+        ]
       ],
       "mol": {
         "atoms": [
@@ -170,7 +168,7 @@ ZHOQGKFNGDOHTF-HIMPSHDCNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -365,12 +363,10 @@ ZHOQGKFNGDOHTF-HIMPSHDCNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          446231,
+          446232
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1110,12 +1106,10 @@ ZHOQGKFNGDOHTF-HIMPSHDCNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        342634,
-        342661
-      ]
-    }
+    [
+      342634,
+      342661
+    ]
   ]
 }
 

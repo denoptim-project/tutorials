@@ -164,7 +164,7 @@ ONNSZHUUCGTKRU-ARHRNHDKNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -185,12 +185,10 @@ ONNSZHUUCGTKRU-ARHRNHDKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          143918,
+          143919
+        ]
       ],
       "mol": {
         "atoms": [
@@ -205,7 +203,7 @@ ONNSZHUUCGTKRU-ARHRNHDKNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -491,12 +489,10 @@ ONNSZHUUCGTKRU-ARHRNHDKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          143926,
+          143927
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1523,12 +1519,10 @@ ONNSZHUUCGTKRU-ARHRNHDKNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        109161,
-        109577
-      ]
-    }
+    [
+      109161,
+      109577
+    ]
   ]
 }
 

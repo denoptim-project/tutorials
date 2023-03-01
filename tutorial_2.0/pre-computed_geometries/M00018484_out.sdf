@@ -121,7 +121,7 @@ VDRUMFXYMGUSNS-IKKRZYMXNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -142,12 +142,10 @@ VDRUMFXYMGUSNS-IKKRZYMXNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          536114,
+          536115
+        ]
       ],
       "mol": {
         "atoms": [
@@ -162,7 +160,7 @@ VDRUMFXYMGUSNS-IKKRZYMXNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -388,12 +386,10 @@ VDRUMFXYMGUSNS-IKKRZYMXNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          536118,
+          536119
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1170,18 +1166,14 @@ VDRUMFXYMGUSNS-IKKRZYMXNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        250080,
-        250058
-      ]
-    },
-    {
-      "symIds": [
-        428707,
-        428752
-      ]
-    }
+    [
+      250080,
+      250058
+    ],
+    [
+      428707,
+      428752
+    ]
   ]
 }
 

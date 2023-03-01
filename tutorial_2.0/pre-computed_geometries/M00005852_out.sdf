@@ -157,7 +157,7 @@ MAPMESHUYRLJDC-LUINUUNFNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -178,12 +178,10 @@ MAPMESHUYRLJDC-LUINUUNFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          173930,
+          173931
+        ]
       ],
       "mol": {
         "atoms": [
@@ -198,7 +196,7 @@ MAPMESHUYRLJDC-LUINUUNFNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -484,18 +482,14 @@ MAPMESHUYRLJDC-LUINUUNFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          173936,
+          173939
+        ],
+        [
+          173937,
+          173938
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1470,18 +1464,14 @@ MAPMESHUYRLJDC-LUINUUNFNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        128793,
-        132691
-      ]
-    },
-    {
-      "symIds": [
-        128799,
-        132692
-      ]
-    }
+    [
+      128793,
+      132691
+    ],
+    [
+      128799,
+      132692
+    ]
   ]
 }
 

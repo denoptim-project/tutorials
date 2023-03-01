@@ -194,7 +194,7 @@ KIXHRRIPRLPVHC-MOJGNUGRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -215,12 +215,10 @@ KIXHRRIPRLPVHC-MOJGNUGRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          526475,
+          526476
+        ]
       ],
       "mol": {
         "atoms": [
@@ -235,7 +233,7 @@ KIXHRRIPRLPVHC-MOJGNUGRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -461,12 +459,10 @@ KIXHRRIPRLPVHC-MOJGNUGRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          526479,
+          526480
+        ]
       ],
       "mol": {
         "atoms": [
@@ -899,12 +895,10 @@ KIXHRRIPRLPVHC-MOJGNUGRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          526486,
+          526487
+        ]
       ],
       "mol": {
         "atoms": [
@@ -987,12 +981,10 @@ KIXHRRIPRLPVHC-MOJGNUGRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          526489,
+          526490
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1917,20 +1909,16 @@ KIXHRRIPRLPVHC-MOJGNUGRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        234831,
-        235562
-      ]
-    },
-    {
-      "symIds": [
-        416270,
-        416269,
-        416268,
-        416151
-      ]
-    }
+    [
+      234831,
+      235562
+    ],
+    [
+      416270,
+      416269,
+      416268,
+      416151
+    ]
   ]
 }
 

@@ -175,7 +175,7 @@ WLHWUBFUCCXXLM-YXVLMTAKNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -196,12 +196,10 @@ WLHWUBFUCCXXLM-YXVLMTAKNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          10057,
+          10058
+        ]
       ],
       "mol": {
         "atoms": [
@@ -216,7 +214,7 @@ WLHWUBFUCCXXLM-YXVLMTAKNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -472,12 +470,10 @@ WLHWUBFUCCXXLM-YXVLMTAKNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          10062,
+          10063
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1503,12 +1499,10 @@ WLHWUBFUCCXXLM-YXVLMTAKNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        6491,
-        5947
-      ]
-    }
+    [
+      6491,
+      5947
+    ]
   ]
 }
 

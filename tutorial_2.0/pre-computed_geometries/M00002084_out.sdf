@@ -102,7 +102,7 @@ VEYKSVBHOUWVSO-MPOLIKDENA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -123,12 +123,10 @@ VEYKSVBHOUWVSO-MPOLIKDENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          67680,
+          67681
+        ]
       ],
       "mol": {
         "atoms": [
@@ -143,7 +141,7 @@ VEYKSVBHOUWVSO-MPOLIKDENA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -399,12 +397,10 @@ VEYKSVBHOUWVSO-MPOLIKDENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          67686,
+          67687
+        ]
       ],
       "mol": {
         "atoms": [
@@ -882,12 +878,10 @@ VEYKSVBHOUWVSO-MPOLIKDENA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        50744,
-        50660
-      ]
-    }
+    [
+      50744,
+      50660
+    ]
   ]
 }
 

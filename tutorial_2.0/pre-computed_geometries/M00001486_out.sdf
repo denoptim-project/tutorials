@@ -146,7 +146,7 @@ KASCUKYGVBEFBN-RETGIWBONA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -167,12 +167,10 @@ KASCUKYGVBEFBN-RETGIWBONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          51855,
+          51856
+        ]
       ],
       "mol": {
         "atoms": [
@@ -187,7 +185,7 @@ KASCUKYGVBEFBN-RETGIWBONA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -458,18 +456,14 @@ KASCUKYGVBEFBN-RETGIWBONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          51859,
+          51861
+        ],
+        [
+          51862,
+          51863
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1321,18 +1315,14 @@ KASCUKYGVBEFBN-RETGIWBONA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        38520,
-        38336
-      ]
-    },
-    {
-      "symIds": [
-        38519,
-        38348
-      ]
-    }
+    [
+      38520,
+      38336
+    ],
+    [
+      38519,
+      38348
+    ]
   ]
 }
 

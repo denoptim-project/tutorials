@@ -175,7 +175,7 @@ ZNZBWRLPSHDADF-JWPSCVAZNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -196,12 +196,10 @@ ZNZBWRLPSHDADF-JWPSCVAZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          522903,
+          522904
+        ]
       ],
       "mol": {
         "atoms": [
@@ -216,7 +214,7 @@ ZNZBWRLPSHDADF-JWPSCVAZNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -472,12 +470,10 @@ ZNZBWRLPSHDADF-JWPSCVAZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          522907,
+          522908
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1617,18 +1613,14 @@ ZNZBWRLPSHDADF-JWPSCVAZNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        16998,
-        17788
-      ]
-    },
-    {
-      "symIds": [
-        407424,
-        407446
-      ]
-    }
+    [
+      16998,
+      17788
+    ],
+    [
+      407424,
+      407446
+    ]
   ]
 }
 

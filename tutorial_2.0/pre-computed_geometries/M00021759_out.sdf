@@ -117,7 +117,7 @@ NQUPGDODAKWZGY-LESYKOEANA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -138,12 +138,10 @@ NQUPGDODAKWZGY-LESYKOEANA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          636966,
+          636967
+        ]
       ],
       "mol": {
         "atoms": [
@@ -158,7 +156,7 @@ NQUPGDODAKWZGY-LESYKOEANA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -414,12 +412,10 @@ NQUPGDODAKWZGY-LESYKOEANA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          636970,
+          636971
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1138,18 +1134,14 @@ NQUPGDODAKWZGY-LESYKOEANA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        108745,
-        108652
-      ]
-    },
-    {
-      "symIds": [
-        583319,
-        583314
-      ]
-    }
+    [
+      108745,
+      108652
+    ],
+    [
+      583319,
+      583314
+    ]
   ]
 }
 

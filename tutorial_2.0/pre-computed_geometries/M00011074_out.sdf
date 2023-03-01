@@ -235,7 +235,7 @@ QNOLSJSXOCAIBH-BDAKOUSANA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -256,12 +256,10 @@ QNOLSJSXOCAIBH-BDAKOUSANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          323673,
+          323674
+        ]
       ],
       "mol": {
         "atoms": [
@@ -276,7 +274,7 @@ QNOLSJSXOCAIBH-BDAKOUSANA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -532,18 +530,14 @@ QNOLSJSXOCAIBH-BDAKOUSANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          323679,
+          323682
+        ],
+        [
+          323680,
+          323681
+        ]
       ],
       "mol": {
         "atoms": [
@@ -2146,18 +2140,14 @@ QNOLSJSXOCAIBH-BDAKOUSANA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        248063,
-        243932
-      ]
-    },
-    {
-      "symIds": [
-        243940,
-        248062
-      ]
-    }
+    [
+      248063,
+      243932
+    ],
+    [
+      243940,
+      248062
+    ]
   ]
 }
 

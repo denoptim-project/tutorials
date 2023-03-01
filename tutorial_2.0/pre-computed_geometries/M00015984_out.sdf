@@ -245,7 +245,7 @@ AMUZMIKEBLIRRU-QQNFTLEONA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -266,12 +266,10 @@ AMUZMIKEBLIRRU-QQNFTLEONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          461817,
+          461818
+        ]
       ],
       "mol": {
         "atoms": [
@@ -286,7 +284,7 @@ AMUZMIKEBLIRRU-QQNFTLEONA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -511,18 +509,14 @@ AMUZMIKEBLIRRU-QQNFTLEONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          461823,
+          461826
+        ],
+        [
+          461824,
+          461825
+        ]
       ],
       "mol": {
         "atoms": [
@@ -2215,18 +2209,14 @@ AMUZMIKEBLIRRU-QQNFTLEONA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        351316,
-        354554
-      ]
-    },
-    {
-      "symIds": [
-        354555,
-        351324
-      ]
-    }
+    [
+      351316,
+      354554
+    ],
+    [
+      354555,
+      351324
+    ]
   ]
 }
 

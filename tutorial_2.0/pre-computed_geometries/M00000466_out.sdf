@@ -166,7 +166,7 @@ FQYBDCRXYOAFSP-HFIUXXTINA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -187,12 +187,10 @@ FQYBDCRXYOAFSP-HFIUXXTINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          22671,
+          22672
+        ]
       ],
       "mol": {
         "atoms": [
@@ -207,7 +205,7 @@ FQYBDCRXYOAFSP-HFIUXXTINA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -463,12 +461,10 @@ FQYBDCRXYOAFSP-HFIUXXTINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          22677,
+          22678
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1426,12 +1422,10 @@ FQYBDCRXYOAFSP-HFIUXXTINA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        16312,
-        16099
-      ]
-    }
+    [
+      16312,
+      16099
+    ]
   ]
 }
 

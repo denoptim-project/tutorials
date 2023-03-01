@@ -149,7 +149,7 @@ VKKBUNGKOZXZEL-QHIFDIOTNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -170,12 +170,10 @@ VKKBUNGKOZXZEL-QHIFDIOTNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          526872,
+          526873
+        ]
       ],
       "mol": {
         "atoms": [
@@ -190,7 +188,7 @@ VKKBUNGKOZXZEL-QHIFDIOTNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -416,12 +414,10 @@ VKKBUNGKOZXZEL-QHIFDIOTNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          526877,
+          526878
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1410,18 +1406,14 @@ VKKBUNGKOZXZEL-QHIFDIOTNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        235598,
-        234832
-      ]
-    },
-    {
-      "symIds": [
-        416527,
-        416576
-      ]
-    }
+    [
+      235598,
+      234832
+    ],
+    [
+      416527,
+      416576
+    ]
   ]
 }
 

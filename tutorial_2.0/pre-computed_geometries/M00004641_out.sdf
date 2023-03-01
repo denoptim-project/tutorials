@@ -201,7 +201,7 @@ ZNVKRRVFFBONDT-SVSRFVFVNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -222,12 +222,10 @@ ZNVKRRVFFBONDT-SVSRFVFVNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          140039,
+          140040
+        ]
       ],
       "mol": {
         "atoms": [
@@ -242,7 +240,7 @@ ZNVKRRVFFBONDT-SVSRFVFVNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -528,18 +526,14 @@ ZNVKRRVFFBONDT-SVSRFVFVNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          140045,
+          140048
+        ],
+        [
+          140046,
+          140047
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1859,18 +1853,14 @@ ZNVKRRVFFBONDT-SVSRFVFVNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        106580,
-        102500
-      ]
-    },
-    {
-      "symIds": [
-        106581,
-        102506
-      ]
-    }
+    [
+      106580,
+      102500
+    ],
+    [
+      106581,
+      102506
+    ]
   ]
 }
 

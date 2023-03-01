@@ -204,7 +204,7 @@ HZGCISAVTHHDRK-RZVFKPLONA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -225,12 +225,10 @@ HZGCISAVTHHDRK-RZVFKPLONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          105785,
+          105786
+        ]
       ],
       "mol": {
         "atoms": [
@@ -245,7 +243,7 @@ HZGCISAVTHHDRK-RZVFKPLONA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -531,18 +529,14 @@ HZGCISAVTHHDRK-RZVFKPLONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          105791,
+          105794
+        ],
+        [
+          105792,
+          105793
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1870,18 +1864,14 @@ HZGCISAVTHHDRK-RZVFKPLONA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        80141,
-        77862
-      ]
-    },
-    {
-      "symIds": [
-        80142,
-        77868
-      ]
-    }
+    [
+      80141,
+      77862
+    ],
+    [
+      80142,
+      77868
+    ]
   ]
 }
 

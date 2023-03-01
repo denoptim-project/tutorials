@@ -136,7 +136,7 @@ MXHYCTLAPREJLM-SSFDAQAENA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -157,12 +157,10 @@ MXHYCTLAPREJLM-SSFDAQAENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          523065,
+          523066
+        ]
       ],
       "mol": {
         "atoms": [
@@ -177,7 +175,7 @@ MXHYCTLAPREJLM-SSFDAQAENA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -433,12 +431,10 @@ MXHYCTLAPREJLM-SSFDAQAENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          523069,
+          523070
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1286,18 +1282,14 @@ MXHYCTLAPREJLM-SSFDAQAENA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        16998,
-        17806
-      ]
-    },
-    {
-      "symIds": [
-        407599,
-        407654
-      ]
-    }
+    [
+      16998,
+      17806
+    ],
+    [
+      407599,
+      407654
+    ]
   ]
 }
 

@@ -161,7 +161,7 @@ MQBABJJANGSXOL-MATNWGDSNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -182,12 +182,10 @@ MQBABJJANGSXOL-MATNWGDSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          462537,
+          462538
+        ]
       ],
       "mol": {
         "atoms": [
@@ -202,7 +200,7 @@ MQBABJJANGSXOL-MATNWGDSNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -427,18 +425,14 @@ MQBABJJANGSXOL-MATNWGDSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          462543,
+          462546
+        ],
+        [
+          462544,
+          462545
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1503,18 +1497,14 @@ MQBABJJANGSXOL-MATNWGDSNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        351314,
-        355120
-      ]
-    },
-    {
-      "symIds": [
-        355121,
-        351323
-      ]
-    }
+    [
+      351314,
+      355120
+    ],
+    [
+      355121,
+      351323
+    ]
   ]
 }
 

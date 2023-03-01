@@ -210,7 +210,7 @@ SKODRBVRPQHWDN-QFPKVVAUNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -231,12 +231,10 @@ SKODRBVRPQHWDN-QFPKVVAUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          136679,
+          136680
+        ]
       ],
       "mol": {
         "atoms": [
@@ -251,7 +249,7 @@ SKODRBVRPQHWDN-QFPKVVAUNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -537,18 +535,14 @@ SKODRBVRPQHWDN-QFPKVVAUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          136685,
+          136688
+        ],
+        [
+          136686,
+          136687
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1935,18 +1929,14 @@ SKODRBVRPQHWDN-QFPKVVAUNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        102500,
-        103954
-      ]
-    },
-    {
-      "symIds": [
-        102509,
-        103955
-      ]
-    }
+    [
+      102500,
+      103954
+    ],
+    [
+      102509,
+      103955
+    ]
   ]
 }
 

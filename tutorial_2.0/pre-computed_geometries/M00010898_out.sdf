@@ -169,7 +169,7 @@ CNUPPIYEIVOHHG-FNDWIGCLNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -190,12 +190,10 @@ CNUPPIYEIVOHHG-FNDWIGCLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          318169,
+          318170
+        ]
       ],
       "mol": {
         "atoms": [
@@ -210,7 +208,7 @@ CNUPPIYEIVOHHG-FNDWIGCLNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -436,12 +434,10 @@ CNUPPIYEIVOHHG-FNDWIGCLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          318175,
+          318176
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1466,12 +1462,10 @@ CNUPPIYEIVOHHG-FNDWIGCLNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        243753,
-        243264
-      ]
-    }
+    [
+      243753,
+      243264
+    ]
   ]
 }
 

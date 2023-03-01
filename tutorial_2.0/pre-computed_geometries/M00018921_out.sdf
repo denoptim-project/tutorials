@@ -121,7 +121,7 @@ DONKMBSJQFCPMJ-ZJISLGRRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -142,12 +142,10 @@ DONKMBSJQFCPMJ-ZJISLGRRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          549719,
+          549720
+        ]
       ],
       "mol": {
         "atoms": [
@@ -162,7 +160,7 @@ DONKMBSJQFCPMJ-ZJISLGRRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -418,12 +416,10 @@ DONKMBSJQFCPMJ-ZJISLGRRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          549723,
+          549724
+        ]
       ],
       "mol": {
         "atoms": [
@@ -715,12 +711,10 @@ DONKMBSJQFCPMJ-ZJISLGRRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          549730,
+          549731
+        ]
       ],
       "mol": {
         "atoms": [
@@ -803,12 +797,10 @@ DONKMBSJQFCPMJ-ZJISLGRRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          549733,
+          549734
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1285,20 +1277,16 @@ DONKMBSJQFCPMJ-ZJISLGRRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        286146,
-        286791
-      ]
-    },
-    {
-      "symIds": [
-        452637,
-        452644,
-        452643,
-        452645
-      ]
-    }
+    [
+      286146,
+      286791
+    ],
+    [
+      452637,
+      452644,
+      452643,
+      452645
+    ]
   ]
 }
 

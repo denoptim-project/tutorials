@@ -133,7 +133,7 @@ HZXLFRUGZKSDTE-NANSQMPPNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -154,12 +154,10 @@ HZXLFRUGZKSDTE-NANSQMPPNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          190275,
+          190276
+        ]
       ],
       "mol": {
         "atoms": [
@@ -174,7 +172,7 @@ HZXLFRUGZKSDTE-NANSQMPPNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -400,12 +398,10 @@ HZXLFRUGZKSDTE-NANSQMPPNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          190280,
+          190281
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1162,12 +1158,10 @@ HZXLFRUGZKSDTE-NANSQMPPNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        145295,
-        145185
-      ]
-    }
+    [
+      145295,
+      145185
+    ]
   ]
 }
 

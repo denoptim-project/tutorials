@@ -162,7 +162,7 @@ XFJJLGHXYGMQOJ-OVIDUPCINA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -183,12 +183,10 @@ XFJJLGHXYGMQOJ-OVIDUPCINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          30581,
+          30582
+        ]
       ],
       "mol": {
         "atoms": [
@@ -203,7 +201,7 @@ XFJJLGHXYGMQOJ-OVIDUPCINA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -459,12 +457,10 @@ XFJJLGHXYGMQOJ-OVIDUPCINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          30585,
+          30586
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1391,12 +1387,10 @@ XFJJLGHXYGMQOJ-OVIDUPCINA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        21570,
-        22219
-      ]
-    }
+    [
+      21570,
+      22219
+    ]
   ]
 }
 

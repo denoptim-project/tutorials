@@ -218,7 +218,7 @@ PGEUMMIWITUAGP-ZDEAOLJANA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -239,12 +239,10 @@ PGEUMMIWITUAGP-ZDEAOLJANA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          261464,
+          261465
+        ]
       ],
       "mol": {
         "atoms": [
@@ -259,7 +257,7 @@ PGEUMMIWITUAGP-ZDEAOLJANA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -500,18 +498,14 @@ PGEUMMIWITUAGP-ZDEAOLJANA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          261468,
+          261470
+        ],
+        [
+          261471,
+          261472
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1961,18 +1955,14 @@ PGEUMMIWITUAGP-ZDEAOLJANA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        200050,
-        199517
-      ]
-    },
-    {
-      "symIds": [
-        199529,
-        200051
-      ]
-    }
+    [
+      200050,
+      199517
+    ],
+    [
+      199529,
+      200051
+    ]
   ]
 }
 

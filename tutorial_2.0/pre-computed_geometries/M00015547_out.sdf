@@ -103,7 +103,7 @@ BACSUAIXAYMZEY-UNESPRGCNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -124,12 +124,10 @@ BACSUAIXAYMZEY-UNESPRGCNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          450033,
+          450034
+        ]
       ],
       "mol": {
         "atoms": [
@@ -144,7 +142,7 @@ BACSUAIXAYMZEY-UNESPRGCNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -339,12 +337,10 @@ BACSUAIXAYMZEY-UNESPRGCNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          450037,
+          450038
+        ]
       ],
       "mol": {
         "atoms": [
@@ -890,12 +886,10 @@ BACSUAIXAYMZEY-UNESPRGCNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        345400,
-        345495
-      ]
-    }
+    [
+      345400,
+      345495
+    ]
   ]
 }
 

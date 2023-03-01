@@ -176,7 +176,7 @@ YEZCESDGGLVANU-UVVZTCOYNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -197,12 +197,10 @@ YEZCESDGGLVANU-UVVZTCOYNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          52219,
+          52220
+        ]
       ],
       "mol": {
         "atoms": [
@@ -217,7 +215,7 @@ YEZCESDGGLVANU-UVVZTCOYNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -488,18 +486,14 @@ YEZCESDGGLVANU-UVVZTCOYNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          52223,
+          52225
+        ],
+        [
+          52226,
+          52227
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1575,18 +1569,14 @@ YEZCESDGGLVANU-UVVZTCOYNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        38338,
-        38806
-      ]
-    },
-    {
-      "symIds": [
-        38805,
-        38347
-      ]
-    }
+    [
+      38338,
+      38806
+    ],
+    [
+      38805,
+      38347
+    ]
   ]
 }
 

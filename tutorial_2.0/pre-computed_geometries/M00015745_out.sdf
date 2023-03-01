@@ -119,7 +119,7 @@ FEOFMTZGEVXCPT-WAFOANGWNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -140,12 +140,10 @@ FEOFMTZGEVXCPT-WAFOANGWNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          455054,
+          455055
+        ]
       ],
       "mol": {
         "atoms": [
@@ -160,7 +158,7 @@ FEOFMTZGEVXCPT-WAFOANGWNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -355,12 +353,10 @@ FEOFMTZGEVXCPT-WAFOANGWNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          455058,
+          455059
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1026,12 +1022,10 @@ FEOFMTZGEVXCPT-WAFOANGWNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        349316,
-        349302
-      ]
-    }
+    [
+      349316,
+      349302
+    ]
   ]
 }
 

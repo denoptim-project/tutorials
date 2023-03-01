@@ -111,7 +111,7 @@ HYBBOMDMMBAKJU-ITDWNHAVNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -132,12 +132,10 @@ HYBBOMDMMBAKJU-ITDWNHAVNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          618004,
+          618005
+        ]
       ],
       "mol": {
         "atoms": [
@@ -152,7 +150,7 @@ HYBBOMDMMBAKJU-ITDWNHAVNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -408,12 +406,10 @@ HYBBOMDMMBAKJU-ITDWNHAVNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          618009,
+          618010
+        ]
       ],
       "mol": {
         "atoms": [
@@ -705,12 +701,10 @@ HYBBOMDMMBAKJU-ITDWNHAVNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          618015,
+          618016
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1080,18 +1074,14 @@ HYBBOMDMMBAKJU-ITDWNHAVNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        70609,
-        69881
-      ]
-    },
-    {
-      "symIds": [
-        556312,
-        556306
-      ]
-    }
+    [
+      70609,
+      69881
+    ],
+    [
+      556312,
+      556306
+    ]
   ]
 }
 

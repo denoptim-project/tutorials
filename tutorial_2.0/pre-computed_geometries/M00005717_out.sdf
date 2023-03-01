@@ -202,7 +202,7 @@ XSDCIIKJJZSUHA-HUDOCZQLNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -223,12 +223,10 @@ XSDCIIKJJZSUHA-HUDOCZQLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          169642,
+          169643
+        ]
       ],
       "mol": {
         "atoms": [
@@ -243,7 +241,7 @@ XSDCIIKJJZSUHA-HUDOCZQLNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -529,18 +527,14 @@ XSDCIIKJJZSUHA-HUDOCZQLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          169648,
+          169651
+        ],
+        [
+          169649,
+          169650
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1851,18 +1845,14 @@ XSDCIIKJJZSUHA-HUDOCZQLNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        128794,
-        129340
-      ]
-    },
-    {
-      "symIds": [
-        128803,
-        129341
-      ]
-    }
+    [
+      128794,
+      129340
+    ],
+    [
+      128803,
+      129341
+    ]
   ]
 }
 

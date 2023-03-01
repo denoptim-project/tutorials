@@ -145,7 +145,7 @@ ZDOMKZSGIMYRNL-UKUDTDEPNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -166,12 +166,10 @@ ZDOMKZSGIMYRNL-UKUDTDEPNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          514704,
+          514705
+        ]
       ],
       "mol": {
         "atoms": [
@@ -186,7 +184,7 @@ ZDOMKZSGIMYRNL-UKUDTDEPNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -412,12 +410,10 @@ ZDOMKZSGIMYRNL-UKUDTDEPNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          514708,
+          514709
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1393,18 +1389,14 @@ ZDOMKZSGIMYRNL-UKUDTDEPNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        205499,
-        206301
-      ]
-    },
-    {
-      "symIds": [
-        396361,
-        396365
-      ]
-    }
+    [
+      205499,
+      206301
+    ],
+    [
+      396361,
+      396365
+    ]
   ]
 }
 

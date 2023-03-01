@@ -10,7 +10,7 @@ denoptim
 Note the absence of any argument. This command launches the GUI and open its home tab (Figure 1). The shell where the command has been issued will be used for logging while the GUI is running.
 
 <div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;">
-<b>INFO:</b> The <code>denoptim</code> command is nothing more than an alias to the command creating a JAVA virtual machine that runs the main method in the archive of DENOPTIM classes: <code>java -jar  $PATHTOJAR/denoptim-$VERSION-jar-with-dependencies.jar</code> where <code>$PATHTOJAR</code> is the path where DENOPTIM has been installed and <code>$VERSION</code> is the version numbers (e.g., 3.2.0). These variables are set by Conda during the installation process.</div>
+<b>INFO:</b> The <code>denoptim</code> command is nothing more than an alias to the command creating a JAVA virtual machine that runs the main method in the archive of DENOPTIM classes: <code>java -jar  $PATHTOJAR/denoptim-$VERSION-jar-with-dependencies.jar</code> where <code>$PATHTOJAR</code> is the path where DENOPTIM has been installed and <code>$VERSION</code> is the version numbers (e.g., 4.0.0). These variables are set by Conda during the installation process.</div>
 
 ![figures/gui_home.png](figures/gui_home.png)
 

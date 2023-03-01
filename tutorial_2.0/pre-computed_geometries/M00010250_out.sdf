@@ -198,7 +198,7 @@ AHXNUYYGVOTDGV-USFIDCRINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -219,12 +219,10 @@ AHXNUYYGVOTDGV-USFIDCRINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          300776,
+          300777
+        ]
       ],
       "mol": {
         "atoms": [
@@ -239,7 +237,7 @@ AHXNUYYGVOTDGV-USFIDCRINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -480,18 +478,14 @@ AHXNUYYGVOTDGV-USFIDCRINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          300780,
+          300782
+        ],
+        [
+          300783,
+          300784
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1776,18 +1770,14 @@ AHXNUYYGVOTDGV-USFIDCRINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        230283,
-        228954
-      ]
-    },
-    {
-      "symIds": [
-        228962,
-        230282
-      ]
-    }
+    [
+      230283,
+      228954
+    ],
+    [
+      228962,
+      230282
+    ]
   ]
 }
 

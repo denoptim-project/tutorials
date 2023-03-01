@@ -168,7 +168,7 @@ CLULUIQBIBVIOL-DUXWEJNSNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -189,12 +189,10 @@ CLULUIQBIBVIOL-DUXWEJNSNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          150881,
+          150882
+        ]
       ],
       "mol": {
         "atoms": [
@@ -209,7 +207,7 @@ CLULUIQBIBVIOL-DUXWEJNSNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -480,18 +478,14 @@ CLULUIQBIBVIOL-DUXWEJNSNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          150885,
+          150887
+        ],
+        [
+          150888,
+          150889
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1506,18 +1500,14 @@ CLULUIQBIBVIOL-DUXWEJNSNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        114872,
-        114047
-      ]
-    },
-    {
-      "symIds": [
-        114056,
-        114871
-      ]
-    }
+    [
+      114872,
+      114047
+    ],
+    [
+      114056,
+      114871
+    ]
   ]
 }
 

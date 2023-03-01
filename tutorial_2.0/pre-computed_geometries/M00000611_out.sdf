@@ -121,7 +121,7 @@ MVLIFPADKAPTME-DKDULMFZNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -142,12 +142,10 @@ MVLIFPADKAPTME-DKDULMFZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          26547,
+          26548
+        ]
       ],
       "mol": {
         "atoms": [
@@ -162,7 +160,7 @@ MVLIFPADKAPTME-DKDULMFZNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -418,12 +416,10 @@ MVLIFPADKAPTME-DKDULMFZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          26551,
+          26552
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1043,12 +1039,10 @@ MVLIFPADKAPTME-DKDULMFZNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        18804,
-        19203
-      ]
-    }
+    [
+      18804,
+      19203
+    ]
   ]
 }
 

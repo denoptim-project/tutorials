@@ -149,7 +149,7 @@ APVSWKYVDVCCRK-PDRXJGMDNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -170,12 +170,10 @@ APVSWKYVDVCCRK-PDRXJGMDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          129311,
+          129312
+        ]
       ],
       "mol": {
         "atoms": [
@@ -190,7 +188,7 @@ APVSWKYVDVCCRK-PDRXJGMDNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -446,13 +444,11 @@ APVSWKYVDVCCRK-PDRXJGMDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          129315,
+          129316,
+          129317
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1299,13 +1295,11 @@ APVSWKYVDVCCRK-PDRXJGMDNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        98276,
-        98275,
-        98201
-      ]
-    }
+    [
+      98276,
+      98275,
+      98201
+    ]
   ]
 }
 

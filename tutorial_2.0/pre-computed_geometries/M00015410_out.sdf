@@ -138,7 +138,7 @@ IPVKWZROINPERM-FQZPTNBINA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -159,12 +159,10 @@ IPVKWZROINPERM-FQZPTNBINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          446299,
+          446300
+        ]
       ],
       "mol": {
         "atoms": [
@@ -179,7 +177,7 @@ IPVKWZROINPERM-FQZPTNBINA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -374,12 +372,10 @@ IPVKWZROINPERM-FQZPTNBINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          446303,
+          446304
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1186,12 +1182,10 @@ IPVKWZROINPERM-FQZPTNBINA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        342715,
-        342634
-      ]
-    }
+    [
+      342715,
+      342634
+    ]
   ]
 }
 

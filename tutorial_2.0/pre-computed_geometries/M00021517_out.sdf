@@ -118,7 +118,7 @@ GHVFIKCWIDLUNT-LWAKFCLVNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -139,12 +139,10 @@ GHVFIKCWIDLUNT-LWAKFCLVNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          629936,
+          629937
+        ]
       ],
       "mol": {
         "atoms": [
@@ -159,7 +157,7 @@ GHVFIKCWIDLUNT-LWAKFCLVNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -415,12 +413,10 @@ GHVFIKCWIDLUNT-LWAKFCLVNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          629940,
+          629941
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1148,18 +1144,14 @@ GHVFIKCWIDLUNT-LWAKFCLVNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        96467,
-        95628
-      ]
-    },
-    {
-      "symIds": [
-        573865,
-        573929
-      ]
-    }
+    [
+      96467,
+      95628
+    ],
+    [
+      573865,
+      573929
+    ]
   ]
 }
 

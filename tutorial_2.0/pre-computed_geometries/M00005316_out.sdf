@@ -154,7 +154,7 @@ JURDLLUQVMTVRX-GIHFKUPQNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -175,12 +175,10 @@ JURDLLUQVMTVRX-GIHFKUPQNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          159520,
+          159521
+        ]
       ],
       "mol": {
         "atoms": [
@@ -195,7 +193,7 @@ JURDLLUQVMTVRX-GIHFKUPQNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -451,12 +449,10 @@ JURDLLUQVMTVRX-GIHFKUPQNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          159525,
+          159526
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1323,12 +1319,10 @@ JURDLLUQVMTVRX-GIHFKUPQNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        121602,
-        121516
-      ]
-    }
+    [
+      121602,
+      121516
+    ]
   ]
 }
 

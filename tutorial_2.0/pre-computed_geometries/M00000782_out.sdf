@@ -144,7 +144,7 @@ HUUXJIPIGRJCBP-FHUGZHRSNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -165,12 +165,10 @@ HUUXJIPIGRJCBP-FHUGZHRSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          31097,
+          31098
+        ]
       ],
       "mol": {
         "atoms": [
@@ -185,7 +183,7 @@ HUUXJIPIGRJCBP-FHUGZHRSNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -441,12 +439,10 @@ HUUXJIPIGRJCBP-FHUGZHRSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          31101,
+          31102
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1238,12 +1234,10 @@ HUUXJIPIGRJCBP-FHUGZHRSNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        22605,
-        21572
-      ]
-    }
+    [
+      22605,
+      21572
+    ]
   ]
 }
 

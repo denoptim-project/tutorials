@@ -175,7 +175,7 @@ IGYRUWVNBUSFPW-DMJLCPPGNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -196,12 +196,10 @@ IGYRUWVNBUSFPW-DMJLCPPGNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          90767,
+          90768
+        ]
       ],
       "mol": {
         "atoms": [
@@ -216,7 +214,7 @@ IGYRUWVNBUSFPW-DMJLCPPGNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -472,12 +470,10 @@ IGYRUWVNBUSFPW-DMJLCPPGNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          90771,
+          90772
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1503,12 +1499,10 @@ IGYRUWVNBUSFPW-DMJLCPPGNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        68067,
-        68673
-      ]
-    }
+    [
+      68067,
+      68673
+    ]
   ]
 }
 

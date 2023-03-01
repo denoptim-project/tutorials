@@ -201,7 +201,7 @@ CQQLGUSBHJNUPG-DDRCCMSNNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -222,12 +222,10 @@ CQQLGUSBHJNUPG-DDRCCMSNNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          138375,
+          138376
+        ]
       ],
       "mol": {
         "atoms": [
@@ -242,7 +240,7 @@ CQQLGUSBHJNUPG-DDRCCMSNNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -528,18 +526,14 @@ CQQLGUSBHJNUPG-DDRCCMSNNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          138381,
+          138384
+        ],
+        [
+          138382,
+          138383
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1859,18 +1853,14 @@ CQQLGUSBHJNUPG-DDRCCMSNNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        102497,
-        105279
-      ]
-    },
-    {
-      "symIds": [
-        105280,
-        102508
-      ]
-    }
+    [
+      102497,
+      105279
+    ],
+    [
+      105280,
+      102508
+    ]
   ]
 }
 

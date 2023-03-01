@@ -180,7 +180,7 @@ DNDVEBLBKKECBU-LRLHRIMDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -201,12 +201,10 @@ DNDVEBLBKKECBU-LRLHRIMDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          151441,
+          151442
+        ]
       ],
       "mol": {
         "atoms": [
@@ -221,7 +219,7 @@ DNDVEBLBKKECBU-LRLHRIMDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -492,18 +490,14 @@ DNDVEBLBKKECBU-LRLHRIMDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          151445,
+          151447
+        ],
+        [
+          151448,
+          151449
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1608,18 +1602,14 @@ DNDVEBLBKKECBU-LRLHRIMDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        115313,
-        114050
-      ]
-    },
-    {
-      "symIds": [
-        115312,
-        114055
-      ]
-    }
+    [
+      115313,
+      114050
+    ],
+    [
+      115312,
+      114055
+    ]
   ]
 }
 

@@ -193,7 +193,7 @@ WEIHDEFRHJWIDS-XVJPWICTNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -214,12 +214,10 @@ WEIHDEFRHJWIDS-XVJPWICTNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          197663,
+          197664
+        ]
       ],
       "mol": {
         "atoms": [
@@ -234,7 +232,7 @@ WEIHDEFRHJWIDS-XVJPWICTNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -460,12 +458,10 @@ WEIHDEFRHJWIDS-XVJPWICTNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          197667,
+          197668
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1671,12 +1667,10 @@ WEIHDEFRHJWIDS-XVJPWICTNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        151156,
-        150718
-      ]
-    }
+    [
+      151156,
+      150718
+    ]
   ]
 }
 

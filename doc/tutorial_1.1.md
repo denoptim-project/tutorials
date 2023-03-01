@@ -32,7 +32,7 @@ To build a graph that represents a chemical object like the one seen above, we n
 The combination of these two ingredients is a **Fragment Space** (See [*J. Chem. Inf. Model.* **2014**, 54, 7, 1919–1931](https://doi.org/10.1021/ci5003153) for details), or, when building blocks can be more than just molecular fragments, we call it **Building Blocks Space** (BBSpace).
 
 In practice, to build graphs by hand in the GUI:
-1. Start the creation of a graph by clicking on `File` -> `New Graphs`
+1. Start the creation of a graph by clicking on `File` -> `New` -> `New Graphs`
 2. Import a pre-configured space of building blocks by clicking on `Load BBSpace`.
 
 	![figures/graph_loadBBSpace.png](figures/graph_loadBBSpace.png)
@@ -64,7 +64,7 @@ In practice, to build graphs by hand in the GUI:
 
 **Figure 5**: The vertex selection window.
 
-7. The Pt-containing vertex is then added to the growing graph which is represented in the graph viewer. The yellow circles represent available attachment points.
+7. The Pt-containing vertex is then added to the growing graph which is represented in the graph viewer. The yellow circles represent available attachment points. Clock on the square representing the only verted that is now present in the graph, and do right click -> `Show APClasses` to display labels that define the class of each attachment point. The same result can be achieved by selecting the vertex and clicking on the `APClass` button on the right-hand panel.
 
 8. Select the two attachment points with APClass <code>Xlig:0</code> by doing a single click one of them and then ALT+click on the second (or by drawing a selection rectangle that includes both). Then click on `Add Vertex from BB Space` (see Figure 6) and choose `Compatible Vertices`. This asks DENOPTIM to use the attachment point compatibility rules to restrict the choice of vertices to those that can offer at least one attachment point compatible with those selected in the graph.
 

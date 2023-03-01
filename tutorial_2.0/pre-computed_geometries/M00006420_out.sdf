@@ -152,7 +152,7 @@ CYVNVXDIMLNPEG-VJYSZFNDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -173,12 +173,10 @@ CYVNVXDIMLNPEG-VJYSZFNDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          191276,
+          191277
+        ]
       ],
       "mol": {
         "atoms": [
@@ -193,7 +191,7 @@ CYVNVXDIMLNPEG-VJYSZFNDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -434,18 +432,14 @@ CYVNVXDIMLNPEG-VJYSZFNDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          191280,
+          191282
+        ],
+        [
+          191283,
+          191284
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1387,18 +1381,14 @@ CYVNVXDIMLNPEG-VJYSZFNDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        145735,
-        146078
-      ]
-    },
-    {
-      "symIds": [
-        145746,
-        146079
-      ]
-    }
+    [
+      145735,
+      146078
+    ],
+    [
+      145746,
+      146079
+    ]
   ]
 }
 

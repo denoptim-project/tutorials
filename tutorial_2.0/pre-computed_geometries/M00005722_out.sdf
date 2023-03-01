@@ -202,7 +202,7 @@ NCCSWFOXQFCLAJ-VDRSCORGNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -223,12 +223,10 @@ NCCSWFOXQFCLAJ-VDRSCORGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          169802,
+          169803
+        ]
       ],
       "mol": {
         "atoms": [
@@ -243,7 +241,7 @@ NCCSWFOXQFCLAJ-VDRSCORGNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -529,18 +527,14 @@ NCCSWFOXQFCLAJ-VDRSCORGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          169808,
+          169811
+        ],
+        [
+          169809,
+          169810
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1851,18 +1845,14 @@ NCCSWFOXQFCLAJ-VDRSCORGNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        129465,
-        128795
-      ]
-    },
-    {
-      "symIds": [
-        129466,
-        128802
-      ]
-    }
+    [
+      129465,
+      128795
+    ],
+    [
+      129466,
+      128802
+    ]
   ]
 }
 

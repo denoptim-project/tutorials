@@ -175,7 +175,7 @@ RKPZFNLFCCGCKC-YPGNBAIWNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -196,12 +196,10 @@ RKPZFNLFCCGCKC-YPGNBAIWNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          513097,
+          513098
+        ]
       ],
       "mol": {
         "atoms": [
@@ -216,7 +214,7 @@ RKPZFNLFCCGCKC-YPGNBAIWNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -442,12 +440,10 @@ RKPZFNLFCCGCKC-YPGNBAIWNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          513101,
+          513102
+        ]
       ],
       "mol": {
         "atoms": [
@@ -612,12 +608,10 @@ RKPZFNLFCCGCKC-YPGNBAIWNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          513107,
+          513108
+        ]
       ],
       "mol": {
         "atoms": [
@@ -842,12 +836,10 @@ RKPZFNLFCCGCKC-YPGNBAIWNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          513111,
+          513112
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1772,20 +1764,16 @@ RKPZFNLFCCGCKC-YPGNBAIWNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        205498,
-        206157
-      ]
-    },
-    {
-      "symIds": [
-        395019,
-        395120,
-        395118,
-        395119
-      ]
-    }
+    [
+      205498,
+      206157
+    ],
+    [
+      395019,
+      395120,
+      395118,
+      395119
+    ]
   ]
 }
 

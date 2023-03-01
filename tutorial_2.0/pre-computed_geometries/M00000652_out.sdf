@@ -134,7 +134,7 @@ LIFUIYOIEDONJO-OIAQXPTQNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -155,12 +155,10 @@ LIFUIYOIEDONJO-OIAQXPTQNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          27959,
+          27960
+        ]
       ],
       "mol": {
         "atoms": [
@@ -175,7 +173,7 @@ LIFUIYOIEDONJO-OIAQXPTQNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -431,12 +429,10 @@ LIFUIYOIEDONJO-OIAQXPTQNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          27964,
+          27965
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1153,12 +1149,10 @@ LIFUIYOIEDONJO-OIAQXPTQNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        19719,
-        20220
-      ]
-    }
+    [
+      19719,
+      20220
+    ]
   ]
 }
 

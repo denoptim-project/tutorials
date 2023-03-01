@@ -134,7 +134,7 @@ JSMUYJUZRTVPNL-ZDARADQINA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -155,12 +155,10 @@ JSMUYJUZRTVPNL-ZDARADQINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          264234,
+          264235
+        ]
       ],
       "mol": {
         "atoms": [
@@ -175,7 +173,7 @@ JSMUYJUZRTVPNL-ZDARADQINA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -446,20 +444,16 @@ JSMUYJUZRTVPNL-ZDARADQINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          264238,
+          264239
+        ],
+        [
+          264241,
+          264242,
+          264243,
+          264244
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1361,20 +1355,16 @@ JSMUYJUZRTVPNL-ZDARADQINA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        202286,
-        201864
-      ]
-    },
-    {
-      "symIds": [
-        202283,
-        202284,
-        201874,
-        202285
-      ]
-    }
+    [
+      202286,
+      201864
+    ],
+    [
+      202283,
+      202284,
+      201874,
+      202285
+    ]
   ]
 }
 

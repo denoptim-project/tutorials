@@ -172,7 +172,7 @@ MFAFEUZQTZMWOU-ZTHYDDCDNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -193,12 +193,10 @@ MFAFEUZQTZMWOU-ZTHYDDCDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          267699,
+          267700
+        ]
       ],
       "mol": {
         "atoms": [
@@ -213,7 +211,7 @@ MFAFEUZQTZMWOU-ZTHYDDCDNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -439,12 +437,10 @@ MFAFEUZQTZMWOU-ZTHYDDCDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          267703,
+          267704
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1508,12 +1504,10 @@ MFAFEUZQTZMWOU-ZTHYDDCDNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        205019,
-        204591
-      ]
-    }
+    [
+      205019,
+      204591
+    ]
   ]
 }
 

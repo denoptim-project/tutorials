@@ -144,7 +144,7 @@ ZECCBSSGGIPJCK-MEYOJIFLNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -165,12 +165,10 @@ ZECCBSSGGIPJCK-MEYOJIFLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          209849,
+          209850
+        ]
       ],
       "mol": {
         "atoms": [
@@ -185,7 +183,7 @@ ZECCBSSGGIPJCK-MEYOJIFLNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -441,18 +439,14 @@ ZECCBSSGGIPJCK-MEYOJIFLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          209855,
+          209858
+        ],
+        [
+          209856,
+          209857
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1373,18 +1367,14 @@ ZECCBSSGGIPJCK-MEYOJIFLNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        160440,
-        158686
-      ]
-    },
-    {
-      "symIds": [
-        158693,
-        160439
-      ]
-    }
+    [
+      160440,
+      158686
+    ],
+    [
+      158693,
+      160439
+    ]
   ]
 }
 

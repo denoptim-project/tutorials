@@ -129,7 +129,7 @@ KZUKTNXVAYZARG-XMBQDLIHNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -150,12 +150,10 @@ KZUKTNXVAYZARG-XMBQDLIHNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          579870,
+          579871
+        ]
       ],
       "mol": {
         "atoms": [
@@ -170,7 +168,7 @@ KZUKTNXVAYZARG-XMBQDLIHNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -365,12 +363,10 @@ KZUKTNXVAYZARG-XMBQDLIHNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          579874,
+          579875
+        ]
       ],
       "mol": {
         "atoms": [
@@ -504,12 +500,10 @@ KZUKTNXVAYZARG-XMBQDLIHNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          579880,
+          579881
+        ]
       ],
       "mol": {
         "atoms": [
@@ -689,12 +683,10 @@ KZUKTNXVAYZARG-XMBQDLIHNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          579884,
+          579885
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1351,20 +1343,16 @@ KZUKTNXVAYZARG-XMBQDLIHNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        343273,
-        342639
-      ]
-    },
-    {
-      "symIds": [
-        496151,
-        496134,
-        496149,
-        496150
-      ]
-    }
+    [
+      343273,
+      342639
+    ],
+    [
+      496151,
+      496134,
+      496149,
+      496150
+    ]
   ]
 }
 

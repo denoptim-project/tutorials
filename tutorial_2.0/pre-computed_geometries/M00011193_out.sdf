@@ -155,7 +155,7 @@ UHICCZHLWPLIRB-VZHSKUBNNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -176,12 +176,10 @@ UHICCZHLWPLIRB-VZHSKUBNNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          327049,
+          327050
+        ]
       ],
       "mol": {
         "atoms": [
@@ -196,7 +194,7 @@ UHICCZHLWPLIRB-VZHSKUBNNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -452,12 +450,10 @@ UHICCZHLWPLIRB-VZHSKUBNNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          327054,
+          327055
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1333,12 +1329,10 @@ UHICCZHLWPLIRB-VZHSKUBNNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        250277,
-        250658
-      ]
-    }
+    [
+      250277,
+      250658
+    ]
   ]
 }
 

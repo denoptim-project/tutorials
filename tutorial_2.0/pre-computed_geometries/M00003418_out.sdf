@@ -174,7 +174,7 @@ LIAHSVAQAXBARH-ORHNZKRKNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -195,12 +195,10 @@ LIAHSVAQAXBARH-ORHNZKRKNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          104825,
+          104826
+        ]
       ],
       "mol": {
         "atoms": [
@@ -215,7 +213,7 @@ LIAHSVAQAXBARH-ORHNZKRKNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -501,18 +499,14 @@ LIAHSVAQAXBARH-ORHNZKRKNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          104831,
+          104834
+        ],
+        [
+          104832,
+          104833
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1615,18 +1609,14 @@ LIAHSVAQAXBARH-ORHNZKRKNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        77863,
-        79391
-      ]
-    },
-    {
-      "symIds": [
-        77868,
-        79392
-      ]
-    }
+    [
+      77863,
+      79391
+    ],
+    [
+      77868,
+      79392
+    ]
   ]
 }
 

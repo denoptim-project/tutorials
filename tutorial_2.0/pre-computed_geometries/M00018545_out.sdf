@@ -169,7 +169,7 @@ WSIUNQNUURIWMI-UBUKLAQANA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -190,12 +190,10 @@ WSIUNQNUURIWMI-UBUKLAQANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          538093,
+          538094
+        ]
       ],
       "mol": {
         "atoms": [
@@ -210,7 +208,7 @@ WSIUNQNUURIWMI-UBUKLAQANA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -466,12 +464,10 @@ WSIUNQNUURIWMI-UBUKLAQANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          538098,
+          538099
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1203,12 +1199,10 @@ WSIUNQNUURIWMI-UBUKLAQANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          538105,
+          538106
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1571,18 +1565,14 @@ WSIUNQNUURIWMI-UBUKLAQANA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        19718,
-        20484
-      ]
-    },
-    {
-      "symIds": [
-        430320,
-        430337
-      ]
-    }
+    [
+      19718,
+      20484
+    ],
+    [
+      430320,
+      430337
+    ]
   ]
 }
 

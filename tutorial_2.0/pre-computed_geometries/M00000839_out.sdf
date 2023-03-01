@@ -168,7 +168,7 @@ NKXNKQOPFJWREF-ITKBACEENA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -189,12 +189,10 @@ NKXNKQOPFJWREF-ITKBACEENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          32461,
+          32462
+        ]
       ],
       "mol": {
         "atoms": [
@@ -209,7 +207,7 @@ NKXNKQOPFJWREF-ITKBACEENA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -465,12 +463,10 @@ NKXNKQOPFJWREF-ITKBACEENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          32466,
+          32467
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1443,12 +1439,10 @@ NKXNKQOPFJWREF-ITKBACEENA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        23647,
-        23417
-      ]
-    }
+    [
+      23647,
+      23417
+    ]
   ]
 }
 

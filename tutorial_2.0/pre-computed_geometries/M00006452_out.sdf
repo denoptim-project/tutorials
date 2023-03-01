@@ -188,7 +188,7 @@ HPEXRKKBBYRUTI-BLAGSKTDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -209,12 +209,10 @@ HPEXRKKBBYRUTI-BLAGSKTDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          192172,
+          192173
+        ]
       ],
       "mol": {
         "atoms": [
@@ -229,7 +227,7 @@ HPEXRKKBBYRUTI-BLAGSKTDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -470,18 +468,14 @@ HPEXRKKBBYRUTI-BLAGSKTDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          192176,
+          192178
+        ],
+        [
+          192179,
+          192180
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1691,18 +1685,14 @@ HPEXRKKBBYRUTI-BLAGSKTDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        145739,
-        146782
-      ]
-    },
-    {
-      "symIds": [
-        145750,
-        146783
-      ]
-    }
+    [
+      145739,
+      146782
+    ],
+    [
+      145750,
+      146783
+    ]
   ]
 }
 

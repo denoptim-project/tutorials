@@ -128,7 +128,7 @@ KVEVNNBDDGOHFT-NLNHAFNDNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -149,12 +149,10 @@ KVEVNNBDDGOHFT-NLNHAFNDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          532395,
+          532396
+        ]
       ],
       "mol": {
         "atoms": [
@@ -169,7 +167,7 @@ KVEVNNBDDGOHFT-NLNHAFNDNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -425,12 +423,10 @@ KVEVNNBDDGOHFT-NLNHAFNDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          532399,
+          532400
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1217,18 +1213,14 @@ KVEVNNBDDGOHFT-NLNHAFNDNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        18807,
-        19616
-      ]
-    },
-    {
-      "symIds": [
-        422483,
-        422419
-      ]
-    }
+    [
+      18807,
+      19616
+    ],
+    [
+      422483,
+      422419
+    ]
   ]
 }
 

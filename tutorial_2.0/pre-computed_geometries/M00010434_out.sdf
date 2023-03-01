@@ -185,7 +185,7 @@ SSDNODGCIZGGGI-KBXZNDDWNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -206,12 +206,10 @@ SSDNODGCIZGGGI-KBXZNDDWNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          305903,
+          305904
+        ]
       ],
       "mol": {
         "atoms": [
@@ -226,7 +224,7 @@ SSDNODGCIZGGGI-KBXZNDDWNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -452,12 +450,10 @@ SSDNODGCIZGGGI-KBXZNDDWNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          305907,
+          305908
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1602,12 +1598,10 @@ SSDNODGCIZGGGI-KBXZNDDWNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        234369,
-        233924
-      ]
-    }
+    [
+      234369,
+      233924
+    ]
   ]
 }
 

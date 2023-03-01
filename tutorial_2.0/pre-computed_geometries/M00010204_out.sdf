@@ -144,7 +144,7 @@ MENSMGDHPPJAGX-QPKHZYLINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -165,12 +165,10 @@ MENSMGDHPPJAGX-QPKHZYLINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          299516,
+          299517
+        ]
       ],
       "mol": {
         "atoms": [
@@ -185,7 +183,7 @@ MENSMGDHPPJAGX-QPKHZYLINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -426,18 +424,14 @@ MENSMGDHPPJAGX-QPKHZYLINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          299520,
+          299522
+        ],
+        [
+          299523,
+          299524
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1318,18 +1312,14 @@ MENSMGDHPPJAGX-QPKHZYLINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        229292,
-        228948
-      ]
-    },
-    {
-      "symIds": [
-        229291,
-        228959
-      ]
-    }
+    [
+      229292,
+      228948
+    ],
+    [
+      229291,
+      228959
+    ]
   ]
 }
 

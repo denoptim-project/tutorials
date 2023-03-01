@@ -122,7 +122,7 @@ SFKUSDZCQNEHSR-VRAJPZMRNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -143,12 +143,10 @@ SFKUSDZCQNEHSR-VRAJPZMRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          457709,
+          457710
+        ]
       ],
       "mol": {
         "atoms": [
@@ -163,7 +161,7 @@ SFKUSDZCQNEHSR-VRAJPZMRNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -388,18 +386,14 @@ SFKUSDZCQNEHSR-VRAJPZMRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          457715,
+          457718
+        ],
+        [
+          457716,
+          457717
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1172,18 +1166,14 @@ SFKUSDZCQNEHSR-VRAJPZMRNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        351313,
-        351346
-      ]
-    },
-    {
-      "symIds": [
-        351347,
-        351322
-      ]
-    }
+    [
+      351313,
+      351346
+    ],
+    [
+      351347,
+      351322
+    ]
   ]
 }
 

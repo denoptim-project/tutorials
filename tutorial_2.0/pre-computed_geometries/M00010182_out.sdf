@@ -141,7 +141,7 @@ HIYVRIDQRUQYLK-ROLCHPKKNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -162,12 +162,10 @@ HIYVRIDQRUQYLK-ROLCHPKKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          298923,
+          298924
+        ]
       ],
       "mol": {
         "atoms": [
@@ -182,7 +180,7 @@ HIYVRIDQRUQYLK-ROLCHPKKNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -408,12 +406,10 @@ HIYVRIDQRUQYLK-ROLCHPKKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          298928,
+          298929
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1228,12 +1224,10 @@ HIYVRIDQRUQYLK-ROLCHPKKNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        228399,
-        228814
-      ]
-    }
+    [
+      228399,
+      228814
+    ]
   ]
 }
 

@@ -159,7 +159,7 @@ MHSBPPXLUZHRMK-PUIWOYMUNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -180,12 +180,10 @@ MHSBPPXLUZHRMK-PUIWOYMUNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          152860,
+          152861
+        ]
       ],
       "mol": {
         "atoms": [
@@ -200,7 +198,7 @@ MHSBPPXLUZHRMK-PUIWOYMUNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -456,12 +454,10 @@ MHSBPPXLUZHRMK-PUIWOYMUNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          152864,
+          152865
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1368,12 +1364,10 @@ MHSBPPXLUZHRMK-PUIWOYMUNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        116447,
-        116294
-      ]
-    }
+    [
+      116447,
+      116294
+    ]
   ]
 }
 

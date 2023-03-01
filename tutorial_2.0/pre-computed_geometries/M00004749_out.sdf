@@ -162,7 +162,7 @@ IKGYRLAHYFQQCU-FNQXYTRUNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -183,12 +183,10 @@ IKGYRLAHYFQQCU-FNQXYTRUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          143193,
+          143194
+        ]
       ],
       "mol": {
         "atoms": [
@@ -203,7 +201,7 @@ IKGYRLAHYFQQCU-FNQXYTRUNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -444,12 +442,10 @@ IKGYRLAHYFQQCU-FNQXYTRUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          143197,
+          143198
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1335,12 +1331,10 @@ IKGYRLAHYFQQCU-FNQXYTRUNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        108968,
-        109024
-      ]
-    }
+    [
+      108968,
+      109024
+    ]
   ]
 }
 

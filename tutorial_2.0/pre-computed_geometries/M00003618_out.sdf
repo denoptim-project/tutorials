@@ -139,7 +139,7 @@ NSGBITBAWSJXTK-FIYVRWLANA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -160,12 +160,10 @@ NSGBITBAWSJXTK-FIYVRWLANA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          110623,
+          110624
+        ]
       ],
       "mol": {
         "atoms": [
@@ -180,7 +178,7 @@ NSGBITBAWSJXTK-FIYVRWLANA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -466,14 +464,12 @@ NSGBITBAWSJXTK-FIYVRWLANA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3,
-            4,
-            5
-          ]
-        }
+        [
+          110629,
+          110630,
+          110631,
+          110632
+        ]
       ],
       "mol": {
         "atoms": [

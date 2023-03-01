@@ -118,7 +118,7 @@ YOHJUJIBROWBPK-ZEGIQZLANA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -139,12 +139,10 @@ YOHJUJIBROWBPK-ZEGIQZLANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          169930,
+          169931
+        ]
       ],
       "mol": {
         "atoms": [
@@ -159,7 +157,7 @@ YOHJUJIBROWBPK-ZEGIQZLANA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -445,18 +443,14 @@ YOHJUJIBROWBPK-ZEGIQZLANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          169936,
+          169939
+        ],
+        [
+          169937,
+          169938
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1137,18 +1131,14 @@ YOHJUJIBROWBPK-ZEGIQZLANA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        129565,
-        128796
-      ]
-    },
-    {
-      "symIds": [
-        129566,
-        128800
-      ]
-    }
+    [
+      129565,
+      128796
+    ],
+    [
+      129566,
+      128800
+    ]
   ]
 }
 

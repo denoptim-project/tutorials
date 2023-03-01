@@ -127,7 +127,7 @@ BRXCZDICFMGFBT-DHUUMRGVNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -148,12 +148,10 @@ BRXCZDICFMGFBT-DHUUMRGVNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          615610,
+          615611
+        ]
       ],
       "mol": {
         "atoms": [
@@ -168,7 +166,7 @@ BRXCZDICFMGFBT-DHUUMRGVNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -424,12 +422,10 @@ BRXCZDICFMGFBT-DHUUMRGVNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          615614,
+          615615
+        ]
       ],
       "mol": {
         "atoms": [
@@ -766,12 +762,10 @@ BRXCZDICFMGFBT-DHUUMRGVNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          615621,
+          615622
+        ]
       ],
       "mol": {
         "atoms": [
@@ -854,12 +848,10 @@ BRXCZDICFMGFBT-DHUUMRGVNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          615624,
+          615625
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1336,20 +1328,16 @@ BRXCZDICFMGFBT-DHUUMRGVNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        69632,
-        68972
-      ]
-    },
-    {
-      "symIds": [
-        554201,
-        554203,
-        554202,
-        554195
-      ]
-    }
+    [
+      69632,
+      68972
+    ],
+    [
+      554201,
+      554203,
+      554202,
+      554195
+    ]
   ]
 }
 

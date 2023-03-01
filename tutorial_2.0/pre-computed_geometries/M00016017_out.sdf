@@ -179,7 +179,7 @@ WYEZAYSXZVGTID-TZOOKNKDNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -200,12 +200,10 @@ WYEZAYSXZVGTID-TZOOKNKDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          462857,
+          462858
+        ]
       ],
       "mol": {
         "atoms": [
@@ -220,7 +218,7 @@ WYEZAYSXZVGTID-TZOOKNKDNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -445,18 +443,14 @@ WYEZAYSXZVGTID-TZOOKNKDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          462863,
+          462866
+        ],
+        [
+          462864,
+          462865
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1655,18 +1649,14 @@ WYEZAYSXZVGTID-TZOOKNKDNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        351316,
-        355370
-      ]
-    },
-    {
-      "symIds": [
-        355371,
-        351321
-      ]
-    }
+    [
+      351316,
+      355370
+    ],
+    [
+      355371,
+      351321
+    ]
   ]
 }
 

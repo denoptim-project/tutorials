@@ -188,7 +188,7 @@ GRSOVTLCSWLBQQ-JENAURSNNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -209,12 +209,10 @@ GRSOVTLCSWLBQQ-JENAURSNNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          484561,
+          484562
+        ]
       ],
       "mol": {
         "atoms": [
@@ -229,7 +227,7 @@ GRSOVTLCSWLBQQ-JENAURSNNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -530,20 +528,16 @@ GRSOVTLCSWLBQQ-JENAURSNNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          484565,
+          484566
+        ],
+        [
+          484568,
+          484569,
+          484570,
+          484571
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1793,20 +1787,16 @@ GRSOVTLCSWLBQQ-JENAURSNNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        371646,
-        372132
-      ]
-    },
-    {
-      "symIds": [
-        372134,
-        372135,
-        372133,
-        371654
-      ]
-    }
+    [
+      371646,
+      372132
+    ],
+    [
+      372134,
+      372135,
+      372133,
+      371654
+    ]
   ]
 }
 
