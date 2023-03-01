@@ -176,5 +176,5 @@ conda deactivate
 ---
 (header-dataset)=
 ## Step 4: Download Datasets
-Download all the data [from this link](https://github.com/denoptim-project/tutorials/archive/refs/tags/v0.0.zip).
+Download all the data [from this link](https://github.com/denoptim-project/tutorials/archive/refs/tags/v1.0.zip).
 Remember to unzip/extract the zip archive before moving ahead.
