@@ -176,7 +176,7 @@ FUZZSRODYCCIBC-DEKDVDFDNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -197,12 +197,10 @@ FUZZSRODYCCIBC-DEKDVDFDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          261408,
+          261409
+        ]
       ],
       "mol": {
         "atoms": [
@@ -217,7 +215,7 @@ FUZZSRODYCCIBC-DEKDVDFDNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -458,18 +456,14 @@ FUZZSRODYCCIBC-DEKDVDFDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          261412,
+          261414
+        ],
+        [
+          261415,
+          261416
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1605,18 +1599,14 @@ FUZZSRODYCCIBC-DEKDVDFDNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        200006,
-        199517
-      ]
-    },
-    {
-      "symIds": [
-        200007,
-        199527
-      ]
-    }
+    [
+      200006,
+      199517
+    ],
+    [
+      200007,
+      199527
+    ]
   ]
 }
 

@@ -159,7 +159,7 @@ SIJRJOAMGYGVTL-BPCDBLEDNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -180,12 +180,10 @@ SIJRJOAMGYGVTL-BPCDBLEDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          665679,
+          665680
+        ]
       ],
       "mol": {
         "atoms": [
@@ -200,7 +198,7 @@ SIJRJOAMGYGVTL-BPCDBLEDNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -456,12 +454,10 @@ SIJRJOAMGYGVTL-BPCDBLEDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          665683,
+          665684
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1479,18 +1475,14 @@ SIJRJOAMGYGVTL-BPCDBLEDNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        193428,
-        193441
-      ]
-    },
-    {
-      "symIds": [
-        637425,
-        637484
-      ]
-    }
+    [
+      193428,
+      193441
+    ],
+    [
+      637425,
+      637484
+    ]
   ]
 }
 

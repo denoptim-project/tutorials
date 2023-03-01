@@ -151,7 +151,7 @@ PSRUDXCCNNSLPZ-NLQIOVIINA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -172,12 +172,10 @@ PSRUDXCCNNSLPZ-NLQIOVIINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          628136,
+          628137
+        ]
       ],
       "mol": {
         "atoms": [
@@ -192,7 +190,7 @@ PSRUDXCCNNSLPZ-NLQIOVIINA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -448,12 +446,10 @@ PSRUDXCCNNSLPZ-NLQIOVIINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          628140,
+          628141
+        ]
       ],
       "mol": {
         "atoms": [
@@ -805,12 +801,10 @@ PSRUDXCCNNSLPZ-NLQIOVIINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          628147,
+          628148
+        ]
       ],
       "mol": {
         "atoms": [
@@ -893,12 +887,10 @@ PSRUDXCCNNSLPZ-NLQIOVIINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          628150,
+          628151
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1555,20 +1547,16 @@ PSRUDXCCNNSLPZ-NLQIOVIINA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        96305,
-        95627
-      ]
-    },
-    {
-      "symIds": [
-        572557,
-        572556,
-        572555,
-        572521
-      ]
-    }
+    [
+      96305,
+      95627
+    ],
+    [
+      572557,
+      572556,
+      572555,
+      572521
+    ]
   ]
 }
 

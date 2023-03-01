@@ -108,7 +108,7 @@ UZSCMTXLXMATIE-JARJLHCNNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -129,12 +129,10 @@ UZSCMTXLXMATIE-JARJLHCNNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          133963,
+          133964
+        ]
       ],
       "mol": {
         "atoms": [
@@ -149,7 +147,7 @@ UZSCMTXLXMATIE-JARJLHCNNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -405,12 +403,10 @@ UZSCMTXLXMATIE-JARJLHCNNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          133969,
+          133970
+        ]
       ],
       "mol": {
         "atoms": [
@@ -950,12 +946,10 @@ UZSCMTXLXMATIE-JARJLHCNNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        101829,
-        101842
-      ]
-    }
+    [
+      101829,
+      101842
+    ]
   ]
 }
 

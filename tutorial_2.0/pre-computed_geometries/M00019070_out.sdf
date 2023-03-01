@@ -127,7 +127,7 @@ POMFACBLFSBHGR-HRVHYLBDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -148,12 +148,10 @@ POMFACBLFSBHGR-HRVHYLBDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          555168,
+          555169
+        ]
       ],
       "mol": {
         "atoms": [
@@ -168,7 +166,7 @@ POMFACBLFSBHGR-HRVHYLBDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -363,12 +361,10 @@ POMFACBLFSBHGR-HRVHYLBDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          555173,
+          555174
+        ]
       ],
       "mol": {
         "atoms": [
@@ -563,12 +559,10 @@ POMFACBLFSBHGR-HRVHYLBDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          555178,
+          555179
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1215,18 +1209,14 @@ POMFACBLFSBHGR-HRVHYLBDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        292342,
-        291597
-      ]
-    },
-    {
-      "symIds": [
-        458837,
-        458802
-      ]
-    }
+    [
+      292342,
+      291597
+    ],
+    [
+      458837,
+      458802
+    ]
   ]
 }
 

@@ -157,7 +157,7 @@ SEQBKEPOJARTTK-ZUVPXPKINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -178,12 +178,10 @@ SEQBKEPOJARTTK-ZUVPXPKINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          305079,
+          305080
+        ]
       ],
       "mol": {
         "atoms": [
@@ -198,7 +196,7 @@ SEQBKEPOJARTTK-ZUVPXPKINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -424,12 +422,10 @@ SEQBKEPOJARTTK-ZUVPXPKINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          305085,
+          305086
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1364,12 +1360,10 @@ SEQBKEPOJARTTK-ZUVPXPKINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        233026,
-        233735
-      ]
-    }
+    [
+      233026,
+      233735
+    ]
   ]
 }
 

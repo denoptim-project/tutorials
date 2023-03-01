@@ -147,7 +147,7 @@ MFFUOMMUDPCGOY-HZESCREPNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -168,12 +168,10 @@ MFFUOMMUDPCGOY-HZESCREPNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          581584,
+          581585
+        ]
       ],
       "mol": {
         "atoms": [
@@ -188,7 +186,7 @@ MFFUOMMUDPCGOY-HZESCREPNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -383,12 +381,10 @@ MFFUOMMUDPCGOY-HZESCREPNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          581588,
+          581589
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1377,18 +1373,14 @@ MFFUOMMUDPCGOY-HZESCREPNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        342640,
-        343399
-      ]
-    },
-    {
-      "symIds": [
-        497489,
-        497437
-      ]
-    }
+    [
+      342640,
+      343399
+    ],
+    [
+      497489,
+      497437
+    ]
   ]
 }
 

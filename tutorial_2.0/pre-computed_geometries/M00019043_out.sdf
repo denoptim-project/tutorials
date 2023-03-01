@@ -143,7 +143,7 @@ WHRKILLDGYGARY-IKMBCBCANA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -164,12 +164,10 @@ WHRKILLDGYGARY-IKMBCBCANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          554306,
+          554307
+        ]
       ],
       "mol": {
         "atoms": [
@@ -184,7 +182,7 @@ WHRKILLDGYGARY-IKMBCBCANA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -379,12 +377,10 @@ WHRKILLDGYGARY-IKMBCBCANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          554310,
+          554311
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1344,18 +1340,14 @@ WHRKILLDGYGARY-IKMBCBCANA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        291491,
-        290688
-      ]
-    },
-    {
-      "symIds": [
-        457885,
-        457861
-      ]
-    }
+    [
+      291491,
+      290688
+    ],
+    [
+      457885,
+      457861
+    ]
   ]
 }
 

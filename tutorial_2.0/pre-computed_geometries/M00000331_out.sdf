@@ -144,7 +144,7 @@ ANHNVGQLGUDAPU-RZJMEQKONA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -165,12 +165,10 @@ ANHNVGQLGUDAPU-RZJMEQKONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          18680,
+          18681
+        ]
       ],
       "mol": {
         "atoms": [
@@ -185,7 +183,7 @@ ANHNVGQLGUDAPU-RZJMEQKONA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -456,18 +454,14 @@ ANHNVGQLGUDAPU-RZJMEQKONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          18684,
+          18686
+        ],
+        [
+          18687,
+          18688
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1300,18 +1294,14 @@ ANHNVGQLGUDAPU-RZJMEQKONA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        13076,
-        12023
-      ]
-    },
-    {
-      "symIds": [
-        13075,
-        12035
-      ]
-    }
+    [
+      13076,
+      12023
+    ],
+    [
+      13075,
+      12035
+    ]
   ]
 }
 

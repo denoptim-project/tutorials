@@ -136,7 +136,7 @@ MPTGGGYGVADWNG-BORXAMPANA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -157,12 +157,10 @@ MPTGGGYGVADWNG-BORXAMPANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          438684,
+          438685
+        ]
       ],
       "mol": {
         "atoms": [
@@ -177,7 +175,7 @@ MPTGGGYGVADWNG-BORXAMPANA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -387,18 +385,14 @@ MPTGGGYGVADWNG-BORXAMPANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          438688,
+          438690
+        ],
+        [
+          438691,
+          438692
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1233,18 +1227,14 @@ MPTGGGYGVADWNG-BORXAMPANA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        336667,
-        336541
-      ]
-    },
-    {
-      "symIds": [
-        336666,
-        336558
-      ]
-    }
+    [
+      336667,
+      336541
+    ],
+    [
+      336666,
+      336558
+    ]
   ]
 }
 

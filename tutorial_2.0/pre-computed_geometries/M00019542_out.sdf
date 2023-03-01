@@ -163,7 +163,7 @@ FCYVLQMMACEKLX-FLZUANMDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -184,12 +184,10 @@ FCYVLQMMACEKLX-FLZUANMDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          568864,
+          568865
+        ]
       ],
       "mol": {
         "atoms": [
@@ -204,7 +202,7 @@ FCYVLQMMACEKLX-FLZUANMDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -399,12 +397,10 @@ FCYVLQMMACEKLX-FLZUANMDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          568868,
+          568869
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1512,18 +1508,14 @@ FCYVLQMMACEKLX-FLZUANMDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        304825,
-        304882
-      ]
-    },
-    {
-      "symIds": [
-        473061,
-        472996
-      ]
-    }
+    [
+      304825,
+      304882
+    ],
+    [
+      473061,
+      472996
+    ]
   ]
 }
 

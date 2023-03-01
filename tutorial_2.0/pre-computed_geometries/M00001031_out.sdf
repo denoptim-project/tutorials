@@ -190,7 +190,7 @@ UCROSKLPZFCXMD-KAKWXTRINA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -211,12 +211,10 @@ UCROSKLPZFCXMD-KAKWXTRINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          38241,
+          38242
+        ]
       ],
       "mol": {
         "atoms": [
@@ -231,7 +229,7 @@ UCROSKLPZFCXMD-KAKWXTRINA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -517,18 +515,14 @@ UCROSKLPZFCXMD-KAKWXTRINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          38247,
+          38250
+        ],
+        [
+          38248,
+          38249
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1750,18 +1744,14 @@ UCROSKLPZFCXMD-KAKWXTRINA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        28065,
-        26693
-      ]
-    },
-    {
-      "symIds": [
-        28064,
-        26699
-      ]
-    }
+    [
+      28065,
+      26693
+    ],
+    [
+      28064,
+      26699
+    ]
   ]
 }
 

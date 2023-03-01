@@ -148,7 +148,7 @@ URLIMKZFUSEBBH-FWAHJERKNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -169,12 +169,10 @@ URLIMKZFUSEBBH-FWAHJERKNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          36609,
+          36610
+        ]
       ],
       "mol": {
         "atoms": [
@@ -189,7 +187,7 @@ URLIMKZFUSEBBH-FWAHJERKNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -475,18 +473,14 @@ URLIMKZFUSEBBH-FWAHJERKNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          36615,
+          36618
+        ],
+        [
+          36616,
+          36617
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1393,18 +1387,14 @@ URLIMKZFUSEBBH-FWAHJERKNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        26790,
-        26690
-      ]
-    },
-    {
-      "symIds": [
-        26789,
-        26702
-      ]
-    }
+    [
+      26790,
+      26690
+    ],
+    [
+      26789,
+      26702
+    ]
   ]
 }
 

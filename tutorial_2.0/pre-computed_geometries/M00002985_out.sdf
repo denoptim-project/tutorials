@@ -101,7 +101,7 @@ LGHIZOSXBRGKHW-OOTIIJIKNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -122,12 +122,10 @@ LGHIZOSXBRGKHW-OOTIIJIKNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          94003,
+          94004
+        ]
       ],
       "mol": {
         "atoms": [
@@ -142,7 +140,7 @@ LGHIZOSXBRGKHW-OOTIIJIKNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -398,13 +396,11 @@ LGHIZOSXBRGKHW-OOTIIJIKNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          94007,
+          94008,
+          94009
+        ]
       ],
       "mol": {
         "atoms": [
@@ -876,13 +872,11 @@ LGHIZOSXBRGKHW-OOTIIJIKNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        71038,
-        71053,
-        71054
-      ]
-    }
+    [
+      71038,
+      71053,
+      71054
+    ]
   ]
 }
 

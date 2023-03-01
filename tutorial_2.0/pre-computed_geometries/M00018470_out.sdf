@@ -147,7 +147,7 @@ OWZCJVZDMSBPPT-KEKFDMDDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -168,12 +168,10 @@ OWZCJVZDMSBPPT-KEKFDMDDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          535632,
+          535633
+        ]
       ],
       "mol": {
         "atoms": [
@@ -188,7 +186,7 @@ OWZCJVZDMSBPPT-KEKFDMDDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -414,13 +412,11 @@ OWZCJVZDMSBPPT-KEKFDMDDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          535636,
+          535637,
+          535638
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1449,20 +1445,16 @@ OWZCJVZDMSBPPT-KEKFDMDDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        241222,
-        241223,
-        241224
-      ]
-    },
-    {
-      "symIds": [
-        424911,
-        424817,
-        424912
-      ]
-    }
+    [
+      241222,
+      241223,
+      241224
+    ],
+    [
+      424911,
+      424817,
+      424912
+    ]
   ]
 }
 

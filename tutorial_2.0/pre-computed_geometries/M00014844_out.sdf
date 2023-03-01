@@ -164,7 +164,7 @@ RNAWAYHEOAEOEZ-OSLDWCKYNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -185,12 +185,10 @@ RNAWAYHEOAEOEZ-OSLDWCKYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          430329,
+          430330
+        ]
       ],
       "mol": {
         "atoms": [
@@ -205,7 +203,7 @@ RNAWAYHEOAEOEZ-OSLDWCKYNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -476,18 +474,14 @@ RNAWAYHEOAEOEZ-OSLDWCKYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          430333,
+          430335
+        ],
+        [
+          430336,
+          430337
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1471,18 +1465,14 @@ RNAWAYHEOAEOEZ-OSLDWCKYNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        329663,
-        330276
-      ]
-    },
-    {
-      "symIds": [
-        330275,
-        329678
-      ]
-    }
+    [
+      329663,
+      330276
+    ],
+    [
+      330275,
+      329678
+    ]
   ]
 }
 

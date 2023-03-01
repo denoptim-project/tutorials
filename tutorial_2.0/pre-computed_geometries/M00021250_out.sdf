@@ -148,7 +148,7 @@ MSHFLCOLPFOEQD-VSKPLERNNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -169,12 +169,10 @@ MSHFLCOLPFOEQD-VSKPLERNNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          621846,
+          621847
+        ]
       ],
       "mol": {
         "atoms": [
@@ -189,7 +187,7 @@ MSHFLCOLPFOEQD-VSKPLERNNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -445,12 +443,10 @@ MSHFLCOLPFOEQD-VSKPLERNNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          621851,
+          621852
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1329,12 +1325,10 @@ MSHFLCOLPFOEQD-VSKPLERNNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        73783,
-        73877
-      ]
-    }
+    [
+      73783,
+      73877
+    ]
   ]
 }
 

@@ -118,7 +118,7 @@ NEGVIXOTLLWEHO-KXNLJNLANA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -139,12 +139,10 @@ NEGVIXOTLLWEHO-KXNLJNLANA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          265082,
+          265083
+        ]
       ],
       "mol": {
         "atoms": [
@@ -159,7 +157,7 @@ NEGVIXOTLLWEHO-KXNLJNLANA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -400,18 +398,14 @@ NEGVIXOTLLWEHO-KXNLJNLANA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          265087,
+          265090
+        ],
+        [
+          265088,
+          265089
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1111,18 +1105,14 @@ NEGVIXOTLLWEHO-KXNLJNLANA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        202772,
-        202992
-      ]
-    },
-    {
-      "symIds": [
-        202993,
-        202783
-      ]
-    }
+    [
+      202772,
+      202992
+    ],
+    [
+      202993,
+      202783
+    ]
   ]
 }
 

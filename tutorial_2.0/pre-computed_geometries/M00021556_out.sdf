@@ -147,7 +147,7 @@ POXDBWIHURSUCH-BPMNMXRUNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -168,12 +168,10 @@ POXDBWIHURSUCH-BPMNMXRUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          631222,
+          631223
+        ]
       ],
       "mol": {
         "atoms": [
@@ -188,7 +186,7 @@ POXDBWIHURSUCH-BPMNMXRUNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -444,12 +442,10 @@ POXDBWIHURSUCH-BPMNMXRUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          631227,
+          631228
+        ]
       ],
       "mol": {
         "atoms": [
@@ -868,12 +864,10 @@ POXDBWIHURSUCH-BPMNMXRUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          631233,
+          631234
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1400,18 +1394,14 @@ POXDBWIHURSUCH-BPMNMXRUNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        97354,
-        96548
-      ]
-    },
-    {
-      "symIds": [
-        575147,
-        575153
-      ]
-    }
+    [
+      97354,
+      96548
+    ],
+    [
+      575147,
+      575153
+    ]
   ]
 }
 

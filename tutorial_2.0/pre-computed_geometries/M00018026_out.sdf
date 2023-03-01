@@ -127,7 +127,7 @@ QQPLRZJIECOXQT-CHEXKDFANA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -148,12 +148,10 @@ QQPLRZJIECOXQT-CHEXKDFANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          521132,
+          521133
+        ]
       ],
       "mol": {
         "atoms": [
@@ -168,7 +166,7 @@ QQPLRZJIECOXQT-CHEXKDFANA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -424,12 +422,10 @@ QQPLRZJIECOXQT-CHEXKDFANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          521136,
+          521137
+        ]
       ],
       "mol": {
         "atoms": [
@@ -624,12 +620,10 @@ QQPLRZJIECOXQT-CHEXKDFANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          521142,
+          521143
+        ]
       ],
       "mol": {
         "atoms": [
@@ -712,12 +706,10 @@ QQPLRZJIECOXQT-CHEXKDFANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          521145,
+          521146
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1336,20 +1328,16 @@ QQPLRZJIECOXQT-CHEXKDFANA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        17650,
-        16997
-      ]
-    },
-    {
-      "symIds": [
-        405370,
-        405363,
-        405371,
-        405369
-      ]
-    }
+    [
+      17650,
+      16997
+    ],
+    [
+      405370,
+      405363,
+      405371,
+      405369
+    ]
   ]
 }
 

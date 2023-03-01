@@ -136,7 +136,7 @@ DURIBFKORYDDJY-SUCDCUKMNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -157,12 +157,10 @@ DURIBFKORYDDJY-SUCDCUKMNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          265586,
+          265587
+        ]
       ],
       "mol": {
         "atoms": [
@@ -177,7 +175,7 @@ DURIBFKORYDDJY-SUCDCUKMNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -418,18 +416,14 @@ DURIBFKORYDDJY-SUCDCUKMNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          265591,
+          265594
+        ],
+        [
+          265592,
+          265593
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1263,18 +1257,14 @@ DURIBFKORYDDJY-SUCDCUKMNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        202776,
-        203388
-      ]
-    },
-    {
-      "symIds": [
-        203389,
-        202785
-      ]
-    }
+    [
+      202776,
+      203388
+    ],
+    [
+      203389,
+      202785
+    ]
   ]
 }
 

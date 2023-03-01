@@ -178,7 +178,7 @@ MWVLUPVMJHQBKZ-JORIZGAENA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -199,12 +199,10 @@ MWVLUPVMJHQBKZ-JORIZGAENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          125445,
+          125446
+        ]
       ],
       "mol": {
         "atoms": [
@@ -219,7 +217,7 @@ MWVLUPVMJHQBKZ-JORIZGAENA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -475,12 +473,10 @@ MWVLUPVMJHQBKZ-JORIZGAENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          125449,
+          125450
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1544,12 +1540,10 @@ MWVLUPVMJHQBKZ-JORIZGAENA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        94736,
-        95400
-      ]
-    }
+    [
+      94736,
+      95400
+    ]
   ]
 }
 

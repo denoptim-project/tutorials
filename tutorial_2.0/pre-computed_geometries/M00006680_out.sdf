@@ -148,7 +148,7 @@ UDKAUYXWYVXEHU-OVAPYFERNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -169,12 +169,10 @@ UDKAUYXWYVXEHU-OVAPYFERNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          198367,
+          198368
+        ]
       ],
       "mol": {
         "atoms": [
@@ -189,7 +187,7 @@ UDKAUYXWYVXEHU-OVAPYFERNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -415,12 +413,10 @@ UDKAUYXWYVXEHU-OVAPYFERNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          198371,
+          198372
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1288,12 +1284,10 @@ UDKAUYXWYVXEHU-OVAPYFERNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        151620,
-        151701
-      ]
-    }
+    [
+      151620,
+      151701
+    ]
   ]
 }
 

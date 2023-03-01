@@ -136,7 +136,7 @@ UHOQPUCMNWFLSD-LALGTEKONA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -157,12 +157,10 @@ UHOQPUCMNWFLSD-LALGTEKONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          513423,
+          513424
+        ]
       ],
       "mol": {
         "atoms": [
@@ -177,7 +175,7 @@ UHOQPUCMNWFLSD-LALGTEKONA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -403,12 +401,10 @@ UHOQPUCMNWFLSD-LALGTEKONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          513427,
+          513428
+        ]
       ],
       "mol": {
         "atoms": [
@@ -573,12 +569,10 @@ UHOQPUCMNWFLSD-LALGTEKONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          513433,
+          513434
+        ]
       ],
       "mol": {
         "atoms": [
@@ -960,12 +954,10 @@ UHOQPUCMNWFLSD-LALGTEKONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          513437,
+          513438
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1442,20 +1434,16 @@ UHOQPUCMNWFLSD-LALGTEKONA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        205498,
-        206193
-      ]
-    },
-    {
-      "symIds": [
-        395389,
-        395387,
-        395381,
-        395388
-      ]
-    }
+    [
+      205498,
+      206193
+    ],
+    [
+      395389,
+      395387,
+      395381,
+      395388
+    ]
   ]
 }
 

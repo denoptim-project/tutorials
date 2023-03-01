@@ -117,7 +117,7 @@ MCCKLMVDLDFQGI-INPUDPCPNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -138,12 +138,10 @@ MCCKLMVDLDFQGI-INPUDPCPNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          437891,
+          437892
+        ]
       ],
       "mol": {
         "atoms": [
@@ -158,7 +156,7 @@ MCCKLMVDLDFQGI-INPUDPCPNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -353,12 +351,10 @@ MCCKLMVDLDFQGI-INPUDPCPNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          437896,
+          437897
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1009,12 +1005,10 @@ MCCKLMVDLDFQGI-INPUDPCPNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        336049,
-        335984
-      ]
-    }
+    [
+      336049,
+      335984
+    ]
   ]
 }
 

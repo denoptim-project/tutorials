@@ -178,7 +178,7 @@ NZCGTKLLRMPCLX-SABKAIFFNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -199,12 +199,10 @@ NZCGTKLLRMPCLX-SABKAIFFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          54189,
+          54190
+        ]
       ],
       "mol": {
         "atoms": [
@@ -219,7 +217,7 @@ NZCGTKLLRMPCLX-SABKAIFFNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -490,18 +488,14 @@ NZCGTKLLRMPCLX-SABKAIFFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          54193,
+          54194
+        ],
+        [
+          54196,
+          54197
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1591,18 +1585,14 @@ NZCGTKLLRMPCLX-SABKAIFFNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        39897,
-        40367
-      ]
-    },
-    {
-      "symIds": [
-        39902,
-        40368
-      ]
-    }
+    [
+      39897,
+      40367
+    ],
+    [
+      39902,
+      40368
+    ]
   ]
 }
 

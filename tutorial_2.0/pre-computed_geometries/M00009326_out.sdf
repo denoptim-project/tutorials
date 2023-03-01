@@ -125,7 +125,7 @@ HRLJKIPYSUCFHH-ARHKAPAZNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -146,12 +146,10 @@ HRLJKIPYSUCFHH-ARHKAPAZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          273480,
+          273481
+        ]
       ],
       "mol": {
         "atoms": [
@@ -166,7 +164,7 @@ HRLJKIPYSUCFHH-ARHKAPAZNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -392,12 +390,10 @@ HRLJKIPYSUCFHH-ARHKAPAZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          273484,
+          273485
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1108,12 +1104,10 @@ HRLJKIPYSUCFHH-ARHKAPAZNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        209372,
-        208437
-      ]
-    }
+    [
+      209372,
+      208437
+    ]
   ]
 }
 

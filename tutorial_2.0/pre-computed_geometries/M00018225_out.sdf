@@ -133,7 +133,7 @@ ZRDHBTLLDSPVIO-PONURPIZNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -154,12 +154,10 @@ ZRDHBTLLDSPVIO-PONURPIZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          528143,
+          528144
+        ]
       ],
       "mol": {
         "atoms": [
@@ -174,7 +172,7 @@ ZRDHBTLLDSPVIO-PONURPIZNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -400,12 +398,10 @@ ZRDHBTLLDSPVIO-PONURPIZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          528148,
+          528149
+        ]
       ],
       "mol": {
         "atoms": [
@@ -726,12 +722,10 @@ ZRDHBTLLDSPVIO-PONURPIZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          528154,
+          528155
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1281,18 +1275,14 @@ ZRDHBTLLDSPVIO-PONURPIZNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        236504,
-        235741
-      ]
-    },
-    {
-      "symIds": [
-        417810,
-        417836
-      ]
-    }
+    [
+      236504,
+      235741
+    ],
+    [
+      417810,
+      417836
+    ]
   ]
 }
 

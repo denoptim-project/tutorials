@@ -126,7 +126,7 @@ SOEUWBOZKFKHRK-FCXAMWTDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -147,12 +147,10 @@ SOEUWBOZKFKHRK-FCXAMWTDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          67596,
+          67597
+        ]
       ],
       "mol": {
         "atoms": [
@@ -167,7 +165,7 @@ SOEUWBOZKFKHRK-FCXAMWTDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -423,12 +421,10 @@ SOEUWBOZKFKHRK-FCXAMWTDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          67602,
+          67603
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1088,12 +1084,10 @@ SOEUWBOZKFKHRK-FCXAMWTDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        50679,
-        50656
-      ]
-    }
+    [
+      50679,
+      50656
+    ]
   ]
 }
 

@@ -114,7 +114,7 @@ HVQRRZZKMGBSRI-TVEWHBSPNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -135,12 +135,10 @@ HVQRRZZKMGBSRI-TVEWHBSPNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          604811,
+          604812
+        ]
       ],
       "mol": {
         "atoms": [
@@ -155,7 +153,7 @@ HVQRRZZKMGBSRI-TVEWHBSPNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -411,12 +409,10 @@ HVQRRZZKMGBSRI-TVEWHBSPNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          604815,
+          604816
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1112,18 +1108,14 @@ HVQRRZZKMGBSRI-TVEWHBSPNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        393914,
-        393803
-      ]
-    },
-    {
-      "symIds": [
-        533734,
-        533739
-      ]
-    }
+    [
+      393914,
+      393803
+    ],
+    [
+      533734,
+      533739
+    ]
   ]
 }
 

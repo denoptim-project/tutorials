@@ -143,7 +143,7 @@ VOHJITXCHONCAB-YEQYMIINNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -164,12 +164,10 @@ VOHJITXCHONCAB-YEQYMIINNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          198631,
+          198632
+        ]
       ],
       "mol": {
         "atoms": [
@@ -184,7 +182,7 @@ VOHJITXCHONCAB-YEQYMIINNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -410,12 +408,10 @@ VOHJITXCHONCAB-YEQYMIINNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          198635,
+          198636
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1246,12 +1242,10 @@ VOHJITXCHONCAB-YEQYMIINNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        151899,
-        151622
-      ]
-    }
+    [
+      151899,
+      151622
+    ]
   ]
 }
 

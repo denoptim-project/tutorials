@@ -202,7 +202,7 @@ DZDCNLPOPCACPM-ZPYUROPANA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -223,12 +223,10 @@ DZDCNLPOPCACPM-ZPYUROPANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          37345,
+          37346
+        ]
       ],
       "mol": {
         "atoms": [
@@ -243,7 +241,7 @@ DZDCNLPOPCACPM-ZPYUROPANA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -529,18 +527,14 @@ DZDCNLPOPCACPM-ZPYUROPANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          37351,
+          37354
+        ],
+        [
+          37352,
+          37353
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1851,18 +1845,14 @@ DZDCNLPOPCACPM-ZPYUROPANA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        27365,
-        26694
-      ]
-    },
-    {
-      "symIds": [
-        27364,
-        26701
-      ]
-    }
+    [
+      27365,
+      26694
+    ],
+    [
+      27364,
+      26701
+    ]
   ]
 }
 

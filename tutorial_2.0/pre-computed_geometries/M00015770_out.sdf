@@ -155,7 +155,7 @@ ZWMKAFLOGVNEFU-RLLPGHOLNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -176,12 +176,10 @@ ZWMKAFLOGVNEFU-RLLPGHOLNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          455657,
+          455658
+        ]
       ],
       "mol": {
         "atoms": [
@@ -196,7 +194,7 @@ ZWMKAFLOGVNEFU-RLLPGHOLNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -391,12 +389,10 @@ ZWMKAFLOGVNEFU-RLLPGHOLNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          455661,
+          455662
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1331,12 +1327,10 @@ ZWMKAFLOGVNEFU-RLLPGHOLNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        349764,
-        349306
-      ]
-    }
+    [
+      349764,
+      349306
+    ]
   ]
 }
 

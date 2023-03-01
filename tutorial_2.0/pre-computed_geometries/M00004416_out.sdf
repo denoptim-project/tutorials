@@ -135,7 +135,7 @@ QCROJPHUSFSLTM-NULREOHRNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -156,12 +156,10 @@ QCROJPHUSFSLTM-NULREOHRNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          133367,
+          133368
+        ]
       ],
       "mol": {
         "atoms": [
@@ -176,7 +174,7 @@ QCROJPHUSFSLTM-NULREOHRNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -432,12 +430,10 @@ QCROJPHUSFSLTM-NULREOHRNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          133373,
+          133374
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1179,12 +1175,10 @@ QCROJPHUSFSLTM-NULREOHRNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        101383,
-        101167
-      ]
-    }
+    [
+      101383,
+      101167
+    ]
   ]
 }
 

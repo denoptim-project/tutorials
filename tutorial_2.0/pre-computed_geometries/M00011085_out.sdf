@@ -139,7 +139,7 @@ QUDUZQUKSMNRTF-LNLSNFHRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -160,12 +160,10 @@ QUDUZQUKSMNRTF-LNLSNFHRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          324025,
+          324026
+        ]
       ],
       "mol": {
         "atoms": [
@@ -180,7 +178,7 @@ QUDUZQUKSMNRTF-LNLSNFHRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -436,18 +434,14 @@ QUDUZQUKSMNRTF-LNLSNFHRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          324031,
+          324034
+        ],
+        [
+          324032,
+          324033
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1330,18 +1324,14 @@ QUDUZQUKSMNRTF-LNLSNFHRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        248338,
-        243934
-      ]
-    },
-    {
-      "symIds": [
-        248337,
-        243939
-      ]
-    }
+    [
+      248338,
+      243934
+    ],
+    [
+      248337,
+      243939
+    ]
   ]
 }
 

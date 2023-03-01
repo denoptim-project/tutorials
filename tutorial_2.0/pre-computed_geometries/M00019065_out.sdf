@@ -157,7 +157,7 @@ DJOQLONJQZRYBZ-SYNDRXBINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -178,12 +178,10 @@ DJOQLONJQZRYBZ-SYNDRXBINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          555021,
+          555022
+        ]
       ],
       "mol": {
         "atoms": [
@@ -198,7 +196,7 @@ DJOQLONJQZRYBZ-SYNDRXBINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -393,12 +391,10 @@ DJOQLONJQZRYBZ-SYNDRXBINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          555026,
+          555027
+        ]
       ],
       "mol": {
         "atoms": [
@@ -593,12 +589,10 @@ DJOQLONJQZRYBZ-SYNDRXBINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          555031,
+          555032
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1469,18 +1463,14 @@ DJOQLONJQZRYBZ-SYNDRXBINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        291596,
-        292324
-      ]
-    },
-    {
-      "symIds": [
-        458729,
-        458672
-      ]
-    }
+    [
+      291596,
+      292324
+    ],
+    [
+      458729,
+      458672
+    ]
   ]
 }
 

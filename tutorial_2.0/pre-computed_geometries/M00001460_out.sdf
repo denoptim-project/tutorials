@@ -145,7 +145,7 @@ PCLIREOHOPCPEJ-GRYLIUNGNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -166,12 +166,10 @@ PCLIREOHOPCPEJ-GRYLIUNGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          51206,
+          51207
+        ]
       ],
       "mol": {
         "atoms": [
@@ -186,7 +184,7 @@ PCLIREOHOPCPEJ-GRYLIUNGNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -442,12 +440,10 @@ PCLIREOHOPCPEJ-GRYLIUNGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          51211,
+          51212
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1249,12 +1245,10 @@ PCLIREOHOPCPEJ-GRYLIUNGNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        38005,
-        37780
-      ]
-    }
+    [
+      38005,
+      37780
+    ]
   ]
 }
 

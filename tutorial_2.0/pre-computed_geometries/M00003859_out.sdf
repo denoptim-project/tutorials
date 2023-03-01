@@ -116,7 +116,7 @@ WTMLGWHRZJEKLO-YRJFCYDONA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -137,12 +137,10 @@ WTMLGWHRZJEKLO-YRJFCYDONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          118323,
+          118324
+        ]
       ],
       "mol": {
         "atoms": [
@@ -157,7 +155,7 @@ WTMLGWHRZJEKLO-YRJFCYDONA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -428,18 +426,14 @@ WTMLGWHRZJEKLO-YRJFCYDONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          118327,
+          118329
+        ],
+        [
+          118330,
+          118331
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1081,18 +1075,14 @@ WTMLGWHRZJEKLO-YRJFCYDONA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        89751,
-        89725
-      ]
-    },
-    {
-      "symIds": [
-        89752,
-        89737
-      ]
-    }
+    [
+      89751,
+      89725
+    ],
+    [
+      89752,
+      89737
+    ]
   ]
 }
 

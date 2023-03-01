@@ -131,7 +131,7 @@ XITPKKYFVORFAC-DFOWAGHZNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -152,12 +152,10 @@ XITPKKYFVORFAC-DFOWAGHZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          520583,
+          520584
+        ]
       ],
       "mol": {
         "atoms": [
@@ -172,7 +170,7 @@ XITPKKYFVORFAC-DFOWAGHZNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -398,13 +396,11 @@ XITPKKYFVORFAC-DFOWAGHZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          520587,
+          520588,
+          520589
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1329,20 +1325,16 @@ XITPKKYFVORFAC-DFOWAGHZNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        210487,
-        210486,
-        210485
-      ]
-    },
-    {
-      "symIds": [
-        402002,
-        402048,
-        402049
-      ]
-    }
+    [
+      210487,
+      210486,
+      210485
+    ],
+    [
+      402002,
+      402048,
+      402049
+    ]
   ]
 }
 

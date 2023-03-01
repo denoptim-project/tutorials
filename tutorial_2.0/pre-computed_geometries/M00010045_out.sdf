@@ -159,7 +159,7 @@ VVWOVUXMPRPLOE-VELZAGJTNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -180,12 +180,10 @@ VVWOVUXMPRPLOE-VELZAGJTNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          294969,
+          294970
+        ]
       ],
       "mol": {
         "atoms": [
@@ -200,7 +198,7 @@ VVWOVUXMPRPLOE-VELZAGJTNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -456,12 +454,10 @@ VVWOVUXMPRPLOE-VELZAGJTNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          294977,
+          294978
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1495,12 +1491,10 @@ VVWOVUXMPRPLOE-VELZAGJTNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        225817,
-        223499
-      ]
-    }
+    [
+      225817,
+      223499
+    ]
   ]
 }
 

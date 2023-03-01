@@ -110,7 +110,7 @@ FQJKTEVKRJWISP-JUNUEVOSNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -131,12 +131,10 @@ FQJKTEVKRJWISP-JUNUEVOSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          591212,
+          591213
+        ]
       ],
       "mol": {
         "atoms": [
@@ -151,7 +149,7 @@ FQJKTEVKRJWISP-JUNUEVOSNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -346,12 +344,10 @@ FQJKTEVKRJWISP-JUNUEVOSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          591216,
+          591217
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1061,18 +1057,14 @@ FQJKTEVKRJWISP-JUNUEVOSNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        357622,
-        357751
-      ]
-    },
-    {
-      "symIds": [
-        509888,
-        509883
-      ]
-    }
+    [
+      357622,
+      357751
+    ],
+    [
+      509888,
+      509883
+    ]
   ]
 }
 

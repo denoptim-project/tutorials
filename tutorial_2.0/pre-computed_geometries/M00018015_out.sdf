@@ -140,7 +140,7 @@ VTVSSZLYEBKWLB-FEWHOLCMNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -161,12 +161,10 @@ VTVSSZLYEBKWLB-FEWHOLCMNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          520691,
+          520692
+        ]
       ],
       "mol": {
         "atoms": [
@@ -181,7 +179,7 @@ VTVSSZLYEBKWLB-FEWHOLCMNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -407,13 +405,11 @@ VTVSSZLYEBKWLB-FEWHOLCMNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          520695,
+          520696,
+          520697
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1404,20 +1400,16 @@ VTVSSZLYEBKWLB-FEWHOLCMNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        210487,
-        210486,
-        210485
-      ]
-    },
-    {
-      "symIds": [
-        402005,
-        402121,
-        402120
-      ]
-    }
+    [
+      210487,
+      210486,
+      210485
+    ],
+    [
+      402005,
+      402121,
+      402120
+    ]
   ]
 }
 

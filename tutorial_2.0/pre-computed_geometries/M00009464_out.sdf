@@ -168,7 +168,7 @@ HCKUTEAPDQOZAM-UVZSEGIONA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -189,12 +189,10 @@ HCKUTEAPDQOZAM-UVZSEGIONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          277084,
+          277085
+        ]
       ],
       "mol": {
         "atoms": [
@@ -209,7 +207,7 @@ HCKUTEAPDQOZAM-UVZSEGIONA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -435,12 +433,10 @@ HCKUTEAPDQOZAM-UVZSEGIONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          277090,
+          277091
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1474,12 +1470,10 @@ HCKUTEAPDQOZAM-UVZSEGIONA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        211851,
-        212124
-      ]
-    }
+    [
+      211851,
+      212124
+    ]
   ]
 }
 

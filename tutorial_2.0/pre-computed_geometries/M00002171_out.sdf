@@ -198,7 +198,7 @@ HHKZIMTYVOVRPU-UKUDGBOLNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -219,12 +219,10 @@ HHKZIMTYVOVRPU-UKUDGBOLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          70034,
+          70035
+        ]
       ],
       "mol": {
         "atoms": [
@@ -239,7 +237,7 @@ HHKZIMTYVOVRPU-UKUDGBOLNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -525,18 +523,14 @@ HHKZIMTYVOVRPU-UKUDGBOLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          70040,
+          70043
+        ],
+        [
+          70041,
+          70042
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1819,18 +1813,14 @@ HHKZIMTYVOVRPU-UKUDGBOLNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        51457,
-        52574
-      ]
-    },
-    {
-      "symIds": [
-        52575,
-        51467
-      ]
-    }
+    [
+      51457,
+      52574
+    ],
+    [
+      52575,
+      51467
+    ]
   ]
 }
 

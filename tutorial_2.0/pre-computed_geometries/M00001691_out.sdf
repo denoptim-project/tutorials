@@ -183,7 +183,7 @@ LPFVYTZMNPZIDA-WIALOYTMNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -204,12 +204,10 @@ LPFVYTZMNPZIDA-WIALOYTMNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          57584,
+          57585
+        ]
       ],
       "mol": {
         "atoms": [
@@ -224,7 +222,7 @@ LPFVYTZMNPZIDA-WIALOYTMNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -480,12 +478,10 @@ LPFVYTZMNPZIDA-WIALOYTMNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          57590,
+          57591
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1571,12 +1567,10 @@ LPFVYTZMNPZIDA-WIALOYTMNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        43099,
-        42541
-      ]
-    }
+    [
+      43099,
+      42541
+    ]
   ]
 }
 

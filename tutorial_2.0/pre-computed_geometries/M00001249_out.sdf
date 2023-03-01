@@ -130,7 +130,7 @@ PZQYOIOBIOZSLP-IKGGRBIENA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -151,12 +151,10 @@ PZQYOIOBIOZSLP-IKGGRBIENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          44425,
+          44426
+        ]
       ],
       "mol": {
         "atoms": [
@@ -171,7 +169,7 @@ PZQYOIOBIOZSLP-IKGGRBIENA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -457,14 +455,12 @@ PZQYOIOBIOZSLP-IKGGRBIENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3,
-            4,
-            5
-          ]
-        }
+        [
+          44431,
+          44432,
+          44433,
+          44434
+        ]
       ],
       "mol": {
         "atoms": [

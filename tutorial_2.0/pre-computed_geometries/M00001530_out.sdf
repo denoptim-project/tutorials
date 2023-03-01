@@ -232,7 +232,7 @@ OWSNTMMIPABNEO-FIGXGNGENA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -253,12 +253,10 @@ OWSNTMMIPABNEO-FIGXGNGENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          53087,
+          53088
+        ]
       ],
       "mol": {
         "atoms": [
@@ -273,7 +271,7 @@ OWSNTMMIPABNEO-FIGXGNGENA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -544,18 +542,14 @@ OWSNTMMIPABNEO-FIGXGNGENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          53091,
+          53093
+        ],
+        [
+          53094,
+          53095
+        ]
       ],
       "mol": {
         "atoms": [
@@ -2049,18 +2043,14 @@ OWSNTMMIPABNEO-FIGXGNGENA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        39488,
-        38342
-      ]
-    },
-    {
-      "symIds": [
-        38350,
-        39487
-      ]
-    }
+    [
+      39488,
+      38342
+    ],
+    [
+      38350,
+      39487
+    ]
   ]
 }
 

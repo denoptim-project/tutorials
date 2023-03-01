@@ -124,7 +124,7 @@ NOXILRVFMXMFFW-NHONIPMHNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -145,12 +145,10 @@ NOXILRVFMXMFFW-NHONIPMHNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          318585,
+          318586
+        ]
       ],
       "mol": {
         "atoms": [
@@ -165,7 +163,7 @@ NOXILRVFMXMFFW-NHONIPMHNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -421,18 +419,14 @@ NOXILRVFMXMFFW-NHONIPMHNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          318591,
+          318594
+        ],
+        [
+          318592,
+          318593
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1205,18 +1199,14 @@ NOXILRVFMXMFFW-NHONIPMHNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        244087,
-        243930
-      ]
-    },
-    {
-      "symIds": [
-        244086,
-        243937
-      ]
-    }
+    [
+      244087,
+      243930
+    ],
+    [
+      244086,
+      243937
+    ]
   ]
 }
 

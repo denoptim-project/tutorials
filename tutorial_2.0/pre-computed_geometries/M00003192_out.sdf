@@ -152,7 +152,7 @@ GYEZBDSGSYHHAU-CLNPAYNSNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -173,12 +173,10 @@ GYEZBDSGSYHHAU-CLNPAYNSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          98929,
+          98930
+        ]
       ],
       "mol": {
         "atoms": [
@@ -193,7 +191,7 @@ GYEZBDSGSYHHAU-CLNPAYNSNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -449,12 +447,10 @@ GYEZBDSGSYHHAU-CLNPAYNSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          98933,
+          98934
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1308,12 +1304,10 @@ GYEZBDSGSYHHAU-CLNPAYNSNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        74850,
-        74023
-      ]
-    }
+    [
+      74850,
+      74023
+    ]
   ]
 }
 

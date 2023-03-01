@@ -192,7 +192,7 @@ PJWZEAHKOLJCRK-QUOKQSHLNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -213,12 +213,10 @@ PJWZEAHKOLJCRK-QUOKQSHLNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          275508,
+          275509
+        ]
       ],
       "mol": {
         "atoms": [
@@ -233,7 +231,7 @@ PJWZEAHKOLJCRK-QUOKQSHLNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -459,12 +457,10 @@ PJWZEAHKOLJCRK-QUOKQSHLNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          275512,
+          275513
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1677,12 +1673,10 @@ PJWZEAHKOLJCRK-QUOKQSHLNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        210913,
-        210508
-      ]
-    }
+    [
+      210913,
+      210508
+    ]
   ]
 }
 

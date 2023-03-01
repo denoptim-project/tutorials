@@ -184,7 +184,7 @@ KIIBWZUCMSOBDO-VXZIRYFHNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -205,12 +205,10 @@ KIIBWZUCMSOBDO-VXZIRYFHNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          513863,
+          513864
+        ]
       ],
       "mol": {
         "atoms": [
@@ -225,7 +223,7 @@ KIIBWZUCMSOBDO-VXZIRYFHNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -451,12 +449,10 @@ KIIBWZUCMSOBDO-VXZIRYFHNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          513868,
+          513869
+        ]
       ],
       "mol": {
         "atoms": [
@@ -621,12 +617,10 @@ KIIBWZUCMSOBDO-VXZIRYFHNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          513875,
+          513876
+        ]
       ],
       "mol": {
         "atoms": [
@@ -918,12 +912,10 @@ KIIBWZUCMSOBDO-VXZIRYFHNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          513880,
+          513881
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1848,20 +1840,16 @@ KIIBWZUCMSOBDO-VXZIRYFHNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        205498,
-        206211
-      ]
-    },
-    {
-      "symIds": [
-        395707,
-        395596,
-        395708,
-        395709
-      ]
-    }
+    [
+      205498,
+      206211
+    ],
+    [
+      395707,
+      395596,
+      395708,
+      395709
+    ]
   ]
 }
 

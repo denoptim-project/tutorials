@@ -168,7 +168,7 @@ CEZAFYRWUJZDEP-SCXDLCOZNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -189,12 +189,10 @@ CEZAFYRWUJZDEP-SCXDLCOZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          598792,
+          598793
+        ]
       ],
       "mol": {
         "atoms": [
@@ -209,7 +207,7 @@ CEZAFYRWUJZDEP-SCXDLCOZNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -465,12 +463,10 @@ CEZAFYRWUJZDEP-SCXDLCOZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          598797,
+          598798
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1515,12 +1511,10 @@ CEZAFYRWUJZDEP-SCXDLCOZNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        380851,
-        379928
-      ]
-    }
+    [
+      380851,
+      379928
+    ]
   ]
 }
 

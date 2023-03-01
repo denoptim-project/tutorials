@@ -137,7 +137,7 @@ WERZGSCIEBRRIV-FFFXMCSHNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -158,12 +158,10 @@ WERZGSCIEBRRIV-FFFXMCSHNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          633331,
+          633332
+        ]
       ],
       "mol": {
         "atoms": [
@@ -178,7 +176,7 @@ WERZGSCIEBRRIV-FFFXMCSHNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -434,12 +432,10 @@ WERZGSCIEBRRIV-FFFXMCSHNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          633336,
+          633337
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1251,12 +1247,10 @@ WERZGSCIEBRRIV-FFFXMCSHNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        100252,
-        100274
-      ]
-    }
+    [
+      100252,
+      100274
+    ]
   ]
 }
 

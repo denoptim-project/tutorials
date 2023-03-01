@@ -137,7 +137,7 @@ WSKAGPKFORCBJM-IONLMMJWNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -158,12 +158,10 @@ WSKAGPKFORCBJM-IONLMMJWNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          546361,
+          546362
+        ]
       ],
       "mol": {
         "atoms": [
@@ -178,7 +176,7 @@ WSKAGPKFORCBJM-IONLMMJWNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -373,12 +371,10 @@ WSKAGPKFORCBJM-IONLMMJWNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          546366,
+          546367
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1235,12 +1231,10 @@ WSKAGPKFORCBJM-IONLMMJWNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        269321,
-        269227
-      ]
-    }
+    [
+      269321,
+      269227
+    ]
   ]
 }
 

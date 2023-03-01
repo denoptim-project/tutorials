@@ -131,7 +131,7 @@ LHKWGYREUCVVFR-TUNBLORINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -152,12 +152,10 @@ LHKWGYREUCVVFR-TUNBLORINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          201891,
+          201892
+        ]
       ],
       "mol": {
         "atoms": [
@@ -172,7 +170,7 @@ LHKWGYREUCVVFR-TUNBLORINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -398,13 +396,11 @@ LHKWGYREUCVVFR-TUNBLORINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          201895,
+          201896,
+          201897
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1146,13 +1142,11 @@ LHKWGYREUCVVFR-TUNBLORINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        154306,
-        154267,
-        154305
-      ]
-    }
+    [
+      154306,
+      154267,
+      154305
+    ]
   ]
 }
 

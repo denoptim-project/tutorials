@@ -170,7 +170,7 @@ IXYNFLGWAVJEQL-REQHXERDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -191,12 +191,10 @@ IXYNFLGWAVJEQL-REQHXERDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          54751,
+          54752
+        ]
       ],
       "mol": {
         "atoms": [
@@ -211,7 +209,7 @@ IXYNFLGWAVJEQL-REQHXERDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -512,20 +510,16 @@ IXYNFLGWAVJEQL-REQHXERDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          54755,
+          54756
+        ],
+        [
+          54758,
+          54759,
+          54760,
+          54761
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1641,20 +1635,16 @@ IXYNFLGWAVJEQL-REQHXERDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        40824,
-        40710
-      ]
-    },
-    {
-      "symIds": [
-        40722,
-        40827,
-        40825,
-        40826
-      ]
-    }
+    [
+      40824,
+      40710
+    ],
+    [
+      40722,
+      40827,
+      40825,
+      40826
+    ]
   ]
 }
 

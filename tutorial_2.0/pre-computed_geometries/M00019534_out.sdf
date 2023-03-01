@@ -103,7 +103,7 @@ RUYPELISTGUEDE-PDSWCPCLNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -124,12 +124,10 @@ RUYPELISTGUEDE-PDSWCPCLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          568606,
+          568607
+        ]
       ],
       "mol": {
         "atoms": [
@@ -144,7 +142,7 @@ RUYPELISTGUEDE-PDSWCPCLNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -339,12 +337,10 @@ RUYPELISTGUEDE-PDSWCPCLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          568610,
+          568611
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1003,18 +999,14 @@ RUYPELISTGUEDE-PDSWCPCLNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        304825,
-        304862
-      ]
-    },
-    {
-      "symIds": [
-        472874,
-        472879
-      ]
-    }
+    [
+      304825,
+      304862
+    ],
+    [
+      472874,
+      472879
+    ]
   ]
 }
 

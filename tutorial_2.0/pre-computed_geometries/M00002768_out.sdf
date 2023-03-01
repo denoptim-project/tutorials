@@ -130,7 +130,7 @@ TXUCXIKOLWHDGP-BEEYTZNUNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -151,12 +151,10 @@ TXUCXIKOLWHDGP-BEEYTZNUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          87910,
+          87911
+        ]
       ],
       "mol": {
         "atoms": [
@@ -171,7 +169,7 @@ TXUCXIKOLWHDGP-BEEYTZNUNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -442,18 +440,14 @@ TXUCXIKOLWHDGP-BEEYTZNUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          87915,
+          87918
+        ],
+        [
+          87916,
+          87917
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1183,18 +1177,14 @@ TXUCXIKOLWHDGP-BEEYTZNUNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        66246,
-        66467
-      ]
-    },
-    {
-      "symIds": [
-        66257,
-        66466
-      ]
-    }
+    [
+      66246,
+      66467
+    ],
+    [
+      66257,
+      66466
+    ]
   ]
 }
 

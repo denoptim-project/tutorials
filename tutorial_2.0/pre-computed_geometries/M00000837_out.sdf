@@ -180,7 +180,7 @@ RENICHZCTPDDLY-ZOPMOKDVNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -201,12 +201,10 @@ RENICHZCTPDDLY-ZOPMOKDVNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          32413,
+          32414
+        ]
       ],
       "mol": {
         "atoms": [
@@ -221,7 +219,7 @@ RENICHZCTPDDLY-ZOPMOKDVNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -477,12 +475,10 @@ RENICHZCTPDDLY-ZOPMOKDVNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          32418,
+          32419
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1545,12 +1541,10 @@ RENICHZCTPDDLY-ZOPMOKDVNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        23415,
-        23611
-      ]
-    }
+    [
+      23415,
+      23611
+    ]
   ]
 }
 

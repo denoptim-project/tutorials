@@ -144,7 +144,7 @@ YIOQCUDCEMFURG-JDLQIBLINA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -165,12 +165,10 @@ YIOQCUDCEMFURG-JDLQIBLINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          619722,
+          619723
+        ]
       ],
       "mol": {
         "atoms": [
@@ -185,7 +183,7 @@ YIOQCUDCEMFURG-JDLQIBLINA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -441,12 +439,10 @@ YIOQCUDCEMFURG-JDLQIBLINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          619727,
+          619728
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1297,12 +1293,10 @@ YIOQCUDCEMFURG-JDLQIBLINA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        69882,
-        70771
-      ]
-    }
+    [
+      69882,
+      70771
+    ]
   ]
 }
 

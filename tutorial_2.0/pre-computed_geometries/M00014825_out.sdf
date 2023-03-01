@@ -146,7 +146,7 @@ WYLLXCWSZRPWBL-FCEMBCHONA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -167,12 +167,10 @@ WYLLXCWSZRPWBL-FCEMBCHONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          429797,
+          429798
+        ]
       ],
       "mol": {
         "atoms": [
@@ -187,7 +185,7 @@ WYLLXCWSZRPWBL-FCEMBCHONA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -458,18 +456,14 @@ WYLLXCWSZRPWBL-FCEMBCHONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          429801,
+          429803
+        ],
+        [
+          429804,
+          429805
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1321,18 +1315,14 @@ WYLLXCWSZRPWBL-FCEMBCHONA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        329858,
-        329661
-      ]
-    },
-    {
-      "symIds": [
-        329673,
-        329857
-      ]
-    }
+    [
+      329858,
+      329661
+    ],
+    [
+      329673,
+      329857
+    ]
   ]
 }
 

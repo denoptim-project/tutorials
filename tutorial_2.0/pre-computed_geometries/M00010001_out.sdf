@@ -164,7 +164,7 @@ YGLBAABYTIDVTP-KCHHXEHUNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -185,12 +185,10 @@ YGLBAABYTIDVTP-KCHHXEHUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          293593,
+          293594
+        ]
       ],
       "mol": {
         "atoms": [
@@ -205,7 +203,7 @@ YGLBAABYTIDVTP-KCHHXEHUNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -461,12 +459,10 @@ YGLBAABYTIDVTP-KCHHXEHUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          293601,
+          293602
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1538,12 +1534,10 @@ YGLBAABYTIDVTP-KCHHXEHUNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        224784,
-        223498
-      ]
-    }
+    [
+      224784,
+      223498
+    ]
   ]
 }
 

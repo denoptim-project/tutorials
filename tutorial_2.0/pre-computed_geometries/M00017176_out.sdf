@@ -160,7 +160,7 @@ OREHMSZJXWTWMD-GALAFVCZNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -181,12 +181,10 @@ OREHMSZJXWTWMD-GALAFVCZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          496979,
+          496980
+        ]
       ],
       "mol": {
         "atoms": [
@@ -201,7 +199,7 @@ OREHMSZJXWTWMD-GALAFVCZNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -472,18 +470,14 @@ OREHMSZJXWTWMD-GALAFVCZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          496984,
+          496987
+        ],
+        [
+          496985,
+          496986
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1437,18 +1431,14 @@ OREHMSZJXWTWMD-GALAFVCZNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        381089,
-        381812
-      ]
-    },
-    {
-      "symIds": [
-        381094,
-        381813
-      ]
-    }
+    [
+      381089,
+      381812
+    ],
+    [
+      381094,
+      381813
+    ]
   ]
 }
 

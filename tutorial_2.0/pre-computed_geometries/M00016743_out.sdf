@@ -176,7 +176,7 @@ XOEVUAHARALVCO-COYNITIHNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -197,12 +197,10 @@ XOEVUAHARALVCO-COYNITIHNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          484633,
+          484634
+        ]
       ],
       "mol": {
         "atoms": [
@@ -217,7 +215,7 @@ XOEVUAHARALVCO-COYNITIHNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -518,20 +516,16 @@ XOEVUAHARALVCO-COYNITIHNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          484637,
+          484638
+        ],
+        [
+          484640,
+          484641,
+          484642,
+          484643
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1691,20 +1685,16 @@ XOEVUAHARALVCO-COYNITIHNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        371647,
-        372192
-      ]
-    },
-    {
-      "symIds": [
-        372194,
-        371653,
-        372193,
-        372195
-      ]
-    }
+    [
+      371647,
+      372192
+    ],
+    [
+      372194,
+      371653,
+      372193,
+      372195
+    ]
   ]
 }
 

@@ -170,7 +170,7 @@ CNUNVZHWCGGOGF-PXJFHTFRNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -191,12 +191,10 @@ CNUNVZHWCGGOGF-PXJFHTFRNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          91615,
+          91616
+        ]
       ],
       "mol": {
         "atoms": [
@@ -211,7 +209,7 @@ CNUNVZHWCGGOGF-PXJFHTFRNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -467,12 +465,10 @@ CNUNVZHWCGGOGF-PXJFHTFRNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          91619,
+          91620
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1460,12 +1456,10 @@ CNUNVZHWCGGOGF-PXJFHTFRNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        68969,
-        69326
-      ]
-    }
+    [
+      68969,
+      69326
+    ]
   ]
 }
 

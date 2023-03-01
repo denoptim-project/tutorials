@@ -122,7 +122,7 @@ UKVMBTOOYUBCAX-UXUPAROSNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -143,12 +143,10 @@ UKVMBTOOYUBCAX-UXUPAROSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          448239,
+          448240
+        ]
       ],
       "mol": {
         "atoms": [
@@ -163,7 +161,7 @@ UKVMBTOOYUBCAX-UXUPAROSNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -358,12 +356,10 @@ UKVMBTOOYUBCAX-UXUPAROSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          448244,
+          448245
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1050,12 +1046,10 @@ UKVMBTOOYUBCAX-UXUPAROSNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        344125,
-        343540
-      ]
-    }
+    [
+      344125,
+      343540
+    ]
   ]
 }
 

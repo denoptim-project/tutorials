@@ -156,7 +156,7 @@ GAPWGBVCUCCPRE-LXGJLDGKNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -177,12 +177,10 @@ GAPWGBVCUCCPRE-LXGJLDGKNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          276476,
+          276477
+        ]
       ],
       "mol": {
         "atoms": [
@@ -197,7 +195,7 @@ GAPWGBVCUCCPRE-LXGJLDGKNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -423,12 +421,10 @@ GAPWGBVCUCCPRE-LXGJLDGKNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          276482,
+          276483
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1372,12 +1368,10 @@ GAPWGBVCUCCPRE-LXGJLDGKNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        211181,
-        211653
-      ]
-    }
+    [
+      211181,
+      211653
+    ]
   ]
 }
 

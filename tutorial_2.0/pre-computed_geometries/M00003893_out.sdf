@@ -140,7 +140,7 @@ IEKKQXCMAMTYDG-BUDGEZODNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -161,12 +161,10 @@ IEKKQXCMAMTYDG-BUDGEZODNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          119258,
+          119259
+        ]
       ],
       "mol": {
         "atoms": [
@@ -181,7 +179,7 @@ IEKKQXCMAMTYDG-BUDGEZODNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -452,18 +450,14 @@ IEKKQXCMAMTYDG-BUDGEZODNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          119262,
+          119264
+        ],
+        [
+          119265,
+          119266
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1283,18 +1277,14 @@ IEKKQXCMAMTYDG-BUDGEZODNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        89729,
-        90488
-      ]
-    },
-    {
-      "symIds": [
-        90489,
-        89743
-      ]
-    }
+    [
+      89729,
+      90488
+    ],
+    [
+      90489,
+      89743
+    ]
   ]
 }
 

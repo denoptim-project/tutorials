@@ -135,7 +135,7 @@ GMZWKVFSICRIRA-PORNRBNMNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -156,12 +156,10 @@ GMZWKVFSICRIRA-PORNRBNMNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          565025,
+          565026
+        ]
       ],
       "mol": {
         "atoms": [
@@ -176,7 +174,7 @@ GMZWKVFSICRIRA-PORNRBNMNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -432,12 +430,10 @@ GMZWKVFSICRIRA-PORNRBNMNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          565030,
+          565031
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1220,12 +1216,10 @@ GMZWKVFSICRIRA-PORNRBNMNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        23416,
-        24347
-      ]
-    }
+    [
+      23416,
+      24347
+    ]
   ]
 }
 

@@ -153,7 +153,7 @@ ZZJVUMJMUFVQHW-RARILOEKNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -174,12 +174,10 @@ ZZJVUMJMUFVQHW-RARILOEKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          528891,
+          528892
+        ]
       ],
       "mol": {
         "atoms": [
@@ -194,7 +192,7 @@ ZZJVUMJMUFVQHW-RARILOEKNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -420,12 +418,10 @@ ZZJVUMJMUFVQHW-RARILOEKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          528896,
+          528897
+        ]
       ],
       "mol": {
         "atoms": [
@@ -865,12 +861,10 @@ ZZJVUMJMUFVQHW-RARILOEKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          528902,
+          528903
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1449,18 +1443,14 @@ ZZJVUMJMUFVQHW-RARILOEKNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        236576,
-        235745
-      ]
-    },
-    {
-      "symIds": [
-        418380,
-        418386
-      ]
-    }
+    [
+      236576,
+      235745
+    ],
+    [
+      418380,
+      418386
+    ]
   ]
 }
 

@@ -168,7 +168,7 @@ MRDDSIMANVIDSH-VCZVDFIPNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -189,12 +189,10 @@ MRDDSIMANVIDSH-VCZVDFIPNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          205193,
+          205194
+        ]
       ],
       "mol": {
         "atoms": [
@@ -209,7 +207,7 @@ MRDDSIMANVIDSH-VCZVDFIPNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -435,12 +433,10 @@ MRDDSIMANVIDSH-VCZVDFIPNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          205197,
+          205198
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1459,12 +1455,10 @@ MRDDSIMANVIDSH-VCZVDFIPNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        156669,
-        156837
-      ]
-    }
+    [
+      156669,
+      156837
+    ]
   ]
 }
 

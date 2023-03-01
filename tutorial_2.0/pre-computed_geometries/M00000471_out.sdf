@@ -172,7 +172,7 @@ RRBICZAMZRNTKW-FELGTPKSNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -193,12 +193,10 @@ RRBICZAMZRNTKW-FELGTPKSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          22791,
+          22792
+        ]
       ],
       "mol": {
         "atoms": [
@@ -213,7 +211,7 @@ RRBICZAMZRNTKW-FELGTPKSNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -469,12 +467,10 @@ RRBICZAMZRNTKW-FELGTPKSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          22797,
+          22798
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1477,12 +1473,10 @@ RRBICZAMZRNTKW-FELGTPKSNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        16097,
-        16398
-      ]
-    }
+    [
+      16097,
+      16398
+    ]
   ]
 }
 

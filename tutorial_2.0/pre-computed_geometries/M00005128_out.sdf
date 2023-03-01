@@ -206,7 +206,7 @@ WIQTVPFKIZVDEH-HYOVVSAGNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -227,12 +227,10 @@ WIQTVPFKIZVDEH-HYOVVSAGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          154323,
+          154324
+        ]
       ],
       "mol": {
         "atoms": [
@@ -247,7 +245,7 @@ WIQTVPFKIZVDEH-HYOVVSAGNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -548,20 +546,16 @@ WIQTVPFKIZVDEH-HYOVVSAGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          154327,
+          154328
+        ],
+        [
+          154330,
+          154331,
+          154332,
+          154333
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1944,20 +1938,16 @@ WIQTVPFKIZVDEH-HYOVVSAGNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        117621,
-        116964
-      ]
-    },
-    {
-      "symIds": [
-        117624,
-        116970,
-        117623,
-        117622
-      ]
-    }
+    [
+      117621,
+      116964
+    ],
+    [
+      117624,
+      116970,
+      117623,
+      117622
+    ]
   ]
 }
 

@@ -184,7 +184,7 @@ YUIMKXJSKFHQIP-LOWYETORNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -205,12 +205,10 @@ YUIMKXJSKFHQIP-LOWYETORNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          121894,
+          121895
+        ]
       ],
       "mol": {
         "atoms": [
@@ -225,7 +223,7 @@ YUIMKXJSKFHQIP-LOWYETORNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -526,20 +524,16 @@ YUIMKXJSKFHQIP-LOWYETORNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          121898,
+          121899
+        ],
+        [
+          121901,
+          121902,
+          121903,
+          121904
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1773,20 +1767,16 @@ YUIMKXJSKFHQIP-LOWYETORNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        92615,
-        91975
-      ]
-    },
-    {
-      "symIds": [
-        92617,
-        92618,
-        92616,
-        91980
-      ]
-    }
+    [
+      92615,
+      91975
+    ],
+    [
+      92617,
+      92618,
+      92616,
+      91980
+    ]
   ]
 }
 

@@ -141,7 +141,7 @@ YGMZILTWGKXJEJ-CMMLOYPRNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -162,12 +162,10 @@ YGMZILTWGKXJEJ-CMMLOYPRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          581780,
+          581781
+        ]
       ],
       "mol": {
         "atoms": [
@@ -182,7 +180,7 @@ YGMZILTWGKXJEJ-CMMLOYPRNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -377,12 +375,10 @@ YGMZILTWGKXJEJ-CMMLOYPRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          581784,
+          581785
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1327,18 +1323,14 @@ YGMZILTWGKXJEJ-CMMLOYPRNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        342640,
-        343435
-      ]
-    },
-    {
-      "symIds": [
-        497641,
-        497637
-      ]
-    }
+    [
+      342640,
+      343435
+    ],
+    [
+      497641,
+      497637
+    ]
   ]
 }
 

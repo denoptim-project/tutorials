@@ -121,7 +121,7 @@ MTYLFMKOMFKVQM-KBMPKFMFNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -142,12 +142,10 @@ MTYLFMKOMFKVQM-KBMPKFMFNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          23367,
+          23368
+        ]
       ],
       "mol": {
         "atoms": [
@@ -162,7 +160,7 @@ MTYLFMKOMFKVQM-KBMPKFMFNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -418,12 +416,10 @@ MTYLFMKOMFKVQM-KBMPKFMFNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          23373,
+          23374
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1042,12 +1038,10 @@ MTYLFMKOMFKVQM-KBMPKFMFNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        16832,
-        16100
-      ]
-    }
+    [
+      16832,
+      16100
+    ]
   ]
 }
 

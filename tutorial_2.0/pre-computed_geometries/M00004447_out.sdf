@@ -126,7 +126,7 @@ REHYTBPKPDAZTB-LQBWUDPLNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -147,12 +147,10 @@ REHYTBPKPDAZTB-LQBWUDPLNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          134119,
+          134120
+        ]
       ],
       "mol": {
         "atoms": [
@@ -167,7 +165,7 @@ REHYTBPKPDAZTB-LQBWUDPLNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -423,12 +421,10 @@ REHYTBPKPDAZTB-LQBWUDPLNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          134125,
+          134126
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1103,12 +1099,10 @@ REHYTBPKPDAZTB-LQBWUDPLNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        101961,
-        101830
-      ]
-    }
+    [
+      101961,
+      101830
+    ]
   ]
 }
 

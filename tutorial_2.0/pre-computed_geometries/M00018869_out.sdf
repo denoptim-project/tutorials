@@ -180,7 +180,7 @@ VCXXPJURQITQFG-KABBXQDRNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -201,12 +201,10 @@ VCXXPJURQITQFG-KABBXQDRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          548003,
+          548004
+        ]
       ],
       "mol": {
         "atoms": [
@@ -221,7 +219,7 @@ VCXXPJURQITQFG-KABBXQDRNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -416,13 +414,11 @@ VCXXPJURQITQFG-KABBXQDRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          548007,
+          548008,
+          548009
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1713,20 +1709,16 @@ VCXXPJURQITQFG-KABBXQDRNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        269444,
-        269443,
-        269445
-      ]
-    },
-    {
-      "symIds": [
-        444348,
-        444539,
-        444540
-      ]
-    }
+    [
+      269444,
+      269443,
+      269445
+    ],
+    [
+      444348,
+      444539,
+      444540
+    ]
   ]
 }
 

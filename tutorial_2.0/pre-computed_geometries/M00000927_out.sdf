@@ -136,7 +136,7 @@ MLQHFHBVSIGIFH-HOZVDIPVNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -157,12 +157,10 @@ MLQHFHBVSIGIFH-HOZVDIPVNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          35313,
+          35314
+        ]
       ],
       "mol": {
         "atoms": [
@@ -177,7 +175,7 @@ MLQHFHBVSIGIFH-HOZVDIPVNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -433,12 +431,10 @@ MLQHFHBVSIGIFH-HOZVDIPVNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          35319,
+          35320
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1171,12 +1167,10 @@ MLQHFHBVSIGIFH-HOZVDIPVNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        25346,
-        25784
-      ]
-    }
+    [
+      25346,
+      25784
+    ]
   ]
 }
 

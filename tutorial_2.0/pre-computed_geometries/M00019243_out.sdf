@@ -177,7 +177,7 @@ GYJALHULDUUFHY-RYHPAOICNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -198,12 +198,10 @@ GYJALHULDUUFHY-RYHPAOICNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          560486,
+          560487
+        ]
       ],
       "mol": {
         "atoms": [
@@ -218,7 +216,7 @@ GYJALHULDUUFHY-RYHPAOICNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -474,12 +472,10 @@ GYJALHULDUUFHY-RYHPAOICNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          560491,
+          560492
+        ]
       ],
       "mol": {
         "atoms": [
@@ -674,12 +670,10 @@ GYJALHULDUUFHY-RYHPAOICNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          560496,
+          560497
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1640,18 +1634,14 @@ GYJALHULDUUFHY-RYHPAOICNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        23415,
-        24186
-      ]
-    },
-    {
-      "symIds": [
-        463821,
-        463838
-      ]
-    }
+    [
+      23415,
+      24186
+    ],
+    [
+      463821,
+      463838
+    ]
   ]
 }
 

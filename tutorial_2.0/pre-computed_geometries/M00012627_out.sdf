@@ -182,7 +182,7 @@ OPTHNSVFTXKXPX-HADVFKDFNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -203,12 +203,10 @@ OPTHNSVFTXKXPX-HADVFKDFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          367791,
+          367792
+        ]
       ],
       "mol": {
         "atoms": [
@@ -223,7 +221,7 @@ OPTHNSVFTXKXPX-HADVFKDFNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -448,12 +446,10 @@ OPTHNSVFTXKXPX-HADVFKDFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          367799,
+          367800
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1676,12 +1672,10 @@ OPTHNSVFTXKXPX-HADVFKDFNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        279012,
-        282098
-      ]
-    }
+    [
+      279012,
+      282098
+    ]
   ]
 }
 

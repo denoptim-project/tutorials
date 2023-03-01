@@ -152,7 +152,7 @@ FAJFPOATZILTNF-VOZHYTOBNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -173,12 +173,10 @@ FAJFPOATZILTNF-VOZHYTOBNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          154799,
+          154800
+        ]
       ],
       "mol": {
         "atoms": [
@@ -193,7 +191,7 @@ FAJFPOATZILTNF-VOZHYTOBNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -464,18 +462,14 @@ FAJFPOATZILTNF-VOZHYTOBNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          154804,
+          154807
+        ],
+        [
+          154805,
+          154806
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1370,18 +1364,14 @@ FAJFPOATZILTNF-VOZHYTOBNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        117868,
-        118023
-      ]
-    },
-    {
-      "symIds": [
-        117881,
-        118024
-      ]
-    }
+    [
+      117868,
+      118023
+    ],
+    [
+      117881,
+      118024
+    ]
   ]
 }
 

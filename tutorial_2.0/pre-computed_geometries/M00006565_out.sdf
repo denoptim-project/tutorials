@@ -156,7 +156,7 @@ WILCSCOWUKSRNY-YKVFWHKCNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -177,12 +177,10 @@ WILCSCOWUKSRNY-YKVFWHKCNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          195582,
+          195583
+        ]
       ],
       "mol": {
         "atoms": [
@@ -197,7 +195,7 @@ WILCSCOWUKSRNY-YKVFWHKCNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -438,18 +436,14 @@ WILCSCOWUKSRNY-YKVFWHKCNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          195587,
+          195590
+        ],
+        [
+          195588,
+          195589
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1417,18 +1411,14 @@ WILCSCOWUKSRNY-YKVFWHKCNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        149551,
-        148896
-      ]
-    },
-    {
-      "symIds": [
-        149552,
-        148902
-      ]
-    }
+    [
+      149551,
+      148896
+    ],
+    [
+      149552,
+      148902
+    ]
   ]
 }
 

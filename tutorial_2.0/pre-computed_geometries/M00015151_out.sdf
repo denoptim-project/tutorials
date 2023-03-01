@@ -190,7 +190,7 @@ LQXPCIGBYNTOID-XTCVIBKYNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -211,12 +211,10 @@ LQXPCIGBYNTOID-XTCVIBKYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          439272,
+          439273
+        ]
       ],
       "mol": {
         "atoms": [
@@ -231,7 +229,7 @@ LQXPCIGBYNTOID-XTCVIBKYNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -441,18 +439,14 @@ LQXPCIGBYNTOID-XTCVIBKYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          439276,
+          439278
+        ],
+        [
+          439279,
+          439280
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1691,18 +1685,14 @@ LQXPCIGBYNTOID-XTCVIBKYNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        337129,
-        336544
-      ]
-    },
-    {
-      "symIds": [
-        337128,
-        336558
-      ]
-    }
+    [
+      337129,
+      336544
+    ],
+    [
+      337128,
+      336558
+    ]
   ]
 }
 

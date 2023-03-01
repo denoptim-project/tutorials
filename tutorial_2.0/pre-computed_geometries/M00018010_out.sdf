@@ -95,7 +95,7 @@ VTXFVXAXHKZFPD-MFDHWSOBNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -116,12 +116,10 @@ VTXFVXAXHKZFPD-MFDHWSOBNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          520529,
+          520530
+        ]
       ],
       "mol": {
         "atoms": [
@@ -136,7 +134,7 @@ VTXFVXAXHKZFPD-MFDHWSOBNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -362,13 +360,11 @@ VTXFVXAXHKZFPD-MFDHWSOBNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          520533,
+          520534,
+          520535
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1023,20 +1019,16 @@ VTXFVXAXHKZFPD-MFDHWSOBNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        210487,
-        210486,
-        210485
-      ]
-    },
-    {
-      "symIds": [
-        402000,
-        402011,
-        402010
-      ]
-    }
+    [
+      210487,
+      210486,
+      210485
+    ],
+    [
+      402000,
+      402011,
+      402010
+    ]
   ]
 }
 

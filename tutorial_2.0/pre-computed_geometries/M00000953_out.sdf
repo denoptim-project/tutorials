@@ -130,7 +130,7 @@ LATQFKDRQMRGMO-FWCGWOFDNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -151,12 +151,10 @@ LATQFKDRQMRGMO-FWCGWOFDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          35921,
+          35922
+        ]
       ],
       "mol": {
         "atoms": [
@@ -171,7 +169,7 @@ LATQFKDRQMRGMO-FWCGWOFDNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -427,12 +425,10 @@ LATQFKDRQMRGMO-FWCGWOFDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          35927,
+          35928
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1121,12 +1117,10 @@ LATQFKDRQMRGMO-FWCGWOFDNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        26255,
-        26015
-      ]
-    }
+    [
+      26255,
+      26015
+    ]
   ]
 }
 

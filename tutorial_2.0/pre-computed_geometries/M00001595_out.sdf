@@ -158,7 +158,7 @@ UGHRYMGIERMSRM-MDIGMXSINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -179,12 +179,10 @@ UGHRYMGIERMSRM-MDIGMXSINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          54823,
+          54824
+        ]
       ],
       "mol": {
         "atoms": [
@@ -199,7 +197,7 @@ UGHRYMGIERMSRM-MDIGMXSINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -500,20 +498,16 @@ UGHRYMGIERMSRM-MDIGMXSINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          54827,
+          54828
+        ],
+        [
+          54830,
+          54831,
+          54832,
+          54833
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1539,20 +1533,16 @@ UGHRYMGIERMSRM-MDIGMXSINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        40711,
-        40884
-      ]
-    },
-    {
-      "symIds": [
-        40885,
-        40886,
-        40887,
-        40721
-      ]
-    }
+    [
+      40711,
+      40884
+    ],
+    [
+      40885,
+      40886,
+      40887,
+      40721
+    ]
   ]
 }
 

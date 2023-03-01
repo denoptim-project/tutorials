@@ -112,7 +112,7 @@ FTTNOKAYLCROON-FEKPELJXNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -133,12 +133,10 @@ FTTNOKAYLCROON-FEKPELJXNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          22551,
+          22552
+        ]
       ],
       "mol": {
         "atoms": [
@@ -153,7 +151,7 @@ FTTNOKAYLCROON-FEKPELJXNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -409,12 +407,10 @@ FTTNOKAYLCROON-FEKPELJXNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          22557,
+          22558
+        ]
       ],
       "mol": {
         "atoms": [
@@ -968,12 +964,10 @@ FTTNOKAYLCROON-FEKPELJXNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        16094,
-        16220
-      ]
-    }
+    [
+      16094,
+      16220
+    ]
   ]
 }
 

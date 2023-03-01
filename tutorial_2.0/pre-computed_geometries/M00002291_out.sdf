@@ -219,7 +219,7 @@ GZYMTFCKYIZMKJ-UCYBNALJNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -240,12 +240,10 @@ GZYMTFCKYIZMKJ-UCYBNALJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          73842,
+          73843
+        ]
       ],
       "mol": {
         "atoms": [
@@ -260,7 +258,7 @@ GZYMTFCKYIZMKJ-UCYBNALJNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -546,18 +544,14 @@ GZYMTFCKYIZMKJ-UCYBNALJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          73848,
+          73851
+        ],
+        [
+          73849,
+          73850
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1997,18 +1991,14 @@ GZYMTFCKYIZMKJ-UCYBNALJNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        51459,
-        55550
-      ]
-    },
-    {
-      "symIds": [
-        51466,
-        55551
-      ]
-    }
+    [
+      51459,
+      55550
+    ],
+    [
+      51466,
+      55551
+    ]
   ]
 }
 

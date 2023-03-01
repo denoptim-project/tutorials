@@ -135,7 +135,7 @@ NRVAOOVWFVYZLU-FMNVZXPRNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -156,12 +156,10 @@ NRVAOOVWFVYZLU-FMNVZXPRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          580090,
+          580091
+        ]
       ],
       "mol": {
         "atoms": [
@@ -176,7 +174,7 @@ NRVAOOVWFVYZLU-FMNVZXPRNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -371,12 +369,10 @@ NRVAOOVWFVYZLU-FMNVZXPRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          580094,
+          580095
+        ]
       ],
       "mol": {
         "atoms": [
@@ -652,12 +648,10 @@ NRVAOOVWFVYZLU-FMNVZXPRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          580101,
+          580102
+        ]
       ],
       "mol": {
         "atoms": [
@@ -740,12 +734,10 @@ NRVAOOVWFVYZLU-FMNVZXPRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          580105,
+          580106
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1402,20 +1394,16 @@ NRVAOOVWFVYZLU-FMNVZXPRNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        342639,
-        343291
-      ]
-    },
-    {
-      "symIds": [
-        496321,
-        496293,
-        496322,
-        496320
-      ]
-    }
+    [
+      342639,
+      343291
+    ],
+    [
+      496321,
+      496293,
+      496322,
+      496320
+    ]
   ]
 }
 

@@ -177,7 +177,7 @@ JTOGDFQBOXCROM-JAPYQUOGNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -198,12 +198,10 @@ JTOGDFQBOXCROM-JAPYQUOGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          212521,
+          212522
+        ]
       ],
       "mol": {
         "atoms": [
@@ -218,7 +216,7 @@ JTOGDFQBOXCROM-JAPYQUOGNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -474,18 +472,14 @@ JTOGDFQBOXCROM-JAPYQUOGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          212527,
+          212530
+        ],
+        [
+          212528,
+          212529
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1655,18 +1649,14 @@ JTOGDFQBOXCROM-JAPYQUOGNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        158682,
-        162532
-      ]
-    },
-    {
-      "symIds": [
-        158693,
-        162531
-      ]
-    }
+    [
+      158682,
+      162532
+    ],
+    [
+      158693,
+      162531
+    ]
   ]
 }
 

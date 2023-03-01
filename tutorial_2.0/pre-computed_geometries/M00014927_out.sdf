@@ -147,7 +147,7 @@ NCQRUPLKRRFYCF-HBYUZDFRNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -168,12 +168,10 @@ NCQRUPLKRRFYCF-HBYUZDFRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          432489,
+          432490
+        ]
       ],
       "mol": {
         "atoms": [
@@ -188,7 +186,7 @@ NCQRUPLKRRFYCF-HBYUZDFRNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -413,12 +411,10 @@ NCQRUPLKRRFYCF-HBYUZDFRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          432497,
+          432498
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1378,12 +1374,10 @@ NCQRUPLKRRFYCF-HBYUZDFRNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        331980,
-        331654
-      ]
-    }
+    [
+      331980,
+      331654
+    ]
   ]
 }
 

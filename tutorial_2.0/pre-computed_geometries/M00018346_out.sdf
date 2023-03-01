@@ -113,7 +113,7 @@ RIBYVBJCZFIAKJ-YMPUUDSDNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -134,12 +134,10 @@ RIBYVBJCZFIAKJ-YMPUUDSDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          532249,
+          532250
+        ]
       ],
       "mol": {
         "atoms": [
@@ -154,7 +152,7 @@ RIBYVBJCZFIAKJ-YMPUUDSDNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -410,12 +408,10 @@ RIBYVBJCZFIAKJ-YMPUUDSDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          532253,
+          532254
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1090,18 +1086,14 @@ RIBYVBJCZFIAKJ-YMPUUDSDNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        18807,
-        19598
-      ]
-    },
-    {
-      "symIds": [
-        422307,
-        422252
-      ]
-    }
+    [
+      18807,
+      19598
+    ],
+    [
+      422307,
+      422252
+    ]
   ]
 }
 

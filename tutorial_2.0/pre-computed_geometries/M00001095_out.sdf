@@ -187,7 +187,7 @@ KFGNORXFBLOVEF-LOBJHYBKNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -208,12 +208,10 @@ KFGNORXFBLOVEF-LOBJHYBKNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          40257,
+          40258
+        ]
       ],
       "mol": {
         "atoms": [
@@ -228,7 +226,7 @@ KFGNORXFBLOVEF-LOBJHYBKNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -514,18 +512,14 @@ KFGNORXFBLOVEF-LOBJHYBKNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          40263,
+          40266
+        ],
+        [
+          40264,
+          40265
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1724,18 +1718,14 @@ KFGNORXFBLOVEF-LOBJHYBKNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        29641,
-        26691
-      ]
-    },
-    {
-      "symIds": [
-        29640,
-        26702
-      ]
-    }
+    [
+      29641,
+      26691
+    ],
+    [
+      29640,
+      26702
+    ]
   ]
 }
 

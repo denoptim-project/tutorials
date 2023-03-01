@@ -148,7 +148,7 @@ OATFHPPUUZOHPF-MSTWTHDPNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -169,12 +169,10 @@ OATFHPPUUZOHPF-MSTWTHDPNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          602082,
+          602083
+        ]
       ],
       "mol": {
         "atoms": [
@@ -189,7 +187,7 @@ OATFHPPUUZOHPF-MSTWTHDPNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -445,12 +443,10 @@ OATFHPPUUZOHPF-MSTWTHDPNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          602087,
+          602088
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1345,12 +1341,10 @@ OATFHPPUUZOHPF-MSTWTHDPNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        384522,
-        384599
-      ]
-    }
+    [
+      384522,
+      384599
+    ]
   ]
 }
 

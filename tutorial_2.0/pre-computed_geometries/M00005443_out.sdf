@@ -138,7 +138,7 @@ PYHLYMIENVYCDE-UGYDPFGZNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -159,12 +159,10 @@ PYHLYMIENVYCDE-UGYDPFGZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          162598,
+          162599
+        ]
       ],
       "mol": {
         "atoms": [
@@ -179,7 +177,7 @@ PYHLYMIENVYCDE-UGYDPFGZNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -435,13 +433,11 @@ PYHLYMIENVYCDE-UGYDPFGZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          162602,
+          162603,
+          162604
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1188,13 +1184,11 @@ PYHLYMIENVYCDE-UGYDPFGZNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        123930,
-        123929,
-        123838
-      ]
-    }
+    [
+      123930,
+      123929,
+      123838
+    ]
   ]
 }
 

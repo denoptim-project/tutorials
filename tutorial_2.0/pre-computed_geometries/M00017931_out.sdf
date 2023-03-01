@@ -136,7 +136,7 @@ SVZNIAZVSZAJFS-RPPSQXSMNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -157,12 +157,10 @@ SVZNIAZVSZAJFS-RPPSQXSMNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          518479,
+          518480
+        ]
       ],
       "mol": {
         "atoms": [
@@ -177,7 +175,7 @@ SVZNIAZVSZAJFS-RPPSQXSMNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -403,12 +401,10 @@ SVZNIAZVSZAJFS-RPPSQXSMNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          518484,
+          518485
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1258,12 +1254,10 @@ SVZNIAZVSZAJFS-RPPSQXSMNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        210309,
-        210266
-      ]
-    }
+    [
+      210309,
+      210266
+    ]
   ]
 }
 

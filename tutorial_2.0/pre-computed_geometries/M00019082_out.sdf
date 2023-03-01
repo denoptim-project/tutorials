@@ -169,7 +169,7 @@ GMEKISJGMSHGTL-BAGLYYSENA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -190,12 +190,10 @@ GMEKISJGMSHGTL-BAGLYYSENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          555558,
+          555559
+        ]
       ],
       "mol": {
         "atoms": [
@@ -210,7 +208,7 @@ GMEKISJGMSHGTL-BAGLYYSENA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -405,12 +403,10 @@ GMEKISJGMSHGTL-BAGLYYSENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          555563,
+          555564
+        ]
       ],
       "mol": {
         "atoms": [
@@ -605,12 +601,10 @@ GMEKISJGMSHGTL-BAGLYYSENA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          555568,
+          555569
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1571,18 +1565,14 @@ GMEKISJGMSHGTL-BAGLYYSENA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        292378,
-        291599
-      ]
-    },
-    {
-      "symIds": [
-        459085,
-        459120
-      ]
-    }
+    [
+      292378,
+      291599
+    ],
+    [
+      459085,
+      459120
+    ]
   ]
 }
 

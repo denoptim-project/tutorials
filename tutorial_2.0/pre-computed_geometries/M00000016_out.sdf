@@ -145,7 +145,7 @@ XLRNHDGCNRTXKY-YSLSRLSRNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -166,12 +166,10 @@ XLRNHDGCNRTXKY-YSLSRLSRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          9469,
+          9470
+        ]
       ],
       "mol": {
         "atoms": [
@@ -186,7 +184,7 @@ XLRNHDGCNRTXKY-YSLSRLSRNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -442,12 +440,10 @@ XLRNHDGCNRTXKY-YSLSRLSRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          9474,
+          9475
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1249,12 +1245,10 @@ XLRNHDGCNRTXKY-YSLSRLSRNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        6068,
-        5944
-      ]
-    }
+    [
+      6068,
+      5944
+    ]
   ]
 }
 

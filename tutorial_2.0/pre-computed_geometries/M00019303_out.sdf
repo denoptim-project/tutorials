@@ -159,7 +159,7 @@ IJUAQUVKTKJTCR-JEDKTQMDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -180,12 +180,10 @@ IJUAQUVKTKJTCR-JEDKTQMDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          562227,
+          562228
+        ]
       ],
       "mol": {
         "atoms": [
@@ -200,7 +198,7 @@ IJUAQUVKTKJTCR-JEDKTQMDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -395,12 +393,10 @@ IJUAQUVKTKJTCR-JEDKTQMDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          562232,
+          562233
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1422,12 +1418,10 @@ IJUAQUVKTKJTCR-JEDKTQMDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        296399,
-        296322
-      ]
-    }
+    [
+      296399,
+      296322
+    ]
   ]
 }
 

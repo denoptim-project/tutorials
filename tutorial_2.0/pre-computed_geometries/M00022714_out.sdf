@@ -156,7 +156,7 @@ GPCAIJODNFZIOY-CAUMIXSYNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -177,12 +177,10 @@ GPCAIJODNFZIOY-CAUMIXSYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          666619,
+          666620
+        ]
       ],
       "mol": {
         "atoms": [
@@ -197,7 +195,7 @@ GPCAIJODNFZIOY-CAUMIXSYNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -453,12 +451,10 @@ GPCAIJODNFZIOY-CAUMIXSYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          666623,
+          666624
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1453,18 +1449,14 @@ GPCAIJODNFZIOY-CAUMIXSYNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        193537,
-        193428
-      ]
-    },
-    {
-      "symIds": [
-        638150,
-        638186
-      ]
-    }
+    [
+      193537,
+      193428
+    ],
+    [
+      638150,
+      638186
+    ]
   ]
 }
 

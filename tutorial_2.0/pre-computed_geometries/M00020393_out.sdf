@@ -202,7 +202,7 @@ DRARXSKZRRYOQN-ZOAGMJBNNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -223,12 +223,10 @@ DRARXSKZRRYOQN-ZOAGMJBNNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          595126,
+          595127
+        ]
       ],
       "mol": {
         "atoms": [
@@ -243,7 +241,7 @@ DRARXSKZRRYOQN-ZOAGMJBNNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -499,12 +497,10 @@ DRARXSKZRRYOQN-ZOAGMJBNNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          595130,
+          595131
+        ]
       ],
       "mol": {
         "atoms": [
@@ -669,12 +665,10 @@ DRARXSKZRRYOQN-ZOAGMJBNNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          595136,
+          595137
+        ]
       ],
       "mol": {
         "atoms": [
@@ -757,12 +751,10 @@ DRARXSKZRRYOQN-ZOAGMJBNNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          595139,
+          595140
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1986,20 +1978,16 @@ DRARXSKZRRYOQN-ZOAGMJBNNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        379711,
-        379016
-      ]
-    },
-    {
-      "symIds": [
-        521314,
-        521315,
-        521196,
-        521316
-      ]
-    }
+    [
+      379711,
+      379016
+    ],
+    [
+      521314,
+      521315,
+      521196,
+      521316
+    ]
   ]
 }
 

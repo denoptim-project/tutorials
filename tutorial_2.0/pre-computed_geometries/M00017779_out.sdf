@@ -196,7 +196,7 @@ JVPDREDXYHRESO-BQTLWTBDNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -217,12 +217,10 @@ JVPDREDXYHRESO-BQTLWTBDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          513623,
+          513624
+        ]
       ],
       "mol": {
         "atoms": [
@@ -237,7 +235,7 @@ JVPDREDXYHRESO-BQTLWTBDNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -463,12 +461,10 @@ JVPDREDXYHRESO-BQTLWTBDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          513627,
+          513628
+        ]
       ],
       "mol": {
         "atoms": [
@@ -633,12 +629,10 @@ JVPDREDXYHRESO-BQTLWTBDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          513633,
+          513634
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1020,12 +1014,10 @@ JVPDREDXYHRESO-BQTLWTBDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          513637,
+          513638
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1950,20 +1942,16 @@ JVPDREDXYHRESO-BQTLWTBDNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        205498,
-        206193
-      ]
-    },
-    {
-      "symIds": [
-        395525,
-        395527,
-        395526,
-        395385
-      ]
-    }
+    [
+      205498,
+      206193
+    ],
+    [
+      395525,
+      395527,
+      395526,
+      395385
+    ]
   ]
 }
 

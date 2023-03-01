@@ -123,7 +123,7 @@ IZSCCZIEBJZUNK-OKGYCUSYNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -144,12 +144,10 @@ IZSCCZIEBJZUNK-OKGYCUSYNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          133091,
+          133092
+        ]
       ],
       "mol": {
         "atoms": [
@@ -164,7 +162,7 @@ IZSCCZIEBJZUNK-OKGYCUSYNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -420,12 +418,10 @@ IZSCCZIEBJZUNK-OKGYCUSYNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          133097,
+          133098
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1077,12 +1073,10 @@ IZSCCZIEBJZUNK-OKGYCUSYNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        101173,
-        101167
-      ]
-    }
+    [
+      101173,
+      101167
+    ]
   ]
 }
 

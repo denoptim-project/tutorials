@@ -127,7 +127,7 @@ GJISTEOFICSNIR-WADSMVHWNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -148,12 +148,10 @@ GJISTEOFICSNIR-WADSMVHWNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          557043,
+          557044
+        ]
       ],
       "mol": {
         "atoms": [
@@ -168,7 +166,7 @@ GJISTEOFICSNIR-WADSMVHWNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -363,12 +361,10 @@ GJISTEOFICSNIR-WADSMVHWNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          557048,
+          557049
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1151,12 +1147,10 @@ GJISTEOFICSNIR-WADSMVHWNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        291600,
-        292540
-      ]
-    }
+    [
+      291600,
+      292540
+    ]
   ]
 }
 

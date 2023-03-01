@@ -153,7 +153,7 @@ XLLIHPWLSGEBPT-HADUDNNFNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -174,12 +174,10 @@ XLLIHPWLSGEBPT-HADUDNNFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          66748,
+          66749
+        ]
       ],
       "mol": {
         "atoms": [
@@ -194,7 +192,7 @@ XLLIHPWLSGEBPT-HADUDNNFNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -450,12 +448,10 @@ XLLIHPWLSGEBPT-HADUDNNFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          66754,
+          66755
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1317,12 +1313,10 @@ XLLIHPWLSGEBPT-HADUDNNFNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        50029,
-        49982
-      ]
-    }
+    [
+      50029,
+      49982
+    ]
   ]
 }
 

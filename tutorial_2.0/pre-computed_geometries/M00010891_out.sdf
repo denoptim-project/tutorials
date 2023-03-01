@@ -151,7 +151,7 @@ ZRIUWGPPYZGCGK-IZHLEUACNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -172,12 +172,10 @@ ZRIUWGPPYZGCGK-IZHLEUACNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          318001,
+          318002
+        ]
       ],
       "mol": {
         "atoms": [
@@ -192,7 +190,7 @@ ZRIUWGPPYZGCGK-IZHLEUACNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -418,12 +416,10 @@ ZRIUWGPPYZGCGK-IZHLEUACNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          318007,
+          318008
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1314,12 +1310,10 @@ ZRIUWGPPYZGCGK-IZHLEUACNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        243627,
-        243263
-      ]
-    }
+    [
+      243627,
+      243263
+    ]
   ]
 }
 

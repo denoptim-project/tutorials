@@ -157,7 +157,7 @@ BHESLNPVDBKVEV-QIBBSKGHNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -178,12 +178,10 @@ BHESLNPVDBKVEV-QIBBSKGHNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          316113,
+          316114
+        ]
       ],
       "mol": {
         "atoms": [
@@ -198,7 +196,7 @@ BHESLNPVDBKVEV-QIBBSKGHNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -424,12 +422,10 @@ BHESLNPVDBKVEV-QIBBSKGHNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          316117,
+          316118
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1365,12 +1361,10 @@ BHESLNPVDBKVEV-QIBBSKGHNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        241914,
-        242183
-      ]
-    }
+    [
+      241914,
+      242183
+    ]
   ]
 }
 

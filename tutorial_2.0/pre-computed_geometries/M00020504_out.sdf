@@ -180,7 +180,7 @@ WVXVBLYEDHIHAY-WSDKXDMWNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -201,12 +201,10 @@ WVXVBLYEDHIHAY-WSDKXDMWNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          598820,
+          598821
+        ]
       ],
       "mol": {
         "atoms": [
@@ -221,7 +219,7 @@ WVXVBLYEDHIHAY-WSDKXDMWNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -477,12 +475,10 @@ WVXVBLYEDHIHAY-WSDKXDMWNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          598825,
+          598826
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1617,12 +1613,10 @@ WVXVBLYEDHIHAY-WSDKXDMWNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        380851,
-        379928
-      ]
-    }
+    [
+      380851,
+      379928
+    ]
   ]
 }
 

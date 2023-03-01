@@ -179,7 +179,7 @@ VPAMXSKEMHZUOP-HYTZSUNGNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -200,12 +200,10 @@ VPAMXSKEMHZUOP-HYTZSUNGNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          114683,
+          114684
+        ]
       ],
       "mol": {
         "atoms": [
@@ -220,7 +218,7 @@ VPAMXSKEMHZUOP-HYTZSUNGNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -506,12 +504,10 @@ VPAMXSKEMHZUOP-HYTZSUNGNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          114691,
+          114692
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1666,12 +1662,10 @@ VPAMXSKEMHZUOP-HYTZSUNGNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        86988,
-        84837
-      ]
-    }
+    [
+      86988,
+      84837
+    ]
   ]
 }
 

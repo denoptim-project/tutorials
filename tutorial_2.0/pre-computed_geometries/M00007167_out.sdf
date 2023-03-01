@@ -213,7 +213,7 @@ ZQXWUUWRJZRYJE-IIUWXAGZNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -234,12 +234,10 @@ ZQXWUUWRJZRYJE-IIUWXAGZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          211657,
+          211658
+        ]
       ],
       "mol": {
         "atoms": [
@@ -254,7 +252,7 @@ ZQXWUUWRJZRYJE-IIUWXAGZNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -510,18 +508,14 @@ ZQXWUUWRJZRYJE-IIUWXAGZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          211663,
+          211666
+        ],
+        [
+          211664,
+          211665
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1961,18 +1955,14 @@ ZQXWUUWRJZRYJE-IIUWXAGZNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        161857,
-        158684
-      ]
-    },
-    {
-      "symIds": [
-        158690,
-        161856
-      ]
-    }
+    [
+      161857,
+      158684
+    ],
+    [
+      158690,
+      161856
+    ]
   ]
 }
 

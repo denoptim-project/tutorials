@@ -170,7 +170,7 @@ DEGLHIGGFUUTKE-BZIJMAOWNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -191,12 +191,10 @@ DEGLHIGGFUUTKE-BZIJMAOWNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          193498,
+          193499
+        ]
       ],
       "mol": {
         "atoms": [
@@ -211,7 +209,7 @@ DEGLHIGGFUUTKE-BZIJMAOWNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -452,18 +450,14 @@ DEGLHIGGFUUTKE-BZIJMAOWNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          193502,
+          193503
+        ],
+        [
+          193505,
+          193506
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1539,18 +1533,14 @@ DEGLHIGGFUUTKE-BZIJMAOWNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        147839,
-        147303
-      ]
-    },
-    {
-      "symIds": [
-        147838,
-        147307
-      ]
-    }
+    [
+      147839,
+      147303
+    ],
+    [
+      147838,
+      147307
+    ]
   ]
 }
 

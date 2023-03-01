@@ -162,7 +162,7 @@ IOPARQDMDOIXEN-OREIHCPZNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -183,12 +183,10 @@ IOPARQDMDOIXEN-OREIHCPZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          593176,
+          593177
+        ]
       ],
       "mol": {
         "atoms": [
@@ -203,7 +201,7 @@ IOPARQDMDOIXEN-OREIHCPZNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -459,12 +457,10 @@ IOPARQDMDOIXEN-OREIHCPZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          593180,
+          593181
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1504,18 +1500,14 @@ IOPARQDMDOIXEN-OREIHCPZNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        366889,
-        366820
-      ]
-    },
-    {
-      "symIds": [
-        514896,
-        514941
-      ]
-    }
+    [
+      366889,
+      366820
+    ],
+    [
+      514896,
+      514941
+    ]
   ]
 }
 

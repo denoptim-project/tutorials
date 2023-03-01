@@ -208,7 +208,7 @@ MDWHOTVDRXMFPK-NFMMYOFONA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -229,12 +229,10 @@ MDWHOTVDRXMFPK-NFMMYOFONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          616742,
+          616743
+        ]
       ],
       "mol": {
         "atoms": [
@@ -249,7 +247,7 @@ MDWHOTVDRXMFPK-NFMMYOFONA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -505,12 +503,10 @@ MDWHOTVDRXMFPK-NFMMYOFONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          616746,
+          616747
+        ]
       ],
       "mol": {
         "atoms": [
@@ -705,12 +701,10 @@ MDWHOTVDRXMFPK-NFMMYOFONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          616752,
+          616753
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1092,12 +1086,10 @@ MDWHOTVDRXMFPK-NFMMYOFONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          616756,
+          616757
+        ]
       ],
       "mol": {
         "atoms": [
@@ -2022,20 +2014,16 @@ MDWHOTVDRXMFPK-NFMMYOFONA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        69704,
-        68972
-      ]
-    },
-    {
-      "symIds": [
-        555073,
-        555074,
-        555075,
-        554955
-      ]
-    }
+    [
+      69704,
+      68972
+    ],
+    [
+      555073,
+      555074,
+      555075,
+      554955
+    ]
   ]
 }
 

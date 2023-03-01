@@ -148,7 +148,7 @@ CHCAIVDVRINZGP-KCVUSHNYNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -169,12 +169,10 @@ CHCAIVDVRINZGP-KCVUSHNYNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          169706,
+          169707
+        ]
       ],
       "mol": {
         "atoms": [
@@ -189,7 +187,7 @@ CHCAIVDVRINZGP-KCVUSHNYNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -475,18 +473,14 @@ CHCAIVDVRINZGP-KCVUSHNYNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          169712,
+          169715
+        ],
+        [
+          169713,
+          169714
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1393,18 +1387,14 @@ CHCAIVDVRINZGP-KCVUSHNYNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        129390,
-        128795
-      ]
-    },
-    {
-      "symIds": [
-        129391,
-        128799
-      ]
-    }
+    [
+      129390,
+      128795
+    ],
+    [
+      129391,
+      128799
+    ]
   ]
 }
 

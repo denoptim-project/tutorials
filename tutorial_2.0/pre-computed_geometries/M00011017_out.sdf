@@ -139,7 +139,7 @@ VVVJXKRUOSZDHL-ZTLARAPMNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -160,12 +160,10 @@ VVVJXKRUOSZDHL-ZTLARAPMNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          321849,
+          321850
+        ]
       ],
       "mol": {
         "atoms": [
@@ -180,7 +178,7 @@ VVVJXKRUOSZDHL-ZTLARAPMNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -436,18 +434,14 @@ VVVJXKRUOSZDHL-ZTLARAPMNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          321855,
+          321858
+        ],
+        [
+          321856,
+          321857
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1332,18 +1326,14 @@ VVVJXKRUOSZDHL-ZTLARAPMNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        243929,
-        246638
-      ]
-    },
-    {
-      "symIds": [
-        243937,
-        246637
-      ]
-    }
+    [
+      243929,
+      246638
+    ],
+    [
+      243937,
+      246637
+    ]
   ]
 }
 

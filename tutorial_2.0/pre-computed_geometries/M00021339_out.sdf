@@ -132,7 +132,7 @@ PAGLGVIXVROJSQ-DLLNELNGNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -153,12 +153,10 @@ PAGLGVIXVROJSQ-DLLNELNGNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          624353,
+          624354
+        ]
       ],
       "mol": {
         "atoms": [
@@ -173,7 +171,7 @@ PAGLGVIXVROJSQ-DLLNELNGNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -429,12 +427,10 @@ PAGLGVIXVROJSQ-DLLNELNGNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          624357,
+          624358
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1250,18 +1246,14 @@ PAGLGVIXVROJSQ-DLLNELNGNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        84099,
-        83988
-      ]
-    },
-    {
-      "symIds": [
-        565533,
-        565558
-      ]
-    }
+    [
+      84099,
+      83988
+    ],
+    [
+      565533,
+      565558
+    ]
   ]
 }
 

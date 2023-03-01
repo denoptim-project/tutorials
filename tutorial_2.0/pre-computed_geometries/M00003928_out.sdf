@@ -92,7 +92,7 @@ MUEBVOOEQJOLEK-JDRYODRTNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -113,12 +113,10 @@ MUEBVOOEQJOLEK-JDRYODRTNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          120238,
+          120239
+        ]
       ],
       "mol": {
         "atoms": [
@@ -133,7 +131,7 @@ MUEBVOOEQJOLEK-JDRYODRTNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -404,18 +402,14 @@ MUEBVOOEQJOLEK-JDRYODRTNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          120242,
+          120244
+        ],
+        [
+          120245,
+          120246
+        ]
       ],
       "mol": {
         "atoms": [
@@ -873,18 +867,14 @@ MUEBVOOEQJOLEK-JDRYODRTNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        91258,
-        89734
-      ]
-    },
-    {
-      "symIds": [
-        91259,
-        89743
-      ]
-    }
+    [
+      91258,
+      89734
+    ],
+    [
+      91259,
+      89743
+    ]
   ]
 }
 

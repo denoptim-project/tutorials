@@ -160,7 +160,7 @@ XEDSPYNPTVCRBS-KHARQKTHNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -181,12 +181,10 @@ XEDSPYNPTVCRBS-KHARQKTHNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          434793,
+          434794
+        ]
       ],
       "mol": {
         "atoms": [
@@ -201,7 +199,7 @@ XEDSPYNPTVCRBS-KHARQKTHNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -426,12 +424,10 @@ XEDSPYNPTVCRBS-KHARQKTHNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          434801,
+          434802
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1488,12 +1484,10 @@ XEDSPYNPTVCRBS-KHARQKTHNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        333709,
-        331654
-      ]
-    }
+    [
+      333709,
+      331654
+    ]
   ]
 }
 

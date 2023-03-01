@@ -177,7 +177,7 @@ MQCDENUELVLQCN-BCLAEVEUNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -198,12 +198,10 @@ MQCDENUELVLQCN-BCLAEVEUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          106409,
+          106410
+        ]
       ],
       "mol": {
         "atoms": [
@@ -218,7 +216,7 @@ MQCDENUELVLQCN-BCLAEVEUNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -504,18 +502,14 @@ MQCDENUELVLQCN-BCLAEVEUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          106415,
+          106418
+        ],
+        [
+          106416,
+          106417
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1641,18 +1635,14 @@ MQCDENUELVLQCN-BCLAEVEUNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        77859,
-        80626
-      ]
-    },
-    {
-      "symIds": [
-        77869,
-        80627
-      ]
-    }
+    [
+      77859,
+      80626
+    ],
+    [
+      77869,
+      80627
+    ]
   ]
 }
 

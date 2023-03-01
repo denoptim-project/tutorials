@@ -114,7 +114,7 @@ ZSLOMEYZTOGNDP-UXDKPIAWNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -135,12 +135,10 @@ ZSLOMEYZTOGNDP-UXDKPIAWNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          286644,
+          286645
+        ]
       ],
       "mol": {
         "atoms": [
@@ -155,7 +153,7 @@ ZSLOMEYZTOGNDP-UXDKPIAWNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -411,18 +409,14 @@ ZSLOMEYZTOGNDP-UXDKPIAWNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          286650,
+          286653
+        ],
+        [
+          286651,
+          286652
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1134,18 +1128,14 @@ ZSLOMEYZTOGNDP-UXDKPIAWNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        219424,
-        216863
-      ]
-    },
-    {
-      "symIds": [
-        216866,
-        219423
-      ]
-    }
+    [
+      219424,
+      216863
+    ],
+    [
+      216866,
+      219423
+    ]
   ]
 }
 

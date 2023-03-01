@@ -127,7 +127,7 @@ DCOFZRKRWPUATM-KRRCPPIJNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -148,12 +148,10 @@ DCOFZRKRWPUATM-KRRCPPIJNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          117653,
+          117654
+        ]
       ],
       "mol": {
         "atoms": [
@@ -168,7 +166,7 @@ DCOFZRKRWPUATM-KRRCPPIJNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -424,12 +422,10 @@ DCOFZRKRWPUATM-KRRCPPIJNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          117658,
+          117659
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1111,12 +1107,10 @@ DCOFZRKRWPUATM-KRRCPPIJNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        89232,
-        89167
-      ]
-    }
+    [
+      89232,
+      89167
+    ]
   ]
 }
 

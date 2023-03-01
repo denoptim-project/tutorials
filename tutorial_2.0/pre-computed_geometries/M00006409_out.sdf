@@ -152,7 +152,7 @@ WLYIDQKUPUKNAJ-OHTLVKQZNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -173,12 +173,10 @@ WLYIDQKUPUKNAJ-OHTLVKQZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          190968,
+          190969
+        ]
       ],
       "mol": {
         "atoms": [
@@ -193,7 +191,7 @@ WLYIDQKUPUKNAJ-OHTLVKQZNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -434,18 +432,14 @@ WLYIDQKUPUKNAJ-OHTLVKQZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          190972,
+          190974
+        ],
+        [
+          190975,
+          190976
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1387,18 +1381,14 @@ WLYIDQKUPUKNAJ-OHTLVKQZNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        145836,
-        145733
-      ]
-    },
-    {
-      "symIds": [
-        145837,
-        145749
-      ]
-    }
+    [
+      145836,
+      145733
+    ],
+    [
+      145837,
+      145749
+    ]
   ]
 }
 

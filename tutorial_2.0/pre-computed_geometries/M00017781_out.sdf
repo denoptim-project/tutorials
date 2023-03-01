@@ -124,7 +124,7 @@ UXKLNLXUGCFRKS-VORABDFUNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -145,12 +145,10 @@ UXKLNLXUGCFRKS-VORABDFUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          513706,
+          513707
+        ]
       ],
       "mol": {
         "atoms": [
@@ -165,7 +163,7 @@ UXKLNLXUGCFRKS-VORABDFUNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -391,12 +389,10 @@ UXKLNLXUGCFRKS-VORABDFUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          513710,
+          513711
+        ]
       ],
       "mol": {
         "atoms": [
@@ -561,12 +557,10 @@ UXKLNLXUGCFRKS-VORABDFUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          513716,
+          513717
+        ]
       ],
       "mol": {
         "atoms": [
@@ -858,12 +852,10 @@ UXKLNLXUGCFRKS-VORABDFUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          513720,
+          513721
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1340,20 +1332,16 @@ UXKLNLXUGCFRKS-VORABDFUNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        205498,
-        206211
-      ]
-    },
-    {
-      "symIds": [
-        395599,
-        395600,
-        395592,
-        395598
-      ]
-    }
+    [
+      205498,
+      206211
+    ],
+    [
+      395599,
+      395600,
+      395592,
+      395598
+    ]
   ]
 }
 

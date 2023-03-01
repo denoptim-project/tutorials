@@ -107,7 +107,7 @@ XQKCFGYOGQZQFE-BUOFYODLNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -128,12 +128,10 @@ XQKCFGYOGQZQFE-BUOFYODLNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          97870,
+          97871
+        ]
       ],
       "mol": {
         "atoms": [
@@ -148,7 +146,7 @@ XQKCFGYOGQZQFE-BUOFYODLNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -404,12 +402,10 @@ XQKCFGYOGQZQFE-BUOFYODLNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          97874,
+          97875
+        ]
       ],
       "mol": {
         "atoms": [
@@ -926,12 +922,10 @@ XQKCFGYOGQZQFE-BUOFYODLNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        74057,
-        74019
-      ]
-    }
+    [
+      74057,
+      74019
+    ]
   ]
 }
 

@@ -165,7 +165,7 @@ JSSCSUIECARIDL-MDVMMDHHNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -186,12 +186,10 @@ JSSCSUIECARIDL-MDVMMDHHNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          139559,
+          139560
+        ]
       ],
       "mol": {
         "atoms": [
@@ -206,7 +204,7 @@ JSSCSUIECARIDL-MDVMMDHHNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -492,18 +490,14 @@ JSSCSUIECARIDL-MDVMMDHHNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          139565,
+          139568
+        ],
+        [
+          139566,
+          139567
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1553,18 +1547,14 @@ JSSCSUIECARIDL-MDVMMDHHNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        106205,
-        102497
-      ]
-    },
-    {
-      "symIds": [
-        102509,
-        106206
-      ]
-    }
+    [
+      106205,
+      102497
+    ],
+    [
+      102509,
+      106206
+    ]
   ]
 }
 

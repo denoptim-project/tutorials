@@ -140,7 +140,7 @@ XAPXWPJBAYYODF-FIJLCXSDNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -161,12 +161,10 @@ XAPXWPJBAYYODF-FIJLCXSDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          431477,
+          431478
+        ]
       ],
       "mol": {
         "atoms": [
@@ -181,7 +179,7 @@ XAPXWPJBAYYODF-FIJLCXSDNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -452,18 +450,14 @@ XAPXWPJBAYYODF-FIJLCXSDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          431481,
+          431483
+        ],
+        [
+          431484,
+          431485
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1267,18 +1261,14 @@ XAPXWPJBAYYODF-FIJLCXSDNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        329669,
-        331179
-      ]
-    },
-    {
-      "symIds": [
-        329677,
-        331178
-      ]
-    }
+    [
+      329669,
+      331179
+    ],
+    [
+      329677,
+      331178
+    ]
   ]
 }
 

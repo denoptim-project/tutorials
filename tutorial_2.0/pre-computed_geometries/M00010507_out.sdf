@@ -142,7 +142,7 @@ SQRFAIRLXILICQ-GKDLDIDXNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -163,12 +163,10 @@ SQRFAIRLXILICQ-GKDLDIDXNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          308067,
+          308068
+        ]
       ],
       "mol": {
         "atoms": [
@@ -183,7 +181,7 @@ SQRFAIRLXILICQ-GKDLDIDXNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -409,12 +407,10 @@ SQRFAIRLXILICQ-GKDLDIDXNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          308072,
+          308073
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1236,12 +1232,10 @@ SQRFAIRLXILICQ-GKDLDIDXNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        235963,
-        235743
-      ]
-    }
+    [
+      235963,
+      235743
+    ]
   ]
 }
 

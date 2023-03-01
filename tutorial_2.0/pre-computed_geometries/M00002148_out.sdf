@@ -210,7 +210,7 @@ IOFHVBFMRSURGE-BGMBPAMXNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -231,12 +231,10 @@ IOFHVBFMRSURGE-BGMBPAMXNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          69298,
+          69299
+        ]
       ],
       "mol": {
         "atoms": [
@@ -251,7 +249,7 @@ IOFHVBFMRSURGE-BGMBPAMXNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -537,18 +535,14 @@ IOFHVBFMRSURGE-BGMBPAMXNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          69304,
+          69307
+        ],
+        [
+          69305,
+          69306
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1920,18 +1914,14 @@ IOFHVBFMRSURGE-BGMBPAMXNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        51459,
-        51999
-      ]
-    },
-    {
-      "symIds": [
-        52000,
-        51468
-      ]
-    }
+    [
+      51459,
+      51999
+    ],
+    [
+      52000,
+      51468
+    ]
   ]
 }
 

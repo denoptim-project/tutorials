@@ -118,7 +118,7 @@ HCZSOKKWMUPLGD-NNFNAUFONA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -139,12 +139,10 @@ HCZSOKKWMUPLGD-NNFNAUFONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          58024,
+          58025
+        ]
       ],
       "mol": {
         "atoms": [
@@ -159,7 +157,7 @@ HCZSOKKWMUPLGD-NNFNAUFONA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -415,12 +413,10 @@ HCZSOKKWMUPLGD-NNFNAUFONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          58028,
+          58029
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1020,12 +1016,10 @@ HCZSOKKWMUPLGD-NNFNAUFONA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        43429,
-        43445
-      ]
-    }
+    [
+      43429,
+      43445
+    ]
   ]
 }
 

@@ -172,7 +172,7 @@ WUPFWSWJFBBGJP-USAMHMFVNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -193,12 +193,10 @@ WUPFWSWJFBBGJP-USAMHMFVNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          27551,
+          27552
+        ]
       ],
       "mol": {
         "atoms": [
@@ -213,7 +211,7 @@ WUPFWSWJFBBGJP-USAMHMFVNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -469,12 +467,10 @@ WUPFWSWJFBBGJP-USAMHMFVNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          27556,
+          27557
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1476,12 +1472,10 @@ WUPFWSWJFBBGJP-USAMHMFVNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        19718,
-        19914
-      ]
-    }
+    [
+      19718,
+      19914
+    ]
   ]
 }
 

@@ -140,7 +140,7 @@ DYALEQMULCVCNL-IDFFOXAQNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -161,12 +161,10 @@ DYALEQMULCVCNL-IDFFOXAQNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          430721,
+          430722
+        ]
       ],
       "mol": {
         "atoms": [
@@ -181,7 +179,7 @@ DYALEQMULCVCNL-IDFFOXAQNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -452,18 +450,14 @@ DYALEQMULCVCNL-IDFFOXAQNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          430725,
+          430727
+        ],
+        [
+          430728,
+          430729
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1267,18 +1261,14 @@ DYALEQMULCVCNL-IDFFOXAQNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        329665,
-        330585
-      ]
-    },
-    {
-      "symIds": [
-        330584,
-        329678
-      ]
-    }
+    [
+      329665,
+      330585
+    ],
+    [
+      330584,
+      329678
+    ]
   ]
 }
 

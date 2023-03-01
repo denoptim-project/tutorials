@@ -178,7 +178,7 @@ KNLNWQMDAYBDGP-SCRIVSCTNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -199,12 +199,10 @@ KNLNWQMDAYBDGP-SCRIVSCTNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          190731,
+          190732
+        ]
       ],
       "mol": {
         "atoms": [
@@ -219,7 +217,7 @@ KNLNWQMDAYBDGP-SCRIVSCTNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -445,12 +443,10 @@ KNLNWQMDAYBDGP-SCRIVSCTNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          190736,
+          190737
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1543,12 +1539,10 @@ KNLNWQMDAYBDGP-SCRIVSCTNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        145186,
-        145637
-      ]
-    }
+    [
+      145186,
+      145637
+    ]
   ]
 }
 

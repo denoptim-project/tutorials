@@ -156,7 +156,7 @@ MIJUSBUIKDWPKF-JETSMXKGNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -177,12 +177,10 @@ MIJUSBUIKDWPKF-JETSMXKGNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          184577,
+          184578
+        ]
       ],
       "mol": {
         "atoms": [
@@ -197,7 +195,7 @@ MIJUSBUIKDWPKF-JETSMXKGNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -483,18 +481,14 @@ MIJUSBUIKDWPKF-JETSMXKGNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          184583,
+          184586
+        ],
+        [
+          184584,
+          184585
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1463,18 +1457,14 @@ MIJUSBUIKDWPKF-JETSMXKGNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        140831,
-        139742
-      ]
-    },
-    {
-      "symIds": [
-        139750,
-        140832
-      ]
-    }
+    [
+      140831,
+      139742
+    ],
+    [
+      139750,
+      140832
+    ]
   ]
 }
 

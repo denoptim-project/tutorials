@@ -190,7 +190,7 @@ HISFLKPOPBUDMJ-QUFIDRGLNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -211,12 +211,10 @@ HISFLKPOPBUDMJ-QUFIDRGLNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          628742,
+          628743
+        ]
       ],
       "mol": {
         "atoms": [
@@ -231,7 +229,7 @@ HISFLKPOPBUDMJ-QUFIDRGLNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -487,12 +485,10 @@ HISFLKPOPBUDMJ-QUFIDRGLNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          628746,
+          628747
+        ]
       ],
       "mol": {
         "atoms": [
@@ -866,12 +862,10 @@ HISFLKPOPBUDMJ-QUFIDRGLNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          628753,
+          628754
+        ]
       ],
       "mol": {
         "atoms": [
@@ -954,12 +948,10 @@ HISFLKPOPBUDMJ-QUFIDRGLNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          628756,
+          628757
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1884,20 +1876,16 @@ HISFLKPOPBUDMJ-QUFIDRGLNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        96341,
-        95627
-      ]
-    },
-    {
-      "symIds": [
-        573020,
-        573021,
-        573022,
-        572902
-      ]
-    }
+    [
+      96341,
+      95627
+    ],
+    [
+      573020,
+      573021,
+      573022,
+      572902
+    ]
   ]
 }
 

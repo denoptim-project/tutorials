@@ -152,7 +152,7 @@ MRWFUVLQZPAGLN-PYMRMOCDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -173,12 +173,10 @@ MRWFUVLQZPAGLN-PYMRMOCDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          553316,
+          553317
+        ]
       ],
       "mol": {
         "atoms": [
@@ -193,7 +191,7 @@ MRWFUVLQZPAGLN-PYMRMOCDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -388,12 +386,10 @@ MRWFUVLQZPAGLN-PYMRMOCDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          553320,
+          553321
+        ]
       ],
       "mol": {
         "atoms": [
@@ -588,12 +584,10 @@ MRWFUVLQZPAGLN-PYMRMOCDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          553326,
+          553327
+        ]
       ],
       "mol": {
         "atoms": [
@@ -676,12 +670,10 @@ MRWFUVLQZPAGLN-PYMRMOCDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          553329,
+          553330
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1547,20 +1539,16 @@ MRWFUVLQZPAGLN-PYMRMOCDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        290687,
-        291400
-      ]
-    },
-    {
-      "symIds": [
-        457119,
-        457120,
-        457085,
-        457121
-      ]
-    }
+    [
+      290687,
+      291400
+    ],
+    [
+      457119,
+      457120,
+      457085,
+      457121
+    ]
   ]
 }
 

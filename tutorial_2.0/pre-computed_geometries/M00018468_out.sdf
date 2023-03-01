@@ -129,7 +129,7 @@ NWBGNCCSBUUPMR-SWXXLXSONA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -150,12 +150,10 @@ NWBGNCCSBUUPMR-SWXXLXSONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          535560,
+          535561
+        ]
       ],
       "mol": {
         "atoms": [
@@ -170,7 +168,7 @@ NWBGNCCSBUUPMR-SWXXLXSONA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -396,13 +394,11 @@ NWBGNCCSBUUPMR-SWXXLXSONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          535564,
+          535565,
+          535566
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1296,20 +1292,16 @@ NWBGNCCSBUUPMR-SWXXLXSONA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        241222,
-        241223,
-        241224
-      ]
-    },
-    {
-      "symIds": [
-        424862,
-        424861,
-        424815
-      ]
-    }
+    [
+      241222,
+      241223,
+      241224
+    ],
+    [
+      424862,
+      424861,
+      424815
+    ]
   ]
 }
 

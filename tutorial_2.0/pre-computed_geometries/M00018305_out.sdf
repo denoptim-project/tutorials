@@ -125,7 +125,7 @@ GIYRATSDRYDFNC-GOMBLKJANA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -146,12 +146,10 @@ GIYRATSDRYDFNC-GOMBLKJANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          530689,
+          530690
+        ]
       ],
       "mol": {
         "atoms": [
@@ -166,7 +164,7 @@ GIYRATSDRYDFNC-GOMBLKJANA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -422,12 +420,10 @@ GIYRATSDRYDFNC-GOMBLKJANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          530693,
+          530694
+        ]
       ],
       "mol": {
         "atoms": [
@@ -561,12 +557,10 @@ GIYRATSDRYDFNC-GOMBLKJANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          530699,
+          530700
+        ]
       ],
       "mol": {
         "atoms": [
@@ -836,12 +830,10 @@ GIYRATSDRYDFNC-GOMBLKJANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          530703,
+          530704
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1318,20 +1310,16 @@ GIYRATSDRYDFNC-GOMBLKJANA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        18806,
-        19477
-      ]
-    },
-    {
-      "symIds": [
-        420628,
-        420621,
-        420627,
-        420629
-      ]
-    }
+    [
+      18806,
+      19477
+    ],
+    [
+      420628,
+      420621,
+      420627,
+      420629
+    ]
   ]
 }
 

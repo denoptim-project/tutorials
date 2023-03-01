@@ -151,7 +151,7 @@ DIFHZGHFJRLJIO-ACSQVHFRNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -172,12 +172,10 @@ DIFHZGHFJRLJIO-ACSQVHFRNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          255953,
+          255954
+        ]
       ],
       "mol": {
         "atoms": [
@@ -192,7 +190,7 @@ DIFHZGHFJRLJIO-ACSQVHFRNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -448,12 +446,10 @@ DIFHZGHFJRLJIO-ACSQVHFRNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          255961,
+          255962
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1444,12 +1440,10 @@ DIFHZGHFJRLJIO-ACSQVHFRNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        194620,
-        195859
-      ]
-    }
+    [
+      194620,
+      195859
+    ]
   ]
 }
 

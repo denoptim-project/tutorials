@@ -152,7 +152,7 @@ WEVFVENHRORNAS-JCDWOLAYNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -173,12 +173,10 @@ WEVFVENHRORNAS-JCDWOLAYNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          306631,
+          306632
+        ]
       ],
       "mol": {
         "atoms": [
@@ -193,7 +191,7 @@ WEVFVENHRORNAS-JCDWOLAYNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -419,12 +417,10 @@ WEVFVENHRORNAS-JCDWOLAYNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          306635,
+          306636
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1321,12 +1317,10 @@ WEVFVENHRORNAS-JCDWOLAYNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        234932,
-        234826
-      ]
-    }
+    [
+      234932,
+      234826
+    ]
   ]
 }
 

@@ -158,7 +158,7 @@ ZNSYTAJNALUZTG-GCGHEOHRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -179,12 +179,10 @@ ZNSYTAJNALUZTG-GCGHEOHRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          526355,
+          526356
+        ]
       ],
       "mol": {
         "atoms": [
@@ -199,7 +197,7 @@ ZNSYTAJNALUZTG-GCGHEOHRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -425,12 +423,10 @@ ZNSYTAJNALUZTG-GCGHEOHRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          526359,
+          526360
+        ]
       ],
       "mol": {
         "atoms": [
@@ -863,12 +859,10 @@ ZNSYTAJNALUZTG-GCGHEOHRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          526366,
+          526367
+        ]
       ],
       "mol": {
         "atoms": [
@@ -951,12 +945,10 @@ ZNSYTAJNALUZTG-GCGHEOHRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          526369,
+          526370
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1613,20 +1605,16 @@ ZNSYTAJNALUZTG-GCGHEOHRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        234831,
-        235562
-      ]
-    },
-    {
-      "symIds": [
-        416182,
-        416184,
-        416179,
-        416148
-      ]
-    }
+    [
+      234831,
+      235562
+    ],
+    [
+      416182,
+      416184,
+      416179,
+      416148
+    ]
   ]
 }
 

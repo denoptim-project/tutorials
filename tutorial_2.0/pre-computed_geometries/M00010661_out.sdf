@@ -141,7 +141,7 @@ PDUJJOOCGHILDK-NRVMMYTRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -162,12 +162,10 @@ PDUJJOOCGHILDK-NRVMMYTRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          312051,
+          312052
+        ]
       ],
       "mol": {
         "atoms": [
@@ -182,7 +180,7 @@ PDUJJOOCGHILDK-NRVMMYTRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -408,13 +406,11 @@ PDUJJOOCGHILDK-NRVMMYTRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          312055,
+          312056,
+          312057
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1230,13 +1226,11 @@ PDUJJOOCGHILDK-NRVMMYTRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        238970,
-        239045,
-        239044
-      ]
-    }
+    [
+      238970,
+      239045,
+      239044
+    ]
   ]
 }
 

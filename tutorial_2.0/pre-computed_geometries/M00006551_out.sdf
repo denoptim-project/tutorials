@@ -154,7 +154,7 @@ KJWABOXZAVCOJT-GDHDIROYNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -175,12 +175,10 @@ KJWABOXZAVCOJT-GDHDIROYNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          195190,
+          195191
+        ]
       ],
       "mol": {
         "atoms": [
@@ -195,7 +193,7 @@ KJWABOXZAVCOJT-GDHDIROYNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -436,18 +434,14 @@ KJWABOXZAVCOJT-GDHDIROYNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          195195,
+          195198
+        ],
+        [
+          195196,
+          195197
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1401,18 +1395,14 @@ KJWABOXZAVCOJT-GDHDIROYNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        149243,
-        148892
-      ]
-    },
-    {
-      "symIds": [
-        148904,
-        149244
-      ]
-    }
+    [
+      149243,
+      148892
+    ],
+    [
+      148904,
+      149244
+    ]
   ]
 }
 

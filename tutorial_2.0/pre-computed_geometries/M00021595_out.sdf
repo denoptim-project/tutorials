@@ -159,7 +159,7 @@ LADOCOINHOHTIQ-SXPQXMGTNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -180,12 +180,10 @@ LADOCOINHOHTIQ-SXPQXMGTNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          632365,
+          632366
+        ]
       ],
       "mol": {
         "atoms": [
@@ -200,7 +198,7 @@ LADOCOINHOHTIQ-SXPQXMGTNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -456,12 +454,10 @@ LADOCOINHOHTIQ-SXPQXMGTNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          632370,
+          632371
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1439,12 +1435,10 @@ LADOCOINHOHTIQ-SXPQXMGTNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        97498,
-        96548
-      ]
-    }
+    [
+      97498,
+      96548
+    ]
   ]
 }
 

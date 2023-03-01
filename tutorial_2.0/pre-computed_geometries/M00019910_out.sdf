@@ -177,7 +177,7 @@ MIEDDBWIMJINHJ-VXERALIHNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -198,12 +198,10 @@ MIEDDBWIMJINHJ-VXERALIHNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          580456,
+          580457
+        ]
       ],
       "mol": {
         "atoms": [
@@ -218,7 +216,7 @@ MIEDDBWIMJINHJ-VXERALIHNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -413,12 +411,10 @@ MIEDDBWIMJINHJ-VXERALIHNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          580460,
+          580461
+        ]
       ],
       "mol": {
         "atoms": [
@@ -552,12 +548,10 @@ MIEDDBWIMJINHJ-VXERALIHNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          580466,
+          580467
+        ]
       ],
       "mol": {
         "atoms": [
@@ -827,12 +821,10 @@ MIEDDBWIMJINHJ-VXERALIHNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          580470,
+          580471
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1757,20 +1749,16 @@ MIEDDBWIMJINHJ-VXERALIHNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        343316,
-        342639
-      ]
-    },
-    {
-      "symIds": [
-        496485,
-        496598,
-        496601,
-        496602
-      ]
-    }
+    [
+      343316,
+      342639
+    ],
+    [
+      496485,
+      496598,
+      496601,
+      496602
+    ]
   ]
 }
 

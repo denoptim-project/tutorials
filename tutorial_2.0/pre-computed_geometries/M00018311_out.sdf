@@ -140,7 +140,7 @@ GYBXDKGRRDDQDM-QDIOORHYNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -161,12 +161,10 @@ GYBXDKGRRDDQDM-QDIOORHYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          530932,
+          530933
+        ]
       ],
       "mol": {
         "atoms": [
@@ -181,7 +179,7 @@ GYBXDKGRRDDQDM-QDIOORHYNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -437,12 +435,10 @@ GYBXDKGRRDDQDM-QDIOORHYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          530936,
+          530937
+        ]
       ],
       "mol": {
         "atoms": [
@@ -576,12 +572,10 @@ GYBXDKGRRDDQDM-QDIOORHYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          530942,
+          530943
+        ]
       ],
       "mol": {
         "atoms": [
@@ -963,12 +957,10 @@ GYBXDKGRRDDQDM-QDIOORHYNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          530946,
+          530947
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1445,20 +1437,16 @@ GYBXDKGRRDDQDM-QDIOORHYNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        18806,
-        19491
-      ]
-    },
-    {
-      "symIds": [
-        420886,
-        420888,
-        420887,
-        420880
-      ]
-    }
+    [
+      18806,
+      19491
+    ],
+    [
+      420886,
+      420888,
+      420887,
+      420880
+    ]
   ]
 }
 

@@ -148,7 +148,7 @@ JCWBVZMFDANWAX-JYMDTRMBNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -169,12 +169,10 @@ JCWBVZMFDANWAX-JYMDTRMBNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          200235,
+          200236
+        ]
       ],
       "mol": {
         "atoms": [
@@ -189,7 +187,7 @@ JCWBVZMFDANWAX-JYMDTRMBNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -415,12 +413,10 @@ JCWBVZMFDANWAX-JYMDTRMBNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          200240,
+          200241
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1288,12 +1284,10 @@ JCWBVZMFDANWAX-JYMDTRMBNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        152531,
-        153056
-      ]
-    }
+    [
+      152531,
+      153056
+    ]
   ]
 }
 

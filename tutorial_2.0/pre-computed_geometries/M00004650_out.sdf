@@ -195,7 +195,7 @@ QPHDAIBWSXTCRD-SHCMIFFUNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -216,12 +216,10 @@ QPHDAIBWSXTCRD-SHCMIFFUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          140327,
+          140328
+        ]
       ],
       "mol": {
         "atoms": [
@@ -236,7 +234,7 @@ QPHDAIBWSXTCRD-SHCMIFFUNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -522,18 +520,14 @@ QPHDAIBWSXTCRD-SHCMIFFUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          140333,
+          140336
+        ],
+        [
+          140334,
+          140335
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1807,18 +1801,14 @@ QPHDAIBWSXTCRD-SHCMIFFUNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        106805,
-        102501
-      ]
-    },
-    {
-      "symIds": [
-        106806,
-        102509
-      ]
-    }
+    [
+      106805,
+      102501
+    ],
+    [
+      106806,
+      102509
+    ]
   ]
 }
 

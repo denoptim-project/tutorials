@@ -138,7 +138,7 @@ LQVOVIMNDGZMAL-KIPSBKKHNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -159,12 +159,10 @@ LQVOVIMNDGZMAL-KIPSBKKHNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          500852,
+          500853
+        ]
       ],
       "mol": {
         "atoms": [
@@ -179,7 +177,7 @@ LQVOVIMNDGZMAL-KIPSBKKHNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -435,12 +433,10 @@ LQVOVIMNDGZMAL-KIPSBKKHNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          500858,
+          500859
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1190,12 +1186,10 @@ LQVOVIMNDGZMAL-KIPSBKKHNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        384809,
-        384770
-      ]
-    }
+    [
+      384809,
+      384770
+    ]
   ]
 }
 

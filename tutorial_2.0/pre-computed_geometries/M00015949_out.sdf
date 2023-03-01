@@ -206,7 +206,7 @@ GWILPEBFOSHRCN-IXPXEUMCNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -227,12 +227,10 @@ GWILPEBFOSHRCN-IXPXEUMCNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          460681,
+          460682
+        ]
       ],
       "mol": {
         "atoms": [
@@ -247,7 +245,7 @@ GWILPEBFOSHRCN-IXPXEUMCNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -472,18 +470,14 @@ GWILPEBFOSHRCN-IXPXEUMCNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          460687,
+          460690
+        ],
+        [
+          460688,
+          460689
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1884,18 +1878,14 @@ GWILPEBFOSHRCN-IXPXEUMCNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        351316,
-        353670
-      ]
-    },
-    {
-      "symIds": [
-        353671,
-        351325
-      ]
-    }
+    [
+      351316,
+      353670
+    ],
+    [
+      353671,
+      351325
+    ]
   ]
 }
 

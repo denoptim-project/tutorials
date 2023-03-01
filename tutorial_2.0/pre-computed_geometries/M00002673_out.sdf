@@ -218,7 +218,7 @@ IXTYMYBYELJGAP-BIYLOTTANA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -239,12 +239,10 @@ IXTYMYBYELJGAP-BIYLOTTANA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          85004,
+          85005
+        ]
       ],
       "mol": {
         "atoms": [
@@ -259,7 +257,7 @@ IXTYMYBYELJGAP-BIYLOTTANA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -530,18 +528,14 @@ IXTYMYBYELJGAP-BIYLOTTANA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          85008,
+          85010
+        ],
+        [
+          85011,
+          85012
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1931,18 +1925,14 @@ IXTYMYBYELJGAP-BIYLOTTANA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        63094,
-        64093
-      ]
-    },
-    {
-      "symIds": [
-        63103,
-        64094
-      ]
-    }
+    [
+      63094,
+      64093
+    ],
+    [
+      63103,
+      64094
+    ]
   ]
 }
 

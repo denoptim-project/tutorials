@@ -122,7 +122,7 @@ ZUEKGUSBHNLOAF-ODCOAIGTNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -143,12 +143,10 @@ ZUEKGUSBHNLOAF-ODCOAIGTNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          51648,
+          51649
+        ]
       ],
       "mol": {
         "atoms": [
@@ -163,7 +161,7 @@ ZUEKGUSBHNLOAF-ODCOAIGTNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -434,18 +432,14 @@ ZUEKGUSBHNLOAF-ODCOAIGTNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          51652,
+          51654
+        ],
+        [
+          51655,
+          51656
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1117,18 +1111,14 @@ ZUEKGUSBHNLOAF-ODCOAIGTNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        38355,
-        38335
-      ]
-    },
-    {
-      "symIds": [
-        38347,
-        38354
-      ]
-    }
+    [
+      38355,
+      38335
+    ],
+    [
+      38347,
+      38354
+    ]
   ]
 }
 

@@ -121,7 +121,7 @@ YSTZKIHOEVJEPE-JXFDNZJZNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -142,12 +142,10 @@ YSTZKIHOEVJEPE-JXFDNZJZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          627853,
+          627854
+        ]
       ],
       "mol": {
         "atoms": [
@@ -162,7 +160,7 @@ YSTZKIHOEVJEPE-JXFDNZJZNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -418,12 +416,10 @@ YSTZKIHOEVJEPE-JXFDNZJZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          627857,
+          627858
+        ]
       ],
       "mol": {
         "atoms": [
@@ -730,12 +726,10 @@ YSTZKIHOEVJEPE-JXFDNZJZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          627864,
+          627865
+        ]
       ],
       "mol": {
         "atoms": [
@@ -818,12 +812,10 @@ YSTZKIHOEVJEPE-JXFDNZJZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          627867,
+          627868
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1300,20 +1292,16 @@ YSTZKIHOEVJEPE-JXFDNZJZNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        96287,
-        95627
-      ]
-    },
-    {
-      "symIds": [
-        572339,
-        572331,
-        572338,
-        572337
-      ]
-    }
+    [
+      96287,
+      95627
+    ],
+    [
+      572339,
+      572331,
+      572338,
+      572337
+    ]
   ]
 }
 

@@ -150,7 +150,7 @@ STWIRUDJIOBBOY-VEMWMBDFNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -171,12 +171,10 @@ STWIRUDJIOBBOY-VEMWMBDFNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          24155,
+          24156
+        ]
       ],
       "mol": {
         "atoms": [
@@ -191,7 +189,7 @@ STWIRUDJIOBBOY-VEMWMBDFNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -447,12 +445,10 @@ STWIRUDJIOBBOY-VEMWMBDFNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          24159,
+          24160
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1290,12 +1286,10 @@ STWIRUDJIOBBOY-VEMWMBDFNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        16995,
-        17441
-      ]
-    }
+    [
+      16995,
+      17441
+    ]
   ]
 }
 

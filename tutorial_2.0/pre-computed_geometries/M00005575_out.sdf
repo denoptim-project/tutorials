@@ -163,7 +163,7 @@ VJPRXFHOJDUSAK-HASPVNAHNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -184,12 +184,10 @@ VJPRXFHOJDUSAK-HASPVNAHNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          166050,
+          166051
+        ]
       ],
       "mol": {
         "atoms": [
@@ -204,7 +202,7 @@ VJPRXFHOJDUSAK-HASPVNAHNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -460,12 +458,10 @@ VJPRXFHOJDUSAK-HASPVNAHNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          166054,
+          166055
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1400,12 +1396,10 @@ VJPRXFHOJDUSAK-HASPVNAHNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        126108,
-        126567
-      ]
-    }
+    [
+      126108,
+      126567
+    ]
   ]
 }
 

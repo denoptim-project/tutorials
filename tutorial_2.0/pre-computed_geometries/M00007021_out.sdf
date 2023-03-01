@@ -147,7 +147,7 @@ WUUDYZNNTWTOMP-DXBILROZNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -168,12 +168,10 @@ WUUDYZNNTWTOMP-DXBILROZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          207189,
+          207190
+        ]
       ],
       "mol": {
         "atoms": [
@@ -188,7 +186,7 @@ WUUDYZNNTWTOMP-DXBILROZNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -414,12 +412,10 @@ WUUDYZNNTWTOMP-DXBILROZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          207195,
+          207196
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1281,12 +1277,10 @@ WUUDYZNNTWTOMP-DXBILROZNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        158006,
-        158360
-      ]
-    }
+    [
+      158006,
+      158360
+    ]
   ]
 }
 

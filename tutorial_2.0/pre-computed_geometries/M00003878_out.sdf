@@ -170,7 +170,7 @@ RYWXEHIYAZRMNT-ZLAFKBKZNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -191,12 +191,10 @@ RYWXEHIYAZRMNT-ZLAFKBKZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          118852,
+          118853
+        ]
       ],
       "mol": {
         "atoms": [
@@ -211,7 +209,7 @@ RYWXEHIYAZRMNT-ZLAFKBKZNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -482,18 +480,14 @@ RYWXEHIYAZRMNT-ZLAFKBKZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          118856,
+          118858
+        ],
+        [
+          118859,
+          118860
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1539,18 +1533,14 @@ RYWXEHIYAZRMNT-ZLAFKBKZNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        89727,
-        90166
-      ]
-    },
-    {
-      "symIds": [
-        90167,
-        89742
-      ]
-    }
+    [
+      89727,
+      90166
+    ],
+    [
+      90167,
+      89742
+    ]
   ]
 }
 

@@ -183,7 +183,7 @@ OZSPECVAPASUPB-KMMALVMNNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -204,12 +204,10 @@ OZSPECVAPASUPB-KMMALVMNNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          547967,
+          547968
+        ]
       ],
       "mol": {
         "atoms": [
@@ -224,7 +222,7 @@ OZSPECVAPASUPB-KMMALVMNNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -419,13 +417,11 @@ OZSPECVAPASUPB-KMMALVMNNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          547971,
+          547972,
+          547973
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1737,20 +1733,16 @@ OZSPECVAPASUPB-KMMALVMNNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        269444,
-        269443,
-        269445
-      ]
-    },
-    {
-      "symIds": [
-        444513,
-        444514,
-        444347
-      ]
-    }
+    [
+      269444,
+      269443,
+      269445
+    ],
+    [
+      444513,
+      444514,
+      444347
+    ]
   ]
 }
 

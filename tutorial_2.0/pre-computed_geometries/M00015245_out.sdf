@@ -184,7 +184,7 @@ KVBFCDWXGXRRED-CKTMILBJNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -205,12 +205,10 @@ KVBFCDWXGXRRED-CKTMILBJNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          442042,
+          442043
+        ]
       ],
       "mol": {
         "atoms": [
@@ -225,7 +223,7 @@ KVBFCDWXGXRRED-CKTMILBJNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -465,20 +463,16 @@ KVBFCDWXGXRRED-CKTMILBJNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          442046,
+          442047
+        ],
+        [
+          442049,
+          442050,
+          442051,
+          442052
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1757,20 +1751,16 @@ KVBFCDWXGXRRED-CKTMILBJNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        339361,
-        338790
-      ]
-    },
-    {
-      "symIds": [
-        339362,
-        339363,
-        339364,
-        338797
-      ]
-    }
+    [
+      339361,
+      338790
+    ],
+    [
+      339362,
+      339363,
+      339364,
+      338797
+    ]
   ]
 }
 

@@ -249,7 +249,7 @@ PMOPIUMMIIEREI-KNMSKSBCNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -270,12 +270,10 @@ PMOPIUMMIIEREI-KNMSKSBCNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          73874,
+          73875
+        ]
       ],
       "mol": {
         "atoms": [
@@ -290,7 +288,7 @@ PMOPIUMMIIEREI-KNMSKSBCNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -576,18 +574,14 @@ PMOPIUMMIIEREI-KNMSKSBCNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          73880,
+          73883
+        ],
+        [
+          73881,
+          73882
+        ]
       ],
       "mol": {
         "atoms": [
@@ -2251,18 +2245,14 @@ PMOPIUMMIIEREI-KNMSKSBCNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        55575,
-        51459
-      ]
-    },
-    {
-      "symIds": [
-        51467,
-        55576
-      ]
-    }
+    [
+      55575,
+      51459
+    ],
+    [
+      51467,
+      55576
+    ]
   ]
 }
 

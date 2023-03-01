@@ -146,7 +146,7 @@ XEEBIPMITSIKFF-GAIDKITMNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -167,12 +167,10 @@ XEEBIPMITSIKFF-GAIDKITMNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          263946,
+          263947
+        ]
       ],
       "mol": {
         "atoms": [
@@ -187,7 +185,7 @@ XEEBIPMITSIKFF-GAIDKITMNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -458,20 +456,16 @@ XEEBIPMITSIKFF-GAIDKITMNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          263950,
+          263951
+        ],
+        [
+          263953,
+          263954,
+          263955,
+          263956
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1467,20 +1461,16 @@ XEEBIPMITSIKFF-GAIDKITMNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        201862,
-        202046
-      ]
-    },
-    {
-      "symIds": [
-        202044,
-        201872,
-        202045,
-        202043
-      ]
-    }
+    [
+      201862,
+      202046
+    ],
+    [
+      202044,
+      201872,
+      202045,
+      202043
+    ]
   ]
 }
 

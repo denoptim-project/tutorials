@@ -111,7 +111,7 @@ QNHQUDFWSVSTOJ-QEELFAGXNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -132,12 +132,10 @@ QNHQUDFWSVSTOJ-QEELFAGXNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          312491,
+          312492
+        ]
       ],
       "mol": {
         "atoms": [
@@ -152,7 +150,7 @@ QNHQUDFWSVSTOJ-QEELFAGXNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -378,12 +376,10 @@ QNHQUDFWSVSTOJ-QEELFAGXNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          312495,
+          312496
+        ]
       ],
       "mol": {
         "atoms": [
@@ -974,12 +970,10 @@ QNHQUDFWSVSTOJ-QEELFAGXNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        239165,
-        239402
-      ]
-    }
+    [
+      239165,
+      239402
+    ]
   ]
 }
 

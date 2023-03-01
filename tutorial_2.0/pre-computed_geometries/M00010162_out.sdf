@@ -119,7 +119,7 @@ VXLYWNPAIAXWSF-DIMVVSFONA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -140,12 +140,10 @@ VXLYWNPAIAXWSF-DIMVVSFONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          298443,
+          298444
+        ]
       ],
       "mol": {
         "atoms": [
@@ -160,7 +158,7 @@ VXLYWNPAIAXWSF-DIMVVSFONA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -386,12 +384,10 @@ VXLYWNPAIAXWSF-DIMVVSFONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          298448,
+          298449
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1042,12 +1038,10 @@ VXLYWNPAIAXWSF-DIMVVSFONA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        228454,
-        228397
-      ]
-    }
+    [
+      228454,
+      228397
+    ]
   ]
 }
 

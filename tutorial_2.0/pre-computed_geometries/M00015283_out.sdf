@@ -174,7 +174,7 @@ AUMKJKJKZIKCCG-IORAKUMMNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -195,12 +195,10 @@ AUMKJKJKZIKCCG-IORAKUMMNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          443186,
+          443187
+        ]
       ],
       "mol": {
         "atoms": [
@@ -215,7 +213,7 @@ AUMKJKJKZIKCCG-IORAKUMMNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -425,18 +423,14 @@ AUMKJKJKZIKCCG-IORAKUMMNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          443191,
+          443194
+        ],
+        [
+          443192,
+          443193
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1555,18 +1549,14 @@ AUMKJKJKZIKCCG-IORAKUMMNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        339703,
-        340295
-      ]
-    },
-    {
-      "symIds": [
-        339711,
-        340294
-      ]
-    }
+    [
+      339703,
+      340295
+    ],
+    [
+      339711,
+      340294
+    ]
   ]
 }
 

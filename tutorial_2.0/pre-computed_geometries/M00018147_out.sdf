@@ -113,7 +113,7 @@ SWLSQCBZPOSVRK-IDSFLLQANA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -134,12 +134,10 @@ SWLSQCBZPOSVRK-IDSFLLQANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          525343,
+          525344
+        ]
       ],
       "mol": {
         "atoms": [
@@ -154,7 +152,7 @@ SWLSQCBZPOSVRK-IDSFLLQANA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -380,12 +378,10 @@ SWLSQCBZPOSVRK-IDSFLLQANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          525347,
+          525348
+        ]
       ],
       "mol": {
         "atoms": [
@@ -661,12 +657,10 @@ SWLSQCBZPOSVRK-IDSFLLQANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          525354,
+          525355
+        ]
       ],
       "mol": {
         "atoms": [
@@ -749,12 +743,10 @@ SWLSQCBZPOSVRK-IDSFLLQANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          525357,
+          525358
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1231,20 +1223,16 @@ SWLSQCBZPOSVRK-IDSFLLQANA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        235490,
-        234831
-      ]
-    },
-    {
-      "symIds": [
-        415397,
-        415396,
-        415390,
-        415398
-      ]
-    }
+    [
+      235490,
+      234831
+    ],
+    [
+      415397,
+      415396,
+      415390,
+      415398
+    ]
   ]
 }
 

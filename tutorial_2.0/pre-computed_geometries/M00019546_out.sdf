@@ -154,7 +154,7 @@ GUOUNYIVDSIGJT-UPUSFECHNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -175,12 +175,10 @@ GUOUNYIVDSIGJT-UPUSFECHNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          568994,
+          568995
+        ]
       ],
       "mol": {
         "atoms": [
@@ -195,7 +193,7 @@ GUOUNYIVDSIGJT-UPUSFECHNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -390,12 +388,10 @@ GUOUNYIVDSIGJT-UPUSFECHNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          568998,
+          568999
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1435,18 +1431,14 @@ GUOUNYIVDSIGJT-UPUSFECHNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        304825,
-        304900
-      ]
-    },
-    {
-      "symIds": [
-        473158,
-        473114
-      ]
-    }
+    [
+      304825,
+      304900
+    ],
+    [
+      473158,
+      473114
+    ]
   ]
 }
 

@@ -141,7 +141,7 @@ RROAYBGPEOWVOR-OSVSQOSPNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -162,12 +162,10 @@ RROAYBGPEOWVOR-OSVSQOSPNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          630653,
+          630654
+        ]
       ],
       "mol": {
         "atoms": [
@@ -182,7 +180,7 @@ RROAYBGPEOWVOR-OSVSQOSPNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -438,12 +436,10 @@ RROAYBGPEOWVOR-OSVSQOSPNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          630658,
+          630659
+        ]
       ],
       "mol": {
         "atoms": [
@@ -608,12 +604,10 @@ RROAYBGPEOWVOR-OSVSQOSPNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          630663,
+          630664
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1350,18 +1344,14 @@ RROAYBGPEOWVOR-OSVSQOSPNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        97300,
-        96545
-      ]
-    },
-    {
-      "symIds": [
-        574742,
-        574716
-      ]
-    }
+    [
+      97300,
+      96545
+    ],
+    [
+      574742,
+      574716
+    ]
   ]
 }
 

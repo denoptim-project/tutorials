@@ -164,7 +164,7 @@ XKEFDIHUDLIEBV-NLIYMBINNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -185,12 +185,10 @@ XKEFDIHUDLIEBV-NLIYMBINNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          87098,
+          87099
+        ]
       ],
       "mol": {
         "atoms": [
@@ -205,7 +203,7 @@ XKEFDIHUDLIEBV-NLIYMBINNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -506,20 +504,16 @@ XKEFDIHUDLIEBV-NLIYMBINNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          87102,
+          87103
+        ],
+        [
+          87105,
+          87106,
+          87107,
+          87108
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1589,20 +1583,16 @@ XKEFDIHUDLIEBV-NLIYMBINNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        65791,
-        65336
-      ]
-    },
-    {
-      "symIds": [
-        65343,
-        65789,
-        65790,
-        65788
-      ]
-    }
+    [
+      65791,
+      65336
+    ],
+    [
+      65343,
+      65789,
+      65790,
+      65788
+    ]
   ]
 }
 

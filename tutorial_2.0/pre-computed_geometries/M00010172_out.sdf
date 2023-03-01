@@ -161,7 +161,7 @@ NJYGLOFNHKEHQL-BXGAIUGRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -182,12 +182,10 @@ NJYGLOFNHKEHQL-BXGAIUGRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          298683,
+          298684
+        ]
       ],
       "mol": {
         "atoms": [
@@ -202,7 +200,7 @@ NJYGLOFNHKEHQL-BXGAIUGRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -428,12 +426,10 @@ NJYGLOFNHKEHQL-BXGAIUGRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          298688,
+          298689
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1398,12 +1394,10 @@ NJYGLOFNHKEHQL-BXGAIUGRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        228398,
-        228634
-      ]
-    }
+    [
+      228398,
+      228634
+    ]
   ]
 }
 

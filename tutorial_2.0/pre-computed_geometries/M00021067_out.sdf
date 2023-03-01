@@ -148,7 +148,7 @@ WKIMRXXYBSUNIC-OOXIQGPONA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -169,12 +169,10 @@ WKIMRXXYBSUNIC-OOXIQGPONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          616096,
+          616097
+        ]
       ],
       "mol": {
         "atoms": [
@@ -189,7 +187,7 @@ WKIMRXXYBSUNIC-OOXIQGPONA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -445,12 +443,10 @@ WKIMRXXYBSUNIC-OOXIQGPONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          616100,
+          616101
+        ]
       ],
       "mol": {
         "atoms": [
@@ -645,12 +641,10 @@ WKIMRXXYBSUNIC-OOXIQGPONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          616106,
+          616107
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1032,12 +1026,10 @@ WKIMRXXYBSUNIC-OOXIQGPONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          616110,
+          616111
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1514,20 +1506,16 @@ WKIMRXXYBSUNIC-OOXIQGPONA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        69668,
-        68972
-      ]
-    },
-    {
-      "symIds": [
-        554573,
-        554581,
-        554579,
-        554580
-      ]
-    }
+    [
+      69668,
+      68972
+    ],
+    [
+      554573,
+      554581,
+      554579,
+      554580
+    ]
   ]
 }
 

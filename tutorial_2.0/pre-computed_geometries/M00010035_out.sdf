@@ -156,7 +156,7 @@ ADUAINLUNWNVDT-RULNPRJINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -177,12 +177,10 @@ ADUAINLUNWNVDT-RULNPRJINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          294681,
+          294682
+        ]
       ],
       "mol": {
         "atoms": [
@@ -197,7 +195,7 @@ ADUAINLUNWNVDT-RULNPRJINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -453,12 +451,10 @@ ADUAINLUNWNVDT-RULNPRJINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          294689,
+          294690
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1470,12 +1466,10 @@ ADUAINLUNWNVDT-RULNPRJINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        223498,
-        225600
-      ]
-    }
+    [
+      223498,
+      225600
+    ]
   ]
 }
 

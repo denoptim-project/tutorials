@@ -111,7 +111,7 @@ KZQRUVIITZZKMA-RCODBIEZNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -132,12 +132,10 @@ KZQRUVIITZZKMA-RCODBIEZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          580053,
+          580054
+        ]
       ],
       "mol": {
         "atoms": [
@@ -152,7 +150,7 @@ KZQRUVIITZZKMA-RCODBIEZNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -347,12 +345,10 @@ KZQRUVIITZZKMA-RCODBIEZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          580057,
+          580058
+        ]
       ],
       "mol": {
         "atoms": [
@@ -628,12 +624,10 @@ KZQRUVIITZZKMA-RCODBIEZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          580064,
+          580065
+        ]
       ],
       "mol": {
         "atoms": [
@@ -716,12 +710,10 @@ KZQRUVIITZZKMA-RCODBIEZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          580067,
+          580068
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1198,20 +1190,16 @@ KZQRUVIITZZKMA-RCODBIEZNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        342639,
-        343291
-      ]
-    },
-    {
-      "symIds": [
-        496299,
-        496298,
-        496292,
-        496300
-      ]
-    }
+    [
+      342639,
+      343291
+    ],
+    [
+      496299,
+      496298,
+      496292,
+      496300
+    ]
   ]
 }
 

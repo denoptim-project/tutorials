@@ -118,7 +118,7 @@ ZOCDAFSNGNMIAG-OQAMRWAFNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -139,12 +139,10 @@ ZOCDAFSNGNMIAG-OQAMRWAFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          537346,
+          537347
+        ]
       ],
       "mol": {
         "atoms": [
@@ -159,7 +157,7 @@ ZOCDAFSNGNMIAG-OQAMRWAFNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -385,12 +383,10 @@ ZOCDAFSNGNMIAG-OQAMRWAFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          537350,
+          537351
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1145,18 +1141,14 @@ ZOCDAFSNGNMIAG-OQAMRWAFNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        250058,
-        250223
-      ]
-    },
-    {
-      "symIds": [
-        429662,
-        429657
-      ]
-    }
+    [
+      250058,
+      250223
+    ],
+    [
+      429662,
+      429657
+    ]
   ]
 }
 

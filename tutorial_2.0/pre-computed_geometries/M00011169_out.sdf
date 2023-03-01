@@ -125,7 +125,7 @@ SNZUFOVGQGRUIH-GVURHWBUNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -146,12 +146,10 @@ SNZUFOVGQGRUIH-GVURHWBUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          326143,
+          326144
+        ]
       ],
       "mol": {
         "atoms": [
@@ -166,7 +164,7 @@ SNZUFOVGQGRUIH-GVURHWBUNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -422,14 +420,12 @@ SNZUFOVGQGRUIH-GVURHWBUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3,
-            4,
-            5
-          ]
-        }
+        [
+          326149,
+          326150,
+          326151,
+          326152
+        ]
       ],
       "mol": {
         "atoms": [

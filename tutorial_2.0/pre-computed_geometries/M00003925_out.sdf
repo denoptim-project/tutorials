@@ -158,7 +158,7 @@ FUDDYHJDSKOFSP-CRSCIIGZNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -179,12 +179,10 @@ FUDDYHJDSKOFSP-CRSCIIGZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          120154,
+          120155
+        ]
       ],
       "mol": {
         "atoms": [
@@ -199,7 +197,7 @@ FUDDYHJDSKOFSP-CRSCIIGZNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -470,18 +468,14 @@ FUDDYHJDSKOFSP-CRSCIIGZNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          120158,
+          120160
+        ],
+        [
+          120161,
+          120162
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1435,18 +1429,14 @@ FUDDYHJDSKOFSP-CRSCIIGZNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        91192,
-        89734
-      ]
-    },
-    {
-      "symIds": [
-        91193,
-        89740
-      ]
-    }
+    [
+      91192,
+      89734
+    ],
+    [
+      91193,
+      89740
+    ]
   ]
 }
 

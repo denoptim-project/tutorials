@@ -148,7 +148,7 @@ BAEJFLSKCUEECA-KTZJVRRJNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -169,12 +169,10 @@ BAEJFLSKCUEECA-KTZJVRRJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          409405,
+          409406
+        ]
       ],
       "mol": {
         "atoms": [
@@ -189,7 +187,7 @@ BAEJFLSKCUEECA-KTZJVRRJNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -399,18 +397,14 @@ BAEJFLSKCUEECA-KTZJVRRJNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          409410,
+          409413
+        ],
+        [
+          409411,
+          409412
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1348,18 +1342,14 @@ BAEJFLSKCUEECA-KTZJVRRJNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        314205,
-        313505
-      ]
-    },
-    {
-      "symIds": [
-        314204,
-        313513
-      ]
-    }
+    [
+      314205,
+      313505
+    ],
+    [
+      314204,
+      313513
+    ]
   ]
 }
 

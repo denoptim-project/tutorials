@@ -142,7 +142,7 @@ KEZSXCZMLBNHLA-CODHKPAONA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -163,12 +163,10 @@ KEZSXCZMLBNHLA-CODHKPAONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          595452,
+          595453
+        ]
       ],
       "mol": {
         "atoms": [
@@ -183,7 +181,7 @@ KEZSXCZMLBNHLA-CODHKPAONA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -439,12 +437,10 @@ KEZSXCZMLBNHLA-CODHKPAONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          595456,
+          595457
+        ]
       ],
       "mol": {
         "atoms": [
@@ -609,12 +605,10 @@ KEZSXCZMLBNHLA-CODHKPAONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          595462,
+          595463
+        ]
       ],
       "mol": {
         "atoms": [
@@ -996,12 +990,10 @@ KEZSXCZMLBNHLA-CODHKPAONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          595466,
+          595467
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1478,20 +1470,16 @@ KEZSXCZMLBNHLA-CODHKPAONA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        379016,
-        379747
-      ]
-    },
-    {
-      "symIds": [
-        521577,
-        521578,
-        521576,
-        521570
-      ]
-    }
+    [
+      379016,
+      379747
+    ],
+    [
+      521577,
+      521578,
+      521576,
+      521570
+    ]
   ]
 }
 

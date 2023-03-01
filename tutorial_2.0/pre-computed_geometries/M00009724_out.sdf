@@ -228,7 +228,7 @@ GRNAVSYHOMXRBK-AOQIHSPSNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -249,12 +249,10 @@ GRNAVSYHOMXRBK-AOQIHSPSNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          285204,
+          285205
+        ]
       ],
       "mol": {
         "atoms": [
@@ -269,7 +267,7 @@ GRNAVSYHOMXRBK-AOQIHSPSNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -525,18 +523,14 @@ GRNAVSYHOMXRBK-AOQIHSPSNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          285210,
+          285213
+        ],
+        [
+          285211,
+          285212
+        ]
       ],
       "mol": {
         "atoms": [
@@ -2103,18 +2097,14 @@ GRNAVSYHOMXRBK-AOQIHSPSNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        218298,
-        216861
-      ]
-    },
-    {
-      "symIds": [
-        218297,
-        216869
-      ]
-    }
+    [
+      218298,
+      216861
+    ],
+    [
+      218297,
+      216869
+    ]
   ]
 }
 

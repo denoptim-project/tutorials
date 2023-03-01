@@ -112,7 +112,7 @@ WCSXAFMXRUTQOM-LAFJZULANA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -133,12 +133,10 @@ WCSXAFMXRUTQOM-LAFJZULANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          319385,
+          319386
+        ]
       ],
       "mol": {
         "atoms": [
@@ -153,7 +151,7 @@ WCSXAFMXRUTQOM-LAFJZULANA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -409,18 +407,14 @@ WCSXAFMXRUTQOM-LAFJZULANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          319391,
+          319394
+        ],
+        [
+          319392,
+          319393
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1101,18 +1095,14 @@ WCSXAFMXRUTQOM-LAFJZULANA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        243934,
-        244712
-      ]
-    },
-    {
-      "symIds": [
-        243938,
-        244711
-      ]
-    }
+    [
+      243934,
+      244712
+    ],
+    [
+      243938,
+      244711
+    ]
   ]
 }
 

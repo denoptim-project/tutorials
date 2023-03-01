@@ -164,7 +164,7 @@ STYOZNHLQVEELT-WCWKPLHUNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -185,12 +185,10 @@ STYOZNHLQVEELT-WCWKPLHUNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          431435,
+          431436
+        ]
       ],
       "mol": {
         "atoms": [
@@ -205,7 +203,7 @@ STYOZNHLQVEELT-WCWKPLHUNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -476,18 +474,14 @@ STYOZNHLQVEELT-WCWKPLHUNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          431439,
+          431441
+        ],
+        [
+          431442,
+          431443
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1471,18 +1465,14 @@ STYOZNHLQVEELT-WCWKPLHUNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        331143,
-        329669
-      ]
-    },
-    {
-      "symIds": [
-        331142,
-        329675
-      ]
-    }
+    [
+      331143,
+      329669
+    ],
+    [
+      331142,
+      329675
+    ]
   ]
 }
 

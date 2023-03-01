@@ -159,7 +159,7 @@ KALBZZRHBUYEBT-OTIXFYOQNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -180,12 +180,10 @@ KALBZZRHBUYEBT-OTIXFYOQNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          108569,
+          108570
+        ]
       ],
       "mol": {
         "atoms": [
@@ -200,7 +198,7 @@ KALBZZRHBUYEBT-OTIXFYOQNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -486,18 +484,14 @@ KALBZZRHBUYEBT-OTIXFYOQNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          108575,
+          108578
+        ],
+        [
+          108576,
+          108577
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1485,18 +1479,14 @@ KALBZZRHBUYEBT-OTIXFYOQNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        82317,
-        77864
-      ]
-    },
-    {
-      "symIds": [
-        77871,
-        82318
-      ]
-    }
+    [
+      82317,
+      77864
+    ],
+    [
+      77871,
+      82318
+    ]
   ]
 }
 

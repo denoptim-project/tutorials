@@ -158,7 +158,7 @@ IHGJRTZPYIVEPZ-KORAHRJGNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -179,12 +179,10 @@ IHGJRTZPYIVEPZ-KORAHRJGNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          83996,
+          83997
+        ]
       ],
       "mol": {
         "atoms": [
@@ -199,7 +197,7 @@ IHGJRTZPYIVEPZ-KORAHRJGNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -470,18 +468,14 @@ IHGJRTZPYIVEPZ-KORAHRJGNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          84000,
+          84002
+        ],
+        [
+          84003,
+          84004
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1423,18 +1417,14 @@ IHGJRTZPYIVEPZ-KORAHRJGNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        63089,
-        63301
-      ]
-    },
-    {
-      "symIds": [
-        63102,
-        63302
-      ]
-    }
+    [
+      63089,
+      63301
+    ],
+    [
+      63102,
+      63302
+    ]
   ]
 }
 

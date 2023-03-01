@@ -111,7 +111,7 @@ LOTNSAWMGUTHPO-HUOWGJCQNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -132,12 +132,10 @@ LOTNSAWMGUTHPO-HUOWGJCQNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          142423,
+          142424
+        ]
       ],
       "mol": {
         "atoms": [
@@ -152,7 +150,7 @@ LOTNSAWMGUTHPO-HUOWGJCQNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -438,14 +436,12 @@ LOTNSAWMGUTHPO-HUOWGJCQNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3,
-            4,
-            5
-          ]
-        }
+        [
+          142429,
+          142430,
+          142431,
+          142432
+        ]
       ],
       "mol": {
         "atoms": [

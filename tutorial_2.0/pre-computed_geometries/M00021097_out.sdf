@@ -145,7 +145,7 @@ YYPUSFOYVBVSSN-FTMRNTMENA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -166,12 +166,10 @@ YYPUSFOYVBVSSN-FTMRNTMENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          617239,
+          617240
+        ]
       ],
       "mol": {
         "atoms": [
@@ -186,7 +184,7 @@ YYPUSFOYVBVSSN-FTMRNTMENA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -442,12 +440,10 @@ YYPUSFOYVBVSSN-FTMRNTMENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          617243,
+          617244
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1362,18 +1358,14 @@ YYPUSFOYVBVSSN-FTMRNTMENA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        68973,
-        69758
-      ]
-    },
-    {
-      "symIds": [
-        555436,
-        555460
-      ]
-    }
+    [
+      68973,
+      69758
+    ],
+    [
+      555436,
+      555460
+    ]
   ]
 }
 

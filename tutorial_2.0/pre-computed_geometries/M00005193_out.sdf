@@ -172,7 +172,7 @@ GWITUIKPBZELCF-GLNSLMRKNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -193,12 +193,10 @@ GWITUIKPBZELCF-GLNSLMRKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          156172,
+          156173
+        ]
       ],
       "mol": {
         "atoms": [
@@ -213,7 +211,7 @@ GWITUIKPBZELCF-GLNSLMRKNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -469,12 +467,10 @@ GWITUIKPBZELCF-GLNSLMRKNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          156178,
+          156179
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1477,12 +1473,10 @@ GWITUIKPBZELCF-GLNSLMRKNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        119103,
-        118789
-      ]
-    }
+    [
+      119103,
+      118789
+    ]
   ]
 }
 

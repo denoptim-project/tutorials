@@ -92,7 +92,7 @@ WHGMDPXMFTYFGM-DDTUTEAZNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -113,12 +113,10 @@ WHGMDPXMFTYFGM-DDTUTEAZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          303034,
+          303035
+        ]
       ],
       "mol": {
         "atoms": [
@@ -133,7 +131,7 @@ WHGMDPXMFTYFGM-DDTUTEAZNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -374,18 +372,14 @@ WHGMDPXMFTYFGM-DDTUTEAZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          303039,
+          303042
+        ],
+        [
+          303040,
+          303041
+        ]
       ],
       "mol": {
         "atoms": [
@@ -874,18 +868,14 @@ WHGMDPXMFTYFGM-DDTUTEAZNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        232147,
-        232102
-      ]
-    },
-    {
-      "symIds": [
-        232146,
-        232115
-      ]
-    }
+    [
+      232147,
+      232102
+    ],
+    [
+      232146,
+      232115
+    ]
   ]
 }
 

@@ -134,7 +134,7 @@ AWJNFRPJMCUCSD-GNMBMCMONA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -155,12 +155,10 @@ AWJNFRPJMCUCSD-GNMBMCMONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          192004,
+          192005
+        ]
       ],
       "mol": {
         "atoms": [
@@ -175,7 +173,7 @@ AWJNFRPJMCUCSD-GNMBMCMONA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -416,18 +414,14 @@ AWJNFRPJMCUCSD-GNMBMCMONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          192008,
+          192010
+        ],
+        [
+          192011,
+          192012
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1231,18 +1225,14 @@ AWJNFRPJMCUCSD-GNMBMCMONA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        145738,
-        146650
-      ]
-    },
-    {
-      "symIds": [
-        146651,
-        145751
-      ]
-    }
+    [
+      145738,
+      146650
+    ],
+    [
+      146651,
+      145751
+    ]
   ]
 }
 

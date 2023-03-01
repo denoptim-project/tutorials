@@ -136,7 +136,7 @@ YXAUFSDIVLIMPR-AGXZSUSSNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -157,12 +157,10 @@ YXAUFSDIVLIMPR-AGXZSUSSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          548600,
+          548601
+        ]
       ],
       "mol": {
         "atoms": [
@@ -177,7 +175,7 @@ YXAUFSDIVLIMPR-AGXZSUSSNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -372,12 +370,10 @@ YXAUFSDIVLIMPR-AGXZSUSSNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          548604,
+          548605
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1283,18 +1279,14 @@ YXAUFSDIVLIMPR-AGXZSUSSNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        278583,
-        278508
-      ]
-    },
-    {
-      "symIds": [
-        448567,
-        448592
-      ]
-    }
+    [
+      278583,
+      278508
+    ],
+    [
+      448567,
+      448592
+    ]
   ]
 }
 

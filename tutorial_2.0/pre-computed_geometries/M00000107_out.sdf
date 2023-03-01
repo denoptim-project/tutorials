@@ -143,7 +143,7 @@ BPHOJOZBAORUES-OGKOJWRWNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -164,12 +164,10 @@ BPHOJOZBAORUES-OGKOJWRWNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          11985,
+          11986
+        ]
       ],
       "mol": {
         "atoms": [
@@ -184,7 +182,7 @@ BPHOJOZBAORUES-OGKOJWRWNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -470,12 +468,10 @@ BPHOJOZBAORUES-OGKOJWRWNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          11993,
+          11994
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1345,12 +1341,10 @@ BPHOJOZBAORUES-OGKOJWRWNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        7977,
-        7129
-      ]
-    }
+    [
+      7977,
+      7129
+    ]
   ]
 }
 

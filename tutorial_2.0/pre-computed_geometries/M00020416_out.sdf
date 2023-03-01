@@ -103,7 +103,7 @@ UEHRHQPJDLZSTN-WLTLUVEANA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -124,12 +124,10 @@ UEHRHQPJDLZSTN-WLTLUVEANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          596043,
+          596044
+        ]
       ],
       "mol": {
         "atoms": [
@@ -144,7 +142,7 @@ UEHRHQPJDLZSTN-WLTLUVEANA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -400,12 +398,10 @@ UEHRHQPJDLZSTN-WLTLUVEANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          596047,
+          596048
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1021,18 +1017,14 @@ UEHRHQPJDLZSTN-WLTLUVEANA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        379017,
-        379783
-      ]
-    },
-    {
-      "symIds": [
-        521951,
-        522023
-      ]
-    }
+    [
+      379017,
+      379783
+    ],
+    [
+      521951,
+      522023
+    ]
   ]
 }
 

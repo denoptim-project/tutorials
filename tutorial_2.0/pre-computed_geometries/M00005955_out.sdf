@@ -124,7 +124,7 @@ SVDJDGLBGUOLLK-IUTLTLAHNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -145,12 +145,10 @@ SVDJDGLBGUOLLK-IUTLTLAHNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          176656,
+          176657
+        ]
       ],
       "mol": {
         "atoms": [
@@ -165,7 +163,7 @@ SVDJDGLBGUOLLK-IUTLTLAHNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -451,14 +449,12 @@ SVDJDGLBGUOLLK-IUTLTLAHNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3,
-            4,
-            5
-          ]
-        }
+        [
+          176662,
+          176663,
+          176664,
+          176665
+        ]
       ],
       "mol": {
         "atoms": [

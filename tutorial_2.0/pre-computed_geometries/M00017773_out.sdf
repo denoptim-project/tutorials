@@ -181,7 +181,7 @@ XSXDFWJEVDXAQX-INOREGMJNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -202,12 +202,10 @@ XSXDFWJEVDXAQX-INOREGMJNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          513377,
+          513378
+        ]
       ],
       "mol": {
         "atoms": [
@@ -222,7 +220,7 @@ XSXDFWJEVDXAQX-INOREGMJNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -448,12 +446,10 @@ XSXDFWJEVDXAQX-INOREGMJNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          513382,
+          513383
+        ]
       ],
       "mol": {
         "atoms": [
@@ -618,12 +614,10 @@ XSXDFWJEVDXAQX-INOREGMJNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          513389,
+          513390
+        ]
       ],
       "mol": {
         "atoms": [
@@ -706,12 +700,10 @@ XSXDFWJEVDXAQX-INOREGMJNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          513392,
+          513393
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1823,20 +1815,16 @@ XSXDFWJEVDXAQX-INOREGMJNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        206175,
-        205498
-      ]
-    },
-    {
-      "symIds": [
-        395331,
-        395329,
-        395330,
-        395204
-      ]
-    }
+    [
+      206175,
+      205498
+    ],
+    [
+      395331,
+      395329,
+      395330,
+      395204
+    ]
   ]
 }
 

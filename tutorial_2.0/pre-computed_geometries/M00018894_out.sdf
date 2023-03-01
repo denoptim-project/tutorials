@@ -169,7 +169,7 @@ NVPRYQWEYZYGKC-TXYOTWEANA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -190,12 +190,10 @@ NVPRYQWEYZYGKC-TXYOTWEANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          548826,
+          548827
+        ]
       ],
       "mol": {
         "atoms": [
@@ -210,7 +208,7 @@ NVPRYQWEYZYGKC-TXYOTWEANA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -405,12 +403,10 @@ NVPRYQWEYZYGKC-TXYOTWEANA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          548830,
+          548831
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1563,18 +1559,14 @@ NVPRYQWEYZYGKC-TXYOTWEANA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        278601,
-        278508
-      ]
-    },
-    {
-      "symIds": [
-        448688,
-        448753
-      ]
-    }
+    [
+      278601,
+      278508
+    ],
+    [
+      448688,
+      448753
+    ]
   ]
 }
 

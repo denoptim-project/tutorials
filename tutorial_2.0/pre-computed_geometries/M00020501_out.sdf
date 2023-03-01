@@ -123,7 +123,7 @@ XVVAUBVJTIONMB-QMLXCKAUNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -144,12 +144,10 @@ XVVAUBVJTIONMB-QMLXCKAUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          598733,
+          598734
+        ]
       ],
       "mol": {
         "atoms": [
@@ -164,7 +162,7 @@ XVVAUBVJTIONMB-QMLXCKAUNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -420,12 +418,10 @@ XVVAUBVJTIONMB-QMLXCKAUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          598738,
+          598739
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1134,12 +1130,10 @@ XVVAUBVJTIONMB-QMLXCKAUNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        380833,
-        379927
-      ]
-    }
+    [
+      380833,
+      379927
+    ]
   ]
 }
 

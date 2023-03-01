@@ -138,7 +138,7 @@ RAJLFOXPRGGEMP-VAWZWKOCNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -159,12 +159,10 @@ RAJLFOXPRGGEMP-VAWZWKOCNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          71890,
+          71891
+        ]
       ],
       "mol": {
         "atoms": [
@@ -179,7 +177,7 @@ RAJLFOXPRGGEMP-VAWZWKOCNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -465,18 +463,14 @@ RAJLFOXPRGGEMP-VAWZWKOCNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          71896,
+          71899
+        ],
+        [
+          71897,
+          71898
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1308,18 +1302,14 @@ RAJLFOXPRGGEMP-VAWZWKOCNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        51461,
-        54025
-      ]
-    },
-    {
-      "symIds": [
-        54026,
-        51465
-      ]
-    }
+    [
+      51461,
+      54025
+    ],
+    [
+      54026,
+      51465
+    ]
   ]
 }
 

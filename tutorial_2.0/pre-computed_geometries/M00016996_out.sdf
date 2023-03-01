@@ -165,7 +165,7 @@ BYCKSEGVLKIHHK-KHFROIEWNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -186,12 +186,10 @@ BYCKSEGVLKIHHK-KHFROIEWNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          491796,
+          491797
+        ]
       ],
       "mol": {
         "atoms": [
@@ -206,7 +204,7 @@ BYCKSEGVLKIHHK-KHFROIEWNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -462,12 +460,10 @@ BYCKSEGVLKIHHK-KHFROIEWNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          491802,
+          491803
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1433,12 +1429,10 @@ BYCKSEGVLKIHHK-KHFROIEWNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        377211,
-        377920
-      ]
-    }
+    [
+      377211,
+      377920
+    ]
   ]
 }
 

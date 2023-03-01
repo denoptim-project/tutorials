@@ -146,7 +146,7 @@ OGSFPMYHNWFKCU-JEESKUDNNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -167,12 +167,10 @@ OGSFPMYHNWFKCU-JEESKUDNNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          562453,
+          562454
+        ]
       ],
       "mol": {
         "atoms": [
@@ -187,7 +185,7 @@ OGSFPMYHNWFKCU-JEESKUDNNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -382,12 +380,10 @@ OGSFPMYHNWFKCU-JEESKUDNNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          562458,
+          562459
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1311,12 +1307,10 @@ OGSFPMYHNWFKCU-JEESKUDNNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        296417,
-        296323
-      ]
-    }
+    [
+      296417,
+      296323
+    ]
   ]
 }
 

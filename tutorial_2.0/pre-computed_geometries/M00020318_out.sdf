@@ -188,7 +188,7 @@ AQBISOQEYQDIMS-MEXPNTNYNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -209,12 +209,10 @@ AQBISOQEYQDIMS-MEXPNTNYNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          592547,
+          592548
+        ]
       ],
       "mol": {
         "atoms": [
@@ -229,7 +227,7 @@ AQBISOQEYQDIMS-MEXPNTNYNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -485,13 +483,11 @@ AQBISOQEYQDIMS-MEXPNTNYNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          592551,
+          592552,
+          592553
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1782,20 +1778,16 @@ AQBISOQEYQDIMS-MEXPNTNYNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        357987,
-        357979,
-        357988
-      ]
-    },
-    {
-      "symIds": [
-        510904,
-        510905,
-        510714
-      ]
-    }
+    [
+      357987,
+      357979,
+      357988
+    ],
+    [
+      510904,
+      510905,
+      510714
+    ]
   ]
 }
 

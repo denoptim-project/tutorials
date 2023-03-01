@@ -195,7 +195,7 @@ STNCFZZEZPJEHN-FTYBEEHNNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -216,12 +216,10 @@ STNCFZZEZPJEHN-FTYBEEHNNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          100713,
+          100714
+        ]
       ],
       "mol": {
         "atoms": [
@@ -236,7 +234,7 @@ STNCFZZEZPJEHN-FTYBEEHNNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -492,12 +490,10 @@ STNCFZZEZPJEHN-FTYBEEHNNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          100717,
+          100718
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1673,12 +1669,10 @@ STNCFZZEZPJEHN-FTYBEEHNNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        76203,
-        75849
-      ]
-    }
+    [
+      76203,
+      75849
+    ]
   ]
 }
 

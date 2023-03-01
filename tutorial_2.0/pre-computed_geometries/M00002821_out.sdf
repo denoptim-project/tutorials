@@ -141,7 +141,7 @@ DDDOGSXPEVHEOT-AJXFNYRINA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -162,12 +162,10 @@ DDDOGSXPEVHEOT-AJXFNYRINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          89295,
+          89296
+        ]
       ],
       "mol": {
         "atoms": [
@@ -182,7 +180,7 @@ DDDOGSXPEVHEOT-AJXFNYRINA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -438,12 +436,10 @@ DDDOGSXPEVHEOT-AJXFNYRINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          89301,
+          89302
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1215,12 +1211,10 @@ DDDOGSXPEVHEOT-AJXFNYRINA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        67163,
-        67553
-      ]
-    }
+    [
+      67163,
+      67553
+    ]
   ]
 }
 

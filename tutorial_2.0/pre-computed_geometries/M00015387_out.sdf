@@ -144,7 +144,7 @@ CKODYBBYZOYGSD-YSKWISOBNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -165,12 +165,10 @@ CKODYBBYZOYGSD-YSKWISOBNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          445739,
+          445740
+        ]
       ],
       "mol": {
         "atoms": [
@@ -185,7 +183,7 @@ CKODYBBYZOYGSD-YSKWISOBNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -380,12 +378,10 @@ CKODYBBYZOYGSD-YSKWISOBNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          445743,
+          445744
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1238,12 +1234,10 @@ CKODYBBYZOYGSD-YSKWISOBNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        342279,
-        341726
-      ]
-    }
+    [
+      342279,
+      341726
+    ]
   ]
 }
 

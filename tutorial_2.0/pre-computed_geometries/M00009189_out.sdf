@@ -112,7 +112,7 @@ XNFUAGJCSZISKS-QKQNVILKNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -133,12 +133,10 @@ XNFUAGJCSZISKS-QKQNVILKNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          270199,
+          270200
+        ]
       ],
       "mol": {
         "atoms": [
@@ -153,7 +151,7 @@ XNFUAGJCSZISKS-QKQNVILKNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -379,12 +377,10 @@ XNFUAGJCSZISKS-QKQNVILKNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          270204,
+          270205
+        ]
       ],
       "mol": {
         "atoms": [
@@ -998,12 +994,10 @@ XNFUAGJCSZISKS-QKQNVILKNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        206865,
-        206407
-      ]
-    }
+    [
+      206865,
+      206407
+    ]
   ]
 }
 

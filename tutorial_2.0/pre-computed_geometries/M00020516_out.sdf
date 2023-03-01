@@ -182,7 +182,7 @@ OCUPTPUJTIHJIZ-GELIARRVNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -203,12 +203,10 @@ OCUPTPUJTIHJIZ-GELIARRVNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          599162,
+          599163
+        ]
       ],
       "mol": {
         "atoms": [
@@ -223,7 +221,7 @@ OCUPTPUJTIHJIZ-GELIARRVNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -479,12 +477,10 @@ OCUPTPUJTIHJIZ-GELIARRVNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          599167,
+          599168
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1633,12 +1629,10 @@ OCUPTPUJTIHJIZ-GELIARRVNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        380905,
-        379931
-      ]
-    }
+    [
+      380905,
+      379931
+    ]
   ]
 }
 

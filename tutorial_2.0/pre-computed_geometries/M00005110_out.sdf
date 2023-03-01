@@ -162,7 +162,7 @@ YZLVURQMFPZWLR-AILYIURGNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -183,12 +183,10 @@ YZLVURQMFPZWLR-AILYIURGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          153693,
+          153694
+        ]
       ],
       "mol": {
         "atoms": [
@@ -203,7 +201,7 @@ YZLVURQMFPZWLR-AILYIURGNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -504,20 +502,16 @@ YZLVURQMFPZWLR-AILYIURGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          153697,
+          153698
+        ],
+        [
+          153700,
+          153701,
+          153702,
+          153703
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1572,20 +1566,16 @@ YZLVURQMFPZWLR-AILYIURGNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        116958,
-        117091
-      ]
-    },
-    {
-      "symIds": [
-        117094,
-        117092,
-        117093,
-        116970
-      ]
-    }
+    [
+      116958,
+      117091
+    ],
+    [
+      117094,
+      117092,
+      117093,
+      116970
+    ]
   ]
 }
 

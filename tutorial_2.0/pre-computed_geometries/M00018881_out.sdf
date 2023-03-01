@@ -109,7 +109,7 @@ ZHEKBARHSLZFHR-WOYNDGJJNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -130,12 +130,10 @@ ZHEKBARHSLZFHR-WOYNDGJJNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          548406,
+          548407
+        ]
       ],
       "mol": {
         "atoms": [
@@ -150,7 +148,7 @@ ZHEKBARHSLZFHR-WOYNDGJJNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -345,12 +343,10 @@ ZHEKBARHSLZFHR-WOYNDGJJNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          548410,
+          548411
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1054,18 +1050,14 @@ ZHEKBARHSLZFHR-WOYNDGJJNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        278565,
-        278508
-      ]
-    },
-    {
-      "symIds": [
-        448447,
-        448452
-      ]
-    }
+    [
+      278565,
+      278508
+    ],
+    [
+      448447,
+      448452
+    ]
   ]
 }
 

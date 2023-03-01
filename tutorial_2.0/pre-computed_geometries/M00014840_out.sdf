@@ -200,7 +200,7 @@ WOPYLLNLONBUKI-YETKPRPENA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -221,12 +221,10 @@ WOPYLLNLONBUKI-YETKPRPENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          430217,
+          430218
+        ]
       ],
       "mol": {
         "atoms": [
@@ -241,7 +239,7 @@ WOPYLLNLONBUKI-YETKPRPENA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -512,18 +510,14 @@ WOPYLLNLONBUKI-YETKPRPENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          430221,
+          430223
+        ],
+        [
+          430224,
+          430225
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1779,18 +1773,14 @@ WOPYLLNLONBUKI-YETKPRPENA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        329663,
-        330188
-      ]
-    },
-    {
-      "symIds": [
-        329674,
-        330187
-      ]
-    }
+    [
+      329663,
+      330188
+    ],
+    [
+      329674,
+      330187
+    ]
   ]
 }
 

@@ -157,7 +157,7 @@ RYMHWBNDXNGLCZ-NOUAESKFNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -178,12 +178,10 @@ RYMHWBNDXNGLCZ-NOUAESKFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          323769,
+          323770
+        ]
       ],
       "mol": {
         "atoms": [
@@ -198,7 +196,7 @@ RYMHWBNDXNGLCZ-NOUAESKFNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -454,18 +452,14 @@ RYMHWBNDXNGLCZ-NOUAESKFNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          323775,
+          323778
+        ],
+        [
+          323776,
+          323777
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1484,18 +1478,14 @@ RYMHWBNDXNGLCZ-NOUAESKFNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        248138,
-        243933
-      ]
-    },
-    {
-      "symIds": [
-        248137,
-        243937
-      ]
-    }
+    [
+      248138,
+      243933
+    ],
+    [
+      248137,
+      243937
+    ]
   ]
 }
 

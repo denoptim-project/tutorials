@@ -198,7 +198,7 @@ DTPPMYGEOOEPSU-UUOZREQWNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -219,12 +219,10 @@ DTPPMYGEOOEPSU-UUOZREQWNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          70370,
+          70371
+        ]
       ],
       "mol": {
         "atoms": [
@@ -239,7 +237,7 @@ DTPPMYGEOOEPSU-UUOZREQWNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -525,18 +523,14 @@ DTPPMYGEOOEPSU-UUOZREQWNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          70376,
+          70379
+        ],
+        [
+          70377,
+          70378
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1819,18 +1813,14 @@ DTPPMYGEOOEPSU-UUOZREQWNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        51459,
-        52833
-      ]
-    },
-    {
-      "symIds": [
-        52834,
-        51465
-      ]
-    }
+    [
+      51459,
+      52833
+    ],
+    [
+      52834,
+      51465
+    ]
   ]
 }
 

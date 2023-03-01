@@ -139,7 +139,7 @@ HFBBVOODKMTAAU-AMWSVUIANA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -160,12 +160,10 @@ HFBBVOODKMTAAU-AMWSVUIANA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          633953,
+          633954
+        ]
       ],
       "mol": {
         "atoms": [
@@ -180,7 +178,7 @@ HFBBVOODKMTAAU-AMWSVUIANA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -436,12 +434,10 @@ HFBBVOODKMTAAU-AMWSVUIANA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          633958,
+          633959
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1269,12 +1265,10 @@ HFBBVOODKMTAAU-AMWSVUIANA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        100255,
-        100326
-      ]
-    }
+    [
+      100255,
+      100326
+    ]
   ]
 }
 

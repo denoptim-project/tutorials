@@ -113,7 +113,7 @@ NSNFEPJWIBEHSI-RHKVHPIVNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -134,12 +134,10 @@ NSNFEPJWIBEHSI-RHKVHPIVNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          457353,
+          457354
+        ]
       ],
       "mol": {
         "atoms": [
@@ -154,7 +152,7 @@ NSNFEPJWIBEHSI-RHKVHPIVNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -349,12 +347,10 @@ NSNFEPJWIBEHSI-RHKVHPIVNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          457359,
+          457360
+        ]
       ],
       "mol": {
         "atoms": [
@@ -973,12 +969,10 @@ NSNFEPJWIBEHSI-RHKVHPIVNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        351065,
-        350649
-      ]
-    }
+    [
+      351065,
+      350649
+    ]
   ]
 }
 

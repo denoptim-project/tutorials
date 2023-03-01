@@ -132,7 +132,7 @@ ISYHHOJAORUOKW-MTHGHSNRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -153,12 +153,10 @@ ISYHHOJAORUOKW-MTHGHSNRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          302018,
+          302019
+        ]
       ],
       "mol": {
         "atoms": [
@@ -173,7 +171,7 @@ ISYHHOJAORUOKW-MTHGHSNRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -444,20 +442,16 @@ ISYHHOJAORUOKW-MTHGHSNRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          302022,
+          302023
+        ],
+        [
+          302025,
+          302026,
+          302027,
+          302028
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1332,20 +1326,16 @@ ISYHHOJAORUOKW-MTHGHSNRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        231286,
-        231190
-      ]
-    },
-    {
-      "symIds": [
-        231289,
-        231287,
-        231201,
-        231288
-      ]
-    }
+    [
+      231286,
+      231190
+    ],
+    [
+      231289,
+      231287,
+      231201,
+      231288
+    ]
   ]
 }
 

@@ -107,7 +107,7 @@ OKYMVHDDZIRDOF-KZCBUNQZNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -128,12 +128,10 @@ OKYMVHDDZIRDOF-KZCBUNQZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          592277,
+          592278
+        ]
       ],
       "mol": {
         "atoms": [
@@ -148,7 +146,7 @@ OKYMVHDDZIRDOF-KZCBUNQZNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -404,13 +402,11 @@ OKYMVHDDZIRDOF-KZCBUNQZNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          592281,
+          592282,
+          592283
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1095,20 +1091,16 @@ OKYMVHDDZIRDOF-KZCBUNQZNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        357987,
-        357979,
-        357988
-      ]
-    },
-    {
-      "symIds": [
-        510716,
-        510717,
-        510706
-      ]
-    }
+    [
+      357987,
+      357979,
+      357988
+    ],
+    [
+      510716,
+      510717,
+      510706
+    ]
   ]
 }
 

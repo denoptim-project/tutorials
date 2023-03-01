@@ -192,7 +192,7 @@ ZZEYSZPKEABKPL-XIVOUFEWNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -213,12 +213,10 @@ ZZEYSZPKEABKPL-XIVOUFEWNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          440056,
+          440057
+        ]
       ],
       "mol": {
         "atoms": [
@@ -233,7 +231,7 @@ ZZEYSZPKEABKPL-XIVOUFEWNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -443,18 +441,14 @@ ZZEYSZPKEABKPL-XIVOUFEWNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          440060,
+          440062
+        ],
+        [
+          440063,
+          440064
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1707,18 +1701,14 @@ ZZEYSZPKEABKPL-XIVOUFEWNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        337746,
-        336548
-      ]
-    },
-    {
-      "symIds": [
-        336558,
-        337745
-      ]
-    }
+    [
+      337746,
+      336548
+    ],
+    [
+      336558,
+      337745
+    ]
   ]
 }
 

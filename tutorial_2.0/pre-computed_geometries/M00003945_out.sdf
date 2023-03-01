@@ -158,7 +158,7 @@ KVNAMPYRADMGTO-MPKOICGBNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -179,12 +179,10 @@ KVNAMPYRADMGTO-MPKOICGBNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          120724,
+          120725
+        ]
       ],
       "mol": {
         "atoms": [
@@ -199,7 +197,7 @@ KVNAMPYRADMGTO-MPKOICGBNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -470,18 +468,14 @@ KVNAMPYRADMGTO-MPKOICGBNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          120728,
+          120729
+        ],
+        [
+          120731,
+          120732
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1437,18 +1431,14 @@ KVNAMPYRADMGTO-MPKOICGBNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        91291,
-        91653
-      ]
-    },
-    {
-      "symIds": [
-        91299,
-        91654
-      ]
-    }
+    [
+      91291,
+      91653
+    ],
+    [
+      91299,
+      91654
+    ]
   ]
 }
 

@@ -178,7 +178,7 @@ HZBZAHFZOLPKSW-MVDAEJHTNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -199,12 +199,10 @@ HZBZAHFZOLPKSW-MVDAEJHTNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          37729,
+          37730
+        ]
       ],
       "mol": {
         "atoms": [
@@ -219,7 +217,7 @@ HZBZAHFZOLPKSW-MVDAEJHTNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -505,18 +503,14 @@ HZBZAHFZOLPKSW-MVDAEJHTNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          37735,
+          37738
+        ],
+        [
+          37736,
+          37737
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1648,18 +1642,14 @@ HZBZAHFZOLPKSW-MVDAEJHTNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        26690,
-        27665
-      ]
-    },
-    {
-      "symIds": [
-        27664,
-        26701
-      ]
-    }
+    [
+      26690,
+      27665
+    ],
+    [
+      27664,
+      26701
+    ]
   ]
 }
 

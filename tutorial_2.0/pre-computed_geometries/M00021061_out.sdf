@@ -133,7 +133,7 @@ WEPNYJGUFVCDTP-WDWNODAQNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -154,12 +154,10 @@ WEPNYJGUFVCDTP-WDWNODAQNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          615853,
+          615854
+        ]
       ],
       "mol": {
         "atoms": [
@@ -174,7 +172,7 @@ WEPNYJGUFVCDTP-WDWNODAQNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -430,12 +428,10 @@ WEPNYJGUFVCDTP-WDWNODAQNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          615857,
+          615858
+        ]
       ],
       "mol": {
         "atoms": [
@@ -817,12 +813,10 @@ WEPNYJGUFVCDTP-WDWNODAQNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          615864,
+          615865
+        ]
       ],
       "mol": {
         "atoms": [
@@ -905,12 +899,10 @@ WEPNYJGUFVCDTP-WDWNODAQNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          615867,
+          615868
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1387,20 +1379,16 @@ WEPNYJGUFVCDTP-WDWNODAQNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        68972,
-        69638
-      ]
-    },
-    {
-      "symIds": [
-        554392,
-        554390,
-        554384,
-        554391
-      ]
-    }
+    [
+      68972,
+      69638
+    ],
+    [
+      554392,
+      554390,
+      554384,
+      554391
+    ]
   ]
 }
 

@@ -195,7 +195,7 @@ ZUDOXXWSPWIFAP-ZGCBRVOMNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -216,12 +216,10 @@ ZUDOXXWSPWIFAP-ZGCBRVOMNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          188641,
+          188642
+        ]
       ],
       "mol": {
         "atoms": [
@@ -236,7 +234,7 @@ ZUDOXXWSPWIFAP-ZGCBRVOMNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -522,18 +520,14 @@ ZUDOXXWSPWIFAP-ZGCBRVOMNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          188647,
+          188650
+        ],
+        [
+          188648,
+          188649
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1793,18 +1787,14 @@ ZUDOXXWSPWIFAP-ZGCBRVOMNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        144007,
-        139745
-      ]
-    },
-    {
-      "symIds": [
-        144008,
-        139751
-      ]
-    }
+    [
+      144007,
+      139745
+    ],
+    [
+      144008,
+      139751
+    ]
   ]
 }
 

@@ -161,7 +161,7 @@ NQDGEMMZRIBEBZ-DLZCXXONNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -182,12 +182,10 @@ NQDGEMMZRIBEBZ-DLZCXXONNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          636095,
+          636096
+        ]
       ],
       "mol": {
         "atoms": [
@@ -202,7 +200,7 @@ NQDGEMMZRIBEBZ-DLZCXXONNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -458,13 +456,11 @@ NQDGEMMZRIBEBZ-DLZCXXONNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          636099,
+          636100,
+          636101
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1554,20 +1550,16 @@ NQDGEMMZRIBEBZ-DLZCXXONNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        108131,
-        108137,
-        108138
-      ]
-    },
-    {
-      "symIds": [
-        582457,
-        582458,
-        582361
-      ]
-    }
+    [
+      108131,
+      108137,
+      108138
+    ],
+    [
+      582457,
+      582458,
+      582361
+    ]
   ]
 }
 

@@ -145,7 +145,7 @@ SHXJIVKVLBSOFG-FLONACCPNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -166,12 +166,10 @@ SHXJIVKVLBSOFG-FLONACCPNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          450669,
+          450670
+        ]
       ],
       "mol": {
         "atoms": [
@@ -186,7 +184,7 @@ SHXJIVKVLBSOFG-FLONACCPNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -381,12 +379,10 @@ SHXJIVKVLBSOFG-FLONACCPNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          450673,
+          450674
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1246,12 +1242,10 @@ SHXJIVKVLBSOFG-FLONACCPNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        345980,
-        345403
-      ]
-    }
+    [
+      345980,
+      345403
+    ]
   ]
 }
 

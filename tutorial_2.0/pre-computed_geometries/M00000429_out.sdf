@@ -152,7 +152,7 @@ AAMHOLGQZSZGRY-OKMROJILNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -173,12 +173,10 @@ AAMHOLGQZSZGRY-OKMROJILNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          21670,
+          21671
+        ]
       ],
       "mol": {
         "atoms": [
@@ -193,7 +191,7 @@ AAMHOLGQZSZGRY-OKMROJILNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -464,18 +462,14 @@ AAMHOLGQZSZGRY-OKMROJILNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          21675,
+          21678
+        ],
+        [
+          21676,
+          21677
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1368,18 +1362,14 @@ AAMHOLGQZSZGRY-OKMROJILNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        15514,
-        15180
-      ]
-    },
-    {
-      "symIds": [
-        15515,
-        15192
-      ]
-    }
+    [
+      15514,
+      15180
+    ],
+    [
+      15515,
+      15192
+    ]
   ]
 }
 

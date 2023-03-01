@@ -152,7 +152,7 @@ RDISUSMGYMNVHQ-LDPOSEEINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -173,12 +173,10 @@ RDISUSMGYMNVHQ-LDPOSEEINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          177334,
+          177335
+        ]
       ],
       "mol": {
         "atoms": [
@@ -193,7 +191,7 @@ RDISUSMGYMNVHQ-LDPOSEEINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -404,12 +402,10 @@ RDISUSMGYMNVHQ-LDPOSEEINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          177338,
+          177339
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1266,12 +1262,10 @@ RDISUSMGYMNVHQ-LDPOSEEINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        135330,
-        135231
-      ]
-    }
+    [
+      135330,
+      135231
+    ]
   ]
 }
 

@@ -146,7 +146,7 @@ HXLMGTBFNOMEFX-LABLJILONA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -167,12 +167,10 @@ HXLMGTBFNOMEFX-LABLJILONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          460201,
+          460202
+        ]
       ],
       "mol": {
         "atoms": [
@@ -187,7 +185,7 @@ HXLMGTBFNOMEFX-LABLJILONA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -412,18 +410,14 @@ HXLMGTBFNOMEFX-LABLJILONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          460207,
+          460210
+        ],
+        [
+          460208,
+          460209
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1376,18 +1370,14 @@ HXLMGTBFNOMEFX-LABLJILONA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        351314,
-        353295
-      ]
-    },
-    {
-      "symIds": [
-        353296,
-        351322
-      ]
-    }
+    [
+      351314,
+      353295
+    ],
+    [
+      353296,
+      351322
+    ]
   ]
 }
 

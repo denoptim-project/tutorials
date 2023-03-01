@@ -148,7 +148,7 @@ BAVSLABSNGZRTR-UHSGUSLGNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -169,12 +169,10 @@ BAVSLABSNGZRTR-UHSGUSLGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          550908,
+          550909
+        ]
       ],
       "mol": {
         "atoms": [
@@ -189,7 +187,7 @@ BAVSLABSNGZRTR-UHSGUSLGNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -445,12 +443,10 @@ BAVSLABSNGZRTR-UHSGUSLGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          550912,
+          550913
+        ]
       ],
       "mol": {
         "atoms": [
@@ -944,12 +940,10 @@ BAVSLABSNGZRTR-UHSGUSLGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          550919,
+          550920
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1032,12 +1026,10 @@ BAVSLABSNGZRTR-UHSGUSLGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          550922,
+          550923
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1514,20 +1506,16 @@ BAVSLABSNGZRTR-UHSGUSLGNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        286146,
-        286875
-      ]
-    },
-    {
-      "symIds": [
-        453578,
-        453580,
-        453572,
-        453579
-      ]
-    }
+    [
+      286146,
+      286875
+    ],
+    [
+      453578,
+      453580,
+      453572,
+      453579
+    ]
   ]
 }
 

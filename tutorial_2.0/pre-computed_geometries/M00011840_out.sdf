@@ -142,7 +142,7 @@ QFTLUCPPRVOJHT-OCNFRAFTNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -163,12 +163,10 @@ QFTLUCPPRVOJHT-OCNFRAFTNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          345808,
+          345809
+        ]
       ],
       "mol": {
         "atoms": [
@@ -183,7 +181,7 @@ QFTLUCPPRVOJHT-OCNFRAFTNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -378,12 +376,10 @@ QFTLUCPPRVOJHT-OCNFRAFTNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          345813,
+          345814
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1221,12 +1217,10 @@ QFTLUCPPRVOJHT-OCNFRAFTNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        265229,
-        264628
-      ]
-    }
+    [
+      265229,
+      264628
+    ]
   ]
 }
 

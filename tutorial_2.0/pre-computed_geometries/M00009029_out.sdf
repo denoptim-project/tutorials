@@ -102,7 +102,7 @@ OEDIAUBSNFDGOX-SGDZSVMUNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -123,12 +123,10 @@ OEDIAUBSNFDGOX-SGDZSVMUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          265972,
+          265973
+        ]
       ],
       "mol": {
         "atoms": [
@@ -143,7 +141,7 @@ OEDIAUBSNFDGOX-SGDZSVMUNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -369,12 +367,10 @@ OEDIAUBSNFDGOX-SGDZSVMUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          265978,
+          265979
+        ]
       ],
       "mol": {
         "atoms": [
@@ -914,12 +910,10 @@ OEDIAUBSNFDGOX-SGDZSVMUNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        203689,
-        203701
-      ]
-    }
+    [
+      203689,
+      203701
+    ]
   ]
 }
 

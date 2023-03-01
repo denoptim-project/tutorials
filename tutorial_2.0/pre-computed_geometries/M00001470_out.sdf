@@ -185,7 +185,7 @@ OIUGCRBUTJNCTA-GCDCFGECNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -206,12 +206,10 @@ OIUGCRBUTJNCTA-GCDCFGECNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          51434,
+          51435
+        ]
       ],
       "mol": {
         "atoms": [
@@ -226,7 +224,7 @@ OIUGCRBUTJNCTA-GCDCFGECNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -482,12 +480,10 @@ OIUGCRBUTJNCTA-GCDCFGECNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          51439,
+          51440
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1587,12 +1583,10 @@ OIUGCRBUTJNCTA-GCDCFGECNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        38178,
-        37781
-      ]
-    }
+    [
+      38178,
+      37781
+    ]
   ]
 }
 

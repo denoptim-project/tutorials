@@ -164,7 +164,7 @@ FRESYZRJMPYOPS-VFEDTIESNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -185,12 +185,10 @@ FRESYZRJMPYOPS-VFEDTIESNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          53479,
+          53480
+        ]
       ],
       "mol": {
         "atoms": [
@@ -205,7 +203,7 @@ FRESYZRJMPYOPS-VFEDTIESNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -476,18 +474,14 @@ FRESYZRJMPYOPS-VFEDTIESNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          53483,
+          53485
+        ],
+        [
+          53486,
+          53487
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1471,18 +1465,14 @@ FRESYZRJMPYOPS-VFEDTIESNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        39797,
-        38344
-      ]
-    },
-    {
-      "symIds": [
-        38350,
-        39796
-      ]
-    }
+    [
+      39797,
+      38344
+    ],
+    [
+      38350,
+      39796
+    ]
   ]
 }
 

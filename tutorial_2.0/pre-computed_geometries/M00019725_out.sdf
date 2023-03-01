@@ -174,7 +174,7 @@ GJTPEIRYBLBYEK-DMYJGMRYNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -195,12 +195,10 @@ GJTPEIRYBLBYEK-DMYJGMRYNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          574980,
+          574981
+        ]
       ],
       "mol": {
         "atoms": [
@@ -215,7 +213,7 @@ GJTPEIRYBLBYEK-DMYJGMRYNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -410,12 +408,10 @@ GJTPEIRYBLBYEK-DMYJGMRYNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          574985,
+          574986
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1564,12 +1560,10 @@ GJTPEIRYBLBYEK-DMYJGMRYNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        317141,
-        318115
-      ]
-    }
+    [
+      317141,
+      318115
+    ]
   ]
 }
 

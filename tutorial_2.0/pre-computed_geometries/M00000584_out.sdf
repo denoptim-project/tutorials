@@ -125,7 +125,7 @@ GBNXWJYPBVKUSD-KWBIOBABNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -146,12 +146,10 @@ GBNXWJYPBVKUSD-KWBIOBABNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          25927,
+          25928
+        ]
       ],
       "mol": {
         "atoms": [
@@ -166,7 +164,7 @@ GBNXWJYPBVKUSD-KWBIOBABNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -422,12 +420,10 @@ GBNXWJYPBVKUSD-KWBIOBABNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          25931,
+          25932
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1076,12 +1072,10 @@ GBNXWJYPBVKUSD-KWBIOBABNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        17896,
-        18723
-      ]
-    }
+    [
+      17896,
+      18723
+    ]
   ]
 }
 

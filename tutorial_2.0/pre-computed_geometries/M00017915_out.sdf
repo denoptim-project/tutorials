@@ -118,7 +118,7 @@ MUSHXMKCNFMNEE-KNIPHLICNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -139,12 +139,10 @@ MUSHXMKCNFMNEE-KNIPHLICNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          518027,
+          518028
+        ]
       ],
       "mol": {
         "atoms": [
@@ -159,7 +157,7 @@ MUSHXMKCNFMNEE-KNIPHLICNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -385,12 +383,10 @@ MUSHXMKCNFMNEE-KNIPHLICNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          518032,
+          518033
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1105,12 +1101,10 @@ MUSHXMKCNFMNEE-KNIPHLICNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        210280,
-        210264
-      ]
-    }
+    [
+      210280,
+      210264
+    ]
   ]
 }
 

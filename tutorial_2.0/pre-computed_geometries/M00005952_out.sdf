@@ -130,7 +130,7 @@ IKYGOKPVIKESRT-NZCABTKNNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -151,12 +151,10 @@ IKYGOKPVIKESRT-NZCABTKNNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          176560,
+          176561
+        ]
       ],
       "mol": {
         "atoms": [
@@ -171,7 +169,7 @@ IKYGOKPVIKESRT-NZCABTKNNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -457,14 +455,12 @@ IKYGOKPVIKESRT-NZCABTKNNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3,
-            4,
-            5
-          ]
-        }
+        [
+          176566,
+          176567,
+          176568,
+          176569
+        ]
       ],
       "mol": {
         "atoms": [

@@ -145,7 +145,7 @@ PDGXKUPXHMCFIZ-WSDRBTSONA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -166,12 +166,10 @@ PDGXKUPXHMCFIZ-WSDRBTSONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          23591,
+          23592
+        ]
       ],
       "mol": {
         "atoms": [
@@ -186,7 +184,7 @@ PDGXKUPXHMCFIZ-WSDRBTSONA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -442,12 +440,10 @@ PDGXKUPXHMCFIZ-WSDRBTSONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          23595,
+          23596
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1248,12 +1244,10 @@ PDGXKUPXHMCFIZ-WSDRBTSONA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        16992,
-        17019
-      ]
-    }
+    [
+      16992,
+      17019
+    ]
   ]
 }
 

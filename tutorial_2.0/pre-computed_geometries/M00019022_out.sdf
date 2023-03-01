@@ -140,7 +140,7 @@ KVMXRMMTUNTPRY-RCVDWQKXNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -161,12 +161,10 @@ KVMXRMMTUNTPRY-RCVDWQKXNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          553519,
+          553520
+        ]
       ],
       "mol": {
         "atoms": [
@@ -181,7 +179,7 @@ KVMXRMMTUNTPRY-RCVDWQKXNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -376,12 +374,10 @@ KVMXRMMTUNTPRY-RCVDWQKXNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          553523,
+          553524
+        ]
       ],
       "mol": {
         "atoms": [
@@ -576,12 +572,10 @@ KVMXRMMTUNTPRY-RCVDWQKXNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          553529,
+          553530
+        ]
       ],
       "mol": {
         "atoms": [
@@ -664,12 +658,10 @@ KVMXRMMTUNTPRY-RCVDWQKXNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          553532,
+          553533
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1445,20 +1437,16 @@ KVMXRMMTUNTPRY-RCVDWQKXNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        291419,
-        290687
-      ]
-    },
-    {
-      "symIds": [
-        457286,
-        457288,
-        457280,
-        457287
-      ]
-    }
+    [
+      291419,
+      290687
+    ],
+    [
+      457286,
+      457288,
+      457280,
+      457287
+    ]
   ]
 }
 

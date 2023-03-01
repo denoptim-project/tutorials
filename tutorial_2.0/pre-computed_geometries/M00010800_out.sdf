@@ -133,7 +133,7 @@ YUOXZVHICIAOGU-ICPSCPQQNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -154,12 +154,10 @@ YUOXZVHICIAOGU-ICPSCPQQNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          315825,
+          315826
+        ]
       ],
       "mol": {
         "atoms": [
@@ -174,7 +172,7 @@ YUOXZVHICIAOGU-ICPSCPQQNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -400,12 +398,10 @@ YUOXZVHICIAOGU-ICPSCPQQNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          315829,
+          315830
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1161,12 +1157,10 @@ YUOXZVHICIAOGU-ICPSCPQQNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        241966,
-        241912
-      ]
-    }
+    [
+      241966,
+      241912
+    ]
   ]
 }
 

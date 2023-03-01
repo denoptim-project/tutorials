@@ -151,7 +151,7 @@ MDPGKVJBLBBCMO-DGNAWMEUNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -172,12 +172,10 @@ MDPGKVJBLBBCMO-DGNAWMEUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          615650,
+          615651
+        ]
       ],
       "mol": {
         "atoms": [
@@ -192,7 +190,7 @@ MDPGKVJBLBBCMO-DGNAWMEUNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -448,12 +446,10 @@ MDPGKVJBLBBCMO-DGNAWMEUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          615654,
+          615655
+        ]
       ],
       "mol": {
         "atoms": [
@@ -790,12 +786,10 @@ MDPGKVJBLBBCMO-DGNAWMEUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          615661,
+          615662
+        ]
       ],
       "mol": {
         "atoms": [
@@ -878,12 +872,10 @@ MDPGKVJBLBBCMO-DGNAWMEUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          615664,
+          615665
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1540,20 +1532,16 @@ MDPGKVJBLBBCMO-DGNAWMEUNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        69632,
-        68972
-      ]
-    },
-    {
-      "symIds": [
-        554230,
-        554231,
-        554196,
-        554232
-      ]
-    }
+    [
+      69632,
+      68972
+    ],
+    [
+      554230,
+      554231,
+      554196,
+      554232
+    ]
   ]
 }
 

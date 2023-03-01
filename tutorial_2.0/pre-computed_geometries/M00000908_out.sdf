@@ -109,7 +109,7 @@ CKDTVKIPOLLOTE-NIJRQQHRNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -130,12 +130,10 @@ CKDTVKIPOLLOTE-NIJRQQHRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          34857,
+          34858
+        ]
       ],
       "mol": {
         "atoms": [
@@ -150,7 +148,7 @@ CKDTVKIPOLLOTE-NIJRQQHRNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -406,12 +404,10 @@ CKDTVKIPOLLOTE-NIJRQQHRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          34863,
+          34864
+        ]
       ],
       "mol": {
         "atoms": [
@@ -940,12 +936,10 @@ CKDTVKIPOLLOTE-NIJRQQHRNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        25351,
-        25442
-      ]
-    }
+    [
+      25351,
+      25442
+    ]
   ]
 }
 

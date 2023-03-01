@@ -152,7 +152,7 @@ AMOYCSZKENMSGC-LBYJHOPRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -173,12 +173,10 @@ AMOYCSZKENMSGC-LBYJHOPRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          203363,
+          203364
+        ]
       ],
       "mol": {
         "atoms": [
@@ -193,7 +191,7 @@ AMOYCSZKENMSGC-LBYJHOPRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -419,12 +417,10 @@ AMOYCSZKENMSGC-LBYJHOPRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          203367,
+          203368
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1322,12 +1318,10 @@ AMOYCSZKENMSGC-LBYJHOPRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        154475,
-        155440
-      ]
-    }
+    [
+      154475,
+      155440
+    ]
   ]
 }
 

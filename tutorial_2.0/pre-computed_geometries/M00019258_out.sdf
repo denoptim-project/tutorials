@@ -183,7 +183,7 @@ SFFHWGCLXFATGT-GKJPEATGNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -204,12 +204,10 @@ SFFHWGCLXFATGT-GKJPEATGNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          560972,
+          560973
+        ]
       ],
       "mol": {
         "atoms": [
@@ -224,7 +222,7 @@ SFFHWGCLXFATGT-GKJPEATGNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -480,12 +478,10 @@ SFFHWGCLXFATGT-GKJPEATGNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          560977,
+          560978
+        ]
       ],
       "mol": {
         "atoms": [
@@ -680,12 +676,10 @@ SFFHWGCLXFATGT-GKJPEATGNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          560982,
+          560983
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1690,18 +1684,14 @@ SFFHWGCLXFATGT-GKJPEATGNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        23417,
-        24224
-      ]
-    },
-    {
-      "symIds": [
-        464393,
-        464316
-      ]
-    }
+    [
+      23417,
+      24224
+    ],
+    [
+      464393,
+      464316
+    ]
   ]
 }
 

@@ -126,7 +126,7 @@ UKWBWGOGYAMACO-JNUYDZJZNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -147,12 +147,10 @@ UKWBWGOGYAMACO-JNUYDZJZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          20174,
+          20175
+        ]
       ],
       "mol": {
         "atoms": [
@@ -167,7 +165,7 @@ UKWBWGOGYAMACO-JNUYDZJZNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -468,20 +466,16 @@ UKWBWGOGYAMACO-JNUYDZJZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          20178,
+          20179
+        ],
+        [
+          20181,
+          20182,
+          20183,
+          20184
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1266,20 +1260,16 @@ UKWBWGOGYAMACO-JNUYDZJZNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        14279,
-        14261
-      ]
-    },
-    {
-      "symIds": [
-        14277,
-        14273,
-        14276,
-        14278
-      ]
-    }
+    [
+      14279,
+      14261
+    ],
+    [
+      14277,
+      14273,
+      14276,
+      14278
+    ]
   ]
 }
 

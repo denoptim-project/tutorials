@@ -138,7 +138,7 @@ HBGWXAKSHGFNNB-BIAZYZHRNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -159,12 +159,10 @@ HBGWXAKSHGFNNB-BIAZYZHRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          151983,
+          151984
+        ]
       ],
       "mol": {
         "atoms": [
@@ -179,7 +177,7 @@ HBGWXAKSHGFNNB-BIAZYZHRNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -450,18 +448,14 @@ HBGWXAKSHGFNNB-BIAZYZHRNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          151987,
+          151988
+        ],
+        [
+          151990,
+          151991
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1252,18 +1246,14 @@ HBGWXAKSHGFNNB-BIAZYZHRNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        115751,
-        115606
-      ]
-    },
-    {
-      "symIds": [
-        115616,
-        115752
-      ]
-    }
+    [
+      115751,
+      115606
+    ],
+    [
+      115616,
+      115752
+    ]
   ]
 }
 

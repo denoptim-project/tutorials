@@ -170,7 +170,7 @@ AZMKJKRMWNGEIF-BTARSNAUNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -191,12 +191,10 @@ AZMKJKRMWNGEIF-BTARSNAUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          118894,
+          118895
+        ]
       ],
       "mol": {
         "atoms": [
@@ -211,7 +209,7 @@ AZMKJKRMWNGEIF-BTARSNAUNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -482,18 +480,14 @@ AZMKJKRMWNGEIF-BTARSNAUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          118898,
+          118900
+        ],
+        [
+          118901,
+          118902
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1539,18 +1533,14 @@ AZMKJKRMWNGEIF-BTARSNAUNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        90202,
-        89728
-      ]
-    },
-    {
-      "symIds": [
-        89737,
-        90203
-      ]
-    }
+    [
+      90202,
+      89728
+    ],
+    [
+      89737,
+      90203
+    ]
   ]
 }
 

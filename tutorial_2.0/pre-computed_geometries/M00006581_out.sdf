@@ -138,7 +138,7 @@ UBRITNXHASOQJK-DFTPFOFLNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -159,12 +159,10 @@ UBRITNXHASOQJK-DFTPFOFLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          195999,
+          196000
+        ]
       ],
       "mol": {
         "atoms": [
@@ -179,7 +177,7 @@ UBRITNXHASOQJK-DFTPFOFLNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -405,12 +403,10 @@ UBRITNXHASOQJK-DFTPFOFLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          196005,
+          196006
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1204,12 +1200,10 @@ UBRITNXHASOQJK-DFTPFOFLNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        149892,
-        149813
-      ]
-    }
+    [
+      149892,
+      149813
+    ]
   ]
 }
 

@@ -140,7 +140,7 @@ KFZQYXFEACRAIT-TYIULJIRNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -161,12 +161,10 @@ KFZQYXFEACRAIT-TYIULJIRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          458441,
+          458442
+        ]
       ],
       "mol": {
         "atoms": [
@@ -181,7 +179,7 @@ KFZQYXFEACRAIT-TYIULJIRNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -406,18 +404,14 @@ KFZQYXFEACRAIT-TYIULJIRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          458447,
+          458450
+        ],
+        [
+          458448,
+          458449
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1324,18 +1318,14 @@ KFZQYXFEACRAIT-TYIULJIRNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        351317,
-        351919
-      ]
-    },
-    {
-      "symIds": [
-        351920,
-        351321
-      ]
-    }
+    [
+      351317,
+      351919
+    ],
+    [
+      351920,
+      351321
+    ]
   ]
 }
 

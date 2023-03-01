@@ -196,7 +196,7 @@ NTVRLKOTKOALGY-ROTJVIRZNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -217,12 +217,10 @@ NTVRLKOTKOALGY-ROTJVIRZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          440224,
+          440225
+        ]
       ],
       "mol": {
         "atoms": [
@@ -237,7 +235,7 @@ NTVRLKOTKOALGY-ROTJVIRZNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -447,18 +445,14 @@ NTVRLKOTKOALGY-ROTJVIRZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          440228,
+          440230
+        ],
+        [
+          440231,
+          440232
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1743,18 +1737,14 @@ NTVRLKOTKOALGY-ROTJVIRZNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        337878,
-        336549
-      ]
-    },
-    {
-      "symIds": [
-        336557,
-        337877
-      ]
-    }
+    [
+      337878,
+      336549
+    ],
+    [
+      336557,
+      337877
+    ]
   ]
 }
 

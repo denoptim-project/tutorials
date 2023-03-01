@@ -187,7 +187,7 @@ SIDVSGAHFRICMT-DKVVBMCUNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -208,12 +208,10 @@ SIDVSGAHFRICMT-DKVVBMCUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          594883,
+          594884
+        ]
       ],
       "mol": {
         "atoms": [
@@ -228,7 +226,7 @@ SIDVSGAHFRICMT-DKVVBMCUNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -484,12 +482,10 @@ SIDVSGAHFRICMT-DKVVBMCUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          594887,
+          594888
+        ]
       ],
       "mol": {
         "atoms": [
@@ -654,12 +650,10 @@ SIDVSGAHFRICMT-DKVVBMCUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          594893,
+          594894
+        ]
       ],
       "mol": {
         "atoms": [
@@ -742,12 +736,10 @@ SIDVSGAHFRICMT-DKVVBMCUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          594896,
+          594897
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1859,20 +1851,16 @@ SIDVSGAHFRICMT-DKVVBMCUNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        379700,
-        379016
-      ]
-    },
-    {
-      "symIds": [
-        521126,
-        521127,
-        521125,
-        521006
-      ]
-    }
+    [
+      379700,
+      379016
+    ],
+    [
+      521126,
+      521127,
+      521125,
+      521006
+    ]
   ]
 }
 

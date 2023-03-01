@@ -139,7 +139,7 @@ FEKPSDLWYSZWMR-DPWOTJLVNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -160,12 +160,10 @@ FEKPSDLWYSZWMR-DPWOTJLVNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          323193,
+          323194
+        ]
       ],
       "mol": {
         "atoms": [
@@ -180,7 +178,7 @@ FEKPSDLWYSZWMR-DPWOTJLVNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -436,18 +434,14 @@ FEKPSDLWYSZWMR-DPWOTJLVNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          323199,
+          323202
+        ],
+        [
+          323200,
+          323201
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1332,18 +1326,14 @@ FEKPSDLWYSZWMR-DPWOTJLVNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        243930,
-        247688
-      ]
-    },
-    {
-      "symIds": [
-        247687,
-        243937
-      ]
-    }
+    [
+      243930,
+      247688
+    ],
+    [
+      247687,
+      243937
+    ]
   ]
 }
 

@@ -208,7 +208,7 @@ FKEBLPRSYPZNIA-HZWSOLKCNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -229,12 +229,10 @@ FKEBLPRSYPZNIA-HZWSOLKCNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          550582,
+          550583
+        ]
       ],
       "mol": {
         "atoms": [
@@ -249,7 +247,7 @@ FKEBLPRSYPZNIA-HZWSOLKCNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -505,12 +503,10 @@ FKEBLPRSYPZNIA-HZWSOLKCNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          550586,
+          550587
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1004,12 +1000,10 @@ FKEBLPRSYPZNIA-HZWSOLKCNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          550593,
+          550594
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1092,12 +1086,10 @@ FKEBLPRSYPZNIA-HZWSOLKCNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          550596,
+          550597
+        ]
       ],
       "mol": {
         "atoms": [
@@ -2022,20 +2014,16 @@ FKEBLPRSYPZNIA-HZWSOLKCNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        286852,
-        286146
-      ]
-    },
-    {
-      "symIds": [
-        453191,
-        453311,
-        453310,
-        453309
-      ]
-    }
+    [
+      286852,
+      286146
+    ],
+    [
+      453191,
+      453311,
+      453310,
+      453309
+    ]
   ]
 }
 

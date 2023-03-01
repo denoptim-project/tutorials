@@ -141,7 +141,7 @@ PRTWAHWBZZJTBT-SABDOLIUNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -162,12 +162,10 @@ PRTWAHWBZZJTBT-SABDOLIUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          286836,
+          286837
+        ]
       ],
       "mol": {
         "atoms": [
@@ -182,7 +180,7 @@ PRTWAHWBZZJTBT-SABDOLIUNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -438,18 +436,14 @@ PRTWAHWBZZJTBT-SABDOLIUNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          286842,
+          286845
+        ],
+        [
+          286843,
+          286844
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1365,18 +1359,14 @@ PRTWAHWBZZJTBT-SABDOLIUNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        219574,
-        216858
-      ]
-    },
-    {
-      "symIds": [
-        216866,
-        219573
-      ]
-    }
+    [
+      219574,
+      216858
+    ],
+    [
+      216866,
+      219573
+    ]
   ]
 }
 

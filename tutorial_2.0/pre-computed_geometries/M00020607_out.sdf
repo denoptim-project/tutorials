@@ -178,7 +178,7 @@ KHGAJFYLWYPNII-VOSVGBDYNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -199,12 +199,10 @@ KHGAJFYLWYPNII-VOSVGBDYNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          601912,
+          601913
+        ]
       ],
       "mol": {
         "atoms": [
@@ -219,7 +217,7 @@ KHGAJFYLWYPNII-VOSVGBDYNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -475,12 +473,10 @@ KHGAJFYLWYPNII-VOSVGBDYNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          601917,
+          601918
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1599,12 +1595,10 @@ KHGAJFYLWYPNII-VOSVGBDYNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        384581,
-        384521
-      ]
-    }
+    [
+      384581,
+      384521
+    ]
   ]
 }
 

@@ -140,7 +140,7 @@ ONMIOICSMXIPFM-MANXOJIGNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -161,12 +161,10 @@ ONMIOICSMXIPFM-MANXOJIGNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          444023,
+          444024
+        ]
       ],
       "mol": {
         "atoms": [
@@ -181,7 +179,7 @@ ONMIOICSMXIPFM-MANXOJIGNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -376,12 +374,10 @@ ONMIOICSMXIPFM-MANXOJIGNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          444029,
+          444030
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1204,12 +1200,10 @@ ONMIOICSMXIPFM-MANXOJIGNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        340952,
-        340629
-      ]
-    }
+    [
+      340952,
+      340629
+    ]
   ]
 }
 

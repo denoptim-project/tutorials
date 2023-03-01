@@ -147,7 +147,7 @@ XUUGIKINSONJMB-ICHGMWIANA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -168,12 +168,10 @@ XUUGIKINSONJMB-ICHGMWIANA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          289076,
+          289077
+        ]
       ],
       "mol": {
         "atoms": [
@@ -188,7 +186,7 @@ XUUGIKINSONJMB-ICHGMWIANA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -444,18 +442,14 @@ XUUGIKINSONJMB-ICHGMWIANA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          289082,
+          289085
+        ],
+        [
+          289083,
+          289084
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1413,18 +1407,14 @@ XUUGIKINSONJMB-ICHGMWIANA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        216863,
-        221324
-      ]
-    },
-    {
-      "symIds": [
-        216870,
-        221323
-      ]
-    }
+    [
+      216863,
+      221324
+    ],
+    [
+      216870,
+      221323
+    ]
   ]
 }
 

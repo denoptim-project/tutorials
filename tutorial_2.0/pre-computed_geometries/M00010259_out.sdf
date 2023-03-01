@@ -84,7 +84,7 @@ GOPLCFFADPILMQ-WWDRSINDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -105,12 +105,10 @@ GOPLCFFADPILMQ-WWDRSINDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          301028,
+          301029
+        ]
       ],
       "mol": {
         "atoms": [
@@ -125,7 +123,7 @@ GOPLCFFADPILMQ-WWDRSINDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -366,18 +364,14 @@ GOPLCFFADPILMQ-WWDRSINDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          301032,
+          301034
+        ],
+        [
+          301035,
+          301036
+        ]
       ],
       "mol": {
         "atoms": [
@@ -804,18 +798,14 @@ GOPLCFFADPILMQ-WWDRSINDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        230481,
-        228955
-      ]
-    },
-    {
-      "symIds": [
-        228964,
-        230480
-      ]
-    }
+    [
+      230481,
+      228955
+    ],
+    [
+      228964,
+      230480
+    ]
   ]
 }
 

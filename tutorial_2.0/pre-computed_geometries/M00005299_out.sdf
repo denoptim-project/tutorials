@@ -142,7 +142,7 @@ BXLVHGSWIHRIME-SDKHGJANNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -163,12 +163,10 @@ BXLVHGSWIHRIME-SDKHGJANNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          158708,
+          158709
+        ]
       ],
       "mol": {
         "atoms": [
@@ -183,7 +181,7 @@ BXLVHGSWIHRIME-SDKHGJANNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -439,12 +437,10 @@ BXLVHGSWIHRIME-SDKHGJANNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          158712,
+          158713
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1221,12 +1217,10 @@ BXLVHGSWIHRIME-SDKHGJANNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        121038,
-        120593
-      ]
-    }
+    [
+      121038,
+      120593
+    ]
   ]
 }
 

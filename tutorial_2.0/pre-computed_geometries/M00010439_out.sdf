@@ -140,7 +140,7 @@ QALSFCVRYGNBKU-HIZGLXCVNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -161,12 +161,10 @@ QALSFCVRYGNBKU-HIZGLXCVNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          306023,
+          306024
+        ]
       ],
       "mol": {
         "atoms": [
@@ -181,7 +179,7 @@ QALSFCVRYGNBKU-HIZGLXCVNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -407,12 +405,10 @@ QALSFCVRYGNBKU-HIZGLXCVNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          306027,
+          306028
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1220,12 +1216,10 @@ QALSFCVRYGNBKU-HIZGLXCVNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        233925,
-        234459
-      ]
-    }
+    [
+      233925,
+      234459
+    ]
   ]
 }
 

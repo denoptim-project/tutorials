@@ -158,7 +158,7 @@ DACSOEFIKOYCBW-GRHFGHMBNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -179,12 +179,10 @@ DACSOEFIKOYCBW-GRHFGHMBNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          130495,
+          130496
+        ]
       ],
       "mol": {
         "atoms": [
@@ -199,7 +197,7 @@ DACSOEFIKOYCBW-GRHFGHMBNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -455,12 +453,10 @@ DACSOEFIKOYCBW-GRHFGHMBNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          130499,
+          130500
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1374,12 +1370,10 @@ DACSOEFIKOYCBW-GRHFGHMBNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        99191,
-        98399
-      ]
-    }
+    [
+      99191,
+      98399
+    ]
   ]
 }
 

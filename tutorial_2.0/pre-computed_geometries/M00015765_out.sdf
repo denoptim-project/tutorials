@@ -185,7 +185,7 @@ ILNYTECJLOEMNE-ZEZCTPSWNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -206,12 +206,10 @@ ILNYTECJLOEMNE-ZEZCTPSWNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          455537,
+          455538
+        ]
       ],
       "mol": {
         "atoms": [
@@ -226,7 +224,7 @@ ILNYTECJLOEMNE-ZEZCTPSWNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -421,12 +419,10 @@ ILNYTECJLOEMNE-ZEZCTPSWNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          455541,
+          455542
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1586,12 +1582,10 @@ ILNYTECJLOEMNE-ZEZCTPSWNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        349674,
-        349305
-      ]
-    }
+    [
+      349674,
+      349305
+    ]
   ]
 }
 

@@ -123,7 +123,7 @@ VLKRSGIRZFRHGX-LTAKYFELNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -144,12 +144,10 @@ VLKRSGIRZFRHGX-LTAKYFELNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          618020,
+          618021
+        ]
       ],
       "mol": {
         "atoms": [
@@ -164,7 +162,7 @@ VLKRSGIRZFRHGX-LTAKYFELNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -420,12 +418,10 @@ VLKRSGIRZFRHGX-LTAKYFELNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          618025,
+          618026
+        ]
       ],
       "mol": {
         "atoms": [
@@ -717,12 +713,10 @@ VLKRSGIRZFRHGX-LTAKYFELNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          618031,
+          618032
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1182,18 +1176,14 @@ VLKRSGIRZFRHGX-LTAKYFELNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        70609,
-        69881
-      ]
-    },
-    {
-      "symIds": [
-        556324,
-        556307
-      ]
-    }
+    [
+      70609,
+      69881
+    ],
+    [
+      556324,
+      556307
+    ]
   ]
 }
 

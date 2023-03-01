@@ -176,7 +176,7 @@ HSICVOLVHQNECO-SQAIBRRANA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -197,12 +197,10 @@ HSICVOLVHQNECO-SQAIBRRANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          527264,
+          527265
+        ]
       ],
       "mol": {
         "atoms": [
@@ -217,7 +215,7 @@ HSICVOLVHQNECO-SQAIBRRANA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -443,12 +441,10 @@ HSICVOLVHQNECO-SQAIBRRANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          527268,
+          527269
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1639,18 +1635,14 @@ HSICVOLVHQNECO-SQAIBRRANA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        234832,
-        235652
-      ]
-    },
-    {
-      "symIds": [
-        416833,
-        416877
-      ]
-    }
+    [
+      234832,
+      235652
+    ],
+    [
+      416833,
+      416877
+    ]
   ]
 }
 

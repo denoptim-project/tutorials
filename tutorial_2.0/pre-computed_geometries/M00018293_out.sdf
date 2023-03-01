@@ -113,7 +113,7 @@ FYTMAVRZPWKDIB-REMIBNQVNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -134,12 +134,10 @@ FYTMAVRZPWKDIB-REMIBNQVNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          530212,
+          530213
+        ]
       ],
       "mol": {
         "atoms": [
@@ -154,7 +152,7 @@ FYTMAVRZPWKDIB-REMIBNQVNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -410,12 +408,10 @@ FYTMAVRZPWKDIB-REMIBNQVNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          530216,
+          530217
+        ]
       ],
       "mol": {
         "atoms": [
@@ -549,12 +545,10 @@ FYTMAVRZPWKDIB-REMIBNQVNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          530222,
+          530223
+        ]
       ],
       "mol": {
         "atoms": [
@@ -637,12 +631,10 @@ FYTMAVRZPWKDIB-REMIBNQVNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          530225,
+          530226
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1216,20 +1208,16 @@ FYTMAVRZPWKDIB-REMIBNQVNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        19440,
-        18806
-      ]
-    },
-    {
-      "symIds": [
-        420148,
-        420147,
-        420140,
-        420146
-      ]
-    }
+    [
+      19440,
+      18806
+    ],
+    [
+      420148,
+      420147,
+      420140,
+      420146
+    ]
   ]
 }
 

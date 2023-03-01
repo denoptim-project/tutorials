@@ -187,7 +187,7 @@ RJSLKDCWHHIIAT-BTMIEHNINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -208,12 +208,10 @@ RJSLKDCWHHIIAT-BTMIEHNINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          173194,
+          173195
+        ]
       ],
       "mol": {
         "atoms": [
@@ -228,7 +226,7 @@ RJSLKDCWHHIIAT-BTMIEHNINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -514,18 +512,14 @@ RJSLKDCWHHIIAT-BTMIEHNINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          173200,
+          173203
+        ],
+        [
+          173201,
+          173202
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1724,18 +1718,14 @@ RJSLKDCWHHIIAT-BTMIEHNINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        132116,
-        128795
-      ]
-    },
-    {
-      "symIds": [
-        132117,
-        128800
-      ]
-    }
+    [
+      132116,
+      128795
+    ],
+    [
+      132117,
+      128800
+    ]
   ]
 }
 

@@ -180,7 +180,7 @@ IGPXLWCSIZGFLX-IDBVNULDNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -201,12 +201,10 @@ IGPXLWCSIZGFLX-IDBVNULDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          270451,
+          270452
+        ]
       ],
       "mol": {
         "atoms": [
@@ -221,7 +219,7 @@ IGPXLWCSIZGFLX-IDBVNULDNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -447,12 +445,10 @@ IGPXLWCSIZGFLX-IDBVNULDNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          270456,
+          270457
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1574,12 +1570,10 @@ IGPXLWCSIZGFLX-IDBVNULDNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        207052,
-        206409
-      ]
-    }
+    [
+      207052,
+      206409
+    ]
   ]
 }
 

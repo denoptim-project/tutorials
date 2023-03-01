@@ -124,7 +124,7 @@ ARYXZRFDWUBLHX-ATLKUKIGNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -145,12 +145,10 @@ ARYXZRFDWUBLHX-ATLKUKIGNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          431872,
+          431873
+        ]
       ],
       "mol": {
         "atoms": [
@@ -165,7 +163,7 @@ ARYXZRFDWUBLHX-ATLKUKIGNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -345,12 +343,10 @@ ARYXZRFDWUBLHX-ATLKUKIGNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          431876,
+          431877
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1012,12 +1008,10 @@ ARYXZRFDWUBLHX-ATLKUKIGNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        331508,
-        331466
-      ]
-    }
+    [
+      331508,
+      331466
+    ]
   ]
 }
 

@@ -121,7 +121,7 @@ LKEGFLCJLMFQNZ-UVODXZOZNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -142,12 +142,10 @@ LKEGFLCJLMFQNZ-UVODXZOZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          450885,
+          450886
+        ]
       ],
       "mol": {
         "atoms": [
@@ -162,7 +160,7 @@ LKEGFLCJLMFQNZ-UVODXZOZNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -357,12 +355,10 @@ LKEGFLCJLMFQNZ-UVODXZOZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          450889,
+          450890
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1043,12 +1039,10 @@ LKEGFLCJLMFQNZ-UVODXZOZNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        346142,
-        345404
-      ]
-    }
+    [
+      346142,
+      345404
+    ]
   ]
 }
 

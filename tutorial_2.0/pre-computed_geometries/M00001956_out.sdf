@@ -131,7 +131,7 @@ HTDNSUMRSARDNP-ZMZUZUKBNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -152,12 +152,10 @@ HTDNSUMRSARDNP-ZMZUZUKBNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          64292,
+          64293
+        ]
       ],
       "mol": {
         "atoms": [
@@ -172,7 +170,7 @@ HTDNSUMRSARDNP-ZMZUZUKBNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -428,12 +426,10 @@ HTDNSUMRSARDNP-ZMZUZUKBNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          64296,
+          64297
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1129,12 +1125,10 @@ HTDNSUMRSARDNP-ZMZUZUKBNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        47244,
-        48155
-      ]
-    }
+    [
+      47244,
+      48155
+    ]
   ]
 }
 

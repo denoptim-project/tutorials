@@ -141,7 +141,7 @@ NOGIUEZESWXIFQ-DZUJIORINA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -162,12 +162,10 @@ NOGIUEZESWXIFQ-DZUJIORINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          89487,
+          89488
+        ]
       ],
       "mol": {
         "atoms": [
@@ -182,7 +180,7 @@ NOGIUEZESWXIFQ-DZUJIORINA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -438,12 +436,10 @@ NOGIUEZESWXIFQ-DZUJIORINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          89493,
+          89494
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1215,12 +1211,10 @@ NOGIUEZESWXIFQ-DZUJIORINA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        67164,
-        67697
-      ]
-    }
+    [
+      67164,
+      67697
+    ]
   ]
 }
 

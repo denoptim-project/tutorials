@@ -105,7 +105,7 @@ HELPRERDNFSSIU-SPVFMQSCNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -126,12 +126,10 @@ HELPRERDNFSSIU-SPVFMQSCNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          581892,
+          581893
+        ]
       ],
       "mol": {
         "atoms": [
@@ -146,7 +144,7 @@ HELPRERDNFSSIU-SPVFMQSCNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -341,12 +339,10 @@ HELPRERDNFSSIU-SPVFMQSCNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          581896,
+          581897
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1021,18 +1017,14 @@ HELPRERDNFSSIU-SPVFMQSCNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        342640,
-        343435
-      ]
-    },
-    {
-      "symIds": [
-        497640,
-        497713
-      ]
-    }
+    [
+      342640,
+      343435
+    ],
+    [
+      497640,
+      497713
+    ]
   ]
 }
 

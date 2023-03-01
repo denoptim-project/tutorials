@@ -204,7 +204,7 @@ KLYOXNNPJIKVNW-XCZNJUPENA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -225,12 +225,10 @@ KLYOXNNPJIKVNW-XCZNJUPENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          44887,
+          44888
+        ]
       ],
       "mol": {
         "atoms": [
@@ -245,7 +243,7 @@ KLYOXNNPJIKVNW-XCZNJUPENA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -501,13 +499,11 @@ KLYOXNNPJIKVNW-XCZNJUPENA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          44891,
+          44892,
+          44893
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1746,13 +1742,11 @@ KLYOXNNPJIKVNW-XCZNJUPENA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        33226,
-        33143,
-        33227
-      ]
-    }
+    [
+      33226,
+      33143,
+      33227
+    ]
   ]
 }
 

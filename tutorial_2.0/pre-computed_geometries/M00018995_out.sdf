@@ -221,7 +221,7 @@ WNWAHMQWRSHZDC-KWEZQAEONA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -242,12 +242,10 @@ WNWAHMQWRSHZDC-KWEZQAEONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          552424,
+          552425
+        ]
       ],
       "mol": {
         "atoms": [
@@ -262,7 +260,7 @@ WNWAHMQWRSHZDC-KWEZQAEONA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -457,12 +455,10 @@ WNWAHMQWRSHZDC-KWEZQAEONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          552428,
+          552429
+        ]
       ],
       "mol": {
         "atoms": [
@@ -657,12 +653,10 @@ WNWAHMQWRSHZDC-KWEZQAEONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          552434,
+          552435
+        ]
       ],
       "mol": {
         "atoms": [
@@ -745,12 +739,10 @@ WNWAHMQWRSHZDC-KWEZQAEONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          552437,
+          552438
+        ]
       ],
       "mol": {
         "atoms": [
@@ -2132,20 +2124,16 @@ WNWAHMQWRSHZDC-KWEZQAEONA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        291328,
-        290687
-      ]
-    },
-    {
-      "symIds": [
-        456421,
-        456348,
-        456423,
-        456422
-      ]
-    }
+    [
+      291328,
+      290687
+    ],
+    [
+      456421,
+      456348,
+      456423,
+      456422
+    ]
   ]
 }
 

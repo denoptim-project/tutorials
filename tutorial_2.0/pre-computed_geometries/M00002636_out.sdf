@@ -146,7 +146,7 @@ BLOGIDGSFQVLCM-ZGYLCVGTNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -167,12 +167,10 @@ BLOGIDGSFQVLCM-ZGYLCVGTNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          83968,
+          83969
+        ]
       ],
       "mol": {
         "atoms": [
@@ -187,7 +185,7 @@ BLOGIDGSFQVLCM-ZGYLCVGTNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -458,18 +456,14 @@ BLOGIDGSFQVLCM-ZGYLCVGTNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          83972,
+          83974
+        ],
+        [
+          83975,
+          83976
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1321,18 +1315,14 @@ BLOGIDGSFQVLCM-ZGYLCVGTNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        63089,
-        63279
-      ]
-    },
-    {
-      "symIds": [
-        63101,
-        63280
-      ]
-    }
+    [
+      63089,
+      63279
+    ],
+    [
+      63101,
+      63280
+    ]
   ]
 }
 

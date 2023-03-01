@@ -125,7 +125,7 @@ KIMDCUFZYCITEA-IBTZIAIZNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -146,12 +146,10 @@ KIMDCUFZYCITEA-IBTZIAIZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          582559,
+          582560
+        ]
       ],
       "mol": {
         "atoms": [
@@ -166,7 +164,7 @@ KIMDCUFZYCITEA-IBTZIAIZNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -361,12 +359,10 @@ KIMDCUFZYCITEA-IBTZIAIZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          582564,
+          582565
+        ]
       ],
       "mol": {
         "atoms": [
@@ -500,12 +496,10 @@ KIMDCUFZYCITEA-IBTZIAIZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          582569,
+          582570
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1196,18 +1190,14 @@ KIMDCUFZYCITEA-IBTZIAIZNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        343540,
-        344269
-      ]
-    },
-    {
-      "symIds": [
-        498460,
-        498537
-      ]
-    }
+    [
+      343540,
+      344269
+    ],
+    [
+      498460,
+      498537
+    ]
   ]
 }
 

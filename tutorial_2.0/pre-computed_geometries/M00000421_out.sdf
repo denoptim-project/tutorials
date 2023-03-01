@@ -110,7 +110,7 @@ ALICIWBOZBCKEZ-GRMCEBJCNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -131,12 +131,10 @@ ALICIWBOZBCKEZ-GRMCEBJCNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          21446,
+          21447
+        ]
       ],
       "mol": {
         "atoms": [
@@ -151,7 +149,7 @@ ALICIWBOZBCKEZ-GRMCEBJCNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -422,18 +420,14 @@ ALICIWBOZBCKEZ-GRMCEBJCNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          21451,
+          21454
+        ],
+        [
+          21452,
+          21453
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1012,18 +1006,14 @@ ALICIWBOZBCKEZ-GRMCEBJCNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        15338,
-        15178
-      ]
-    },
-    {
-      "symIds": [
-        15340,
-        15192
-      ]
-    }
+    [
+      15338,
+      15178
+    ],
+    [
+      15340,
+      15192
+    ]
   ]
 }
 

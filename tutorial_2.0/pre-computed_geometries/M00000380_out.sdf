@@ -102,7 +102,7 @@ VLKKHLBANQHZGU-VABRHTESNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -123,12 +123,10 @@ VLKKHLBANQHZGU-VABRHTESNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          20062,
+          20063
+        ]
       ],
       "mol": {
         "atoms": [
@@ -143,7 +141,7 @@ VLKKHLBANQHZGU-VABRHTESNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -414,18 +412,14 @@ VLKKHLBANQHZGU-VABRHTESNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          20066,
+          20067
+        ],
+        [
+          20069,
+          20070
+        ]
       ],
       "mol": {
         "atoms": [
@@ -944,18 +938,14 @@ VLKKHLBANQHZGU-VABRHTESNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        14182,
-        13589
-      ]
-    },
-    {
-      "symIds": [
-        14181,
-        13592
-      ]
-    }
+    [
+      14182,
+      13589
+    ],
+    [
+      14181,
+      13592
+    ]
   ]
 }
 

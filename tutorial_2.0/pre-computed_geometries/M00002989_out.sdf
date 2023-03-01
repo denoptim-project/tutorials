@@ -155,7 +155,7 @@ COZQAZUAUILVSI-GECCSBQDNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -176,12 +176,10 @@ COZQAZUAUILVSI-GECCSBQDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          94081,
+          94082
+        ]
       ],
       "mol": {
         "atoms": [
@@ -196,7 +194,7 @@ COZQAZUAUILVSI-GECCSBQDNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -452,13 +450,11 @@ COZQAZUAUILVSI-GECCSBQDNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          94085,
+          94086,
+          94087
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1335,13 +1331,11 @@ COZQAZUAUILVSI-GECCSBQDNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        71042,
-        71117,
-        71116
-      ]
-    }
+    [
+      71042,
+      71117,
+      71116
+    ]
   ]
 }
 

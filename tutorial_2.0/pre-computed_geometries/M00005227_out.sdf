@@ -116,7 +116,7 @@ AFSBRJIPEQYPMX-LWCLRRBDNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -137,12 +137,10 @@ AFSBRJIPEQYPMX-LWCLRRBDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          156972,
+          156973
+        ]
       ],
       "mol": {
         "atoms": [
@@ -157,7 +155,7 @@ AFSBRJIPEQYPMX-LWCLRRBDNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -413,12 +411,10 @@ AFSBRJIPEQYPMX-LWCLRRBDNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          156976,
+          156977
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1002,12 +998,10 @@ AFSBRJIPEQYPMX-LWCLRRBDNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        119720,
-        119686
-      ]
-    }
+    [
+      119720,
+      119686
+    ]
   ]
 }
 

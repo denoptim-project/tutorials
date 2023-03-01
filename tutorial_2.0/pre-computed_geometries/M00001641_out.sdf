@@ -136,7 +136,7 @@ RTVGATKONXLCQZ-ACPFFZCCNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -157,12 +157,10 @@ RTVGATKONXLCQZ-ACPFFZCCNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          56295,
+          56296
+        ]
       ],
       "mol": {
         "atoms": [
@@ -177,7 +175,7 @@ RTVGATKONXLCQZ-ACPFFZCCNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -448,18 +446,14 @@ RTVGATKONXLCQZ-ACPFFZCCNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          56300,
+          56303
+        ],
+        [
+          56301,
+          56302
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1233,18 +1227,14 @@ RTVGATKONXLCQZ-ACPFFZCCNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        42097,
-        41625
-      ]
-    },
-    {
-      "symIds": [
-        42096,
-        41633
-      ]
-    }
+    [
+      42097,
+      41625
+    ],
+    [
+      42096,
+      41633
+    ]
   ]
 }
 

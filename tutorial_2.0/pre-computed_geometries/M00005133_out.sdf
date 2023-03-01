@@ -114,7 +114,7 @@ HMLXGTKQUUFEIR-JZKKPRCTNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -135,12 +135,10 @@ HMLXGTKQUUFEIR-JZKKPRCTNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          154503,
+          154504
+        ]
       ],
       "mol": {
         "atoms": [
@@ -155,7 +153,7 @@ HMLXGTKQUUFEIR-JZKKPRCTNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -456,20 +454,16 @@ HMLXGTKQUUFEIR-JZKKPRCTNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          154507,
+          154508
+        ],
+        [
+          154510,
+          154511,
+          154512,
+          154513
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1162,20 +1156,16 @@ HMLXGTKQUUFEIR-JZKKPRCTNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        116966,
-        117771
-      ]
-    },
-    {
-      "symIds": [
-        117774,
-        117772,
-        116969,
-        117773
-      ]
-    }
+    [
+      116966,
+      117771
+    ],
+    [
+      117774,
+      117772,
+      116969,
+      117773
+    ]
   ]
 }
 

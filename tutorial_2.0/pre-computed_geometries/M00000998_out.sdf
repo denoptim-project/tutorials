@@ -202,7 +202,7 @@ ZJHUSCSSUONZEE-GEGZHCMTNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -223,12 +223,10 @@ ZJHUSCSSUONZEE-GEGZHCMTNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          37185,
+          37186
+        ]
       ],
       "mol": {
         "atoms": [
@@ -243,7 +241,7 @@ ZJHUSCSSUONZEE-GEGZHCMTNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -529,18 +527,14 @@ ZJHUSCSSUONZEE-GEGZHCMTNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          37191,
+          37194
+        ],
+        [
+          37192,
+          37193
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1851,18 +1845,14 @@ ZJHUSCSSUONZEE-GEGZHCMTNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        27240,
-        26693
-      ]
-    },
-    {
-      "symIds": [
-        27239,
-        26702
-      ]
-    }
+    [
+      27240,
+      26693
+    ],
+    [
+      27239,
+      26702
+    ]
   ]
 }
 

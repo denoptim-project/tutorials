@@ -97,7 +97,7 @@ POHFRFWNZOMMON-LVNANXPANA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -118,12 +118,10 @@ POHFRFWNZOMMON-LVNANXPANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          527737,
+          527738
+        ]
       ],
       "mol": {
         "atoms": [
@@ -138,7 +136,7 @@ POHFRFWNZOMMON-LVNANXPANA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -364,12 +362,10 @@ POHFRFWNZOMMON-LVNANXPANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          527742,
+          527743
+        ]
       ],
       "mol": {
         "atoms": [
@@ -503,12 +499,10 @@ POHFRFWNZOMMON-LVNANXPANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          527747,
+          527748
+        ]
       ],
       "mol": {
         "atoms": [
@@ -975,18 +969,14 @@ POHFRFWNZOMMON-LVNANXPANA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        236468,
-        235739
-      ]
-    },
-    {
-      "symIds": [
-        417536,
-        417542
-      ]
-    }
+    [
+      236468,
+      235739
+    ],
+    [
+      417536,
+      417542
+    ]
   ]
 }
 

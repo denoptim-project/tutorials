@@ -146,7 +146,7 @@ FPYZOWNAGPHUEW-UXNXZQNLNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -167,12 +167,10 @@ FPYZOWNAGPHUEW-UXNXZQNLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          54715,
+          54716
+        ]
       ],
       "mol": {
         "atoms": [
@@ -187,7 +185,7 @@ FPYZOWNAGPHUEW-UXNXZQNLNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -488,20 +486,16 @@ FPYZOWNAGPHUEW-UXNXZQNLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          54719,
+          54720
+        ],
+        [
+          54722,
+          54723,
+          54724,
+          54725
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1437,20 +1431,16 @@ FPYZOWNAGPHUEW-UXNXZQNLNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        40794,
-        40710
-      ]
-    },
-    {
-      "symIds": [
-        40796,
-        40797,
-        40795,
-        40721
-      ]
-    }
+    [
+      40794,
+      40710
+    ],
+    [
+      40796,
+      40797,
+      40795,
+      40721
+    ]
   ]
 }
 

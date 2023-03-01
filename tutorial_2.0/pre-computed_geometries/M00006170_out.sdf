@@ -162,7 +162,7 @@ NWEVPGBKTZIGLA-WIGCLESNNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -183,12 +183,10 @@ NWEVPGBKTZIGLA-WIGCLESNNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          183617,
+          183618
+        ]
       ],
       "mol": {
         "atoms": [
@@ -203,7 +201,7 @@ NWEVPGBKTZIGLA-WIGCLESNNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -489,18 +487,14 @@ NWEVPGBKTZIGLA-WIGCLESNNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          183623,
+          183626
+        ],
+        [
+          183624,
+          183625
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1514,18 +1508,14 @@ NWEVPGBKTZIGLA-WIGCLESNNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        139743,
-        140081
-      ]
-    },
-    {
-      "symIds": [
-        139750,
-        140082
-      ]
-    }
+    [
+      139743,
+      140081
+    ],
+    [
+      139750,
+      140082
+    ]
   ]
 }
 

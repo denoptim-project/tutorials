@@ -151,7 +151,7 @@ OQSSVCRDMHYDOD-GASSRPMTNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -172,12 +172,10 @@ OQSSVCRDMHYDOD-GASSRPMTNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          178895,
+          178896
+        ]
       ],
       "mol": {
         "atoms": [
@@ -192,7 +190,7 @@ OQSSVCRDMHYDOD-GASSRPMTNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -448,12 +446,10 @@ OQSSVCRDMHYDOD-GASSRPMTNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            4,
-            5
-          ]
-        }
+        [
+          178903,
+          178904
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1429,12 +1425,10 @@ OQSSVCRDMHYDOD-GASSRPMTNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        136510,
-        135416
-      ]
-    }
+    [
+      136510,
+      135416
+    ]
   ]
 }
 

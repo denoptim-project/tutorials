@@ -234,7 +234,7 @@ YRCYMCJYJTYOJT-JWAGOZIONA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -255,12 +255,10 @@ YRCYMCJYJTYOJT-JWAGOZIONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          136647,
+          136648
+        ]
       ],
       "mol": {
         "atoms": [
@@ -275,7 +273,7 @@ YRCYMCJYJTYOJT-JWAGOZIONA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -561,18 +559,14 @@ YRCYMCJYJTYOJT-JWAGOZIONA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          136653,
+          136656
+        ],
+        [
+          136654,
+          136655
+        ]
       ],
       "mol": {
         "atoms": [
@@ -2139,18 +2133,14 @@ YRCYMCJYJTYOJT-JWAGOZIONA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        102500,
-        103929
-      ]
-    },
-    {
-      "symIds": [
-        102508,
-        103930
-      ]
-    }
+    [
+      102500,
+      103929
+    ],
+    [
+      102508,
+      103930
+    ]
   ]
 }
 

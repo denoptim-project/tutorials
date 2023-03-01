@@ -171,7 +171,7 @@ CVSNSFJEJTXFCY-IACIUMOMNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -192,12 +192,10 @@ CVSNSFJEJTXFCY-IACIUMOMNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          623931,
+          623932
+        ]
       ],
       "mol": {
         "atoms": [
@@ -212,7 +210,7 @@ CVSNSFJEJTXFCY-IACIUMOMNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -468,12 +466,10 @@ CVSNSFJEJTXFCY-IACIUMOMNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          623935,
+          623936
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1581,18 +1577,14 @@ CVSNSFJEJTXFCY-IACIUMOMNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        83988,
-        84045
-      ]
-    },
-    {
-      "symIds": [
-        565243,
-        565178
-      ]
-    }
+    [
+      83988,
+      84045
+    ],
+    [
+      565243,
+      565178
+    ]
   ]
 }
 

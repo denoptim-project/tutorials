@@ -139,7 +139,7 @@ CPUQECQKWMVOCC-SBRQQYSLNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -160,12 +160,10 @@ CPUQECQKWMVOCC-SBRQQYSLNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          537573,
+          537574
+        ]
       ],
       "mol": {
         "atoms": [
@@ -180,7 +178,7 @@ CPUQECQKWMVOCC-SBRQQYSLNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -436,12 +434,10 @@ CPUQECQKWMVOCC-SBRQQYSLNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          537578,
+          537579
+        ]
       ],
       "mol": {
         "atoms": [
@@ -859,12 +855,10 @@ CPUQECQKWMVOCC-SBRQQYSLNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          537585,
+          537586
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1317,18 +1311,14 @@ CPUQECQKWMVOCC-SBRQQYSLNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        19716,
-        20454
-      ]
-    },
-    {
-      "symIds": [
-        429824,
-        429778
-      ]
-    }
+    [
+      19716,
+      20454
+    ],
+    [
+      429824,
+      429778
+    ]
   ]
 }
 

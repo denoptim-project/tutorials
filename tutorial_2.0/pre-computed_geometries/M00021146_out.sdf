@@ -165,7 +165,7 @@ DILIVFHULNHLIN-XDQCGNADNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -186,12 +186,10 @@ DILIVFHULNHLIN-XDQCGNADNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          618832,
+          618833
+        ]
       ],
       "mol": {
         "atoms": [
@@ -206,7 +204,7 @@ DILIVFHULNHLIN-XDQCGNADNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -462,12 +460,10 @@ DILIVFHULNHLIN-XDQCGNADNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          618837,
+          618838
+        ]
       ],
       "mol": {
         "atoms": [
@@ -662,12 +658,10 @@ DILIVFHULNHLIN-XDQCGNADNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          618842,
+          618843
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1538,18 +1532,14 @@ DILIVFHULNHLIN-XDQCGNADNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        69885,
-        70681
-      ]
-    },
-    {
-      "symIds": [
-        556863,
-        556909
-      ]
-    }
+    [
+      69885,
+      70681
+    ],
+    [
+      556863,
+      556909
+    ]
   ]
 }
 

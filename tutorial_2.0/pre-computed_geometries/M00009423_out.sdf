@@ -111,7 +111,7 @@ OXPNXIZTHPBAOH-KAZMOAKSNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -132,12 +132,10 @@ OXPNXIZTHPBAOH-KAZMOAKSNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          276116,
+          276117
+        ]
       ],
       "mol": {
         "atoms": [
@@ -152,7 +150,7 @@ OXPNXIZTHPBAOH-KAZMOAKSNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -378,12 +376,10 @@ OXPNXIZTHPBAOH-KAZMOAKSNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          276122,
+          276123
+        ]
       ],
       "mol": {
         "atoms": [
@@ -988,12 +984,10 @@ OXPNXIZTHPBAOH-KAZMOAKSNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        211184,
-        211383
-      ]
-    }
+    [
+      211184,
+      211383
+    ]
   ]
 }
 

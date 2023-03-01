@@ -137,7 +137,7 @@ ZTDIWCPWBKBXRO-FOVIOHLQNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -158,12 +158,10 @@ ZTDIWCPWBKBXRO-FOVIOHLQNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          96085,
+          96086
+        ]
       ],
       "mol": {
         "atoms": [
@@ -178,7 +176,7 @@ ZTDIWCPWBKBXRO-FOVIOHLQNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -434,12 +432,10 @@ ZTDIWCPWBKBXRO-FOVIOHLQNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          96089,
+          96090
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1181,12 +1177,10 @@ ZTDIWCPWBKBXRO-FOVIOHLQNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        72689,
-        71950
-      ]
-    }
+    [
+      72689,
+      71950
+    ]
   ]
 }
 

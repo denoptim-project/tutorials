@@ -185,7 +185,7 @@ DEDYGLZMXMTMPM-MIEIYUETNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -206,12 +206,10 @@ DEDYGLZMXMTMPM-MIEIYUETNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          603886,
+          603887
+        ]
       ],
       "mol": {
         "atoms": [
@@ -226,7 +224,7 @@ DEDYGLZMXMTMPM-MIEIYUETNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -482,13 +480,11 @@ DEDYGLZMXMTMPM-MIEIYUETNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1,
-            2
-          ]
-        }
+        [
+          603890,
+          603891,
+          603892
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1770,20 +1766,16 @@ DEDYGLZMXMTMPM-MIEIYUETNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        384740,
-        384739,
-        384741
-      ]
-    },
-    {
-      "symIds": [
-        529374,
-        529208,
-        529375
-      ]
-    }
+    [
+      384740,
+      384739,
+      384741
+    ],
+    [
+      529374,
+      529208,
+      529375
+    ]
   ]
 }
 

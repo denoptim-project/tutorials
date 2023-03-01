@@ -132,7 +132,7 @@ KKEIWPLIRMEEFR-OMWODZSENA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -153,12 +153,10 @@ KKEIWPLIRMEEFR-OMWODZSENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          619694,
+          619695
+        ]
       ],
       "mol": {
         "atoms": [
@@ -173,7 +171,7 @@ KKEIWPLIRMEEFR-OMWODZSENA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -429,12 +427,10 @@ KKEIWPLIRMEEFR-OMWODZSENA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          619699,
+          619700
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1195,12 +1191,10 @@ KKEIWPLIRMEEFR-OMWODZSENA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        69882,
-        70771
-      ]
-    }
+    [
+      69882,
+      70771
+    ]
   ]
 }
 

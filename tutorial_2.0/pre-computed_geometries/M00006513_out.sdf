@@ -176,7 +176,7 @@ LVRZGXBUBUDGCV-KCFDMRAINA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -197,12 +197,10 @@ LVRZGXBUBUDGCV-KCFDMRAINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          193922,
+          193923
+        ]
       ],
       "mol": {
         "atoms": [
@@ -217,7 +215,7 @@ LVRZGXBUBUDGCV-KCFDMRAINA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -488,20 +486,16 @@ LVRZGXBUBUDGCV-KCFDMRAINA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4,
-            5,
-            6
-          ]
-        }
+        [
+          193926,
+          193927
+        ],
+        [
+          193929,
+          193930,
+          193931,
+          193932
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1707,20 +1701,16 @@ LVRZGXBUBUDGCV-KCFDMRAINA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        147986,
-        148193
-      ]
-    },
-    {
-      "symIds": [
-        148194,
-        148196,
-        148195,
-        147997
-      ]
-    }
+    [
+      147986,
+      148193
+    ],
+    [
+      148194,
+      148196,
+      148195,
+      147997
+    ]
   ]
 }
 

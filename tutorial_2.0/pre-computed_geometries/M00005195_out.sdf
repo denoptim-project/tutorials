@@ -172,7 +172,7 @@ URSUGGWDLIMDDD-FDHNCMBCNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -193,12 +193,10 @@ URSUGGWDLIMDDD-FDHNCMBCNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          156220,
+          156221
+        ]
       ],
       "mol": {
         "atoms": [
@@ -213,7 +211,7 @@ URSUGGWDLIMDDD-FDHNCMBCNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -469,12 +467,10 @@ URSUGGWDLIMDDD-FDHNCMBCNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          156226,
+          156227
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1477,12 +1473,10 @@ URSUGGWDLIMDDD-FDHNCMBCNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        119139,
-        118791
-      ]
-    }
+    [
+      119139,
+      118791
+    ]
   ]
 }
 

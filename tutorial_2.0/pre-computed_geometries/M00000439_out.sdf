@@ -140,7 +140,7 @@ ZTIRIMHEUBRXEJ-BCQWYKTBNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -161,12 +161,10 @@ ZTIRIMHEUBRXEJ-BCQWYKTBNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          21947,
+          21948
+        ]
       ],
       "mol": {
         "atoms": [
@@ -181,7 +179,7 @@ ZTIRIMHEUBRXEJ-BCQWYKTBNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -452,18 +450,14 @@ ZTIRIMHEUBRXEJ-BCQWYKTBNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            4
-          ]
-        },
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          21953,
+          21956
+        ],
+        [
+          21954,
+          21955
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1266,18 +1260,14 @@ ZTIRIMHEUBRXEJ-BCQWYKTBNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        15734,
-        15183
-      ]
-    },
-    {
-      "symIds": [
-        15190,
-        15735
-      ]
-    }
+    [
+      15734,
+      15183
+    ],
+    [
+      15190,
+      15735
+    ]
   ]
 }
 

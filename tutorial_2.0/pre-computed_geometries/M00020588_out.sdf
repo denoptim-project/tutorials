@@ -137,7 +137,7 @@ FUICKTIDGZVNLU-NHWDGBSXNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -158,12 +158,10 @@ FUICKTIDGZVNLU-NHWDGBSXNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          601376,
+          601377
+        ]
       ],
       "mol": {
         "atoms": [
@@ -178,7 +176,7 @@ FUICKTIDGZVNLU-NHWDGBSXNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -434,12 +432,10 @@ FUICKTIDGZVNLU-NHWDGBSXNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          601381,
+          601382
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1251,12 +1247,10 @@ FUICKTIDGZVNLU-NHWDGBSXNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        384519,
-        384545
-      ]
-    }
+    [
+      384519,
+      384545
+    ]
   ]
 }
 

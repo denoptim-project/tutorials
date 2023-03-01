@@ -93,7 +93,7 @@ SCZIILDAIOXELU-SJUFFHPMNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -114,12 +114,10 @@ SCZIILDAIOXELU-SJUFFHPMNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          523505,
+          523506
+        ]
       ],
       "mol": {
         "atoms": [
@@ -134,7 +132,7 @@ SCZIILDAIOXELU-SJUFFHPMNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -360,12 +358,10 @@ SCZIILDAIOXELU-SJUFFHPMNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          523509,
+          523510
+        ]
       ],
       "mol": {
         "atoms": [
@@ -949,18 +945,14 @@ SCZIILDAIOXELU-SJUFFHPMNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        222994,
-        223007
-      ]
-    },
-    {
-      "symIds": [
-        409143,
-        409148
-      ]
-    }
+    [
+      222994,
+      223007
+    ],
+    [
+      409143,
+      409148
+    ]
   ]
 }
 

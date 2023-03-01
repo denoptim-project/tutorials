@@ -135,7 +135,7 @@ TXNZWYHNXPZJSR-STURJMECNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -156,12 +156,10 @@ TXNZWYHNXPZJSR-STURJMECNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          202499,
+          202500
+        ]
       ],
       "mol": {
         "atoms": [
@@ -176,7 +174,7 @@ TXNZWYHNXPZJSR-STURJMECNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -402,12 +400,10 @@ TXNZWYHNXPZJSR-STURJMECNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          202503,
+          202504
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1178,12 +1174,10 @@ TXNZWYHNXPZJSR-STURJMECNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        154791,
-        154471
-      ]
-    }
+    [
+      154791,
+      154471
+    ]
   ]
 }
 

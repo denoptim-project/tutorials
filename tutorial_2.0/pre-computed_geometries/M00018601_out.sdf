@@ -180,7 +180,7 @@ QDWXOKCIUFSNGE-INWBFHSONA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -201,12 +201,10 @@ QDWXOKCIUFSNGE-INWBFHSONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          539780,
+          539781
+        ]
       ],
       "mol": {
         "atoms": [
@@ -221,7 +219,7 @@ QDWXOKCIUFSNGE-INWBFHSONA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -477,12 +475,10 @@ QDWXOKCIUFSNGE-INWBFHSONA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          539785,
+          539786
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1600,12 +1596,10 @@ QDWXOKCIUFSNGE-INWBFHSONA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        19721,
-        20683
-      ]
-    }
+    [
+      19721,
+      20683
+    ]
   ]
 }
 

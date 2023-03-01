@@ -156,7 +156,7 @@ OGSPORLCHSFOLD-DIEHWTBUNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -177,12 +177,10 @@ OGSPORLCHSFOLD-DIEHWTBUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          151693,
+          151694
+        ]
       ],
       "mol": {
         "atoms": [
@@ -197,7 +195,7 @@ OGSPORLCHSFOLD-DIEHWTBUNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -468,18 +466,14 @@ OGSPORLCHSFOLD-DIEHWTBUNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          151697,
+          151699
+        ],
+        [
+          151700,
+          151701
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1402,18 +1396,14 @@ OGSPORLCHSFOLD-DIEHWTBUNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        115511,
-        114051
-      ]
-    },
-    {
-      "symIds": [
-        115510,
-        114057
-      ]
-    }
+    [
+      115511,
+      114051
+    ],
+    [
+      115510,
+      114057
+    ]
   ]
 }
 

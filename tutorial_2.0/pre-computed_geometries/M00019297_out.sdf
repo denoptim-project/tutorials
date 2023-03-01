@@ -131,7 +131,7 @@ VAABMOKBBBUZIC-HEWAGVIQNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -152,12 +152,10 @@ VAABMOKBBBUZIC-HEWAGVIQNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          562059,
+          562060
+        ]
       ],
       "mol": {
         "atoms": [
@@ -172,7 +170,7 @@ VAABMOKBBBUZIC-HEWAGVIQNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -367,12 +365,10 @@ VAABMOKBBBUZIC-HEWAGVIQNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          562064,
+          562065
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1185,12 +1181,10 @@ VAABMOKBBBUZIC-HEWAGVIQNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        296399,
-        296322
-      ]
-    }
+    [
+      296399,
+      296322
+    ]
   ]
 }
 

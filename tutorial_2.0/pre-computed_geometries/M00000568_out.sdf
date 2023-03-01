@@ -146,7 +146,7 @@ COQLLDIOFDISLJ-KCMBIDFZNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -167,12 +167,10 @@ COQLLDIOFDISLJ-KCMBIDFZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          25531,
+          25532
+        ]
       ],
       "mol": {
         "atoms": [
@@ -187,7 +185,7 @@ COQLLDIOFDISLJ-KCMBIDFZNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -443,12 +441,10 @@ COQLLDIOFDISLJ-KCMBIDFZNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          25535,
+          25536
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1256,12 +1252,10 @@ COQLLDIOFDISLJ-KCMBIDFZNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        17894,
-        18428
-      ]
-    }
+    [
+      17894,
+      18428
+    ]
   ]
 }
 

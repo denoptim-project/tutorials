@@ -170,7 +170,7 @@ CZWFJIUHERISTF-OWFLCKRRNA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -191,12 +191,10 @@ CZWFJIUHERISTF-OWFLCKRRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          429881,
+          429882
+        ]
       ],
       "mol": {
         "atoms": [
@@ -211,7 +209,7 @@ CZWFJIUHERISTF-OWFLCKRRNA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -482,18 +480,14 @@ CZWFJIUHERISTF-OWFLCKRRNA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            2
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          429885,
+          429887
+        ],
+        [
+          429888,
+          429889
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1525,18 +1519,14 @@ CZWFJIUHERISTF-OWFLCKRRNA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        329924,
-        329661
-      ]
-    },
-    {
-      "symIds": [
-        329923,
-        329676
-      ]
-    }
+    [
+      329924,
+      329661
+    ],
+    [
+      329923,
+      329676
+    ]
   ]
 }
 

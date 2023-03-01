@@ -181,7 +181,7 @@ PMKHOHAZBIRBBN-NEXINIFLNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -202,12 +202,10 @@ PMKHOHAZBIRBBN-NEXINIFLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          317009,
+          317010
+        ]
       ],
       "mol": {
         "atoms": [
@@ -222,7 +220,7 @@ PMKHOHAZBIRBBN-NEXINIFLNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -448,12 +446,10 @@ PMKHOHAZBIRBBN-NEXINIFLNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            3
-          ]
-        }
+        [
+          317015,
+          317016
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1568,12 +1564,10 @@ PMKHOHAZBIRBBN-NEXINIFLNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        242869,
-        242596
-      ]
-    }
+    [
+      242869,
+      242596
+    ]
   ]
 }
 

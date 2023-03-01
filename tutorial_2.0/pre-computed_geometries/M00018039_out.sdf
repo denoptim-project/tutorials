@@ -172,7 +172,7 @@ GOAJLEYHCOCABM-KSKRNXFINA-L
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -193,12 +193,10 @@ GOAJLEYHCOCABM-KSKRNXFINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          521638,
+          521639
+        ]
       ],
       "mol": {
         "atoms": [
@@ -213,7 +211,7 @@ GOAJLEYHCOCABM-KSKRNXFINA-L
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -469,12 +467,10 @@ GOAJLEYHCOCABM-KSKRNXFINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          521642,
+          521643
+        ]
       ],
       "mol": {
         "atoms": [
@@ -669,12 +665,10 @@ GOAJLEYHCOCABM-KSKRNXFINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          521648,
+          521649
+        ]
       ],
       "mol": {
         "atoms": [
@@ -757,12 +751,10 @@ GOAJLEYHCOCABM-KSKRNXFINA-L
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            1,
-            2
-          ]
-        }
+        [
+          521651,
+          521652
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1718,20 +1710,16 @@ GOAJLEYHCOCABM-KSKRNXFINA-L
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        17680,
-        16997
-      ]
-    },
-    {
-      "symIds": [
-        405922,
-        405945,
-        405946,
-        405947
-      ]
-    }
+    [
+      17680,
+      16997
+    ],
+    [
+      405922,
+      405945,
+      405946,
+      405947
+    ]
   ]
 }
 

@@ -152,7 +152,7 @@ FIHYHEHLSFIHKO-AAOVLINANA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -173,12 +173,10 @@ FIHYHEHLSFIHKO-AAOVLINANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          157668,
+          157669
+        ]
       ],
       "mol": {
         "atoms": [
@@ -193,7 +191,7 @@ FIHYHEHLSFIHKO-AAOVLINANA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -449,12 +447,10 @@ FIHYHEHLSFIHKO-AAOVLINANA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          157672,
+          157673
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1307,12 +1303,10 @@ FIHYHEHLSFIHKO-AAOVLINANA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        120242,
-        119690
-      ]
-    }
+    [
+      120242,
+      119690
+    ]
   ]
 }
 

@@ -132,7 +132,7 @@ CNVHFSTWLAMJMV-JVCURUCINA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -153,12 +153,10 @@ CNVHFSTWLAMJMV-JVCURUCINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          135015,
+          135016
+        ]
       ],
       "mol": {
         "atoms": [
@@ -173,7 +171,7 @@ CNVHFSTWLAMJMV-JVCURUCINA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -459,18 +457,14 @@ CNVHFSTWLAMJMV-JVCURUCINA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          135021,
+          135024
+        ],
+        [
+          135022,
+          135023
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1274,18 +1268,14 @@ CNVHFSTWLAMJMV-JVCURUCINA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        102498,
-        102653
-      ]
-    },
-    {
-      "symIds": [
-        102654,
-        102505
-      ]
-    }
+    [
+      102498,
+      102653
+    ],
+    [
+      102654,
+      102505
+    ]
   ]
 }
 

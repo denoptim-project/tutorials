@@ -159,7 +159,7 @@ MMFTVRMUZHYPEA-CSIINDJGNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -180,12 +180,10 @@ MMFTVRMUZHYPEA-CSIINDJGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          212073,
+          212074
+        ]
       ],
       "mol": {
         "atoms": [
@@ -200,7 +198,7 @@ MMFTVRMUZHYPEA-CSIINDJGNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -456,18 +454,14 @@ MMFTVRMUZHYPEA-CSIINDJGNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          212079,
+          212082
+        ],
+        [
+          212080,
+          212081
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1501,18 +1495,14 @@ MMFTVRMUZHYPEA-CSIINDJGNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        162182,
-        158686
-      ]
-    },
-    {
-      "symIds": [
-        162181,
-        158691
-      ]
-    }
+    [
+      162182,
+      158686
+    ],
+    [
+      162181,
+      158691
+    ]
   ]
 }
 

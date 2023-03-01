@@ -144,7 +144,7 @@ WYOBAPHQZQAKQC-RYDMLPIONA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -165,12 +165,10 @@ WYOBAPHQZQAKQC-RYDMLPIONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          198895,
+          198896
+        ]
       ],
       "mol": {
         "atoms": [
@@ -185,7 +183,7 @@ WYOBAPHQZQAKQC-RYDMLPIONA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -411,12 +409,10 @@ WYOBAPHQZQAKQC-RYDMLPIONA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          198899,
+          198900
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1254,12 +1250,10 @@ WYOBAPHQZQAKQC-RYDMLPIONA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        152097,
-        151623
-      ]
-    }
+    [
+      152097,
+      151623
+    ]
   ]
 }
 

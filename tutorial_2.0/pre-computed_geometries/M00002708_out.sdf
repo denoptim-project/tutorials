@@ -176,7 +176,7 @@ KUJCZQUYYLEPCF-FBDDUHBYNA-N
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -197,12 +197,10 @@ KUJCZQUYYLEPCF-FBDDUHBYNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          85966,
+          85967
+        ]
       ],
       "mol": {
         "atoms": [
@@ -217,7 +215,7 @@ KUJCZQUYYLEPCF-FBDDUHBYNA-N
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -488,18 +486,14 @@ KUJCZQUYYLEPCF-FBDDUHBYNA-N
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          85970,
+          85971
+        ],
+        [
+          85973,
+          85974
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1575,18 +1569,14 @@ KUJCZQUYYLEPCF-FBDDUHBYNA-N
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        64652,
-        64864
-      ]
-    },
-    {
-      "symIds": [
-        64661,
-        64863
-      ]
-    }
+    [
+      64652,
+      64864
+    ],
+    [
+      64661,
+      64863
+    ]
   ]
 }
 

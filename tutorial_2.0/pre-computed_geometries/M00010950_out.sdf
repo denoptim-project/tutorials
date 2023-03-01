@@ -130,7 +130,7 @@ BITZGIPSIXYHEB-WTSGUVIYNA-M
           },
           "dirVec": {
             "x": 2.336,
-            "y": -5.0E-4,
+            "y": -0.0005,
             "z": 0.829
           }
         },
@@ -151,12 +151,10 @@ BITZGIPSIXYHEB-WTSGUVIYNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            0,
-            1
-          ]
-        }
+        [
+          319753,
+          319754
+        ]
       ],
       "mol": {
         "atoms": [
@@ -171,7 +169,7 @@ BITZGIPSIXYHEB-WTSGUVIYNA-M
           {
             "elSymbol": "C",
             "p3d": {
-              "x": -6.0E-4,
+              "x": -0.0006,
               "y": 0.0016,
               "z": 2.5609
             }
@@ -427,18 +425,14 @@ BITZGIPSIXYHEB-WTSGUVIYNA-M
         }
       ],
       "lstSymAPs": [
-        {
-          "symIds": [
-            2,
-            5
-          ]
-        },
-        {
-          "symIds": [
-            3,
-            4
-          ]
-        }
+        [
+          319759,
+          319762
+        ],
+        [
+          319760,
+          319761
+        ]
       ],
       "mol": {
         "atoms": [
@@ -1256,18 +1250,14 @@ BITZGIPSIXYHEB-WTSGUVIYNA-M
   ],
   "gRings": [],
   "symVertices": [
-    {
-      "symIds": [
-        243930,
-        244996
-      ]
-    },
-    {
-      "symIds": [
-        243937,
-        244995
-      ]
-    }
+    [
+      243930,
+      244996
+    ],
+    [
+      243937,
+      244995
+    ]
   ]
 }
 
