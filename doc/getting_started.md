@@ -158,9 +158,9 @@ Once activated, try the following command:
 denoptim -v
 ```
 
-You should see an output like this and not see errors (exact version numbers are not too important, here):
+You should see an output like this and not see errors (exact version numbers are not too important, but should be at least 4.0.0):
 ```
-V3.2.0
+V4.0.0
 ```
 
 

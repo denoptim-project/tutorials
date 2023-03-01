@@ -13,7 +13,7 @@ This tutorial is about creating a small space of building blocks from scratch.
 
 3. Using the button under *Import a structure from `File`*, load the structures from `tutorial_1.2/Pt_complexes-1.sdf` and `tutorial_1.2/Pt_complexes-1.sdf`.
 
-4. To generate building blocks, click on `Chop Structure` for each of the two Pt complexes. When asked, chose to keep only selected fragments (see Figure 1). Namely, keep only one fragment for each of these:
+4. To generate building blocks, click on `Chop Structure` for each of the two Pt complexes. Since you have just imported two structures from file, you should see a label stating `Current library size: 2` in the right-hand panel. Use the above arrow-buttons to select the structure you want to chop, and then click on `Chop Structure`. When asked, chose to keep only selected fragments (see Figure 1). Namely, keep only one fragment for each of these:
 - Iodine atom (X-ligand) with one attachment point,
 - NO<sub>2</sub> (X-ligand) with one attachment point,
 - Pyridine (L-ligand) with one attachment point,
