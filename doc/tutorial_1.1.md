@@ -65,7 +65,7 @@ In practice, to build graphs by hand in the GUI:
 
 4. Click on `Create BBSpace` (see red arrow in Figure 4) to terminate the definition of the space of building blocks and load it into the memory for further use. Note that the `Load BBSpace` button becomes `Change BBSpace` indicating that a BBSpace is already loaded.
 
-5. Start the actual creation of a new graph item by clicking on the `Add` button (see red allow in Figure 5), and specify the desire to `Build` a graph (in the first step), and the to build it from `Scaffold` (in the second step).
+5. Start the actual creation of a new graph item by clicking on the `Add Graphs` button (see red allow in Figure 5), and specify the desire to `Build` a graph (in the first step), and the to build it from `Scaffold` (in the second step).
 
 	![figures/graph_add.png](figures/graph_add.png)
 
