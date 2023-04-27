@@ -21,7 +21,7 @@ The GUI has a menu bar with standard functionality:
 * the `DENOPTIM` menu gives access to general settings, software information, and a button for exiting the GUI,
 * the `File` menu, can be used to open existing files or create new ones.
 
-Note that the home tab offers a few handy shortcuts to perform the same actions. For example, clicking on `Make Fragments` is the same as `File` -> `Open` -> `New Molecular Fragments`.
+Note that the home tab offers a few handy shortcuts to perform the same actions. For example, clicking on `Make Fragments` is the same as `File` -> `New` -> `New Molecular Fragments`.
 
 Any operation such as opening a file, creating a new file, or preparing a new experiment will open a new panel (or tab) with a window's design dedicated to the specific task. A newly opened tab is displayed in the main DENOPTIM window replacing the home tab. Notably, any tab opened in the GUI remain still accessible even after other tabs have been created and have replaced the original tabs in the main window. The main window is like a deck of cards with only one card on the top: it *displays only one active tab at the time*. To navigate the deck of cards, for example to reopen the home tab after having opened another tab, one can use the menu called `Active Tabs`. This menu contains the list of the independent tabs that are currently open in the GUI (Figure 2). Tabs remain open until they are closed by the user using the dedicated `Close Tab` button present in all kinds of tab but the home tab (i.e., the home tab cannot be closed).
 
