@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tutorial 1.2: Building Transition Metal Complexes from Fragments &mdash; DENOPTIM Tutorials  documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="_static/copybutton.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/sphinx_highlight.js"></script>
+        <script src="_static/clipboard.min.js"></script>
+        <script src="_static/copybutton.js"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Tutorial 2.0: Evolutionary Design of trans-Pt(X)(X’)(L)(CO)" href="tutorial_2.0.html" />
+    <link rel="prev" title="Tutorial 1.1: Graph Representation" href="tutorial_1.1.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            DENOPTIM Tutorials
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="getting_started.html">Getting Started</a></li>
+<li class="toctree-l1"><a class="reference internal" href="gui.html">The Graphical User Interface (GUI)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_1.0.html">Tutorial 1.0: Molecular Fragments</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_1.1.html">Tutorial 1.1: Graph Representation</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Tutorial 1.2: Building Transition Metal Complexes from Fragments</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#create-a-space-of-building-blocks-fragment-space">Create a Space of Building Blocks (Fragment Space)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#explore-the-space-of-building-blocks">Explore the Space of Building Blocks</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_2.0.html">Tutorial 2.0: Evolutionary Design of <em>trans</em>-Pt(X)(X’)(L)(CO)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_3.0.html">Tutorial 3.0: Evolutionary Design of κ<sup>3</sup>-Chelator for Pt(CO)</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">DENOPTIM Tutorials</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Tutorial 1.2: Building Transition Metal Complexes from Fragments</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/tutorial_1.2.md.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="tutorial-1-2-building-transition-metal-complexes-from-fragments">
+<h1>Tutorial 1.2: Building Transition Metal Complexes from Fragments<a class="headerlink" href="#tutorial-1-2-building-transition-metal-complexes-from-fragments" title="Permalink to this heading"></a></h1>
+<p>This tutorial is about creating a small space of building blocks from scratch.</p>
+<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b>This tutorial is best performed while having access to the Internet. DENOPTIM will call for an online service that converts SMILES to 3D-structures. When off-line, DENOPTIM will offer the user with the choice to use an off-line functionality from <a href="https://cdk.github.io/">CDK</a>, which is OK but slower and less accurate.</div>
+<section id="create-a-space-of-building-blocks-fragment-space">
+<h2>Create a Space of Building Blocks (Fragment Space)<a class="headerlink" href="#create-a-space-of-building-blocks-fragment-space" title="Permalink to this heading"></a></h2>
+<ol class="arabic simple">
+<li><p>Open the Graphical User Interface (GUI) by running the <code class="docutils literal notranslate"><span class="pre">denoptim</span></code> command.</p></li>
+<li><p>Chose <code class="docutils literal notranslate"><span class="pre">Make</span> <span class="pre">Fragments</span></code> from the list of shortcuts, or <code class="docutils literal notranslate"><span class="pre">File</span></code> -&gt; <code class="docutils literal notranslate"><span class="pre">New</span></code> -&gt; <code class="docutils literal notranslate"><span class="pre">New</span> <span class="pre">Molecular</span> <span class="pre">Fragments</span></code>.</p></li>
+<li><p>Using the button under <em>Import a structure from <code class="docutils literal notranslate"><span class="pre">File</span></code></em>, load the structures from <code class="docutils literal notranslate"><span class="pre">tutorial_1.2/Pt_complexes-1.sdf</span></code> and <code class="docutils literal notranslate"><span class="pre">tutorial_1.2/Pt_complexes-1.sdf</span></code>.</p></li>
+<li><p>We are now going to generate building blocks from these two structures. Since you have just imported two structures from file, you should see a label stating <code class="docutils literal notranslate"><span class="pre">Current</span> <span class="pre">library</span> <span class="pre">size:</span> <span class="pre">2</span></code> in the right-hand panel. Use the above arrow-buttons to select the structure you want to chop, and then click on <code class="docutils literal notranslate"><span class="pre">Chop</span> <span class="pre">Structure</span></code> and then <code class="docutils literal notranslate"><span class="pre">Start</span> <span class="pre">Fragmentation</span></code>. When asked, chose to keep only selected fragments (see Figure 1). Namely, keep only one fragment for each of these:</p></li>
+</ol>
+<ul>
+<li><p>Iodine atom (X-ligand) with one attachment point,</p></li>
+<li><p>NO<sub>2</sub> (X-ligand) with one attachment point,</p></li>
+<li><p>Pyridine (L-ligand) with one attachment point,</p></li>
+<li><p>Phosphorous atom (L-ligand) with four attachment points,</p></li>
+<li><p>Phenyl group with one attachment point (i.e., substituent on P),</p></li>
+<li><p>Five-atom ring of imidazolylidene (a N-heterocyclic carbene, or NHC, fragment) with one attachment points (see Figure 1).</p>
+<p><img alt="figures/fragSpace_select_vertices.png" src="_images/fragSpace_select_vertices.png" /></p>
+<p><strong>Figure 1</strong>: To select a vertex to import click on the <code class="docutils literal notranslate"><span class="pre">Select</span> <span class="pre">current</span> <span class="pre">vertex</span></code> button (A), use the spinner (B) to navigate the list of candidates, and click <code class="docutils literal notranslate"><span class="pre">Done</span></code> to close the vertex selection window confirming your selection.</p>
+</li>
+</ul>
+<ol class="arabic" start="5">
+<li><p>Remove the two un-fragmented structures that were imported from file. Use the <code class="docutils literal notranslate"><span class="pre">Remove</span></code> button from the top-right part of the panel. After removing these structures, the <code class="docutils literal notranslate"><span class="pre">Current</span> <span class="pre">library</span> <span class="pre">size</span></code> should be 6, as only one item for each of the fragments listed in point 4 has been kept.</p></li>
+<li><p>To increase the structural variability of the N-substituents on the NHC fragment, we add more fragments by hand. Since NHCs can often be synthesised starting from amines (see <a class="reference external" href="https://doi.org/10.1021/cr100328e"><em>Chem. Rev.</em> <strong>2011</strong>, 111, 4, 2705–2733</a>, we create simple amines and convert them into fragments suitable to become N-substituents on the NHC. To this end, generate the structure of each of the following amine by clicking on <em>Import structure from <code class="docutils literal notranslate"><span class="pre">SMILES</span></code></em> and type one of the following <a class="reference external" href="https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html">SMILES string</a>:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">CN</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">c1(C)ccccc1N</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">C1CCCCC1N</span></code>
+For each of these, select the hydrogen atoms bonded to N (see Note below for useful atom selection tricks) and delete them by clicking on the <code class="docutils literal notranslate"><span class="pre">Remove</span> <span class="pre">atoms</span></code>. Then select the N atom and click <code class="docutils literal notranslate"><span class="pre">Atom</span> <span class="pre">to</span> <span class="pre">AP</span></code> to replace the N atom with an attachment point of class <code class="docutils literal notranslate"><span class="pre">LImidazolylideneSubNS:1</span></code>.</p></li>
+</ul>
+ <div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b>Right-click on the molecular viewer to get the vast functionality offered by <a href="http://jmol.sourceforge.net/">Jmol</a>, including, for instance, see the <code>Select</code> -&gt; <code>Invert Selection</code>. In particular, in the right-click menu you can chose <code>Console</code> to open Jmol's command line interface and use the <code>select</code> command. Here are some common examples of use:
+ <ul>
+ <li><code>select _N</code>: selects all nitrogen atoms.</li>
+ <li><code>select atomno >= 10 and atomno <= 43</code>: selects atoms from number 10 to 43 in the list of atom. Note the use of a the logical operator <code>and</code>.</li>
+ <li><code>select search("&lt;SMARTS&gt;")</code> where <code>&lt;SMARTS&gt;</code> is a <a href="https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html">SMARTS pattern</a>. For example,
+ <ul>
+ 	<li><code>select search("[#7]-[#6]")</code>: selects all nitrogen and carbon atoms of any kind that are connected by a single bond.</li>
+ 	<li><code>select search("[r5]")</code>: selects all atoms that are part of a five-member ring.</li>
+  	<li><code>select selected OR connected(selected)</code>: propagates selection to all atoms connected to currently selected atoms.</li>
+  	<li><code>select none</code>: clears the list of selected atoms.</li>
+ </ul></ul>
+ Refer to <a href="https://chemapps.stolaf.edu/jmol/docs/">Jmol's documentation</a> for further details on the functionality provided by Jmol.
+ </div>
+</li>
+<li><p>With the <code class="docutils literal notranslate"><span class="pre">Save</span> <span class="pre">Library</span> <span class="pre">of</span> <span class="pre">Building</span> <span class="pre">Blocks</span></code> button, save the resulting library of 9 building blocks to an SDF file, call it <code class="docutils literal notranslate"><span class="pre">my_library_of_fragments.sdf</span></code> under the <code class="docutils literal notranslate"><span class="pre">tutorial_1.2</span></code> folder.</p></li>
+<li><p>As pointed out in the <a class="reference internal" href="#header-build-graph"><span class="xref myst">previous tutorial</span></a>, to use a space of building blocks we need also to define the set of rules that control how the building blocks are attached to each other. To this end we exploit the fact that attachment points are annotated with attachment point classes (APClasses) that can be used to classify attachment points according to any criteria. Typically, APClasses are used to label attachment points generated by retrosynthetic fragmentation (see <a class="reference external" href="https://doi.org/10.1002/cmdc.200800178">BRICS</a> or <a class="reference external" href="https://doi.org/10.1021/ci970429i">RECAP</a>), or to classify attachment points based on the chemistry of the fragment which they belong to. Irrespectively, we can can create <em>compatibility rules</em> that define which combination of APClasses can be used to connect building blocks. Since, in theory, given a set of <code class="docutils literal notranslate"><span class="pre">N</span></code> APClasses, any APClass can be combined with any APClass, it is convenient to think about the <code class="docutils literal notranslate"><span class="pre">N</span></code>x<code class="docutils literal notranslate"><span class="pre">N</span></code> combinations as a matrix, i.e., the <em>compatibility matrix</em>, where each entry defines if the corresponding combination of APClasses is ‘compatible’ (i.e., can form an edge in the graph representation) or not.
+In the following, we will create a compatibility matrix, i.e., a collection of compatibility rules, that define how to use the building blocks generated above to assemble Pt complexes. In DENOPTIM, click <code class="docutils literal notranslate"><span class="pre">File</span></code>-&gt;<code class="docutils literal notranslate"><span class="pre">New</span></code>-&gt;<code class="docutils literal notranslate"><span class="pre">New</span> <span class="pre">Compatibility</span> <span class="pre">Matrix</span></code></p></li>
+<li><p>Since we already have defined the APClasses when constructing fragments (NB: in step 4 we did so, implicitly, by using the default cutting rules. Instead in point 6 we choose the APCLasses ourselves), we can import the list of APClasses that we want to use from the file containing the building blocks. To this end, click <code class="docutils literal notranslate"><span class="pre">Import</span> <span class="pre">APClasses</span></code> to load the APClasses first from the <code class="docutils literal notranslate"><span class="pre">Pt-CO_fragment.sdf</span></code> file and then from the <code class="docutils literal notranslate"><span class="pre">my_library_of_fragments.sdf</span></code>. In both cases, choose <code class="docutils literal notranslate"><span class="pre">Scaffolds</span> <span class="pre">and</span> <span class="pre">Fragments</span></code> when asked about the type of building block. As we are just importing APClasses, no reaction is visible in the GUI upon confirming the type of building block.</p></li>
+<li><p>Then <code class="docutils literal notranslate"><span class="pre">Add</span> <span class="pre">Compatibility</span> <span class="pre">Rule</span></code> and specify <code class="docutils literal notranslate"><span class="pre">Llig:0</span></code> on the left side (i.e., this is the APClass on a growing graph). On the right-hand side (i.e., the APClass of the incoming fragment) select all the APClasses that represent the capability to coordinate a metal as a dative L-ligand, namely <code class="docutils literal notranslate"><span class="pre">MPyridine:1</span></code>, <code class="docutils literal notranslate"><span class="pre">MPhosphine:1</span></code>, and <code class="docutils literal notranslate"><span class="pre">MImidazolylidene:1</span></code>. Hold the <code class="docutils literal notranslate"><span class="pre">command</span></code>/<code class="docutils literal notranslate"><span class="pre">CTRL</span></code> key to select multiple entries.</p>
+<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> the two lists in the window for defining a new APClass compatibility rule refers to different roles of the attachment point: <i>growing graph</i> on the left, and <i>incoming fragment</i> on the right-hand side. Therefore, adding "compatibility between class <code>A:0</code> and <code>B:0</code>" (i.e., <code>A:0</code> selected in the left list, and <code>B:0</code> in the right one) is not equivalent to adding  "compatibility between <code>B:0</code> and <code>A:0</code>" (i.e., <code>B:0</code> selected in the left list, and <code>A:0</code> in the right one).
+</li>
+<li><p>Add the compatibility rule between <code class="docutils literal notranslate"><span class="pre">Xlig:0</span></code> and all available APClasses that represent the capability to bind the metal as a covalent X-ligand, namely <code class="docutils literal notranslate"><span class="pre">MI:1</span></code>, <code class="docutils literal notranslate"><span class="pre">MNitro:1</span></code>.</p></li>
+<li><p>Add the compatibility rule between <code class="docutils literal notranslate"><span class="pre">LImidazolylideneSubNS:0</span></code> and <code class="docutils literal notranslate"><span class="pre">LImidazolylideneSubNS:1</span></code>.</p></li>
+<li><p>Add the compatibility rule between <code class="docutils literal notranslate"><span class="pre">LPhosphineSubAr:0</span></code> and <code class="docutils literal notranslate"><span class="pre">LPhosphineSubAr:1</span></code>.</p></li>
+<li><p>Import the APClasses from <code class="docutils literal notranslate"><span class="pre">H_and_Me.sdf</span></code> specifying the type <code class="docutils literal notranslate"><span class="pre">Capping</span> <span class="pre">Group</span></code>.</p></li>
+<li><p>We now define the rules to saturate open valences, i.e., attachment points that need to be saturated in order for the graph to represent a fully defined molecular object. Move to the <code class="docutils literal notranslate"><span class="pre">Capping</span></code> tab and click on <code class="docutils literal notranslate"><span class="pre">Add</span> <span class="pre">Capping</span> <span class="pre">Rule</span></code> to require that all attachment points with APClass <code class="docutils literal notranslate"><span class="pre">LImidazolylideneSubNS:0</span></code> or <code class="docutils literal notranslate"><span class="pre">LPhosphineSubAr:0</span></code> (multiple selection is allowed) are saturated with a capping group having an attachment point of APClass <code class="docutils literal notranslate"><span class="pre">hyd:1</span></code> (Inspecting the content of <code class="docutils literal notranslate"><span class="pre">H_and_Me.sdf</span></code> shows there is a fragment with a H atom and a single attachment point with class <code class="docutils literal notranslate"><span class="pre">hyd:1</span></code>).</p></li>
+<li><p>Last, we define which APClasses represent attachment points that cannot stay unused, but have no capping group, i.e., the <em>forbidden ends</em>. For example, the covalent sites on the metal center: leaving them free would change the oxidation state of the metal, but adding a capping group would add a bias towards a specific building block in that position.  To avoid introducing a bias as well as avoiding to generate metal centers with wrong oxidation state, we now mark the covalent sites on the Pt center as <em>forbidden ends</em>. To this end, move to the <code class="docutils literal notranslate"><span class="pre">Forbidden</span> <span class="pre">Ends</span></code> tab and <code class="docutils literal notranslate"><span class="pre">Add</span> <span class="pre">Forbidden</span> <span class="pre">End</span> <span class="pre">Rule</span></code> to <code class="docutils literal notranslate"><span class="pre">Xlig:0</span></code>. For reproducibility, add also <code class="docutils literal notranslate"><span class="pre">Llig:0</span></code>. This to we avoid generating Pt complexed with no dative ligand beyond CO.</p></li>
+<li><p>Save the compatibility matrix as <code class="docutils literal notranslate"><span class="pre">my_compatibility_matrix.par</span></code> under the <code class="docutils literal notranslate"><span class="pre">tutorial_1.2</span></code> folder.</p></li>
+</ol>
+<p>As we have defined a library of building blocks and the rules on how to combine such building blocks, our definition of a space of building blocks is complete.</p>
+</section>
+<section id="explore-the-space-of-building-blocks">
+<h2>Explore the Space of Building Blocks<a class="headerlink" href="#explore-the-space-of-building-blocks" title="Permalink to this heading"></a></h2>
+<p>Exploring a space means visiting all the items that can be generated from such space. Therefore, here we aim to generate all the Pt complexes that are encoded in the space of building blocks we have defined above.</p>
+<ol class="arabic simple">
+<li><p>Click on <code class="docutils literal notranslate"><span class="pre">File</span></code>-&gt;<code class="docutils literal notranslate"><span class="pre">New</span></code>-&gt;<code class="docutils literal notranslate"><span class="pre">New</span> <span class="pre">Virtual</span> <span class="pre">Screening</span></code>.</p></li>
+<li><p>In the windows for the configuration of the run, under the <code class="docutils literal notranslate"><span class="pre">Space</span> <span class="pre">of</span> <span class="pre">Building</span> <span class="pre">Blocks</span></code> tab browse to specify:</p></li>
+</ol>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">Pt-CO_fragment.sdf</span></code> for the *Scaffold fragments library *</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">my_library_of_fragments.sdf</span></code> for the <em>Fragments library</em></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">H_and_Me.sdf</span></code> for the <em>Capping groups library</em></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">my_compatibility_matrix.par</span></code> for the <em>Compatibility matrix file</em></p></li>
+<li><p>since we have some very heavy atoms, we need to specify 1000 for the <code class="docutils literal notranslate"><span class="pre">Max</span> <span class="pre">molecular</span> <span class="pre">weight</span></code>.</p></li>
+</ul>
+<ol class="arabic" start="3">
+<li><p>We decide to sort the generated Pt complexes by molecular weight. Therefore, switch to the <code class="docutils literal notranslate"><span class="pre">Fitness</span> <span class="pre">Provider</span></code> tab and type <code class="docutils literal notranslate"><span class="pre">MW</span></code> in the text box defining the equation of the fitness (see Figure 2).</p>
+<p><img alt="figures/fragSpace_MW.png" src="_images/fragSpace_MW.png" /></p>
+<p><strong>Figure 2</strong>: The fitness equation (red arrow) allow to define a mathematical expression for calculating an overall figure of merit (i.e., the fitness) for each complex that is generated from the space of building blocks. This example chooses sets the fitness equal to the value of the molecular weight descriptor <code class="docutils literal notranslate"><span class="pre">MW</span></code>. The list of available descriptors can be found by navigating the descriptor’s tree (see green arrow).</p>
+</li>
+<li><p>Click on <code class="docutils literal notranslate"><span class="pre">Run</span> <span class="pre">Now...</span></code> and confirm you want to run the experiment. A dialog will tell you where the results will be places: take note of such pathname.</p></li>
+<li><p>For a short moment the bar on the top-right part of the DENOPTIM window, which was originally blue, will turns grey to indicate that all the submitted tasks are still running. Then, in a few seconds, it will turn blue again to indicate that the run is completed.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">File</span></code>-&gt;<code class="docutils literal notranslate"><span class="pre">Open</span> <span class="pre">Recent</span></code> to select the results and open them.</p></li>
+</ol>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="tutorial_1.1.html" class="btn btn-neutral float-left" title="Tutorial 1.1: Graph Representation" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="tutorial_2.0.html" class="btn btn-neutral float-right" title="Tutorial 2.0: Evolutionary Design of trans-Pt(X)(X’)(L)(CO)" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, Marco Foscato.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Getting Started &mdash; DENOPTIM Tutorials  documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="_static/copybutton.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/sphinx_highlight.js"></script>
+        <script src="_static/clipboard.min.js"></script>
+        <script src="_static/copybutton.js"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="The Graphical User Interface (GUI)" href="gui.html" />
+    <link rel="prev" title="DENOPTIM Tutorials" href="index.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            DENOPTIM Tutorials
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Getting Started</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#step-1-get-a-command-line">Step 1: Get a Command line</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#step-2-install-conda">Step 2: Install Conda</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#do-i-have-conda">Do I Have Conda?</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#installation-if-you-don-t-have-miniconda-or-anaconda-at-all">Installation: If you don’t have Miniconda or Anaconda at all</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#upgrade-if-you-have-miniconda-or-anaconda-but-you-have-not-used-it-for-a-long-time">Upgrade: If you have Miniconda or Anaconda but you have not used it for a long time</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#setting-path-to-conda-from-your-terminal-shell">Setting path to Conda from your terminal shell</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#windows">Windows</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#macos">macOS</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#linux">Linux</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#how-to-uninstall-remove-conda">How to uninstall/remove Conda</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#step-3-create-denoptim-environment">Step 3: Create DENOPTIM Environment</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#activating-the-dnp-work-environment">Activating the <code class="docutils literal notranslate"><span class="pre">dnp_work</span></code> environment</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#how-to-verify-the-environment">How to verify the environment</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#deactivating-the-dnp-work-environment">Deactivating the <code class="docutils literal notranslate"><span class="pre">dnp_work</span></code> environment</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#step-4-download-datasets">Step 4: Download Datasets</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="gui.html">The Graphical User Interface (GUI)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_1.0.html">Tutorial 1.0: Molecular Fragments</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_1.1.html">Tutorial 1.1: Graph Representation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_1.2.html">Tutorial 1.2: Building Transition Metal Complexes from Fragments</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_2.0.html">Tutorial 2.0: Evolutionary Design of <em>trans</em>-Pt(X)(X’)(L)(CO)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_3.0.html">Tutorial 3.0: Evolutionary Design of κ<sup>3</sup>-Chelator for Pt(CO)</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">DENOPTIM Tutorials</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Getting Started</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/getting_started.md.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="getting-started">
+<h1>Getting Started<a class="headerlink" href="#getting-started" title="Permalink to this heading"></a></h1>
+<p>To get started with the DENOPTIM tutorials follow this procedure:</p>
+<ul class="simple">
+<li><p>get just a little bit of knowledge of the command line (<a class="reference internal" href="#header-cli"><span class="std std-ref">Step 1</span></a>)),</p></li>
+<li><p>install <strong>conda</strong> on your system (<a class="reference internal" href="#header-conda"><span class="std std-ref">Step 2</span></a>),</p></li>
+<li><p>create an environment for running <strong>DENOPTIM</strong> (<a class="reference internal" href="#header-dnp-env"><span class="std std-ref">Step 3</span></a> - this is where you install DENOPTIM),</p></li>
+<li><p>download data sets needed for the exercises (<a class="reference internal" href="#header-dataset"><span class="std std-ref">Step 4</span></a>).</p></li>
+</ul>
+<hr class="docutils" />
+<section id="step-1-get-a-command-line">
+<span id="header-cli"></span><h2>Step 1: Get a Command line<a class="headerlink" href="#step-1-get-a-command-line" title="Permalink to this heading"></a></h2>
+<p>Some very simple commands are used in these tutorials. Here is a good introduction to <a class="reference external" href="https://swcarpentry.github.io/shell-novice/">learn the basics</a> (Chapters 1-3 are well more than enough).
+For the tutorial, you can use any command line interface of your choice:</p>
+<ul class="simple">
+<li><p>On <strong>macOS/Linux</strong> you can use the default Terminal and skip this section.</p></li>
+<li><p>On <strong>Windows</strong> you can use <a class="reference external" href="https://gitforwindows.org/">Git for Windows installer</a> following the steps in the
+<a class="reference external" href="https://www.youtube-nocookie.com/embed/339AEqk9c-8?modestbranding=1&amp;amp;playsinline=1&amp;amp;iv_load_policy=3&amp;amp;rel=0">Carpentries video tutorial</a>.</p></li>
+</ul>
+<hr class="docutils" />
+</section>
+<section id="step-2-install-conda">
+<span id="header-conda"></span><h2>Step 2: Install Conda<a class="headerlink" href="#step-2-install-conda" title="Permalink to this heading"></a></h2>
+<p>Since <strong>conda</strong> is extremely popular in data sciences, chances are you already have it installed and know how to use it. In this case, you can jump directly to the <a class="reference internal" href="#header-dnp-env"><span class="std std-ref">section Create DENOPTIM Environment</span></a>, below.</p>
+<p>The instructions are inspired by and derived from work by <a class="reference external" href="http://software-carpentry.org">Software Carpentry</a> and <a class="reference external" href="https://coderefinery.org/">CodeRefinery</a> which is licensed under the terms of the <a class="reference external" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution license 4.0</a>.</p>
+<p>Miniconda (and Anaconda, too) comes with a complete Python distribution that lets
+you create isolated <strong>environments</strong> that don’t affect anything else.
+<strong>conda</strong> is the tool that manages these environments.</p>
+<section id="do-i-have-conda">
+<h3>Do I Have Conda?<a class="headerlink" href="#do-i-have-conda" title="Permalink to this heading"></a></h3>
+<p>On <strong>macOS/Linux</strong>, open a Terminal and run the following command. On <strong>Windows</strong>, open the Anaconda prompt from the Windows search bar (if Anaconda Prompt is not found, then install Miniconda as shown below):</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">conda</span> <span class="nb">list</span>
+</pre></div>
+</div>
+<p>If you have conda installed, a list of packages will be printed and you can skip the installation and go to the upgrade section.</p>
+</section>
+<section id="installation-if-you-don-t-have-miniconda-or-anaconda-at-all">
+<h3>Installation: If you don’t have Miniconda or Anaconda at all<a class="headerlink" href="#installation-if-you-don-t-have-miniconda-or-anaconda-at-all" title="Permalink to this heading"></a></h3>
+<ul class="simple">
+<li><p>From the <a class="reference external" href="https://docs.conda.io/en/latest/miniconda.html">Miniconda installer page</a>,
+download Miniconda3 installer with the latest Python version.</p></li>
+<li><p>Follow <a class="reference external" href="https://conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation">regular installation instructions</a>
+of your operating system.</p></li>
+<li><p>Make sure selecting:</p>
+<ul>
+<li><p>installing just for you</p></li>
+<li><p>“Add miniconda3 to my PATH environment variable”</p></li>
+<li><p>“Register Miniconda3 as my default Python 3.9”</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="upgrade-if-you-have-miniconda-or-anaconda-but-you-have-not-used-it-for-a-long-time">
+<h3>Upgrade: If you have Miniconda or Anaconda but you have not used it for a long time<a class="headerlink" href="#upgrade-if-you-have-miniconda-or-anaconda-but-you-have-not-used-it-for-a-long-time" title="Permalink to this heading"></a></h3>
+<ul class="simple">
+<li><p>If you have only old Anaconda, but not Miniconda, then install Miniconda3
+following the instruction above.</p></li>
+<li><p>If you have old Miniconda (no matter if you have Anaconda or not), follow the
+instruction below and upgrade Conda. Please replace <code class="docutils literal notranslate"><span class="pre">anaconda</span></code> with <code class="docutils literal notranslate"><span class="pre">conda</span></code>
+in the instruction for Windows and macOS:</p>
+<ul>
+<li><p><a class="reference external" href="https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/windows.html#updating-conda">Windows</a></p></li>
+<li><p><a class="reference external" href="https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/macos.html#updating-anaconda-or-miniconda">macOS</a></p></li>
+<li><p><a class="reference external" href="https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/linux.html#updating-anaconda-or-miniconda">Linux</a></p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="setting-path-to-conda-from-your-terminal-shell">
+<h3>Setting path to Conda from your terminal shell<a class="headerlink" href="#setting-path-to-conda-from-your-terminal-shell" title="Permalink to this heading"></a></h3>
+<p>This step is usually not needed, but if after the installation you still get an error message like <code class="docutils literal notranslate"><span class="pre">conda</span> <span class="pre">command</span> <span class="pre">not</span> <span class="pre">found</span></code> whey you type <code class="docutils literal notranslate"><span class="pre">conda</span> <span class="pre">--version</span></code> in your shell terminal.</p>
+<section id="windows">
+<h4>Windows<a class="headerlink" href="#windows" title="Permalink to this heading"></a></h4>
+<ol class="arabic">
+<li><p>Go to the Miniconda3 (or if you have a relatively new Anaconda, then
+Anaconda3) folder. You can find it by serching from File Explorer search
+bar.</p></li>
+<li><p>Navigate to <code class="docutils literal notranslate"><span class="pre">etc</span></code> folder, and then to <code class="docutils literal notranslate"><span class="pre">profile.d</span></code> folder. You will find
+the <code class="docutils literal notranslate"><span class="pre">conda.sh</span></code> file.</p></li>
+<li><p>In the folder, right click and choose “Git Bash Here”. You should be able
+to see the path to this folder in the Git Bash (something like
+~/Miniconda3/etc/profile.d).</p></li>
+<li><p>Run the following command (type the following and enter):</p>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span><span class="nb">echo</span><span class="w"> </span><span class="s2">&quot;. &#39;</span><span class="si">${</span><span class="nv">PWD</span><span class="si">}</span><span class="s2">&#39;/conda.sh&quot;</span><span class="w"> </span>&gt;&gt;<span class="w"> </span>~/.bashrc
+</pre></div>
+</div>
+</li>
+<li><p>Close Git Bash and reopen it.</p></li>
+<li><p>Verify that now Git Bash can “see” conda by running <code class="docutils literal notranslate"><span class="pre">conda</span> <span class="pre">--version</span></code>
+After step 5 you may see this warning but this is nothing to worry about and will
+not show up the next time you open Git Bash:</p></li>
+</ol>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">WARNING</span><span class="p">:</span> <span class="n">Found</span> <span class="o">~/.</span><span class="n">bashrc</span> <span class="n">but</span> <span class="n">no</span> <span class="o">~/.</span><span class="n">bash_profile</span><span class="p">,</span> <span class="o">~/.</span><span class="n">bash_login</span> <span class="ow">or</span> <span class="o">~/.</span><span class="n">profile</span><span class="o">.</span>
+<span class="n">This</span> <span class="n">looks</span> <span class="n">like</span> <span class="n">an</span> <span class="n">incorrect</span> <span class="n">setup</span><span class="o">.</span>
+<span class="n">A</span> <span class="o">~/.</span><span class="n">bash_profile</span> <span class="n">that</span> <span class="n">loads</span> <span class="o">~/.</span><span class="n">bashrc</span> <span class="n">will</span> <span class="n">be</span> <span class="n">created</span> <span class="k">for</span> <span class="n">you</span><span class="o">.</span>
+</pre></div>
+</div>
+<p><em>Reference: <a class="reference external" href="https://discuss.codecademy.com/t/setting-up-conda-in-git-bash/534473">“Setting Up Conda in Git Bash”, Sep 2020, at Codecademy
+Forums</a></em></p>
+</section>
+<section id="macos">
+<h4>macOS<a class="headerlink" href="#macos" title="Permalink to this heading"></a></h4>
+<ol class="arabic simple">
+<li><p>Open a terminal window.</p></li>
+<li><p>Find the <code class="docutils literal notranslate"><span class="pre">.zshrc</span></code> file (or <code class="docutils literal notranslate"><span class="pre">.bash_profile</span></code> if your shell is Bash)
+which should be located in your home directory
+(/User/your-user-name)</p></li>
+<li><p>Navigate to the directory where <code class="docutils literal notranslate"><span class="pre">.zshrc</span></code> is located (or <code class="docutils literal notranslate"><span class="pre">.bash_profile</span></code> if your shell is Bash).</p></li>
+<li><p>Add the following in <code class="docutils literal notranslate"><span class="pre">.zshrc</span></code> file (or <code class="docutils literal notranslate"><span class="pre">.bash_profile</span></code>):</p></li>
+</ol>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span><span class="nb">export</span><span class="w"> </span><span class="nv">PATH</span><span class="o">=</span><span class="s2">&quot;</span><span class="nv">$HOME</span><span class="s2">/miniconda3/bin:</span><span class="nv">$PATH</span><span class="s2">&quot;</span>
+</pre></div>
+</div>
+</section>
+<section id="linux">
+<h4>Linux<a class="headerlink" href="#linux" title="Permalink to this heading"></a></h4>
+<ol class="arabic simple">
+<li><p>Open a terminal window.</p></li>
+<li><p>Run this command which will append to your <code class="docutils literal notranslate"><span class="pre">.bashrc</span></code> file (adapt the path if Miniconda has been installed
+to a different place):</p></li>
+</ol>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span><span class="nb">echo</span><span class="w"> </span><span class="s1">&#39;source $HOME/miniconda3/bin/activate&#39;</span><span class="w"> </span>&gt;&gt;<span class="w"> </span>~/.bashrc
+</pre></div>
+</div>
+<p>If you prefer not to edit your <code class="docutils literal notranslate"><span class="pre">.bashrc</span></code>, you can also run this command after opening your terminal (each time you open one)
+and it will bring all <code class="docutils literal notranslate"><span class="pre">conda</span></code> commands “into view”:</p>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span><span class="nb">source</span><span class="w"> </span><span class="nv">$HOME</span>/miniconda3/bin/activate
+</pre></div>
+</div>
+</section>
+</section>
+<section id="how-to-uninstall-remove-conda">
+<h3>How to uninstall/remove Conda<a class="headerlink" href="#how-to-uninstall-remove-conda" title="Permalink to this heading"></a></h3>
+<p>If you wish to remove Conda again after the workshop, here is how:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/windows.html#uninstalling-conda">Windows</a></p></li>
+<li><p><a class="reference external" href="https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/macos.html#uninstalling-anaconda-or-miniconda">macOS</a></p></li>
+<li><p><a class="reference external" href="https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/linux.html#uninstalling-anaconda-or-miniconda">Linux</a></p></li>
+</ul>
+<hr class="docutils" />
+</section>
+</section>
+<section id="step-3-create-denoptim-environment">
+<span id="header-dnp-env"></span><h2>Step 3: Create DENOPTIM Environment<a class="headerlink" href="#step-3-create-denoptim-environment" title="Permalink to this heading"></a></h2>
+<p>We now ask <strong>conda</strong> to create a dedicated environment for the workshop. The environment required <strong>DENOPTIM</strong> do <strong>conda</strong> will install is and make it available within such environment.</p>
+<ol class="arabic simple">
+<li><p>Open a new terminal (macOS/Linux) or a new GitBash (Windows) after having completed the installation of <strong>conda</strong>.</p></li>
+<li><p>If you have not done so during the installation of Miniconda (see above), activate <code class="docutils literal notranslate"><span class="pre">conda</span></code> in Miniconda first using <code class="docutils literal notranslate"><span class="pre">conda</span> <span class="pre">activate</span></code> or <code class="docutils literal notranslate"><span class="pre">source</span> <span class="pre">~/miniconda3/bin/activate</span></code>. If neither works, please go back to the installation section. You probably need to restart your shell terminal. Then try <code class="docutils literal notranslate"><span class="pre">conda</span> <span class="pre">activate</span></code> or <code class="docutils literal notranslate"><span class="pre">source</span> <span class="pre">~/miniconda3/bin/activate</span></code> again.</p></li>
+<li><p>Run the following command:</p></li>
+</ol>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">conda</span> <span class="n">env</span> <span class="n">create</span> <span class="o">-</span><span class="n">f</span>  <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">raw</span><span class="o">.</span><span class="n">githubusercontent</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">denoptim</span><span class="o">-</span><span class="n">project</span><span class="o">/</span><span class="n">tutorials</span><span class="o">/</span><span class="n">main</span><span class="o">/</span><span class="n">environment</span><span class="o">.</span><span class="n">yml</span>
+</pre></div>
+</div>
+<ol class="arabic simple" start="4">
+<li><p>Make sure that you see “dnp_work” in the output when you ask for a list of all available environments:</p></li>
+</ol>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">conda</span> <span class="n">env</span> <span class="nb">list</span>
+</pre></div>
+</div>
+<section id="activating-the-dnp-work-environment">
+<h3>Activating the <code class="docutils literal notranslate"><span class="pre">dnp_work</span></code> environment<a class="headerlink" href="#activating-the-dnp-work-environment" title="Permalink to this heading"></a></h3>
+<p>In the workshop, we will ask you to activate this environment. This operation must be done every time you have a new session on the terminal. For example, when you open a new terminal.</p>
+<p>Then run the following:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">conda</span> <span class="n">activate</span> <span class="n">dnp_work</span>
+</pre></div>
+</div>
+<p>If this does not work, the <code class="docutils literal notranslate"><span class="pre">dnp_work</span></code> part should be replaced with the whole path, for example:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">source</span> <span class="n">activate</span> <span class="o">~/</span><span class="n">Miniconda3</span><span class="o">/</span><span class="n">envs</span><span class="o">/</span><span class="n">dnp_work</span>
+</pre></div>
+</div>
+</section>
+<section id="how-to-verify-the-environment">
+<h3>How to verify the environment<a class="headerlink" href="#how-to-verify-the-environment" title="Permalink to this heading"></a></h3>
+<p>Once activated, try the following command:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">denoptim</span> <span class="o">-</span><span class="n">v</span>
+</pre></div>
+</div>
+<p>You should see an output like this and not see errors (exact version numbers are not too important, but should be at least 4.0.0):</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">V4</span><span class="mf">.0.0</span>
+</pre></div>
+</div>
+</section>
+<section id="deactivating-the-dnp-work-environment">
+<h3>Deactivating the <code class="docutils literal notranslate"><span class="pre">dnp_work</span></code> environment<a class="headerlink" href="#deactivating-the-dnp-work-environment" title="Permalink to this heading"></a></h3>
+<p>Deactivating will remove the <code class="docutils literal notranslate"><span class="pre">denoptim</span></code> command, so it is an operation meant for when you are done working with the software. After deactivating, you can always re-activate the environment again.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">conda</span> <span class="n">deactivate</span>
+</pre></div>
+</div>
+<div style="background-color: #ffffcc; border-left: 6px solid #ffeb3b; margin-bottom: 15px; padding: 4px 12px;"><b>Warning!</b> we assume that any command line interface used in this tutorial has the <code>dnp_work</code> environment active.</div>
+<hr class="docutils" />
+</section>
+</section>
+<section id="step-4-download-datasets">
+<span id="header-dataset"></span><h2>Step 4: Download Datasets<a class="headerlink" href="#step-4-download-datasets" title="Permalink to this heading"></a></h2>
+<p>Download all the data <a class="reference external" href="https://github.com/denoptim-project/tutorials/archive/refs/tags/v1.0.zip">from this link</a>.
+Remember to unzip/extract the zip archive before moving ahead.</p>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="index.html" class="btn btn-neutral float-left" title="DENOPTIM Tutorials" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="gui.html" class="btn btn-neutral float-right" title="The Graphical User Interface (GUI)" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, Marco Foscato.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

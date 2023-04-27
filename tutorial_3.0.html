@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tutorial 3.0: Evolutionary Design of κ3-Chelator for Pt(CO) &mdash; DENOPTIM Tutorials  documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="_static/copybutton.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/sphinx_highlight.js"></script>
+        <script src="_static/clipboard.min.js"></script>
+        <script src="_static/copybutton.js"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Tutorial 2.0: Evolutionary Design of trans-Pt(X)(X’)(L)(CO)" href="tutorial_2.0.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            DENOPTIM Tutorials
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="getting_started.html">Getting Started</a></li>
+<li class="toctree-l1"><a class="reference internal" href="gui.html">The Graphical User Interface (GUI)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_1.0.html">Tutorial 1.0: Molecular Fragments</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_1.1.html">Tutorial 1.1: Graph Representation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_1.2.html">Tutorial 1.2: Building Transition Metal Complexes from Fragments</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_2.0.html">Tutorial 2.0: Evolutionary Design of <em>trans</em>-Pt(X)(X’)(L)(CO)</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Tutorial 3.0: Evolutionary Design of κ<sup>3</sup>-Chelator for Pt(CO)</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#introduction">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#instructions">Instructions</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#creation-of-a-template-vertex">Creation of a Template Vertex</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#evolutionary-design-with-templates">Evolutionary Design with Templates</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">DENOPTIM Tutorials</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Tutorial 3.0: Evolutionary Design of κ<sup>3</sup>-Chelator for Pt(CO)</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/tutorial_3.0.md.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="tutorial-3-0-evolutionary-design-of-3-chelator-for-pt-co">
+<h1>Tutorial 3.0: Evolutionary Design of κ<sup>3</sup>-Chelator for Pt(CO)<a class="headerlink" href="#tutorial-3-0-evolutionary-design-of-3-chelator-for-pt-co" title="Permalink to this heading"></a></h1>
+<section id="introduction">
+<h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this heading"></a></h2>
+<p>Multidentate ligands play a critical role in transition-metal chemistry. Therefore, this exercise is dedicated to the design of rings that involve a metal center and a tuneable, chelating organic ligand.</p>
+<p>Like in the <a class="reference internal" href="tutorial_2.0.html"><span class="std std-doc">previous exercise</span></a> we set as chemical goal the elongation of the CO bond on Pt(II) complexes. This time, however, we explore tridentate ligands that adhere to the previous [X, L, X] pattern so that the L site is <em>trans</em> to the carbonyl ligand (CO) and the two X sites are both <em>cis</em> to CO and <em>trans</em> to each other.</p>
+<p>To define such constrain, while allowing DENOPTIM to change the components forming the ring, we make use of a special type of vertex called <strong>Template</strong>. Templates are vertices that can embed graphs and can define constraints on such embedded graphs. Also, while the embedded graph may be editable, the Template appears as a single vertex, when seen from the outside.</p>
+<p><img alt="figures/template_concept.png" src="_images/template_concept.png" /></p>
+<p><strong>Figure 1</strong>: A template vertex contains an embedded graph (bottom), but is seen as a single vertex in the graph that owns the template vertex (top).</p>
+<p>Compared to the design of monodentate ligands, the design of multidentates, as the design of rings in general, poses an additional challenge: the closability of a chain cannot be given for granted unless the chain elements are constrained to include only known rings. Even then, substituents on the chain may prevent the actual formation of the ring by adding steric hindrance, or by adding additional constraints (e.g., fused rings). Since in de novo design we typically want to explore unknown structural features, we aim i) to avoid assumptions on the closability and ii) to assess closability on the fly. In this example, we use a hybrid approach in that only rings with a certain size (i.e., atom count) are allowed to form, but their closability is evaluated only in the molecular modeling workflow by a dedicated ring-closing conformational search (further details at <a class="reference external" href="https://doi.org/10.1021/acs.jcim.5b00424"><em>J. Chem. Inf. Model.</em> <strong>2015</strong>, 55, 9, 1844–1856</a>).</p>
+<p id="rcvs">Within DENOPTIM’s graph representation rings are created involving a pairs of special vertexes (orange in Figure 1): the so-called <em>ring-closing vertexes</em>, or RCVs. The RCVs have two roles: First, they represent the possibility to form a chord which is created only when a pair of RCVs commits to this purpose. Second, they contain dummy atoms (i.e., the <em>ring closing attractors</em>) that are used in the ring-closing conformational search to fold open chains into a ring-closing conformation. Such conformation brings the head and tail of an open chain in relative positions that allow formation of a bond between them, thus closing the open chain into a ring (see <a class="reference external" href="https://doi.org/10.1021/acs.jcim.5b00424"><em>J. Chem. Inf. Model.</em> <strong>2015</strong>, 55, 9, 1844–1856</a>).</p>
+<p>Again, to save time, we will use a list of pre-computed molecules that has been processed via the ring-closing conformational search and geometry optimisation workflow as to compute the fitness value (i.e., the length of the C≡O bond). Therefore, the ring-closing conformational search, as well as actual molecular modeling task, will not take place during this tutorial.</p>
+</section>
+<section id="instructions">
+<h2>Instructions<a class="headerlink" href="#instructions" title="Permalink to this heading"></a></h2>
+<section id="creation-of-a-template-vertex">
+<h3>Creation of a Template Vertex<a class="headerlink" href="#creation-of-a-template-vertex" title="Permalink to this heading"></a></h3>
+<p>To create the Template vertex for our tridentate skeleton, we build the graph that will be embedded in the template and then we wrap-it into a vertex. The graph to embed should contain the metal center (red in Figure 2) and place-holding vertexes for the components of the chelation system: the coordinating sites, and the bridges (both blue in Figure 2). In addition, to require formation of the rings, we include in the template two pairs of <em>ring-closing vertexes</em> (orange in Figure 2).</p>
+<p><img alt="figures/template_details.png" src="_images/template_details.png" /></p>
+<p><strong>Figure 2</strong>: Structure of the graph to be embedded in the template vertex.</p>
+<p>If you are impatient, you can skip all the creation of the template and <a class="reference internal" href="#shortcut-skipp-templ-creation"><span class="std std-ref">jump directly to its deployment</span></a>.</p>
+<ol class="arabic simple">
+<li><p>Start DENOPTIM from within the <code class="docutils literal notranslate"><span class="pre">tutorial_3.0</span></code> folder. This is done from the Terminal (macOS/Linux) or the Anaconda prompt (Windows):</p></li>
+</ol>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="n">your_path_to_tutorial_3</span><span class="mf">.0</span>
+<span class="n">denoptim</span>
+</pre></div>
+</div>
+<ol class="arabic simple" start="2">
+<li><p>Choose the shortcut to <code class="docutils literal notranslate"><span class="pre">Make</span> <span class="pre">Graphs</span></code> or <code class="docutils literal notranslate"><span class="pre">File</span></code>-&gt;<code class="docutils literal notranslate"><span class="pre">New</span></code>-&gt;<code class="docutils literal notranslate"><span class="pre">New</span> <span class="pre">Graphs</span></code> to open the graph editor.</p></li>
+<li><p>Since we are going to build a graph that is meant for a specific space of building blocks, we load such space to make the building blocks available. Click on the <code class="docutils literal notranslate"><span class="pre">Load</span> <span class="pre">BBSpace</span></code> button on the right-hand part of the editor. Choose <code class="docutils literal notranslate"><span class="pre">Use</span> <span class="pre">parameters</span> <span class="pre">from</span> <span class="pre">an</span> <span class="pre">existing</span> <span class="pre">file</span></code> and browse to load file <code class="docutils literal notranslate"><span class="pre">monodentate_BBSpace.par</span></code>, which is contained in the <code class="docutils literal notranslate"><span class="pre">tutorial_3.0</span></code> folder. Once the parameters imported from the file are displayed, click on <code class="docutils literal notranslate"><span class="pre">Create</span> <span class="pre">BB</span> <span class="pre">Space</span></code>.</p></li>
+<li><p>Start the construction of a new graph by clicking on <code class="docutils literal notranslate"><span class="pre">Add</span></code> button on the top-right. Chose to <code class="docutils literal notranslate"><span class="pre">Build</span></code> a graph starting from a building block of type <code class="docutils literal notranslate"><span class="pre">Scaffold</span></code>. There is only one such vertex, and is the Pt-CO fragment we have already used in the previous exercise. Select that vertex to use it as the seed of our graph.</p></li>
+</ol>
+<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> Remember what learned in the Tutorial 1.1. DENOPTIM's graph representation have no dimensionality. Therefore, the relative placement of vertexes and attachment points is completely irrelevant. You can drag any component of the graph to help visualisation. Yet, such changes affect only on the graphical depiction and have no effect on the graph representation itself. Moreover you can right-click and `Refine node locations` to improve the bi-dimensional placements of nodes.</div>
+<ol class="arabic simple" start="5">
+<li><p>In the graph view, click on the yellow point that represent the attachment point corresponding to the coordination site <em>trans</em> to CO. This selects the attachment point on which we want to append a vertex.</p></li>
+<li><p>Click on the button <code class="docutils literal notranslate"><span class="pre">Add</span> <span class="pre">Empty</span> <span class="pre">Vertex</span></code> to add a placeholder for the L-type site of the ligand. This opens a dialog that allows creation of a new vertex by defining the list of attachment points. In this case, add three attachment points via the <code class="docutils literal notranslate"><span class="pre">Add</span> <span class="pre">AP</span></code> button: one with APClass <code class="docutils literal notranslate"><span class="pre">scaff:1</span></code> (this APClass is not present in the list, so it will have to be created on the fly) and two with APClass <code class="docutils literal notranslate"><span class="pre">bridge:1</span></code>.</p></li>
+</ol>
+<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> En <b>Empty Vertex</b> is yet another type of vertex that contains no chemical object, but can have attachment points. Empty vertexes are typically used as placeholders or masks defining that pattern of attachment points are expected by any non-empty vertex occupying the place held by the empty vertex.</div>
+<ol class="arabic simple" start="7">
+<li><p>Make sure the drop-down menu located below the list of attachment points selects <code class="docutils literal notranslate"><span class="pre">FRAGMENT</span></code> as type of building block, and click <code class="docutils literal notranslate"><span class="pre">Create</span></code>. The result should be similar to the figure below.</p></li>
+</ol>
+<p><img alt="figures/empty_fragment_L.png" src="_images/empty_fragment_L.png" /></p>
+<p><strong>Figure 3</strong>: Empty Vertex created to represent the L-type site on the tridentate ligand template.</p>
+<ol class="arabic simple" start="8">
+<li><p>In the list of attachment points, click on the row with APClass <code class="docutils literal notranslate"><span class="pre">scaff:1</span></code> to specify that this attachment point should be the one used to append the empty vertex onto the attachment point that was initially selected on the graph. Clicking on <code class="docutils literal notranslate"><span class="pre">Confirm</span> <span class="pre">selected</span> <span class="pre">AP</span></code> triggers the addition of the vertex to the graph and the formation of the corresponding edge.</p></li>
+<li><p>The procedure for appending a single empty vertex can now be repeated on the other two APs on the Pt-CO vertex, those with <code class="docutils literal notranslate"><span class="pre">Xlig:0</span></code> APClass. Since these two parts of the graph are equivalent in Figure 2, you can select both APs and append a copy of the created empty vertex on each of them. Do this twice:</p></li>
+</ol>
+<ul class="simple">
+<li><p>first, to add an empty vertex with APs <code class="docutils literal notranslate"><span class="pre">Xlig:1</span></code> and <code class="docutils literal notranslate"><span class="pre">bridge:1</span></code> (Select the AP <code class="docutils literal notranslate"><span class="pre">Xlig:1</span></code> as AP to bind the empty verted onto the growing graph),</p></li>
+<li><p>then, to append an empty vertex with <strong>two</strong> APs <code class="docutils literal notranslate"><span class="pre">bridge:0</span></code>.</p></li>
+</ul>
+<ol class="arabic simple" start="10">
+<li><p>To add RCVs (orange in Figure 2), instead, we use vertices saved in the space of building blocks. To this end, select the two APs on the first empty vertex you have added (i.e., the one representing the L-type site), click <code class="docutils literal notranslate"><span class="pre">Add</span> <span class="pre">Vertex</span> <span class="pre">from</span> <span class="pre">BB</span> <span class="pre">Space</span></code> and chose <code class="docutils literal notranslate"><span class="pre">Any</span> <span class="pre">Vertex</span></code>. Choose the second-last vertex, i.e., the one with a single AP of class <code class="docutils literal notranslate"><span class="pre">ATplus:0</span></code>, and append them to the graph.</p></li>
+<li><p>Repeat for the two last attachment points, but this time choose the very last vertex, i.e., the one with a single AP of class <code class="docutils literal notranslate"><span class="pre">ATminus:0</span></code>. The result should be similar to the following picture:</p></li>
+</ol>
+<p><img alt="figures/spanning_tree.png" src="_images/spanning_tree.png" /></p>
+<p><strong>Figure 4</strong>: Spanning tree of the graph to be embedded in the template.</p>
+<ol class="arabic simple" start="12">
+<li><p>The above graph is symmetric but there is nothing preventing place-holder vertexes such as 3 and 4 in Figure 4 (NB: the vertex identifiers may differ in your graph) to be replaced by different molecular fragments, thus leading to an asymmetric graph. One may be interested in both symmetric and asymmetric graphs, but in this tutorial we want only symmetric graphs. Therefore, we select sets of vertexes that are supposed to be symmetric (e.g., in Figure 4, the two sets [3, 4] and [5, 6]) and click on <code class="docutils literal notranslate"><span class="pre">Set</span> <span class="pre">as</span> <span class="pre">Symmetric</span></code>.</p></li>
+</ol>
+  <div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b>  after selecting a vertex, do shift-click on another vertex to expand the selection.</div>
+  <div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b>  Symmetry constraints are not visible in the graphical representation of a graph. Therefore, no apparent change results from clicking on `Set as Symmetric`.</div>
+  <div style="background-color: #ffffcc; border-left: 6px solid #ffeb3b; margin-bottom: 15px; padding: 4px 12px;"><b>Discussion Point:</b> what is the effect of symmetric constrains on the number of candidate graphs that can be built from the graph in Figure 4?</div>
+<ol class="arabic simple" start="13">
+<li><p>The graph in Figure 4 is still acyclic, so we add the chords between the appropriate pairs of RCVs by selecting a pair and clicking on <code class="docutils literal notranslate"><span class="pre">Add</span> <span class="pre">Chord</span></code>.</p></li>
+<li><p>The graph is now complete. Drag-click to select all vertexes, right-click and choose <code class="docutils literal notranslate"><span class="pre">Show</span> <span class="pre">APClasses</span></code>. Verify the result by comparison with Figure 2. Click on <code class="docutils literal notranslate"><span class="pre">Save</span> <span class="pre">changes</span></code> and look at eh content on the molecular representation in the bottom-left part of the screen. The system contains only the atoms from the Pt-CO fragment and the dummy atoms coming from the RCVs, which are places in random places.</p></li>
+<li><p>So far, the graph is special only in the fact that it contains empty vertexes. More importantly, it is not yet embedded in a template. To enclose the graph in a template, click on <code class="docutils literal notranslate"><span class="pre">Save</span> <span class="pre">Library</span> <span class="pre">of</span> <span class="pre">Templates</span></code> and choose <em>Contract:</em><code class="docutils literal notranslate"><span class="pre">FIXED_STRUCT</span></code> and <em>Type</em>: <code class="docutils literal notranslate"><span class="pre">SCAFFOLD</span></code>. Save as <code class="docutils literal notranslate"><span class="pre">lib_scaffolds_my_template.sdf</span></code> under the <code class="docutils literal notranslate"><span class="pre">tutorial_3.0</span></code> folder.</p></li>
+</ol>
+</section>
+<section id="evolutionary-design-with-templates">
+<span id="shortcut-skipp-templ-creation"></span><h3>Evolutionary Design with Templates<a class="headerlink" href="#evolutionary-design-with-templates" title="Permalink to this heading"></a></h3>
+<p>We are now going to use the template vertex we have just created to design our symmetric and chelating ligands for Pt-CO complexes.</p>
+<ol class="arabic simple">
+<li><p>From within the <code class="docutils literal notranslate"><span class="pre">tutorial_3.0</span></code> folder, open the file of parameters</p></li>
+</ol>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">denoptim</span> <span class="n">input_parameters</span>
+</pre></div>
+</div>
+<p>and inspect the parameters. This file assumes you have created the <code class="docutils literal notranslate"><span class="pre">lib_scaffolds_my_template.sdf</span></code> file in the previous part of the exercise.</p>
+  <div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> if you are in a hurry, you'll find a pre-built template in <code>lib_scaffolds_w_chelation_template.sdf</code>. You can rename this file to <code>lib_scaffolds_my_template.sdf</code> to skip all the first part of this tutorial.</div>
+<ol class="arabic simple" start="2">
+<li><p>Run the evolutionary design by clicking on <code class="docutils literal notranslate"><span class="pre">Run</span> <span class="pre">Now...</span></code>.</p></li>
+</ol>
+  <div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> all types of experiments can be started both from the GUI and from command line. This experiment can be started in a terminal from within the <code>tutorial_3.0</code> using this command:
+  <p><code>denoptim -r GA input_parameters</code></p>
+  See also <code>denoptim --help</code> for further details.</div>
+<ol class="arabic simple" start="3">
+<li><p>Once the experiment is finished, open the output with <code class="docutils literal notranslate"><span class="pre">File</span></code>-&gt;<code class="docutils literal notranslate"><span class="pre">Open</span> <span class="pre">Recent...</span></code> and inspect the results.</p></li>
+</ol>
+  <div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> opening the GA inspector is also among the operations that can be done directly from the command line
+  <p><code>denoptim path_to_folder_RUNYYYYMMDDHHMMSS</code></p></div>
+  <div style="background-color: #ffffcc; border-left: 6px solid #ffeb3b; margin-bottom: 15px; padding: 4px 12px;"><b>Discussion Point:</b> Consider the symmetry of the generated complexes. Search for ligands that have lower symmetry than others, for example, N-heterocyclic carbenes with different sets of substituents on the carbon atoms of their backbone. Is the graph representation symmetric? Motivate your answer reflecting on <a href="https://htmlpreview.github.io/?https://github.com/denoptim-project/DENOPTIM/blob/master/doc/user_manual.html#Toc43999_808352928">DENOPTIM's definition of symmetric attachment points</a>.
+</section>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="tutorial_2.0.html" class="btn btn-neutral float-left" title="Tutorial 2.0: Evolutionary Design of trans-Pt(X)(X’)(L)(CO)" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, Marco Foscato.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

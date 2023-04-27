@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tutorial 1.0: Molecular Fragments &mdash; DENOPTIM Tutorials  documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="_static/copybutton.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/sphinx_highlight.js"></script>
+        <script src="_static/clipboard.min.js"></script>
+        <script src="_static/copybutton.js"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Tutorial 1.1: Graph Representation" href="tutorial_1.1.html" />
+    <link rel="prev" title="The Graphical User Interface (GUI)" href="gui.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            DENOPTIM Tutorials
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="getting_started.html">Getting Started</a></li>
+<li class="toctree-l1"><a class="reference internal" href="gui.html">The Graphical User Interface (GUI)</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Tutorial 1.0: Molecular Fragments</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#visualize-molecular-fragments">Visualize Molecular Fragments</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#make-fragments-in-the-gui">Make Fragments in the GUI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#run-fragmenter-jobs-from-command-line">Run Fragmenter Jobs from Command Line</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_1.1.html">Tutorial 1.1: Graph Representation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_1.2.html">Tutorial 1.2: Building Transition Metal Complexes from Fragments</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_2.0.html">Tutorial 2.0: Evolutionary Design of <em>trans</em>-Pt(X)(X’)(L)(CO)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_3.0.html">Tutorial 3.0: Evolutionary Design of κ<sup>3</sup>-Chelator for Pt(CO)</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">DENOPTIM Tutorials</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Tutorial 1.0: Molecular Fragments</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/tutorial_1.0.md.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="tutorial-1-0-molecular-fragments">
+<span id="header-tutorial-fragments"></span><h1>Tutorial 1.0: Molecular Fragments<a class="headerlink" href="#tutorial-1-0-molecular-fragments" title="Permalink to this heading"></a></h1>
+<p>The fundamental concept in DENOPTIM’s world is that chemical objects, such as molecules and materials, are made of building blocks that can be attached to form a <strong>Graph</strong>-like structure. Building blocks are, therefore, called <strong>Vertices</strong> or <strong>Nodes</strong> of the graph that defines a chemical object. The most intuitive type of building block is a <strong>molecular fragment</strong>. Molecular fragments can contain one or more atoms and bonds, and are decorated with <strong>attachment points</strong>. Attachment points define how molecular fragments can be used to build larger chemical objects by attaching fragments to each other.</p>
+<hr class="docutils" />
+<section id="visualize-molecular-fragments">
+<h2>Visualize Molecular Fragments<a class="headerlink" href="#visualize-molecular-fragments" title="Permalink to this heading"></a></h2>
+<ol class="arabic">
+<li><p>Open <a class="reference internal" href="gui.html#header-gui"><span class="std std-ref">DENOPTIM’s GUI</span></a> and choose <code class="docutils literal notranslate"><span class="pre">File</span></code> -&gt; <code class="docutils literal notranslate"><span class="pre">Open</span></code> then navigate to open the file <code class="docutils literal notranslate"><span class="pre">tutorial_1.0/fragments-1.sdf</span></code> from the unzipped <a class="reference internal" href="getting_started.html#header-dataset"><span class="std std-ref">downloaded dataset</span></a>. The same file can be opened directly in the command line by issuing the following command from within the folder created when unzipping the downloaded dataset:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">denoptim</span> <span class="n">tutorial_1</span><span class="mf">.0</span><span class="o">/</span><span class="n">fragments</span><span class="o">-</span><span class="mf">1.</span><span class="n">sdf</span>
+</pre></div>
+</div>
+<p>The graphical interface will open a window and display the fragments contained in the file.</p>
+<p><img alt="figures/fragment_view.png" src="_images/fragment_view.png" /></p>
+<p><strong>Figure 1</strong>: The graphical representation of a molecular fragment. The red arrow indicates the spinner used to navigate the list of fragments.</p>
+</li>
+<li><p>Use the mouse to rotate the three-dimensional molecular representation of the fragment (click and drag).</p>
+<p>Molecular fragments can have any number of atoms and any number of attachment points (the yellow arrow in the three-dimensional representation), each of which defined the possibility to bind another building block. The attachment point is decorated by a string, i.e., the so-called <strong>Attachment Point Class</strong> (<strong>APClass</strong>), that is used to control how attachment points can be used to connect fragments. For clarity, the APClass is declared in the table below the three-dimensional representation of the fragment.</p>
+</li>
+<li><p>Use the spinner in the top-right part of the window (see in red arrow figure above) to navigate to the next fragments and backwards. Navigate to the third fragment.</p>
+<p>Fragments can also contain <em>pseudoatoms</em>/<em>dummy</em> atoms, as shown in the third fragment: a <a class="reference external" href="https://en.wikipedia.org/wiki/Cyclopentadienyl">cycplopentadienyl</a> fragment that offers the possibility to host a substituent different from H on one of the carbon atoms. Note the <em>dummy</em> atom placed at the centroid of the ring: it is used to hold the attachment point that represents the capability to use such fragment to bind a metal atom in hapto-5 mode (η<sup>5</sup>).</p>
+</li>
+<li><p>Click on the <code class="docutils literal notranslate"><span class="pre">Node</span> <span class="pre">View</span></code> button to show what each fragment represents in terms of graph building blocks.</p>
+<p>Each <strong>molecular fragment</strong> represents a single <strong>vertex</strong> that can be used as a building block for a graph. The chemical content, i.e., the number and identity of the atoms and bonds, is not relevant when perceiving molecular fragments as graph building blocks. Instead, what defines the characteristics of the vertex is the set of attachment points, each with its own APClass.</p>
+<p><img alt="figures/fragment_view_node.png" src="_images/fragment_view_node.png" /></p>
+<p><strong>Figure 2</strong>: The <em>Node View</em> representation of a vertex.</p>
+<p><img alt="figures/fragment_view_2d.png" src="_images/fragment_view_2d.png" /></p>
+<p><strong>Figure 3</strong>: The <em>2D Molecular Structure</em> representation of a vertex.</p>
+</li>
+</ol>
+</section>
+<hr class="docutils" />
+<section id="make-fragments-in-the-gui">
+<h2>Make Fragments in the GUI<a class="headerlink" href="#make-fragments-in-the-gui" title="Permalink to this heading"></a></h2>
+<ol class="arabic">
+<li><p>We will now make new molecular fragments that we could use as building blocks. To exploit the existing chemical knowledge we will make such molecular fragments by <em>fragmenting</em> (that is, chopping up) a known compound. Click on <code class="docutils literal notranslate"><span class="pre">File</span></code> -&gt; <code class="docutils literal notranslate"><span class="pre">New</span></code> -&gt; <code class="docutils literal notranslate"><span class="pre">New</span> <span class="pre">Molecular</span> <span class="pre">Fragments</span></code> to open a new vertex inspector tab. Then click on the dedicated button to <em>Import a structure from</em> <code class="docutils literal notranslate"><span class="pre">File</span></code> (see red arrow in the figure below) and select file <code class="docutils literal notranslate"><span class="pre">tutorial_1.0/aspirin.sdf</span></code>.</p>
+<p><img alt="figures/fragment_view_importFromFile.png" src="_images/fragment_view_importFromFile.png" /></p>
+<p><strong>Figure 4</strong>: Buttons used to import a structure from file (red arrow) and launch the fragmentation (green arrow).</p>
+</li>
+<li><p>Once the molecule is displayed, you can click on <code class="docutils literal notranslate"><span class="pre">Chop</span> <span class="pre">Structure</span></code> (see green arrow in the figure above) to start the automated generation of fragments. This will open a new window that offers the possibility to control the <strong>cutting rule</strong>, i.e., the rules defining how the structure should be cut (see below). Click on <code class="docutils literal notranslate"><span class="pre">Start</span> <span class="pre">fragmentation</span></code> to accept the defaults.</p></li>
+<li><p>The result will be a set of 4 new fragments obtained by cutting the bonds marked by a star in the following figure. Once we confirm to import all of them, these fragments will be loaded in the current vertex inspector tab.</p>
+<p><img alt="figures/aspirin_cuts.png" src="_images/aspirin_cuts.png" /></p>
+<p><strong>Figure 5</strong>: Bonds identified by the default cutting rules and cut Buttons used to import a structure from file (red arrow) and launch the fragmentation (green arrow).</p>
+<p>The set of fragments and the APClass on the attachment points of the generated fragments are the result of the <strong>cutting rules</strong>. A single cutting rule is a substructure pattern that defines which bonds are broken by a specific cutting rule and what is the APClass of the resulting attachment points. Further details are available in the <a class="reference external" href="https://htmlpreview.github.io/?https://github.com/denoptim-project/DENOPTIM/blob/master/doc/user_manual.html#Toc2222_2">dedicated documentation</a> and publication (<a class="reference external" href="https://doi.org/10.1021/ci5003153"><em>J. Chem. Inf. Model.</em> <strong>2014</strong>, 54, 7, 1919–1931</a>). In brief, each cutting rule is expressed as a <a class="reference external" href="https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html">SMARTS</a> resulting by the combination of the components dedicated to the bond it self and the atoms connected by such bond. The cutting rule can be inspected in the dialog shown when clicking on the <code class="docutils literal notranslate"><span class="pre">Chop</span> <span class="pre">Structure</span></code> button.</p>
+</li>
+<li><p>Attachment points can also be generated manually. Select one or more terminal atoms by clicking on them, and click on the <code class="docutils literal notranslate"><span class="pre">Atom</span> <span class="pre">to</span> <span class="pre">AP</span></code> button (see red arrow in the figure) to transform one or more atom in attachment points. A dialog will allow to specify the APClass of the resulting attachment points.</p>
+<p><img alt="figures/fragment_view_addAP.png" src="_images/fragment_view_addAP.png" /></p>
+<p><strong>Figure 6</strong>: Selection of an atom to be converted into an attachment point by clicking on the button identified by the red arrow.</p>
+</li>
+</ol>
+</section>
+<hr class="docutils" />
+<section id="run-fragmenter-jobs-from-command-line">
+<h2>Run Fragmenter Jobs from Command Line<a class="headerlink" href="#run-fragmenter-jobs-from-command-line" title="Permalink to this heading"></a></h2>
+<p>Fragmentation of many structures is more efficiently performed by running DENOPTIM’s Fragmenter from the command line. Moreover, the Fragmenter offers more functionality that what possible in manual fragmentation:</p>
+<ul class="simple">
+<li><p>apply filtering criteria to the structures to be fragmented,</p></li>
+<li><p>remove duplicate fragments,</p></li>
+<li><p>apply filtering criteria on generated fragments,</p></li>
+<li><p>identify the most representative conformations of a molecular fragment.</p></li>
+</ul>
+<p>This tutorial will take structures from the <a class="reference external" href="http://www.crystallography.net/cod/index.php">Crystallography Open Database</a> and chop them to generate and organise fragment automatically. In general, the source of the geometries can be any database of mono-, bi-, and three-dimentional structures, such as any crystallography database, or any database of computed structures.
+In this specific example, out goal is to collect three-dimensional fragments of chelated Ru-alkilydene complexes, which might be used to design Ru catalyst for <a class="reference external" href="https://en.wikipedia.org/wiki/Olefin_metathesis">olefin metathesis</a>.</p>
+<ol class="arabic">
+<li><p>Collect the structures from which to generate fragments. For this exercise the structures are already collected in file <code class="docutils literal notranslate"><span class="pre">tutorial_1.0/structures_from_COD.cif</span></code> from the <a class="reference internal" href="getting_started.html#header-dataset"><span class="std std-ref">downloaded dataset</span></a>.</p>
+<p>The structures used here can be obtained from the <a class="reference external" href="http://www.crystallography.net/cod/index.php">Crystallography Open Database</a>:  <a class="reference external" href="http://www.crystallography.net/cod/4064102.html">4064102</a>, <a class="reference external" href="http://www.crystallography.net/cod/4064965.html">4064965</a>, <a class="reference external" href="http://www.crystallography.net/cod/4064964.html">4064964</a>, <a class="reference external" href="http://www.crystallography.net/cod/4064967.html">4064967</a>, <a class="reference external" href="http://www.crystallography.net/cod/4068123.html">4068123</a>, <a class="reference external" href="http://www.crystallography.net/cod/4068964.html">4068964</a>, <a class="reference external" href="http://www.crystallography.net/cod/4068965.html">4068965</a>, <a class="reference external" href="http://www.crystallography.net/cod/4068966.html">4068966</a>, <a class="reference external" href="http://www.crystallography.net/cod/4075179.html">4075179</a>, <a class="reference external" href="http://www.crystallography.net/cod/4075180.html">4075180</a>, <a class="reference external" href="http://www.crystallography.net/cod/4110988.html">4110988</a>, <a class="reference external" href="http://www.crystallography.net/cod/1504708.html">1504708</a>, <a class="reference external" href="http://www.crystallography.net/cod/1504709.html">1504709</a>, and <a class="reference external" href="http://www.crystallography.net/cod/4064690.html">4064690</a>.</p>
+</li>
+<li><p>The settings of the Framenter are collected in an input file prepared according to the <a class="reference external" href="https://htmlpreview.github.io/?https://github.com/denoptim-project/DENOPTIM/blob/master/doc/user_manual.html#Toc2222_1">user manual</a>. An example of such file is available as <code class="docutils literal notranslate"><span class="pre">tutorial_1.0/fragmentation.params</span></code>. The content is the following:</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>FRG-StructuresFile=structures_from_COD.cif
+FRG-CuttingRulesFile=cutting_rules
+FRG-RetainSMARTS=[Ru]
+FRG-RejectSMARTS=[#6]~[Ru]~[#6]
+FRG-IsomorphicSampleSize=20
+FRG-ClusterizeAndCollect=centroids
+</pre></div>
+</div>
+<p>In this specific case, we ask the Fragmenter to chop the structures found in file <code class="docutils literal notranslate"><span class="pre">structures_from_COD.cif</span></code> using the cutting rules available in file <code class="docutils literal notranslate"><span class="pre">cutting_rules</span></code>. In addition, we ask to keep only fragments that contains at least one ruthenium atom (line 3 in the example above) while not containing any chain of atoms matching the carbon-(any bond)-ruthenium-(any bond)-carbon patterns (line 4 in the example above). These constrains reflect the desire to collect only Ru-containing fragments that do not contain partially fragmented systems, which would contain more than one organometallic bond to Ru.
+Line 5 and 6 control the identification of the most representative fragments. Namely, fragments are to be collected in samples of isomorphic fragments, i.e., fragments with the same graph structure of atoms and attachment points, but not necessarily the same geometry. Effectively, isomorphic fragments have the same constitution of atoms and attachment points, but potentially different stereochemistry. The sampling of isomorphic fragment families will consider up to 20 fragments (line 5). For each such sample, the Fragmenter will then run a clustering analysis based on the RMSD of atomic positions upon frozen-geometry superposition to discriminate isomorphic fragments with different geometry and will return the centroid of each such cluster as the most representative fragment of the cluster (line 6).</p>
+</li>
+<li><p>Run the fragmentation from within the <code class="docutils literal notranslate"><span class="pre">tutorial_1.0</span></code> folder using this command:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">denoptim</span> <span class="o">-</span><span class="n">r</span> <span class="n">FRG</span> <span class="n">fragmentation</span><span class="o">.</span><span class="n">params</span>
+</pre></div>
+</div>
+</li>
+<li><p>A new folder will be created with name <code>FRG<i>YYYYMMDDHHMMSS</i></code> where <code><i>YYYYMMDDHHMMSS</i></code> is the time stamp. Log files tracking the workings of the process, and files collecting intermediate data are contained in this folder. In particular, the final collection of the most representative fragments, i.e., the centroid of each cluster of isomorphic fragments, is saved in file <code class="docutils literal notranslate"><span class="pre">FRGYYYYMMDDHHMMSS/Fragments.sdf</span></code>. It is convenient to open such file in the graphical user interface to inspect the results (<strong>NB: replace </i>YYYYMMDDHHMMSS</i> with the appropriate values for your case</strong>):</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">denoptim</span> <span class="n">FRGYYYYMMDDHHMMS</span><span class="o">/</span><span class="n">Fragments</span><span class="o">.</span><span class="n">sdf</span>
+</pre></div>
+</div>
+<p>Note that the fragment corresponding to the chelating <em>ortho</em>-alkoxybenzylidene (Figure 7) is the centroid of a cluster collecting a handful of isomorphic and geometrically similar fragments. This information can be found in the <code class="docutils literal notranslate"><span class="pre">ConformerExtractorTask-\*_IsomorphicFamily_\*.log</span></code> files. The centroid is calculated averaging all atomic positions, thus the noise due to small distortions in the geometries is attenuated.</p>
+<p><img alt="figures/fragment_view_alkoxybenzylidene.png" src="_images/fragment_view_alkoxybenzylidene.png" /></p>
+<p><strong>Figure 7</strong>: Fragment obtained as the cluster centroid for <em>ortho</em>-alkoxybenzylidene-chelated ruthenium centers. The atom in magenta is a dummy atom added by DENOPTIM to facilitate the manipulation of linearities around the metal center.</p>
+<p>Moreover, note that the isomorphic but geometrically diverse fragments in Figure 8 are collected separately as they belong to two different geometry clusters of the same sample of isomorphic fragments.</p>
+<p><img alt="figures/fragment_view_cit-trans.png" src="_images/fragment_view_cit-trans.png" /></p>
+<p><strong>Figure 8</strong>: isomorphic but geometrycally different fragments, i.e., these fragments have the same constitution but different configuration at the Ru center: <em>trans</em> for the fragment on the left, <em>cis</em> for that on the right. The atom in magenta is a dummy atom added by DENOPTIM to facilitate the manipulation of linearities around the metal center.</p>
+</li>
+</ol>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="gui.html" class="btn btn-neutral float-left" title="The Graphical User Interface (GUI)" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="tutorial_1.1.html" class="btn btn-neutral float-right" title="Tutorial 1.1: Graph Representation" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, Marco Foscato.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

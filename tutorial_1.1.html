@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tutorial 1.1: Graph Representation &mdash; DENOPTIM Tutorials  documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="_static/copybutton.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/sphinx_highlight.js"></script>
+        <script src="_static/clipboard.min.js"></script>
+        <script src="_static/copybutton.js"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Tutorial 1.2: Building Transition Metal Complexes from Fragments" href="tutorial_1.2.html" />
+    <link rel="prev" title="Tutorial 1.0: Molecular Fragments" href="tutorial_1.0.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            DENOPTIM Tutorials
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="getting_started.html">Getting Started</a></li>
+<li class="toctree-l1"><a class="reference internal" href="gui.html">The Graphical User Interface (GUI)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_1.0.html">Tutorial 1.0: Molecular Fragments</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Tutorial 1.1: Graph Representation</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#visualize-a-denoptim-graph">Visualize a DENOPTIM Graph</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#convert-standard-molecular-representations-to-denoptim-graphs">Convert standard molecular representations to DENOPTIM Graphs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#build-a-denoptim-graph">Build a DENOPTIM Graph</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_1.2.html">Tutorial 1.2: Building Transition Metal Complexes from Fragments</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_2.0.html">Tutorial 2.0: Evolutionary Design of <em>trans</em>-Pt(X)(X’)(L)(CO)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_3.0.html">Tutorial 3.0: Evolutionary Design of κ<sup>3</sup>-Chelator for Pt(CO)</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">DENOPTIM Tutorials</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Tutorial 1.1: Graph Representation</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/tutorial_1.1.md.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="tutorial-1-1-graph-representation">
+<h1>Tutorial 1.1: Graph Representation<a class="headerlink" href="#tutorial-1-1-graph-representation" title="Permalink to this heading"></a></h1>
+<p>DENOPTIM uses graphs to represent items such as chemical objects. Graphs are collections of vertices and edges. Vertices represent each one of the building blocks of the graph. Edges represent the relation between the building blocks. The <a class="reference internal" href="tutorial_1.0.html#header-tutorial-fragments"><span class="std std-ref">previous tutorial</span></a> has already presented the most intuitive type of building block for molecular design, i.e., the molecular fragments. Here, we’ll see how these building blocks can be combined to define complete chemical objects.</p>
+<hr class="docutils" />
+<section id="visualize-a-denoptim-graph">
+<span id="header-look-at-graphs"></span><h2>Visualize a DENOPTIM Graph<a class="headerlink" href="#visualize-a-denoptim-graph" title="Permalink to this heading"></a></h2>
+<p>Open <a class="reference internal" href="gui.html#header-gui"><span class="std std-ref">DENOPTIM’s GUI</span></a> and choose <code class="docutils literal notranslate"><span class="pre">File</span></code> -&gt; <code class="docutils literal notranslate"><span class="pre">Open</span></code> then navigate to open the file <code class="docutils literal notranslate"><span class="pre">tutorial_1.1/graph_for_Pt_complex.sdf</span></code> from the unzipped <a class="reference internal" href="getting_started.html#header-dataset"><span class="std std-ref">downloaded dataset</span></a>. In alternative, open the file with this command from the root folder of the downloaded dataset.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">denoptim</span> <span class="n">tutorial_1</span><span class="mf">.1</span><span class="o">/</span><span class="n">graph_for_Pt_complex</span><span class="o">.</span><span class="n">sdf</span>
+</pre></div>
+</div>
+<p>The graphical interface will open a window and display the graph representation contained in the file. The DENOPTIM graph representations do not have any dimensional structure (no 2D or 3D coordinates), though they can still represent 3D molecular models (see Figure 1, and note the different dimensionality between the right-hand, which depicts DENOPTIM’s graph, and bottom-left panel, which depicts the corresponding molecular model). The vertices in the right-hand panel can be moved with the mouse or by right-click -&gt; <code class="docutils literal notranslate"><span class="pre">Refine</span> <span class="pre">node</span> <span class="pre">location</span></code>.</p>
+<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> Since graphs have no dimension, the relative placement of the vertices in the necessarily bi-dimensional graphical representation changes every time such generation is created. For example, opening the same file multiple times will result in multiple bi-dimensional depictions.</div>
+<p><img alt="figures/graph_view.png" src="_images/graph_view.png" /></p>
+<p><strong>Figure 1</strong>: The graph representation of a transition metal complex. The viewer depicts the DENOPTIM graph representation on the right-hand panel, and the three-dimensional molecular model in the lower part of the left panel. The upper part of the left panel shows the content of the vertex currently selected in the right-hand panel (vertex with label <em>16</em>, and which is highlighted in light green).</p>
+<p>The colour of the vertices in the DENOPTIM graph viewer encode information on the roles of each vertex:</p>
+<ul class="simple">
+<li><p>blue vertices have no special role. These are standard building blocks.</p></li>
+<li><p>red vertices have <strong>Scaffold</strong> role. Scaffolds have been declared to contain the single most critical component of the chemical entity (e.g., the metal center in a transition metal complex) and are, therefore, used as starting point when constructing new entities of a certain kind (e.g., Pt complexes).</p></li>
+<li><p>green vertices are <strong>Capping group</strong>. These are vertices that by contract saturate open valences and open coordination sites. Capping groups are most often hydrogen atoms, but can be anything and in the loaded graph they are Ph groups.</p></li>
+<li><p>bright green is used to identify any selected vertex. Vertices can be selected by clicking on them (thus triggering the generation of a molecular representation of the vertex content) or by drawing a selection rectangle with the mouse (thus selecting more than one vertex).</p></li>
+<li><p>orange (not shown in Figure 1) for vertices used to form cyclic graphs (Ring-Closing Vertices, described <a class="reference internal" href="tutorial_3.0.html#rcvs"><span class="std std-ref">later</span></a>).</p></li>
+</ul>
+</section>
+<section id="convert-standard-molecular-representations-to-denoptim-graphs">
+<span id="header-build-graph"></span><h2>Convert standard molecular representations to DENOPTIM Graphs<a class="headerlink" href="#convert-standard-molecular-representations-to-denoptim-graphs" title="Permalink to this heading"></a></h2>
+<p>Standard molecular representation such as SDF and SMILES can be converted to DENOPTIM graphs by performning an on-the-fly fragmentation that identifies the molecular building blocks and convertes them into graph vertices. To this end,</p>
+<ol class="arabic">
+<li><p>Open the graph handler by <code class="docutils literal notranslate"><span class="pre">File</span></code> -&gt; <code class="docutils literal notranslate"><span class="pre">New</span></code> -&gt; <code class="docutils literal notranslate"><span class="pre">New</span> <span class="pre">Graphs</span></code></p></li>
+<li><p>Select <code class="docutils literal notranslate"><span class="pre">Add</span> <span class="pre">Graphs</span></code> -&gt; <code class="docutils literal notranslate"><span class="pre">Convert</span></code> and navigate to a file (SDF or SMILES) containign one or more molecules to be converted into DENOPTIM graphs. For this tutorial, navigate to file <code class="docutils literal notranslate"><span class="pre">tutorial_1.0/aspirin.sdf</span></code>.</p>
+<p><img alt="figures/graph_molToGraph.png" src="_images/graph_molToGraph.png" /></p>
+<p><strong>Figure 2</strong>: Sequence of buttons to click to convert a molecule into a DENOPTIM graph.</p>
+</li>
+<li><p>A dialog will appear allowing to control the fragmentation settings and cutting rules, but we accept the defaults and click on <code class="docutils literal notranslate"><span class="pre">Start</span> <span class="pre">Fragmentation</span></code>.</p></li>
+<li><p>The graph resulting by fragmentation of the aspirin molecule and re-assembling of the fragment is now displayed in the graph handler. The resulting graphs can be saved with <code class="docutils literal notranslate"><span class="pre">Export</span> <span class="pre">Graphs</span></code>. Moreover, also the fragments generated by during the fragmentation can be exported independently on the graph. To this end use <code class="docutils literal notranslate"><span class="pre">Export</span> <span class="pre">Vertexes</span></code>.</p></li>
+</ol>
+</section>
+<section id="build-a-denoptim-graph">
+<span id="id1"></span><h2>Build a DENOPTIM Graph<a class="headerlink" href="#build-a-denoptim-graph" title="Permalink to this heading"></a></h2>
+<p>To build a graph that represents a chemical object like the one seen above, we need to give DENOPTIM two types of information:</p>
+<ul class="simple">
+<li><p>what building blocks can be used, and</p></li>
+<li><p>what are the rules that control how building blocks are put together.
+The combination of these two ingredients is a <strong>Fragment Space</strong> (See <a class="reference external" href="https://doi.org/10.1021/ci5003153"><em>J. Chem. Inf. Model.</em> <strong>2014</strong>, 54, 7, 1919–1931</a> for details), or, when building blocks can be more than just molecular fragments, we call it <strong>Building Blocks Space</strong> (BBSpace).</p></li>
+</ul>
+<p>In practice, to build graphs by hand in the GUI:</p>
+<ol class="arabic">
+<li><p>Start the creation of a graph by clicking on <code class="docutils literal notranslate"><span class="pre">File</span></code> -&gt; <code class="docutils literal notranslate"><span class="pre">New</span></code> -&gt; <code class="docutils literal notranslate"><span class="pre">New</span> <span class="pre">Graphs</span></code></p></li>
+<li><p>Import a pre-configured space of building blocks by clicking on <code class="docutils literal notranslate"><span class="pre">Load</span> <span class="pre">BBSpace</span></code>.</p>
+<p><img alt="figures/graph_loadBBSpace.png" src="_images/graph_loadBBSpace.png" /></p>
+<p><strong>Figure 3</strong>: Graph viewer panel. The red arrow indicates the button to click to import a space of building blocks.</p>
+</li>
+<li><p>In the resulting window, define the four components highlighted in Figure 4. Use the <code class="docutils literal notranslate"><span class="pre">Browse</span></code> button on the right-hand part of each component’s line to navigate the file system and select the following files from the unzipped <a class="reference internal" href="getting_started.html#header-dataset"><span class="std std-ref">downloaded dataset</span></a>:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">tutorial_1.1/lib_scaffolds.sdf</span></code> as library of vertices with Scaffold role,</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">tutorial_1.1/lib_fragments.sdf</span></code> as library of vertices with no specific role,</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">tutorial_1.1/lib_capping-groups.sdf</span></code> as the library of vertices with role of Capping Group,</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">tutorial_1.1/compatibility_matrix.par</span></code> as the file with the compatibility matrix. This files contains the rules that control how building blocks are put together.
+The rest of the parameters can be ignored in this tutorial.</p></li>
+</ul>
+<p><img alt="figures/graph_paramsBBSpace.png" src="_images/graph_paramsBBSpace.png" /></p>
+<p><strong>Figure 4</strong>: Compiled form defining the space of building blocks (i.e., the fragment space) used in this tutorial.</p>
+</li>
+<li><p>Click on <code class="docutils literal notranslate"><span class="pre">Create</span> <span class="pre">BBSpace</span></code> (see red arrow in Figure 4) to terminate the definition of the space of building blocks and load it into the memory for further use. Note that the <code class="docutils literal notranslate"><span class="pre">Load</span> <span class="pre">BBSpace</span></code> button becomes <code class="docutils literal notranslate"><span class="pre">Change</span> <span class="pre">BBSpace</span></code> indicating that a BBSpace is already loaded.</p></li>
+<li><p>Start the actual creation of a new graph item by clicking on the <code class="docutils literal notranslate"><span class="pre">Add</span> <span class="pre">Graphs</span></code> button (see red allow in Figure 5), and specify the desire to <code class="docutils literal notranslate"><span class="pre">Build</span></code> a graph (in the first step), and the to build it from <code class="docutils literal notranslate"><span class="pre">Scaffold</span></code> (in the second step).</p>
+<p><img alt="figures/graph_add.png" src="_images/graph_add.png" /></p>
+<p><strong>Figure 5</strong>: Button used to add a new graph into the current list of graphs.</p>
+</li>
+<li><p>The vertex selection window (see Figure 6) allows to chose which vertex to use, though in this library there is only one scaffold. Click on <code class="docutils literal notranslate"><span class="pre">Select</span> <span class="pre">current</span> <span class="pre">vertex</span></code> to confirm the choice.</p></li>
+</ol>
+<p><img alt="figures/graph_chooseScaff.png" src="_images/graph_chooseScaff.png" /></p>
+<p><strong>Figure 6</strong>: The vertex selection window.</p>
+<ol class="arabic simple" start="7">
+<li><p>The Pt-containing vertex is then added to the growing graph which is represented in the graph viewer. The yellow circles represent available attachment points. Clock on the square representing the only verted that is now present in the graph, and do right click -&gt; <code class="docutils literal notranslate"><span class="pre">Show</span> <span class="pre">APClasses</span></code> to display labels that define the class of each attachment point. The same result can be achieved by selecting the vertex and clicking on the <code class="docutils literal notranslate"><span class="pre">APClass</span></code> button on the right-hand panel.</p></li>
+<li><p>Select the two attachment points with APClass <code>Xlig:0</code> by doing a single click one of them and then ALT+click on the second (or by drawing a selection rectangle that includes both). Then click on <code class="docutils literal notranslate"><span class="pre">Add</span> <span class="pre">Vertex</span> <span class="pre">from</span> <span class="pre">BB</span> <span class="pre">Space</span></code> (see Figure 7) and choose <code class="docutils literal notranslate"><span class="pre">Compatible</span> <span class="pre">Vertices</span></code>. This asks DENOPTIM to use the attachment point compatibility rules to restrict the choice of vertices to those that can offer at least one attachment point compatible with those selected in the graph.</p></li>
+</ol>
+<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> the number of compatible vertices is stated in the `Compatible Vertices` button. Note if the selection of attachment points includes one with APClass <code>Xlig:0</code> and one with <code>scaff:0</code>, the list of compatible vertices is empty. This because the two APClasses are meant for different kinds of bonding interactions, namely the first is meant for a covalent ligand, while the second is meant to a dative ligand. In the current BBSpace there is no building block that can satisfy both requirements simultaneously.</div>
+<p><img alt="figures/graph_addFromBBSpace.png" src="_images/graph_addFromBBSpace.png" /></p>
+<p><strong>Figure 7</strong>: Sequence of clicks used to append compatible vertices on two selected attachment points simultaneously.</p>
+<ol class="arabic simple" start="9">
+<li><p>A new vertex selection window allows to choose among the four compatible vertices. Pick one of your choice. Note that all these four vertices have only one attachment point, which is pre-selected as its the only possible choice. If there were more compatible attachment points on the incoming vertex, then the user is asked to chose one. This is the attachment point the software will use to form an edge with the growing graph.</p></li>
+</ol>
+<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> The creation of an edge between vertices does not necessarily correspond to the creation of a bond between atoms. APClasses can be used to define non-bonding edges that will not be converted into bonds upon generation of a chemical representation of the item defined by the DENOPTIM graph.</div>
+<ol class="arabic simple" start="10">
+<li><p>Select another attachment point in the growing graph, and click on <code class="docutils literal notranslate"><span class="pre">Add</span> <span class="pre">Vertex</span> <span class="pre">from</span> <span class="pre">BB</span> <span class="pre">Space</span></code> to append more vertices according to your preference.</p></li>
+<li><p>At any point you can click on <code class="docutils literal notranslate"><span class="pre">Save</span> <span class="pre">Changes</span></code> to trigger the conversion of the graph into a molecular representation that is displayed in the lower part of the left-hand side of the graph viewer panel. Note that such panel may have been reduced to minimal size to liberate space. In this case use move the panel divider with the mouse to adjust the size to your preference (See Figure 8).</p></li>
+</ol>
+<p><img alt="figures/graph_panel_divider.png" src="_images/graph_panel_divider.png" /></p>
+<p><strong>Figure 8</strong>: Panel dividers (here highlighted by the red rectangles) and the their small, triangular buttons (pointed to by the arrows) can be used to resize the subpanels according to needs.</p>
+<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;"><b>NOTE:</b> This tutorial shown how to build a graph manually. The process is similar to what occurs during automated construction of graphs with the difference that any decision taken by the used in this manual procedure is taken by the computed according to a probabilities that can be controlled by input parameters.</div>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="tutorial_1.0.html" class="btn btn-neutral float-left" title="Tutorial 1.0: Molecular Fragments" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="tutorial_1.2.html" class="btn btn-neutral float-right" title="Tutorial 1.2: Building Transition Metal Complexes from Fragments" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, Marco Foscato.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

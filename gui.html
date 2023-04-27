@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Graphical User Interface (GUI) &mdash; DENOPTIM Tutorials  documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="_static/copybutton.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/sphinx_highlight.js"></script>
+        <script src="_static/clipboard.min.js"></script>
+        <script src="_static/copybutton.js"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Tutorial 1.0: Molecular Fragments" href="tutorial_1.0.html" />
+    <link rel="prev" title="Getting Started" href="getting_started.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            DENOPTIM Tutorials
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="getting_started.html">Getting Started</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">The Graphical User Interface (GUI)</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#launch-the-gui">Launch the GUI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#what-s-in-the-gui">What’s in the GUI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#open-files-in-the-gui">Open Files in the GUI</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_1.0.html">Tutorial 1.0: Molecular Fragments</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_1.1.html">Tutorial 1.1: Graph Representation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_1.2.html">Tutorial 1.2: Building Transition Metal Complexes from Fragments</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_2.0.html">Tutorial 2.0: Evolutionary Design of <em>trans</em>-Pt(X)(X’)(L)(CO)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial_3.0.html">Tutorial 3.0: Evolutionary Design of κ<sup>3</sup>-Chelator for Pt(CO)</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">DENOPTIM Tutorials</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">The Graphical User Interface (GUI)</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/gui.md.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="the-graphical-user-interface-gui">
+<h1>The Graphical User Interface (GUI)<a class="headerlink" href="#the-graphical-user-interface-gui" title="Permalink to this heading"></a></h1>
+<p>DENOPTIM comes with a graphical user interface that allows to produce graphical depictions of complex objects, such as vertices and graphs, execute complex operations with few clicks (e.g., fragment molecules), and produce an overview of the outcome from combinatorial and evolutionary experiments.</p>
+<section id="launch-the-gui">
+<span id="header-gui"></span><h2>Launch the GUI<a class="headerlink" href="#launch-the-gui" title="Permalink to this heading"></a></h2>
+<p>The most convenient way to launch the GUI is running the <code class="docutils literal notranslate"><span class="pre">denoptim</span></code> command in the command line interface:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">denoptim</span>
+</pre></div>
+</div>
+<p>Note the absence of any argument. This command launches the GUI and open its home tab (Figure 1). The shell where the command has been issued will be used for logging while the GUI is running.</p>
+<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;">
+<b>INFO:</b> The <code>denoptim</code> command is nothing more than an alias to the command creating a JAVA virtual machine that runs the main method in the archive of DENOPTIM classes: <code>java -jar  $PATHTOJAR/denoptim-$VERSION-jar-with-dependencies.jar</code> where <code>$PATHTOJAR</code> is the path where DENOPTIM has been installed and <code>$VERSION</code> is the version numbers (e.g., 4.0.0). These variables are set by Conda during the installation process.</div>
+<p><img alt="figures/gui_home.png" src="_images/gui_home.png" /></p>
+<p><strong>Figure 1</strong>: The home tab of the GUI.</p>
+</section>
+<section id="what-s-in-the-gui">
+<h2>What’s in the GUI<a class="headerlink" href="#what-s-in-the-gui" title="Permalink to this heading"></a></h2>
+<p>The GUI has a menu bar with standard functionality:</p>
+<ul class="simple">
+<li><p>the <code class="docutils literal notranslate"><span class="pre">DENOPTIM</span></code> menu gives access to general settings, software information, and a button for exiting the GUI,</p></li>
+<li><p>the <code class="docutils literal notranslate"><span class="pre">File</span></code> menu, can be used to open existing files or create new ones.</p></li>
+</ul>
+<p>Note that the home tab offers a few handy shortcuts to perform the same actions. For example, clicking on <code class="docutils literal notranslate"><span class="pre">Make</span> <span class="pre">Fragments</span></code> is the same as <code class="docutils literal notranslate"><span class="pre">File</span></code> -&gt; <code class="docutils literal notranslate"><span class="pre">New</span></code> -&gt; <code class="docutils literal notranslate"><span class="pre">New</span> <span class="pre">Molecular</span> <span class="pre">Fragments</span></code>.</p>
+<p>Any operation such as opening a file, creating a new file, or preparing a new experiment will open a new panel (or tab) with a window’s design dedicated to the specific task. A newly opened tab is displayed in the main DENOPTIM window replacing the home tab. Notably, any tab opened in the GUI remain still accessible even after other tabs have been created and have replaced the original tabs in the main window. The main window is like a deck of cards with only one card on the top: it <em>displays only one active tab at the time</em>. To navigate the deck of cards, for example to reopen the home tab after having opened another tab, one can use the menu called <code class="docutils literal notranslate"><span class="pre">Active</span> <span class="pre">Tabs</span></code>. This menu contains the list of the independent tabs that are currently open in the GUI (Figure 2). Tabs remain open until they are closed by the user using the dedicated <code class="docutils literal notranslate"><span class="pre">Close</span> <span class="pre">Tab</span></code> button present in all kinds of tab but the home tab (i.e., the home tab cannot be closed).</p>
+<p><img alt="figures/gui_active_tabs.png" src="_images/gui_active_tabs.png" /></p>
+<p><strong>Figure 2</strong>: The list of active tabs is available when clicking on the <code class="docutils literal notranslate"><span class="pre">Active</span> <span class="pre">Tab</span></code> menu (see red arrow). It allows to access any open tab. In this case the list contains a few active tabs. Note that tabs of the same kind are assigned an index to distinguish them from each other.</p>
+</section>
+<section id="open-files-in-the-gui">
+<h2>Open Files in the GUI<a class="headerlink" href="#open-files-in-the-gui" title="Permalink to this heading"></a></h2>
+<p>Besides the natural <code class="docutils literal notranslate"><span class="pre">File</span></code> -&gt; <code class="docutils literal notranslate"><span class="pre">Open</span></code> sequence, one can open files in the GUI directly from the command line using a command like this:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">denoptim</span> <span class="n">file_to_open</span>
+</pre></div>
+</div>
+<p>This command will open the <code class="docutils literal notranslate"><span class="pre">file_to_open</span></code> using the most appropriate kind of tab. For instance, a Vertex Inspector tab will be used if the <code class="docutils literal notranslate"><span class="pre">file_to_open</span></code> is a file containing vertexes. Conversely, if <code class="docutils literal notranslate"><span class="pre">file_to_open</span></code> is a folder containing an evolutionary experiment (see the Note box below) the tab used to open the file will be a GA Run Inspector (Genetic Algorithm Run Inspector).</p>
+<p>Note that multiple files can be opened with one command. The GUI will use an appropriate tab for each file, thus the list of active tabs can easily become long.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">denoptim</span> <span class="n">file_A</span> <span class="n">file_B</span> <span class="n">file_C</span> <span class="o">...</span>
+</pre></div>
+</div>
+<div style="background-color: #e7f3fe; border-left: 6px solid #2196F3; margin-bottom: 15px; padding: 4px 12px;">
+<b>NOTE:</b> The result of a complex experiments like a combinatorial exploration or an evolutionary design are collected under a single folder that is specific to that experiment (i.e., the parent folder of that experiment) and that usually contains many files and subfolders. DENOPTIM's GUI offers the possibility to select a parent folder and digest its content as a whole entity, thus producing an easy to visualise overview of the results collected in the folder. See Tutorials 2.0 and 3.0.</div>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="getting_started.html" class="btn btn-neutral float-left" title="Getting Started" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="tutorial_1.0.html" class="btn btn-neutral float-right" title="Tutorial 1.0: Molecular Fragments" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, Marco Foscato.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
